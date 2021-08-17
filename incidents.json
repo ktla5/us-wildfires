@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 14:15:42",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "840 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
       "state": "WASHINGTON",
-      "updated": "2021-08-17 13:55:41",
+      "updated": "2021-08-17 14:15:08",
       "lat": "48.778",
       "lng": "-119.034",
       "size": "22,577 Acres",
@@ -14,11 +27,50 @@
       "contained": "0"
     },
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 14:07:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "604,511 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 14:00:22",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "69,678 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "65"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 13:58:16",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "54,261 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "50"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "August 17, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-17 13:55:30",
+      "updated": "2021-08-17 13:56:18",
       "lat": "48.576",
       "lng": "-119.832",
       "size": "10,867 Acres",
@@ -38,19 +90,6 @@
       "url": "/incident/7791/",
       "id": "7791",
       "contained": "75"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 13:48:00",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "840 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "West Lolo Complex",
@@ -534,19 +573,6 @@
       "contained": "30"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 11:37:00",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "604,511 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -779,32 +805,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 10:24:13",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "54,261 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "50"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 10:22:56",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "69,678 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "65"
     },
     {
       "name": "Bulldog Mountain",
