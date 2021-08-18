@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 17:37:03",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 17:28:48",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "7,072 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "0"
+    },
+    {
       "name": "Mannix Park",
       "type": "Wildfire",
-      "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
       "state": "MONTANA",
-      "updated": "2021-08-18 17:20:27",
+      "updated": "2021-08-18 17:27:47",
       "lat": "46.69",
       "lng": "-112.767",
       "size": "50 Acres",
@@ -37,32 +63,6 @@
       "size": "0 Acres",
       "url": "/incident/7811/",
       "id": "7811",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 17:03:14",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 16:54:27",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "7,072 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
       "contained": "0"
     },
     {
