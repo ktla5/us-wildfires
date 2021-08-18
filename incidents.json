@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 15:33:08",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,843 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "49"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -389,19 +402,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "7"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 12:52:48",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,843 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "49"
     },
     {
       "name": "Caldor Fire",
