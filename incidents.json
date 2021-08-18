@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "French Fire",
+      "type": "Wildfire",
+      "summary": "The French Fire is located along the Main Salmon River at the mouth...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 15:47:31",
+      "lat": "45.424",
+      "lng": "-116.045",
+      "size": "1,447 Acres",
+      "url": "/incident/7800/",
+      "id": "7800",
+      "contained": "58"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:46:09",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 15:45:40",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,911 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "15"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:39:32",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "128,613 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -12,19 +64,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "49"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 15:15:16",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
     },
     {
       "name": "Green Ridge Fire",
@@ -63,19 +102,6 @@
       "size": "11,404 Acres",
       "url": "/incident/7654/",
       "id": "7654",
-      "contained": "10"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 15:02:55",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "128,613 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
       "contained": "10"
     },
     {
@@ -820,19 +846,6 @@
       "contained": "29"
     },
     {
-      "name": "French Fire",
-      "type": "Wildfire",
-      "summary": "The French Fire is located along the Main Salmon River at the mouth...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 09:08:59",
-      "lat": "45.424",
-      "lng": "-116.045",
-      "size": "1,447 Acres",
-      "url": "/incident/7800/",
-      "id": "7800",
-      "contained": "58"
-    },
-    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
@@ -1130,19 +1143,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "100"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 10:07:00",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,911 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "15"
     },
     {
       "name": "Knoll Fire",
