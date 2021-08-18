@@ -1,29 +1,159 @@
 {
   "markers": [
     {
-      "name": "Dry Cabin",
+      "name": "Walker Creek Fire",
       "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 12:01:59",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,633 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
+      "summary": "Paul Rosse’s Northern Rockies Type 2 Incident Management Team 6...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:28:09",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "22,577 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "3"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday, the fire progressed northeast to north, moving into the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:25:15",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "14,000 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
       "contained": "0"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-18 12:25:00",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "5,120 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 12:17:43",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 12:15:49",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "48,214 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageWhelp Fire: This...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-18 12:13:26",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "15 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 12:13:06",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,404 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "0"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 12:11:41",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "53,772 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:11:13",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "42,670 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 12:05:51",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,759 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "14"
     },
     {
       "name": "John Elk Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Elk Fire started...",
       "state": "MINNESOTA",
-      "updated": "2021-08-18 12:01:52",
+      "updated": "2021-08-18 12:05:31",
       "lat": "47.981",
       "lng": "-91.016",
       "size": "3 Acres",
       "url": "/incident/7808/",
       "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 12:04:44",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,633 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
       "contained": "0"
     },
     {
@@ -37,32 +167,6 @@
       "size": "31,868 Acres",
       "url": "/incident/7775/",
       "id": "7775",
-      "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 11:59:08",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "53,772 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 11:57:08",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,404 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
       "contained": "0"
     },
     {
@@ -170,19 +274,6 @@
       "contained": "27"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 11:35:46",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "42,670 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed under Unified Command by...",
@@ -287,19 +378,6 @@
       "contained": "75"
     },
     {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday, the fire progressed northeast to north, moving into the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 11:17:20",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "13,000 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "0"
-    },
-    {
       "name": "Bedrock Fire",
       "type": "Wildfire",
       "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
@@ -350,19 +428,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "49"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 10:54:31",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "22,577 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "3"
     },
     {
       "name": "American Fork Fire",
@@ -664,32 +729,6 @@
       "contained": "10"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-18 08:37:33",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "5,120 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire,...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-18 07:47:33",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "15 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
@@ -729,19 +768,6 @@
       "contained": "81"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 23:12:45",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "48,214 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
@@ -766,19 +792,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 22:25:27",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,759 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "14"
     },
     {
       "name": "West Lolo Complex",
@@ -857,19 +870,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 20:05:14",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
