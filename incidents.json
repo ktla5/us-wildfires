@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Cooler temperatures moved into the Tamarack Fire burn area over...",
+      "state": "NEVADA",
+      "updated": "2021-08-19 18:45:53",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,637 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 18:43:38",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "678,369 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-19 18:40:58",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "32 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
@@ -11,19 +50,6 @@
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-19 18:32:50",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "32 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
       "contained": "0"
     },
     {
@@ -38,19 +64,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "10"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "Cooler temperatures moved into the Tamarack Fire burn area over...",
-      "state": "NEVADA",
-      "updated": "2021-08-19 18:15:49",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,637 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
     },
     {
       "name": "Devil's Knob Complex",
@@ -246,19 +259,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 16:39:11",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "678,369 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "West Lolo Complex",
