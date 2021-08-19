@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "Cooler temperatures moved into the Tamarack Fire burn area over...",
-      "state": "NEVADA",
-      "updated": "2021-08-19 17:49:39",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,637 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
-    },
-    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
       "state": "IDAHO",
-      "updated": "2021-08-19 17:49:22",
+      "updated": "2021-08-19 18:16:06",
       "lat": "46.245",
       "lng": "-116.033",
       "size": "0 Acres",
@@ -27,11 +14,24 @@
       "contained": "0"
     },
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Cooler temperatures moved into the Tamarack Fire burn area over...",
+      "state": "NEVADA",
+      "updated": "2021-08-19 18:15:49",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,637 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 17:48:06",
+      "updated": "2021-08-19 18:11:09",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "135,714 Acres",
