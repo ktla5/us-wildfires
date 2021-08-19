@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
       "state": "IDAHO",
-      "updated": "2021-08-19 18:16:06",
+      "updated": "2021-08-19 18:32:51",
       "lat": "46.245",
       "lng": "-116.033",
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-19 18:32:50",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "32 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 18:25:36",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "135,714 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
     },
     {
       "name": "Tamarack Fire",
@@ -25,19 +51,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 18:11:09",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "135,714 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "Devil's Knob Complex",
@@ -844,19 +857,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-19 09:33:35",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "32 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
     },
     {
       "name": "South Yaak",
