@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Schneider Springs",
+      "name": "Walkers Fire",
       "type": "Wildfire",
-      "summary": "There will be a virtual community meeting on Thursday evening, August...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 12:37:11",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "56,422 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
+      "summary": "Overnight, aircraft estimated the Walkers Fire had reached 1,890...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 12:50:56",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "1,890 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "10"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 12:50:45",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "135,714 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
     },
     {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:36:59",
+      "updated": "2021-08-19 12:50:26",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "678,369 Acres",
@@ -27,11 +40,50 @@
       "contained": "35"
     },
     {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 12:49:34",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,344 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "63"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 12:48:53",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "There will be a virtual community meeting on Thursday evening, August...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 12:43:29",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "56,422 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "Increased fire activity and significant fire growth from the main...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:31:05",
+      "updated": "2021-08-19 12:42:20",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "7,659 Acres",
@@ -40,17 +92,43 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
+      "name": "West Lolo Complex",
       "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:30:26",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "135,714 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-19 12:41:17",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-19 12:40:02",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "50"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-19 12:37:35",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "4,285 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
     },
     {
       "name": "Bull Complex ",
@@ -167,19 +245,6 @@
       "size": "11,012 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "15"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 12:07:25",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
       "contained": "15"
     },
     {
@@ -376,19 +441,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "11"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-19 11:23:35",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "4,000 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
@@ -651,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-19 09:20:07",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -872,19 +911,6 @@
       "contained": "82"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 19:49:20",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "50"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
@@ -934,19 +960,6 @@
       "size": "0 Acres",
       "url": "/incident/7699/",
       "id": "7699",
-      "contained": "0"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "The Walkers Fire was discovered Sunday August 15, burning in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:25:58",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "1,969 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
       "contained": "0"
     },
     {
@@ -1052,19 +1065,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "60"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 20:02:29",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,344 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "63"
     },
     {
       "name": "Haystack Fire",
