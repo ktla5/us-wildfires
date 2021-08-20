@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-08-20 17:48:30",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,180 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "5"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 17:46:52",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -365,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 14:03:34",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
@@ -701,19 +714,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 11:16:16",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,180 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "5"
     },
     {
       "name": "Tango Fire",
