@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video | Closure Area...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-21 18:32:20",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "9,067 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-08-21 18:19:14",
+      "updated": "2021-08-21 18:23:03",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "82,444 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "36"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video | Closure Area...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-21 17:30:08",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "9,067 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Harris Mountain",
