@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 17:34:15",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,210 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "0"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 17:32:54",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,087 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 17:30:13",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "714,219 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "36"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video | Closure Area...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-21 17:30:08",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "9,067 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -38,19 +90,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "11"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 17:12:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "714,219 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -105,19 +144,6 @@
       "contained": "5"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations VideoThe Greenwood Fire was...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-21 16:29:44",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "9,067 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
@@ -129,32 +155,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "16"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 16:24:17",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,210 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "0"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 16:10:35",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,087 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
     },
     {
       "name": "Summit Trail",
