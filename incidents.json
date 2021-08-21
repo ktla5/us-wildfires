@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-20 22:50:39",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "8,304 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "41"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-20 22:50:36",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "8,215 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 22:50:27",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,210 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 22:46:47",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,443 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "37"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 22:46:45",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,087 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-20 22:43:32",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,235 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
@@ -38,19 +116,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "5"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-20 22:04:04",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,235 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Monument Fire",
@@ -220,19 +285,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "52"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 21:15:19",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "8,215 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "American Fork Fire",
@@ -534,19 +586,6 @@
       "contained": "15"
     },
     {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-20 16:33:21",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,132 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "0"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
@@ -649,32 +688,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "90"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-20 13:56:12",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,881 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "37"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-20 13:44:46",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "7,419 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "39"
     },
     {
       "name": "John Elk Fire",
@@ -909,19 +922,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-20 09:34:42",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,087 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
     },
     {
       "name": "Cold",
