@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 17:18:34",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,184 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "3"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 17:15:07",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,603 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "74"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 17:13:47",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "4,861 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "11"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 17:12:42",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "714,219 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "36"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 21, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 16:53:13",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "70,154 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "65"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 21, 2021:      |     Maps     |   ...",
@@ -27,19 +92,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 16:43:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "714,219 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
@@ -51,19 +103,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "5"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 16:33:27",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "70,154 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "65"
     },
     {
       "name": "Greenwood Fire",
@@ -521,32 +560,6 @@
       "contained": "77"
     },
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 11:36:10",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "4,861 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "11"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 11:31:30",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,184 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "3"
-    },
-    {
       "name": "Walkers Fire",
       "type": "Wildfire",
       "summary": "On Friday, the Walkers Fire reached the southern boundary of Sequoia...",
@@ -1000,19 +1013,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "100"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 13:37:34",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,603 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "74"
     },
     {
       "name": "Lukens",
