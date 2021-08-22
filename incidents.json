@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 23:42:54",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "714,219 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "36"
+    },
+    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -129,19 +142,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 21 at 8:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 22:24:03",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "714,219 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
     },
     {
       "name": "Summit Trail",
