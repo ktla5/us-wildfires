@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-22 17:48:29",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "8,862 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -38,19 +51,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "24"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-22 17:20:05",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "8,862 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek",
