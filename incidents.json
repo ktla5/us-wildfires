@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:27:26",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "25"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 12:26:38",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:25:54",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "66,912 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "30"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:25:14",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,348 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "85"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:25:00",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,672 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:03:17",
+      "updated": "2021-08-23 12:23:20",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "725,822 Acres",
@@ -14,17 +79,82 @@
       "contained": "40"
     },
     {
-      "name": "Antelope Fire",
+      "name": "Ford Corkscrew Fire",
       "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:20:49",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,787 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "44"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:00:51",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "66,912 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "30"
+      "updated": "2021-08-23 12:16:55",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "86,492 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:16:21",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "150,011 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:12:19",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "118,090 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "68"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 13,816 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:10:15",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "13,816 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "10"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "This Granite Pass Complex InciWeb Page is not being regularly...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 12:08:45",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,910 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "15"
     },
     {
       "name": "Lick Creek Fire",
@@ -40,19 +170,6 @@
       "contained": "97"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:58:50",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "150,011 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -66,19 +183,6 @@
       "contained": "35"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:56:41",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "118,090 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "68"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
@@ -90,19 +194,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 11:54:39",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
     },
     {
       "name": "McCash Fire",
@@ -339,19 +430,6 @@
       "contained": "54"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:04:24",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "86,492 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -508,19 +586,6 @@
       "contained": "15"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-23 09:35:29",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,672 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "",
@@ -586,32 +651,6 @@
       "contained": "29"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-23 07:47:55",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,348 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 13,816 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 23:30:22",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "13,816 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "10"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Washington National Guard (WNG) is now mobilizing several hand...",
@@ -664,19 +703,6 @@
       "contained": "34"
     },
     {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 21:43:43",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,787 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "44"
-    },
-    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
@@ -688,19 +714,6 @@
       "url": "/incident/7814/",
       "id": "7814",
       "contained": "5"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 21:17:43",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "25"
     },
     {
       "name": "Storm Theatre Complex",
@@ -792,19 +805,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "55"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "This Granite Pass Complex InciWeb Page is not being regularly...",
-      "state": "MONTANA",
-      "updated": "2021-08-22 11:13:44",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,910 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "15"
     },
     {
       "name": "Bedrock Fire",
