@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday evening, winds caused the Walkers Fire to spread north,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 13:51:23",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "3,547 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "38"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "Today’s objectives include reinforcement of the fire lines and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 13:51:21",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,461 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "41"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-23 13:27:22",
+      "updated": "2021-08-23 13:49:36",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "68,193 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 13:46:58",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 13:45:56",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "19,707 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-23 13:29:48",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "878 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
     },
     {
       "name": "Storm Theatre Complex",
@@ -105,19 +170,6 @@
       "contained": "85"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Effective August 22, 2021, at 11:59 p.m. Forest Order No. 21-04...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 13:03:41",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "18,143 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
-    },
-    {
       "name": "Whelp Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
@@ -181,32 +233,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 12:37:38",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "Today’s objectives include reinforcement of the fire lines and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 12:36:57",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,461 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "41"
     },
     {
       "name": "Mack Mountain",
@@ -495,19 +521,6 @@
       "contained": "98"
     },
     {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday evening, winds caused the Walkers Fire to spread north,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:15:37",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "3,547 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "38"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -792,19 +805,6 @@
       "url": "/incident/7734/",
       "id": "7734",
       "contained": "80"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 12:28:37",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "873 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Bedrock Fire",
