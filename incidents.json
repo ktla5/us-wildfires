@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 17:39:34",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "150,011 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-23 17:37:00",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,351 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
       "name": "Ford Corkscrew Fire",
       "type": "Wildfire",
-      "summary": "Special Announcement: As of Sunday, August 22, 2021, the incident...",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
       "state": "WASHINGTON",
-      "updated": "2021-08-23 17:23:20",
+      "updated": "2021-08-23 17:31:26",
       "lat": "47.897",
       "lng": "-117.81",
       "size": "15,787 Acres",
@@ -18,7 +44,7 @@
       "type": "Wildfire",
       "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-23 17:19:50",
+      "updated": "2021-08-23 17:28:35",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "725,822 Acres",
@@ -116,19 +142,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 16:38:38",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "150,011 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Schneider Springs",
@@ -493,19 +506,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "25"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-23 12:47:47",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,351 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Bull Complex ",
