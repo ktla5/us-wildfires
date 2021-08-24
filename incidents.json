@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-08-24 14:29:07",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "58"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-08-24 14:26:00",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "500 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "55"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-24 14:15:25",
+      "updated": "2021-08-24 14:21:45",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "87,782 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/7809/",
       "id": "7809",
       "contained": "80"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-08-24 14:10:53",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "500 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "55"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -805,19 +818,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 12:31:39",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "58"
     },
     {
       "name": "Granite Pass Complex",
