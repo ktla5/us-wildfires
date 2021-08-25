@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-24 23:50:46",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,471 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 23:49:18",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 24 at 8:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 23:36:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "733,475 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "43"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-24 23:35:19",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "9,754 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "70"
+    },
+    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
       "state": "OREGON",
-      "updated": "2021-08-24 23:27:42",
+      "updated": "2021-08-24 23:30:32",
       "lat": "46.262",
       "lng": "-117.416",
       "size": "80,421 Acres",
@@ -90,19 +142,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 24 at 8:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 22:35:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "733,475 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "43"
     },
     {
       "name": "Bulldog Mountain",
@@ -417,19 +456,6 @@
       "contained": "89"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:23:59",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "August 24, 2021:      |     Maps     |   ...",
@@ -677,19 +703,6 @@
       "contained": "80"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-24 13:24:26",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,422 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
-    },
-    {
       "name": "Petit Fire",
       "type": "Wildfire",
       "summary": " The Petit Fire is located 1 mile north of Crescent Lake within the...",
@@ -753,19 +766,6 @@
       "url": "/incident/7815/",
       "id": "7815",
       "contained": "0"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-24 11:06:44",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "9,754 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "60"
     },
     {
       "name": "Nason Fire",
