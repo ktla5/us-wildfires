@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 17:49:36",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -25,19 +38,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "45"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 17:32:43",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Hay Creek",
