@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-25 15:49:49",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "25,136 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 15:37:10",
+      "updated": "2021-08-25 15:43:03",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "69,700 Acres",
@@ -194,19 +207,6 @@
       "url": "/incident/7803/",
       "id": "7803",
       "contained": "59"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-25 13:34:59",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "25,136 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
     },
     {
       "name": "Caldor Fire",
