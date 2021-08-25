@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-24 21:03:00",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "16,030 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 21:01:53",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "733,475 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "43"
+    },
+    {
+      "name": "John Ek Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-24 20:59:50",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "1,563 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 20:55:20",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "10,826 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "8"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 20:52:38",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "87,803 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 19,502 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 20:51:43",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "19,502 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 24, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-24 20:09:23",
+      "updated": "2021-08-24 20:49:52",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "55,187 Acres",
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "80"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-24 20:36:43",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,445 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "89"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 20:23:59",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 20:20:15",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,423 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "10"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 20:13:39",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "122,980 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "11"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -27,19 +157,6 @@
       "contained": "70"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:07:41",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "122,980 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "11"
-    },
-    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -51,19 +168,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "33"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:04:57",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "731,310 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "41"
     },
     {
       "name": "Muckamuck",
@@ -144,19 +248,6 @@
       "contained": "100"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 18:59:33",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "87,782 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Whelp Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
@@ -168,19 +259,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 18:31:47",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "10,826 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "8"
     },
     {
       "name": "Storm Theatre Complex",
@@ -300,19 +378,6 @@
       "contained": "42"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 17:38:17",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
@@ -417,19 +482,6 @@
       "contained": "3"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-24 15:24:20",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,434 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -467,19 +519,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "John Ek Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-24 15:00:56",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "1,563 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
     },
     {
       "name": "Pine Grove",
@@ -586,19 +625,6 @@
       "contained": "35"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-24 13:21:33",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "16,030 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -688,32 +714,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "0"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 16,002 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 11:34:21",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "16,002 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 11:33:25",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,423 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "10"
     },
     {
       "name": "Fox Complex",
