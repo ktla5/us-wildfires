@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Antelope Fire",
+      "name": "Stateline Complex",
       "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 18:36:38",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "69,700 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "40"
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-25 18:44:13",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,757 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "45"
     },
     {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 18:34:40",
+      "updated": "2021-08-25 18:44:10",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "152,125 Acres",
@@ -27,17 +27,17 @@
       "contained": "20"
     },
     {
-      "name": "Stateline Complex",
+      "name": "Antelope Fire",
       "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-25 18:30:09",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,757 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "45"
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 18:38:14",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "69,700 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "40"
     },
     {
       "name": "Dixie Fire (CA)",
