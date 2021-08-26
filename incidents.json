@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 22:36:47",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "40"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
@@ -584,19 +597,6 @@
       "url": "/incident/7814/",
       "id": "7814",
       "contained": "15"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 13:40:39",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "36"
     },
     {
       "name": "Rice Bay",
