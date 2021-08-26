@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 25 at 8:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 22:47:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "742,724 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": " Current Situation: The South Fire started at approximately 1:36...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 22:44:51",
+      "lat": "34.176",
+      "lng": "-117.448",
+      "size": "500 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "0"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 22:41:36",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "18"
+    },
+    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -79,19 +118,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 25 at 8:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 22:06:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "742,724 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
-    },
-    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
@@ -129,19 +155,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": " Current Situation: The South Fire started at approximately 1:36...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:49:22",
-      "lat": "34.176",
-      "lng": "-117.448",
-      "size": "500 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "0"
     },
     {
       "name": "Chickadee Creek",
@@ -584,19 +597,6 @@
       "url": "/incident/7816/",
       "id": "7816",
       "contained": "0"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 13:50:15",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "15"
     },
     {
       "name": "Rice Bay",
