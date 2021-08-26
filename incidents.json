@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 21:50:01",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "64"
+    },
+    {
       "name": "South Fire",
       "type": "Wildfire",
-      "summary": " Current Situation: The South Fire started at...",
+      "summary": " Current Situation: The South Fire started at approximately 1:36...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:37:57",
+      "updated": "2021-08-25 21:49:22",
       "lat": "34.176",
       "lng": "-117.448",
       "size": "500 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:36:20",
+      "updated": "2021-08-25 21:41:13",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "742,724 Acres",
@@ -38,19 +51,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "12"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-25 21:30:28",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "64"
     },
     {
       "name": "Monument Fire",
