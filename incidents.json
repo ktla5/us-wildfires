@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 17:50:23",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "314 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "0"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-26 17:36:58",
+      "updated": "2021-08-26 17:45:46",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "21,876 Acres",
@@ -753,19 +766,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "32"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 10:01:18",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "314 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "0"
     },
     {
       "name": "County Line",
