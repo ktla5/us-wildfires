@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-26 18:34:37",
+      "updated": "2021-08-26 18:49:40",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "157,287 Acres",
@@ -18,13 +18,52 @@
       "type": "Wildfire",
       "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
       "state": "OREGON",
-      "updated": "2021-08-26 18:33:58",
+      "updated": "2021-08-26 18:49:34",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "25,741 Acres",
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "8"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-26 18:48:47",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 18:48:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "747,091 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-26 18:39:12",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "9,754 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "80"
     },
     {
       "name": "American Fork Fire",
@@ -103,19 +142,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 17:23:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "747,091 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
     },
     {
       "name": "Greenwood Fire",
@@ -573,19 +599,6 @@
       "contained": "15"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-26 11:44:41",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -690,19 +703,6 @@
       "contained": "73"
     },
     {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-26 10:45:42",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "9,754 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "80"
-    },
-    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -714,19 +714,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 10:15:07",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,831 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
     },
     {
       "name": "Scarface Fire",
