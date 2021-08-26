@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 06:15:31",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "70,897 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "41"
+    },
+    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
@@ -129,19 +142,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "40"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 22:19:52",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "70,897 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "41"
     },
     {
       "name": "Jack Fire",
