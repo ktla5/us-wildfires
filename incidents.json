@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 18:34:37",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "157,287 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-26 18:33:58",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "25,741 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "8"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -25,19 +51,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 18:05:19",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "157,287 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Christensen Fire ",
@@ -636,19 +649,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "0"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 11:19:43",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "25,741 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "8"
     },
     {
       "name": "French Fire (CA)",
