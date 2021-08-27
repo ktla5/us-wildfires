@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "McCash Fire",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 22:23:35",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "25,748 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-26 22:34:03",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,831 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2021-08-26 22:32:13",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "27,142 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
     },
     {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
       "state": "MONTANA",
-      "updated": "2021-08-26 22:23:11",
+      "updated": "2021-08-26 22:26:42",
       "lat": "46.553",
       "lng": "-111.356",
       "size": "55,411 Acres",
@@ -27,17 +40,17 @@
       "contained": "61"
     },
     {
-      "name": "Jack Fire",
+      "name": "McCash Fire",
       "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 22:17:31",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,831 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 22:24:19",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "25,748 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2021-08-26 20:01:54",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "25,741 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "8"
     },
     {
       "name": "Antelope Fire",
