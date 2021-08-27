@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-27 08:48:50",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,831 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 08:48:18",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "747,091 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 08:48:02",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "75,055 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 08:44:19",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "68"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 08:43:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 08:41:43",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,039 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
+      "name": "Second Creek ",
+      "type": "Wildfire",
+      "summary": " The Second Creek Fire is located northwest of Angleworm Lake within...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 08:39:37",
+      "lat": "48.097",
+      "lng": "-91.921",
+      "size": "1 Acres",
+      "url": "/incident/7821/",
+      "id": "7821",
+      "contained": "100"
+    },
+    {
+      "name": "Steep Fire ",
+      "type": "Wildfire",
+      "summary": " The Steep Fire was detected on August 20 and is located within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 08:39:06",
+      "lat": "48.303",
+      "lng": "-92.235",
+      "size": "3 Acres",
+      "url": "/incident/7819/",
+      "id": "7819",
+      "contained": "100"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-27 08:33:45",
+      "updated": "2021-08-27 08:38:27",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "39,305 Acres",
@@ -14,11 +118,24 @@
       "contained": "58"
     },
     {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 08:38:11",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,120 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "20"
+    },
+    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-27 08:33:24",
+      "updated": "2021-08-27 08:37:48",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "14,112 Acres",
@@ -31,25 +148,12 @@
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
       "state": "IDAHO",
-      "updated": "2021-08-27 08:32:07",
+      "updated": "2021-08-27 08:34:41",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "20,856 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "68"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-27 08:28:50",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
       "contained": "68"
     },
     {
@@ -79,32 +183,6 @@
       "contained": "42"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 08:23:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "747,091 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-27 08:23:31",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,120 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "20"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
@@ -116,32 +194,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 06:52:24",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "158,557 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 23:40:23",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "73,403 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "Walker Creek Fire",
@@ -259,19 +311,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "48"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 22:34:03",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,831 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
     },
     {
       "name": "Rough Patch",
@@ -768,19 +807,6 @@
       "contained": "60"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-26 12:04:08",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "989 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
-    },
-    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
@@ -947,32 +973,6 @@
       "size": "0 Acres",
       "url": "/incident/7688/",
       "id": "7688",
-      "contained": "0"
-    },
-    {
-      "name": "Second Creek ",
-      "type": "Wildfire",
-      "summary": " The Second Creek Fire is located northwest of Angleworm Lake within...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 14:02:18",
-      "lat": "48.097",
-      "lng": "-91.921",
-      "size": "1 Acres",
-      "url": "/incident/7821/",
-      "id": "7821",
-      "contained": "0"
-    },
-    {
-      "name": "Steep Fire ",
-      "type": "Wildfire",
-      "summary": " The Steep Fire was detected on August 20 and is located within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 13:55:08",
-      "lat": "48.303",
-      "lng": "-92.235",
-      "size": "3 Acres",
-      "url": "/incident/7819/",
-      "id": "7819",
       "contained": "0"
     },
     {
