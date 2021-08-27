@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 22,916 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 18:46:55",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "22,916 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
@@ -337,19 +350,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "12"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 22,916 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 13:31:30",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "22,916 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "Stateline Complex",
