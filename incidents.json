@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "Thursday evening, the Walkers Fire reached Soda Butte in Sequoia...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 10:51:09",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "5,640 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "40"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 10:50:29",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "68"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-27 10:49:49",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "7,774 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-27 10:24:45",
+      "updated": "2021-08-27 10:49:23",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "75,055 Acres",
@@ -14,11 +53,37 @@
       "contained": "8"
     },
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 10:47:54",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 10:45:37",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,039 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:24:32",
+      "updated": "2021-08-27 10:45:16",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "750,672 Acres",
@@ -27,30 +92,43 @@
       "contained": "46"
     },
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 10:38:47",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,251 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "42"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 10:34:52",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,768 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "74"
+    },
+    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
       "state": "IDAHO",
-      "updated": "2021-08-27 10:24:19",
+      "updated": "2021-08-27 10:26:13",
       "lat": "48.341",
       "lng": "-116.22",
       "size": "6,600 Acres",
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "15"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-27 10:23:10",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,039 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
     },
     {
       "name": "Muckamuck",
@@ -79,19 +157,6 @@
       "contained": "35"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:13:07",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,251 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "42"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
@@ -103,19 +168,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "25"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-27 10:09:45",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "68"
     },
     {
       "name": "Petit Fire",
@@ -168,19 +220,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "12"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "Thursday evening, the Walkers Fire reached Soda Butte in Sequoia...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:03:22",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "5,640 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "40"
     },
     {
       "name": "South Yaak",
@@ -298,19 +337,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 09:33:40",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Scarface Fire",
@@ -584,32 +610,6 @@
       "url": "/incident/7814/",
       "id": "7814",
       "contained": "25"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 21:33:01",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,768 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "74"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-26 21:30:49",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "7,774 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Bulldog Mountain",
