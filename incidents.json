@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "Cedar Creek",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "August 26, 2021:      |     Maps     |   ...",
+      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 12:00:32",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 11:59:28",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,251 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "42"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 11:58:27",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "25,748 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 27, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-27 11:37:13",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "55,187 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "80"
+      "updated": "2021-08-27 11:48:32",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
     },
     {
       "name": "Dry Cabin",
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
       "state": "MONTANA",
-      "updated": "2021-08-27 11:37:00",
+      "updated": "2021-08-27 11:43:02",
       "lat": "47.278",
       "lng": "-112.956",
       "size": "3,460 Acres",
@@ -27,11 +66,37 @@
       "contained": "0"
     },
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 11:39:40",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,581 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "48"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 27, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 11:39:24",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "55,187 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "80"
+    },
+    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
       "state": "WASHINGTON",
-      "updated": "2021-08-27 11:36:26",
+      "updated": "2021-08-27 11:37:18",
       "lat": "48.69",
       "lng": "-118.359",
       "size": "1,233 Acres",
@@ -51,19 +116,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "45"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 11:32:28",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
     },
     {
       "name": "Muckamuck",
@@ -248,19 +300,6 @@
       "contained": "60"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:38:47",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,251 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "42"
-    },
-    {
       "name": "Ford Corkscrew Fire",
       "type": "Wildfire",
       "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
@@ -443,19 +482,6 @@
       "contained": "24"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 26, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 09:47:43",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
-    },
-    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The fire is approximately 2½ miles southeast of the Middle Fork...",
@@ -599,19 +625,6 @@
       "contained": "10"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 22:44:55",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,581 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "48"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -623,19 +636,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 22:24:19",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "25,748 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
