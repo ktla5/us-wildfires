@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 14:50:13",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 14:48:51",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "900 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 14:38:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 14:38:11",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,305 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 14:34:49",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "11,116 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "24"
+    },
+    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Fire growth continues to be minimal, averaging about 10 acres a day....",
@@ -51,32 +116,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "25"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 14:00:22",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "900 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 13:48:45",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
     },
     {
       "name": "American Fork Fire",
@@ -207,19 +246,6 @@
       "url": "/incident/7722/",
       "id": "7722",
       "contained": "60"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 13:02:36",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "Bull Complex ",
@@ -625,19 +651,6 @@
       "contained": "32"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-27 09:54:35",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,305 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -935,19 +948,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "60"
-    },
-    {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 12:00:28",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "11,055 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "21"
     },
     {
       "name": "Pincer Creek Fire",
