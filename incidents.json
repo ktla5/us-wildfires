@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 09:32:27",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,326 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "46"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-28 09:31:55",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,866 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 09:30:16",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "96,525 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-28 09:29:38",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,317 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-28 09:28:24",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,129 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "20"
+    },
+    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-28 09:18:17",
+      "updated": "2021-08-28 09:27:10",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "14,117 Acres",
@@ -18,7 +83,7 @@
       "type": "Wildfire",
       "summary": " Overall Objective:  The Rough Patch Complex and Jack Fire are...",
       "state": "OREGON",
-      "updated": "2021-08-28 09:17:21",
+      "updated": "2021-08-28 09:24:45",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "29,745 Acres",
@@ -64,19 +129,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-28 09:05:25",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,853 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
     },
     {
       "name": "Monument Fire",
@@ -207,32 +259,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "80"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-28 07:01:07",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,317 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-28 06:59:43",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,129 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "20"
     },
     {
       "name": "Summit Trail",
@@ -391,19 +417,6 @@
       "contained": "68"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:02:57",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "93,247 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -467,19 +480,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 19:51:41",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,326 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "46"
     },
     {
       "name": "Dixie Post-Fire BAER",
