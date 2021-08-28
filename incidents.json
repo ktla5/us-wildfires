@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 21:52:33",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "23,594 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 27 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 21:52:02",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 21:51:30",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "27,373 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 21:49:59",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,176 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "45"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
@@ -12,19 +64,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "22"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:39:13",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "23,594 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "TwentyFive Mile",
@@ -64,19 +103,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "77"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:07:45",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
     },
     {
       "name": "Cedar Creek",
@@ -428,32 +454,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 15:56:07",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "27,373 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 15:52:42",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "45"
     },
     {
       "name": "Storm Theatre Complex",
