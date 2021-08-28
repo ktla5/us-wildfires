@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 27 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 22:11:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "752,920 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "47"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-27 22:06:25",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "38"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 22:03:28",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 21:58:58",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "93"
+    },
+    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
@@ -12,19 +64,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "19"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 27 at 7:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:52:02",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
     },
     {
       "name": "McCash Fire",
@@ -51,19 +90,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "45"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:39:39",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "TwentyFive Mile",
@@ -352,19 +378,6 @@
       "contained": "24"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-27 19:10:14",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "35"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -558,19 +571,6 @@
       "url": "/incident/7722/",
       "id": "7722",
       "contained": "60"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 12:52:29",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,653 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "93"
     },
     {
       "name": "Summit Trail",
