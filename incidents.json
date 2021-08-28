@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 23:51:30",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "23,594 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:47:07",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "75,055 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:40:26",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,666 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "48"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 23:38:40",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -12,19 +64,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "15"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 23:25:21",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "23,594 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "Devil's Knob Complex",
@@ -142,19 +181,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "38"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 22:03:28",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "McFarland Fire",
@@ -324,19 +350,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "11"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 20:39:25",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "75,055 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "Burnt Peak Fire",
@@ -623,19 +636,6 @@
       "url": "/incident/7722/",
       "id": "7722",
       "contained": "60"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 12:44:54",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,581 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "48"
     },
     {
       "name": "Knoll Fire",
