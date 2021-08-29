@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 21:51:21",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "161,133 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "23"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "Updated August 28 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-28 21:39:44",
+      "updated": "2021-08-28 21:50:31",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "759,218 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "48"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-28 21:49:25",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "30,136 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
     },
     {
       "name": "Greenwood Fire",
@@ -25,32 +51,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "14"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-28 21:34:00",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "30,136 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 21:33:30",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "161,133 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "McFarland Fire",
