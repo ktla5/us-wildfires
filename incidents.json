@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 07:53:23",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "163,155 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "23"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-29 07:51:33",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "31,224 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-29 07:31:05",
+      "updated": "2021-08-29 07:34:51",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "39,340 Acres",
@@ -38,19 +64,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 06:50:38",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "161,133 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "23"
     },
     {
       "name": "Salt Post-Fire BAER",
@@ -115,19 +128,6 @@
       "size": "5,199 Acres",
       "url": "/incident/7788/",
       "id": "7788",
-      "contained": "25"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-28 23:14:25",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "31,224 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
       "contained": "25"
     },
     {
