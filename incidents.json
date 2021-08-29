@@ -1,11 +1,128 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:09:34",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "152,545 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "19"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:03:47",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "161,133 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "Roadside Fire",
+      "type": "Wildfire",
+      "summary": "New fire start as of 8/28/2021 at 11:25 am. Evacuation orders:All...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:02:24",
+      "lat": "34.251",
+      "lng": "-117.455",
+      "size": "50 Acres",
+      "url": "/incident/7823/",
+      "id": "7823",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-28 19:30:39",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,317 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-28 19:28:56",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,117 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "24"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-28 19:27:39",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,129 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "20"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 19:22:15",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,408 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "50"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 28 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 19:15:32",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "756,768 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 19:13:26",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "96,525 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
       "state": "MINNESOTA",
-      "updated": "2021-08-28 18:50:00",
+      "updated": "2021-08-28 19:00:28",
       "lat": "47.553",
       "lng": "-91.648",
       "size": "25,991 Acres",
@@ -25,19 +142,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "48"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 18:48:37",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,408 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "50"
     },
     {
       "name": "Mack Mountain",
@@ -90,19 +194,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 28 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 18:13:09",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "756,768 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -209,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Roadside Fire",
-      "type": "Wildfire",
-      "summary": "New fire start as of 8/28/2021 at 11:25 am. Evacuation orders:All...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 17:00:06",
-      "lat": "34.251",
-      "lng": "-117.455",
-      "size": "50 Acres",
-      "url": "/incident/7823/",
-      "id": "7823",
-      "contained": "0"
-    },
-    {
       "name": "Petit Fire",
       "type": "Wildfire",
       "summary": "The Petit Fire was detected on August 23 and is located 1 mile north...",
@@ -313,19 +391,6 @@
       "contained": "100"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 12:40:51",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -363,19 +428,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "78"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 12:22:59",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "96,525 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -521,19 +573,6 @@
       "contained": "20"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 11:06:39",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "149,684 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "19"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -662,45 +701,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "32"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-28 09:43:56",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,317 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-28 09:42:44",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,129 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "20"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-28 09:41:06",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,117 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "24"
     },
     {
       "name": "Fox Complex",
