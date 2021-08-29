@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 22:38:33",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "30"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 22:35:11",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "819 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "30"
+    },
+    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
       "state": "MONTANA",
-      "updated": "2021-08-28 22:21:07",
+      "updated": "2021-08-28 22:28:06",
       "lat": "48.551",
       "lng": "-115.93",
       "size": "12,371 Acres",
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "68"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 22:28:05",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "96,525 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-28 22:27:45",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "32"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 22:27:30",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,176 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "47"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-28 22:23:20",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,546 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
     },
     {
       "name": "Walker Creek Fire",
@@ -51,19 +129,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "25"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 22:11:08",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "96,525 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Crater Ridge",
@@ -154,19 +219,6 @@
       "size": "50 Acres",
       "url": "/incident/7823/",
       "id": "7823",
-      "contained": "30"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 21:16:28",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "819 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
       "contained": "30"
     },
     {
@@ -352,19 +404,6 @@
       "contained": "48"
     },
     {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-28 18:47:59",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "25"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -376,19 +415,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "75"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-28 18:45:37",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,176 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "45"
     },
     {
       "name": "Schneider Springs",
@@ -493,19 +519,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "100"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-28 12:38:56",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,546 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -688,19 +701,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-28 10:04:32",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "32"
     },
     {
       "name": "Fox Complex",
