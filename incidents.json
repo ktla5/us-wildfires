@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Railroad Fire",
+      "type": "Wildfire",
+      "summary": " The Railroad Fire started at August 29, 2021 at approximately 12:50...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 15:50:40",
+      "lat": "34.34",
+      "lng": "-117.466",
+      "size": "10 Acres",
+      "url": "/incident/7824/",
+      "id": "7824",
+      "contained": "0"
+    },
+    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "",
@@ -25,19 +38,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "48"
-    },
-    {
-      "name": "Railroad Fire",
-      "type": "Wildfire",
-      "summary": " The Railroad Fire started at August 29, 2021 at approximately 12:50...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 15:22:31",
-      "lat": "34.34",
-      "lng": "-117.466",
-      "size": "10 Acres",
-      "url": "/incident/7824/",
-      "id": "7824",
-      "contained": "0"
     },
     {
       "name": "McCash Fire",
