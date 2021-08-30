@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 17:49:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "771,183 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Evacuation Map | Air Quality | The Chaparral...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 17:48:29",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "13"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 17:47:43",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "164,746 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
       "state": "WASHINGTON",
-      "updated": "2021-08-30 17:36:10",
+      "updated": "2021-08-30 17:42:32",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "11,257 Acres",
@@ -51,19 +90,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "60"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 17:32:58",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "164,746 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "River Complex 2021",
@@ -116,19 +142,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "80"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Evacuation Map | Air Quality | The Chaparral...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 17:08:44",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "13"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "95"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 15:51:56",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "771,183 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "Antelope Fire",
