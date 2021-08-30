@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 25,264 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 14:30:03",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,264 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "26"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-30 14:14:18",
+      "updated": "2021-08-30 14:23:38",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "765,635 Acres",
@@ -415,19 +428,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "14"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 25,264 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 11:43:18",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,264 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "26"
     },
     {
       "name": "TwentyFive Mile",
