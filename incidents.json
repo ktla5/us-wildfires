@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:50:47",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "777,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-08-31 12:36:52",
+      "updated": "2021-08-31 12:50:08",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "6,232 Acres",
@@ -14,17 +27,69 @@
       "contained": "52"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Lick Creek Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:49:27",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "100"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:45:36",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,798 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "39"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-31 12:36:49",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "777,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
+      "updated": "2021-08-31 12:43:18",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "170,945 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:41:10",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "50"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-31 12:40:30",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,000 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
     },
     {
       "name": "Chickadee Creek",
@@ -64,19 +129,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "0"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 12:27:13",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "50"
     },
     {
       "name": "Schneider Springs",
@@ -495,19 +547,6 @@
       "contained": "73"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-31 09:57:36",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,000 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -571,19 +610,6 @@
       "url": "/incident/7826/",
       "id": "7826",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 09:20:13",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "170,945 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Sentinel",
@@ -688,19 +714,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "50"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-30 22:51:51",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,798 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "39"
     },
     {
       "name": "South Fire",
@@ -909,19 +922,6 @@
       "url": "/incident/7803/",
       "id": "7803",
       "contained": "95"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-30 12:08:22",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "100"
     },
     {
       "name": "Black Butte Fire",
@@ -1702,19 +1702,6 @@
       "url": "/incident/7765/",
       "id": "7765",
       "contained": "100"
-    },
-    {
-      "name": "Molybdenite",
-      "type": "Wildfire",
-      "summary": "Six hand crews and eight engines continued to work on mop up...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 18:48:20",
-      "lat": "48.674",
-      "lng": "-117.272",
-      "size": "55 Acres",
-      "url": "/incident/7755/",
-      "id": "7755",
-      "contained": "70"
     },
     {
       "name": "Deer Fire",
