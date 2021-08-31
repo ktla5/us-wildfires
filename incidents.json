@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 06:48:03",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "166,967 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
       "name": "John Ek Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
@@ -103,19 +116,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "70"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 23:25:44",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "166,967 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Cedar Creek",
