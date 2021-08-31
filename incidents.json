@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 00:01:23",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "50"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 23:59:51",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "36,461 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -12,19 +38,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "30"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Map | Evacuation Map | Air Quality...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 23:52:14",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "50"
     },
     {
       "name": "Walker Creek Fire",
@@ -714,19 +727,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 12:33:44",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "36,398 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Ford Corkscrew Fire",
