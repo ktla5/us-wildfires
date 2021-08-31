@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-31 08:06:46",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,000 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-31 07:42:25",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "609 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "55"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
@@ -12,19 +38,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "60"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-31 07:30:01",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "609 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "55"
     },
     {
       "name": "Mud Lick Fire",
@@ -493,19 +506,6 @@
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-30 19:49:27",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,000 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "TwentyFive Mile",
