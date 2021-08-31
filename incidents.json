@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-31 12:36:52",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:36:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "777,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 12:31:57",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,493 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "30"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 12:29:11",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,377 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "45"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " Incident started 8/29/21 2000 hrs at Friday Ridge near Willow...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:27:31",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "1,000 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "0"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:27:13",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "50"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 12:22:43",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "80,841 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:20:11",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,132 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:17:37",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "10,716 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:14:43",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "38,906 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -40,32 +170,6 @@
       "contained": "100"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 12:03:25",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "777,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 11:57:40",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "50"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
@@ -90,19 +194,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 11:52:34",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "38,906 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Boundary Fire",
@@ -170,19 +261,6 @@
       "contained": "100"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-31 11:25:48",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "80,841 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -220,19 +298,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "60"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-31 11:17:27",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,716 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
     },
     {
       "name": "Walkers Fire",
@@ -586,32 +651,6 @@
       "contained": "100"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 08:50:54",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,132 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-31 08:43:43",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -623,32 +662,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-30 23:52:20",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,493 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "30"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-30 23:50:46",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,377 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "45"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -909,19 +922,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "100"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": " Incident started 8/29/21 2000 hrs at Friday Ridge near Willow...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 11:49:52",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "250 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "0"
     },
     {
       "name": "Black Butte Fire",
