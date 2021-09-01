@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles |     Mapa Diario      |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 14:44:24",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,165 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -12,19 +25,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "52"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 14:23:23",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,165 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Caldor Fire",
