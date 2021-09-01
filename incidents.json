@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-01 13:27:23",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,028 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 13:20:34",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "844,081 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "52"
+    },
+    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
       "state": "WASHINGTON",
-      "updated": "2021-09-01 12:51:32",
+      "updated": "2021-09-01 13:18:14",
       "lat": "47.973",
       "lng": "-120.304",
-      "size": "11,257 Acres",
+      "size": "13,085 Acres",
       "url": "/incident/7804/",
       "id": "7804",
-      "contained": "32"
+      "contained": "37"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Fire Update | Daily Fire Map | Air Quality Map The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 13:07:00",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "80"
     },
     {
       "name": "Pincer Creek Fire",
@@ -64,19 +103,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "35"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Fire Update | Daily Fire Map | Air Quality Map The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 12:31:11",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "80"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -168,19 +194,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "4"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 12:12:04",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "844,081 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "52"
     },
     {
       "name": "Woods Creek Fire",
@@ -363,19 +376,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "49"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-01 11:15:52",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,028 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Upper Lime Creek",
