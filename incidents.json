@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles |     Mapa Diario      |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 16:30:39",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,165 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Daily IR Map    |    Daily Public info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-01 16:19:09",
+      "updated": "2021-09-01 16:27:01",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "174,706 Acres",
@@ -14,30 +27,30 @@
       "contained": "29"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-01 16:17:41",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,825 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 25,782 acres of grass, brush and timber...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-01 16:15:21",
+      "updated": "2021-09-01 16:25:41",
       "lat": "35.687",
       "lng": "-118.55",
       "size": "25,782 Acres",
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "43"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 16:24:05",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,825 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
     },
     {
       "name": "Middle Fork Complex",
@@ -90,19 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "70"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles |     Mapa Diario      |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 15:36:28",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,165 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Granite Pass Complex",
