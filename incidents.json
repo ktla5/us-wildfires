@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Character Complex",
+      "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-09-01 13:51:05",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,903 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "76"
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 14:15:14",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "204,390 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "20"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-01 14:14:11",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
     },
     {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-01 13:46:58",
+      "updated": "2021-09-01 14:11:38",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "106,165 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "23"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-09-01 14:05:43",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,903 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "76"
     },
     {
       "name": "TwentyFive Mile",
@@ -625,19 +651,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 10:19:48",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "204,390 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "20"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "...",
@@ -675,19 +688,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-01 09:59:28",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
     },
     {
       "name": "Oak Grove Fire",
