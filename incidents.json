@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
       "state": "MONTANA",
-      "updated": "2021-09-01 17:38:40",
+      "updated": "2021-09-01 17:46:09",
       "lat": "46.553",
       "lng": "-111.356",
       "size": "55,411 Acres",
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "90"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 17:45:13",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
     },
     {
       "name": "River Complex 2021",
@@ -428,19 +441,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "4"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-01 11:51:32",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
     },
     {
       "name": "Summit Trail",
