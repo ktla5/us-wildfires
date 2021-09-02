@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Daily IR Map    |    Daily Public info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 00:20:34",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "174,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 00:19:12",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "83,657 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 00:12:00",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "44,977 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -638,19 +677,6 @@
       "contained": "95"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily IR Map    |    Daily Public info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 16:27:01",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "174,706 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "This Granite Pass Complex InciWeb Page is not being regularly...",
@@ -714,19 +740,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "90"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-01 13:36:06",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "83,657 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "Haystack Fire",
@@ -805,19 +818,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 11:46:45",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "44,977 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Walkers Fire",
