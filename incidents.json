@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " CURRENT SITUATION: The Knob Fire is estimated at 2,066 acres and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 00:31:39",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,066 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "34"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "  Daily IR Map    |    Daily Public info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-02 00:20:34",
+      "updated": "2021-09-02 00:21:55",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "174,759 Acres",
@@ -557,19 +570,6 @@
       "size": "0 Acres",
       "url": "/incident/7700/",
       "id": "7700",
-      "contained": "0"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": " Incident started 8/29/21 2000 hrs at Friday Ridge near Willow...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 19:16:49",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "1,961 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
       "contained": "0"
     },
     {
