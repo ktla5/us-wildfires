@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 14:16:18",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,119 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-09-02 14:16:15",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,903 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "76"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 13:59:22",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,179 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "52"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -25,32 +64,6 @@
       "url": "/incident/7831/",
       "id": "7831",
       "contained": "0"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 13:48:30",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,179 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "52"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 13:46:53",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,119 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
     },
     {
       "name": "Schneider Springs",
@@ -883,19 +896,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "57"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-09-01 14:17:29",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,903 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "76"
     },
     {
       "name": "Goat Fire",
