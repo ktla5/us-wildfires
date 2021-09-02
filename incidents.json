@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-02 18:21:44",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "0"
+    },
+    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
       "state": "WASHINGTON",
-      "updated": "2021-09-02 17:50:12",
+      "updated": "2021-09-02 18:20:16",
       "lat": "48.778",
       "lng": "-119.034",
       "size": "23,377 Acres",
@@ -14,11 +27,24 @@
       "contained": "55"
     },
     {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 18:19:45",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,179 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "52"
+    },
+    {
       "name": "Greenwood ",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
       "state": "MINNESOTA",
-      "updated": "2021-09-02 17:49:37",
+      "updated": "2021-09-02 18:09:21",
       "lat": "47.553",
       "lng": "-91.648",
       "size": "26,028 Acres",
@@ -27,11 +53,24 @@
       "contained": "37"
     },
     {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 18:03:39",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,815 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "40"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-02 17:48:17",
+      "updated": "2021-09-02 17:52:33",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "176,579 Acres",
@@ -103,19 +142,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "37"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 15:28:15",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,179 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "52"
     },
     {
       "name": "Caldor Fire",
@@ -246,19 +272,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "72"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 12:35:11",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,815 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "40"
     },
     {
       "name": "French Fire (CA)",
@@ -545,19 +558,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-02 09:50:25",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "0"
     },
     {
       "name": "Burnt Peak Fire",
