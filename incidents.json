@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
       "state": "OREGON",
-      "updated": "2021-09-02 16:50:14",
+      "updated": "2021-09-02 16:51:10",
       "lat": "46.135",
       "lng": "-117.736",
       "size": "40,416 Acres",
@@ -2092,19 +2092,6 @@
       "url": "/incident/7506/",
       "id": "7506",
       "contained": "100"
-    },
-    {
-      "name": "Dog Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update| Fire Map | Closure Map | Fire RestrictionsThe Dog...",
-      "state": "TEXAS",
-      "updated": "2021-06-04 17:01:25",
-      "lat": "31.936",
-      "lng": "-104.84",
-      "size": "1,959 Acres",
-      "url": "/incident/7492/",
-      "id": "7492",
-      "contained": "40"
     }
   ]
 }
