@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 17:50:12",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,377 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "55"
+    },
+    {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-02 17:49:37",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,028 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 17:48:17",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "176,579 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
       "state": "OREGON",
-      "updated": "2021-09-02 16:51:10",
+      "updated": "2021-09-02 17:26:51",
       "lat": "46.135",
       "lng": "-117.736",
       "size": "40,416 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "4"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-02 16:48:42",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,028 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Crater Ridge",
@@ -64,19 +90,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 16:03:45",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "176,579 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Twentyfive Mile",
@@ -259,19 +272,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "43"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 12:08:10",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,377 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "55"
     },
     {
       "name": "McCash Fire",
@@ -1507,19 +1507,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "98"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-12 13:39:07",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "95"
     },
     {
       "name": "Lava Fire",
