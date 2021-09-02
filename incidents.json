@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-02 18:35:24",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,089 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-02 18:30:34",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
       "state": "COLORADO",
-      "updated": "2021-09-02 18:21:44",
+      "updated": "2021-09-02 18:27:19",
       "lat": "40.161",
       "lng": "-106.235",
       "size": "416 Acres",
@@ -38,19 +64,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "52"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-02 18:09:21",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,028 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Chickadee Creek",
@@ -155,19 +168,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "25"
-    },
-    {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-02 15:04:57",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,350 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
