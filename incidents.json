@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 14:50:14",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "116,010 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "15"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 14:50:02",
+      "lat": "48.538",
+      "lng": "-120.418",
+      "size": "0 Acres",
+      "url": "/incident/7832/",
+      "id": "7832",
+      "contained": "0"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -12,19 +38,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 14:27:53",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "114,359 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "15"
     },
     {
       "name": "Jack Fire",
@@ -90,19 +103,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "90"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 14:10:59",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
     },
     {
       "name": "French Fire (CA)",
