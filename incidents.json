@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "Summit Trail",
+      "name": "Green Ridge Fire",
       "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 11:36:09",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "46,525 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "55"
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-03 12:03:16",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "40,529 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "39"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-09-03 11:54:43",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "76"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-09-03 11:51:03",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,411 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "90"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-03 11:44:55",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "80"
     },
     {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
       "state": "IDAHO",
-      "updated": "2021-09-03 11:35:38",
+      "updated": "2021-09-03 11:44:51",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "11,903 Acres",
@@ -27,17 +66,43 @@
       "contained": "76"
     },
     {
-      "name": "Green Ridge Fire",
+      "name": "Twentyfive Mile",
       "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-03 11:35:23",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "40,416 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "39"
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 11:44:47",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "Notice: the incident management team has put the Ellis Fire in patrol...",
+      "state": "MONTANA",
+      "updated": "2021-09-03 11:41:54",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "80"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 11:38:00",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "46,525 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "55"
     },
     {
       "name": "Boundary Fire",
@@ -103,19 +168,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 11:26:11",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,629 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
     },
     {
       "name": "Black Mountain Fire",
@@ -560,32 +612,6 @@
       "contained": "30"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-09-03 07:43:53",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "76"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-02 23:36:02",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,411 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "90"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -935,19 +961,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-01 17:45:13",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
     },
     {
       "name": "Robertson Draw",
@@ -1442,19 +1455,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "100"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "Notice: the incident management team has put the Ellis Fire in patrol...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 11:56:22",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "80"
     },
     {
       "name": "Spur Fire",
