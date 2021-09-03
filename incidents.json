@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 18:49:58",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "212,907 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "29"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-03 18:47:08",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "67"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -90,19 +116,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "60"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 16:52:24",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "212,987 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "29"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -701,19 +714,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-03 09:12:36",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
     },
     {
       "name": "Oak Grove Fire",
@@ -1988,19 +1988,6 @@
       "url": "/incident/7543/",
       "id": "7543",
       "contained": "100"
-    },
-    {
-      "name": "Yankee Fire",
-      "type": "Wildfire",
-      "summary": "6/17/2021 5:00 p.m. Update Per IC's: Yankee fire is 95% contained...",
-      "state": "CALIFORNIA",
-      "updated": "2021-06-17 19:07:30",
-      "lat": "35.651",
-      "lng": "-118.441",
-      "size": "20 Acres",
-      "url": "/incident/7541/",
-      "id": "7541",
-      "contained": "95"
     },
     {
       "name": "Shamrock Fire",
