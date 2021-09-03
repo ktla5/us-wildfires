@@ -5,13 +5,65 @@
       "type": "Wildfire",
       "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-03 15:20:55",
+      "updated": "2021-09-03 15:48:58",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "71,505 Acres",
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "75"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 15:42:14",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "177,222 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "33"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 15:40:04",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "85,639 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "10"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 15:35:32",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "212,987 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "29"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-03 15:24:41",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "13,194 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
     },
     {
       "name": "Cedar Creek BAER",
@@ -25,19 +77,6 @@
       "url": "/incident/7832/",
       "id": "7832",
       "contained": "0"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-03 15:18:29",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "13,194 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "River Complex 2021",
@@ -103,19 +142,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "80"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 14:12:12",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "177,222 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "33"
     },
     {
       "name": "Woods Creek Fire",
@@ -547,19 +573,6 @@
       "contained": "80"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 10:28:18",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "85,639 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "10"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 29, 2021:      |     Maps     |   ...",
@@ -584,19 +597,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "41"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 10:12:27",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "212,987 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "29"
     },
     {
       "name": "Cub Creek 2 Fire",
