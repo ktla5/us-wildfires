@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 13:50:10",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "177,222 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "33"
+    },
+    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-03 13:28:00",
+      "updated": "2021-09-03 13:49:45",
       "lat": "35.687",
       "lng": "-118.55",
       "size": "25,871 Acres",
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "47"
+    },
+    {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-03 13:44:15",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 13:42:07",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,798 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "52"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 13:39:15",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "98"
     },
     {
       "name": "Summit Trail",
@@ -25,19 +77,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "55"
-    },
-    {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-03 13:26:57",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek BAER",
@@ -64,19 +103,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "15"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 13:14:03",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "177,222 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "33"
     },
     {
       "name": "Cub Creek 2 BAER",
@@ -157,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 12:59:09",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "52"
-    },
-    {
       "name": "West Lolo Complex (Thorne Creek)",
       "type": "Wildfire",
       "summary": "This Thorne Creek Fire/West Lolo Complex InciWeb Page is not being...",
@@ -194,19 +207,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "13"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 12:54:19",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,653 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "98"
     },
     {
       "name": "Bull Complex ",
