@@ -1,30 +1,82 @@
 {
   "markers": [
     {
-      "name": "Monument Fire",
+      "name": "Black Mountain Fire",
       "type": "Wildfire",
-      "summary": "  MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-03 12:50:12",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "13"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 147 engines,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-03 12:38:15",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "177,222 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "33"
+      "updated": "2021-09-03 12:50:12",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,798 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "52"
     },
     {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
       "state": "WASHINGTON",
-      "updated": "2021-09-03 12:37:39",
+      "updated": "2021-09-03 12:50:07",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "46,618 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "55"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 12:49:17",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 12:48:19",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,871 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "47"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 12:46:45",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "177,222 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "33"
     },
     {
       "name": "Nason Fire",
@@ -170,19 +222,6 @@
       "contained": "76"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 11:44:47",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,629 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
-    },
-    {
       "name": "Divide Complex-Ellis Fire",
       "type": "Wildfire",
       "summary": "Notice: the incident management team has put the Ellis Fire in patrol...",
@@ -209,19 +248,6 @@
       "contained": "15"
     },
     {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 147 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 11:32:09",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "52"
-    },
-    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -233,19 +259,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-03 11:23:34",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "13"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -285,19 +298,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "21"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 11:02:54",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,871 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "43"
     },
     {
       "name": "Rough Patch",
