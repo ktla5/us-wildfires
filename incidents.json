@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-04 16:48:40",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,089 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 16:32:14",
+      "updated": "2021-09-04 16:48:36",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "214,107 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "37"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-04 16:42:41",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "21"
     },
     {
       "name": "Antelope Fire",
@@ -25,19 +51,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "77"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-04 16:30:40",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "21"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -389,19 +402,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "70"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-04 10:43:02",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,089 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Jack Fire",
