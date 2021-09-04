@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 12:34:56",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "885,954 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
+      "updated": "2021-09-04 12:47:39",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "214,107 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "37"
     },
     {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
       "state": "IDAHO",
-      "updated": "2021-09-04 12:34:33",
+      "updated": "2021-09-04 12:46:08",
       "lat": "44.683",
       "lng": "-114.993",
       "size": "1,811 Acres",
@@ -27,17 +27,17 @@
       "contained": "20"
     },
     {
-      "name": "Caldor Fire",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 12:31:50",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "214,107 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "37"
+      "updated": "2021-09-04 12:42:48",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "885,954 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "55"
     },
     {
       "name": "Antelope Fire",
