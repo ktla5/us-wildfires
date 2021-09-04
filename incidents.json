@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Oak Grove Fire",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
-      "state": "UTAH",
-      "updated": "2021-09-04 08:29:45",
-      "lat": "37.318",
-      "lng": "-113.454",
-      "size": "686 Acres",
-      "url": "/incident/7826/",
-      "id": "7826",
-      "contained": "40"
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 08:47:23",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "885,954 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "55"
     },
     {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154 engines,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 08:29:23",
+      "updated": "2021-09-04 08:45:22",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "178,069 Acres",
@@ -31,13 +31,39 @@
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 08:29:20",
+      "updated": "2021-09-04 08:35:30",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "116,515 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "15"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 29, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 08:34:46",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
+      "name": "Oak Grove Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
+      "state": "UTAH",
+      "updated": "2021-09-04 08:29:45",
+      "lat": "37.318",
+      "lng": "-113.454",
+      "size": "686 Acres",
+      "url": "/incident/7826/",
+      "id": "7826",
+      "contained": "40"
     },
     {
       "name": "Middle Fork Complex",
@@ -157,19 +183,6 @@
       "contained": "29"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 29, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 22:55:11",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 29, 2021:      |     Maps     |   ...",
@@ -207,19 +220,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "74"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 22:25:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "881,086 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
     },
     {
       "name": "McCash Fire",
