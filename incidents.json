@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 15:49:18",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "121,273 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-05 15:47:18",
+      "updated": "2021-09-05 16:14:55",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "893,852 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "56"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 16:13:34",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 16:11:54",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "179,276 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 15:53:19",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "121,273 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
     },
     {
       "name": "Woods Creek Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "90"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 15:33:38",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
     },
     {
       "name": "Caldor Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "58"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 13:07:56",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "179,276 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "35"
     },
     {
       "name": "Rough Patch",
@@ -1494,19 +1494,6 @@
       "url": "/incident/7740/",
       "id": "7740",
       "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 17:48:34",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "98"
     },
     {
       "name": "Lava Fire",
