@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-05 09:49:55",
+      "lat": "48.538",
+      "lng": "-120.418",
+      "size": "0 Acres",
+      "url": "/incident/7832/",
+      "id": "7832",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-05 09:47:52",
+      "lat": "48.631",
+      "lng": "-120.158",
+      "size": "0 Acres",
+      "url": "/incident/7830/",
+      "id": "7830",
+      "contained": "0"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-09-05 09:47:11",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "2,115 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "20"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
+      "state": "IDAHO",
+      "updated": "2021-09-05 09:45:06",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "23,334 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "15"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.govInformation line: 541.900.6133 - 8...",
+      "state": "OREGON",
+      "updated": "2021-09-05 09:44:35",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "46,596 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-05 09:43:54",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "67"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-05 09:42:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,987 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-05 09:41:44",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -53,19 +157,6 @@
       "contained": "90"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "  Email: 2021.DevilsKnob@Firenet.gov                   ...",
-      "state": "OREGON",
-      "updated": "2021-09-05 09:30:52",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "46,596 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
-    },
-    {
       "name": "Walkers Fire",
       "type": "Wildfire",
       "summary": "Work continues to fully suppress the Walkers Fire located in the...",
@@ -103,19 +194,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "40"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-05 09:28:20",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,987 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Caldor Fire",
@@ -170,19 +248,6 @@
       "contained": "21"
     },
     {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-09-05 09:07:26",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "2,115 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "20"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "September 4, 2021 EVENING UPDATEMONUMENT FIRE RESOURCES: 2,110...",
@@ -233,32 +298,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "26"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-05 08:54:33",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
-      "state": "IDAHO",
-      "updated": "2021-09-05 08:49:33",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "23,334 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "15"
     },
     {
       "name": "Oak Grove Fire",
@@ -337,19 +376,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "55"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-04 22:22:08",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "67"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -547,19 +573,6 @@
       "contained": "24"
     },
     {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 17:07:31",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -571,19 +584,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "40"
-    },
-    {
-      "name": "Cub Creek 2 BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 11:11:09",
-      "lat": "48.631",
-      "lng": "-120.158",
-      "size": "0 Acres",
-      "url": "/incident/7830/",
-      "id": "7830",
-      "contained": "0"
     },
     {
       "name": "Sand Lake Fire",
