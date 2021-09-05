@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 12:50:07",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "179,276 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "35"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -181,19 +194,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "September 4, 2021 EVENING UPDATEMONUMENT FIRE RESOURCES: 2,110...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 11:26:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "179,276 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "35"
     },
     {
       "name": "Muckamuck",
