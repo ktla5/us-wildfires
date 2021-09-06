@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-06 17:22:45",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "24,930 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 17:22:34",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "216,358 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "44"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 17:12:53",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "121,371 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 16:57:56",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 16:44:53",
+      "updated": "2021-09-06 16:56:44",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "183,371 Acres",
@@ -66,32 +118,6 @@
       "contained": "7"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 16:16:00",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "216,358 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "44"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 16:15:17",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
-    },
-    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -103,19 +129,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "40"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 15:48:34",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "121,371 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -272,19 +285,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "48"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-06 13:46:44",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "24,930 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
     },
     {
       "name": "Walker Creek Fire",
