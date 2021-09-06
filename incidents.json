@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Evening Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 23:10:41",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Evening Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 23:09:28",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "181,617 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "37"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-05 23:06:44",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "15,804 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "Email: 2021.DevilsKnob@Firenet.govInformation line: 541.900.6133 - 8...",
       "state": "OREGON",
-      "updated": "2021-09-05 22:50:13",
+      "updated": "2021-09-05 23:04:37",
       "lat": "42.892",
       "lng": "-122.853",
       "size": "46,596 Acres",
@@ -53,19 +92,6 @@
       "contained": "65"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-05 22:35:27",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "15,804 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -90,32 +116,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "Monument North Zone Fire and Knob Fire Evening Update September 5,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 22:25:01",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument North Zone Fire and Knob Fire Evening Update September 5,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 22:20:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "181,617 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "37"
     },
     {
       "name": "Middle Fork Complex",
