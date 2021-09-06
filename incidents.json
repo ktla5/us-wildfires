@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 08:34:34",
+      "updated": "2021-09-06 08:50:23",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "215,400 Acres",
@@ -14,11 +14,37 @@
       "contained": "44"
     },
     {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "Crews are making progress towards containment of the 8,719-acre...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 08:50:10",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "8,719 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "58"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-06 08:47:38",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "15,804 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "Email: 2021.DevilsKnob@Firenet.govInformation line: 541.900.6133 - 8...",
       "state": "OREGON",
-      "updated": "2021-09-06 08:33:51",
+      "updated": "2021-09-06 08:46:07",
       "lat": "42.979",
       "lng": "-122.809",
       "size": "46,596 Acres",
@@ -31,10 +57,10 @@
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-06 08:29:11",
+      "updated": "2021-09-06 08:42:22",
       "lat": "43.322",
       "lng": "-122.686",
-      "size": "23,987 Acres",
+      "size": "23,990 Acres",
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
@@ -194,19 +220,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "37"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-05 23:06:44",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "15,804 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "Walker Creek Fire",
@@ -545,19 +558,6 @@
       "url": "/incident/7830/",
       "id": "7830",
       "contained": "0"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "Work continues to fully suppress the Walkers Fire located in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 09:51:43",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "8,705 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "55"
     },
     {
       "name": "County Line",
