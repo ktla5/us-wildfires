@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 12:49:08",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,745 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "65"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-07 12:36:42",
+      "updated": "2021-09-07 12:47:22",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "135,689 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "19"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 12:46:58",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "48,092 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "This Granite Pass Complex InciWeb Page is not being regularly...",
+      "state": "MONTANA",
+      "updated": "2021-09-07 12:40:12",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,910 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "57"
     },
     {
       "name": "Monument Fire",
@@ -157,19 +196,6 @@
       "contained": "7"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 11:33:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "48,092 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update   ...",
@@ -222,19 +248,6 @@
       "contained": "35"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 11:12:10",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,745 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "65"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -246,19 +259,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "14"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "This Granite Pass Complex InciWeb Page is not being regularly...",
-      "state": "MONTANA",
-      "updated": "2021-09-07 11:09:50",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,910 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "57"
     },
     {
       "name": "Nason Fire",
