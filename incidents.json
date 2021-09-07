@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 12:03:06",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,512 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "83"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 12:00:04",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,864 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 11:56:39",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "917,579 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 11:52:19",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-07 11:51:35",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "74"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-07 11:38:36",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,201 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
@@ -14,19 +92,6 @@
       "contained": "20"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-07 11:33:51",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "17,201 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
@@ -38,19 +103,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "64"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 11:29:48",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
     },
     {
       "name": "Muckamuck",
@@ -77,19 +129,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "49"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 11:26:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "917,579 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
     },
     {
       "name": "Walker Creek Fire",
@@ -181,19 +220,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 11:06:15",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,512 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "83"
     },
     {
       "name": "Rush Creek",
@@ -534,19 +560,6 @@
       "contained": "24"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 09:51:38",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,864 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
       "name": "John Ek and Whelp Fires",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
@@ -584,19 +597,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "73"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-06 21:13:22",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "74"
     },
     {
       "name": "Greenwood ",
