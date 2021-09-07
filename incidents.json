@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 21:46:37",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,702 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "65"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-06 21:45:31",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,260 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 21:40:26",
+      "updated": "2021-09-06 21:44:40",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "216,358 Acres",
@@ -235,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-06 18:27:53",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,260 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -324,19 +337,6 @@
       "url": "/incident/7828/",
       "id": "7828",
       "contained": "97"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 14:40:11",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,702 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "52"
     },
     {
       "name": "Trestle Creek Complex",
