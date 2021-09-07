@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 08:50:48",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "129,067 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -363,19 +376,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "49"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 20:13:19",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "129,067 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
     },
     {
       "name": "Sand Lake Fire",
