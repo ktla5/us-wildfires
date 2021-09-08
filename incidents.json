@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "River Complex 2021",
+      "name": "Black Mountain Fire",
       "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-08 14:16:15",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "418 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "61"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-08 14:13:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,990 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 13:50:30",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
+      "updated": "2021-09-08 14:12:18",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "189,366 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "41"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-08 14:12:09",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "43,178 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
+      "state": "OREGON",
+      "updated": "2021-09-08 14:04:09",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "59,888 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
     },
     {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
       "state": "WASHINGTON",
-      "updated": "2021-09-08 13:49:31",
+      "updated": "2021-09-08 14:03:50",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "17,864 Acres",
@@ -31,7 +83,7 @@
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 13:47:29",
+      "updated": "2021-09-08 14:02:25",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "922,192 Acres",
@@ -40,17 +92,17 @@
       "contained": "59"
     },
     {
-      "name": "Devil's Knob Complex",
+      "name": "River Complex 2021",
       "type": "Wildfire",
-      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
-      "state": "OREGON",
-      "updated": "2021-09-08 13:45:45",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "59,888 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 13:57:31",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
     },
     {
       "name": "Muckamuck",
@@ -144,19 +196,6 @@
       "contained": "89"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 12:22:08",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "189,366 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "41"
-    },
-    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
@@ -235,19 +274,6 @@
       "contained": "17"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-08 11:43:37",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
       "name": "Greenwood ",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -285,19 +311,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "80"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-08 11:18:54",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "43,178 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
     },
     {
       "name": "Character Complex",
@@ -350,19 +363,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-08 10:43:01",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "418 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "61"
     },
     {
       "name": "Jakes Gulch",
