@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:40:23",
+      "updated": "2021-09-07 21:51:51",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "919,300 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "59"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 21:51:29",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 21:51:20",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,864 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
     },
     {
       "name": "Summit Trail",
@@ -38,19 +64,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "72"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:34:10",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
     },
     {
       "name": "Monument Fire",
@@ -415,19 +428,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "73"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 14:20:32",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,864 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
     },
     {
       "name": "Green Ridge Fire",
