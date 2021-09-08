@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-08 16:45:44",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,112 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "49"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "summary": "  Para Lectores Españoles    |     Mapa Diario     |   ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 16:32:15",
+      "updated": "2021-09-08 16:43:45",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "135,689 Acres",
@@ -350,19 +363,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "17"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-08 11:33:29",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,112 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "49"
     },
     {
       "name": "French Fire (CA)",
