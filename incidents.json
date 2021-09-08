@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 16:32:15",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "The Muddy Slide Fire remains 4,093 acres and 80% contained. The fire...",
+      "state": "COLORADO",
+      "updated": "2021-09-08 16:31:48",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "80"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-08 16:30:50",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "41,867 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "40"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -183,19 +222,6 @@
       "contained": "41"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 13:57:31",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update   ...",
@@ -298,19 +324,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "The Muddy Slide Fire remains 4,093 acres and 80% contained. The fire...",
-      "state": "COLORADO",
-      "updated": "2021-09-08 11:53:08",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "80"
     },
     {
       "name": "Morgan Creek Fire",
@@ -714,19 +727,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "57"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-07 13:19:10",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "41,421 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "40"
     },
     {
       "name": "Chickadee Creek",
