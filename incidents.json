@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-08 08:04:51",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 07:58:43",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "919,300 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
@@ -38,19 +64,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-08 06:30:56",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Cougar Peak Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "40"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 23:30:11",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "919,300 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
     },
     {
       "name": "Burnt Peak Fire",
