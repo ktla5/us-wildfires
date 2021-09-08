@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-07 22:22:24",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "41,228 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-07 22:20:17",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,201 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 22:16:45",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "48,092 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 22:15:46",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "94,206 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "14"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:51:51",
+      "updated": "2021-09-07 22:04:12",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "919,300 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "59"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 22:03:25",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,864 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
     },
     {
       "name": "River Complex 2021",
@@ -25,32 +90,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "19"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 21:51:20",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,864 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 21:39:05",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "48,092 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
     },
     {
       "name": "French Fire (CA)",
@@ -77,19 +116,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "42"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 21:24:34",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "94,206 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "14"
     },
     {
       "name": "Knob Fire",
@@ -339,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-07 17:19:53",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "41,185 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
-    },
-    {
       "name": "Railroad Fire",
       "type": "Wildfire",
       "summary": "The Railroad Fire near the Baldy Mesa OHV Staging Area started at...",
@@ -480,19 +493,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "65"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-07 11:38:36",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "17,201 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "Muckamuck",
