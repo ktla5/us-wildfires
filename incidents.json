@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 09:50:23",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "217,946 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "53"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Monument Fire and Knob Fire Evening Update Wednesday, September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 09:49:37",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "198,829 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "45"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-09 09:48:54",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "44,434 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 09:48:31",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "927,320 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
+      "state": "OREGON",
+      "updated": "2021-09-09 09:47:55",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "60,099 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-09 09:35:33",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,990 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -27,32 +105,6 @@
       "contained": "92"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 09:31:24",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "927,320 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-09 09:31:18",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
@@ -66,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 09:29:27",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "217,946 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "53"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -90,19 +129,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Monument Fire and Knob Fire Evening Update Wednesday, September...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 09:29:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "198,829 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "45"
     },
     {
       "name": "Trail Creek Fire",
@@ -142,19 +168,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "76"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-09 09:11:09",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "43,220 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
     },
     {
       "name": "Schneider Springs",
@@ -246,19 +259,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "77"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
-      "state": "OREGON",
-      "updated": "2021-09-09 08:27:10",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "60,099 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
     },
     {
       "name": "Jakes Gulch",
