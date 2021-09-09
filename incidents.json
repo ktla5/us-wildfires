@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-08 22:49:14",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,489 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "89"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-09-08 22:46:12",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,099 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "41"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-08 22:43:49",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,962 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-08 22:42:49",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,990 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 22:40:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "922,507 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 22:36:30",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "68,824 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "15"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-08 22:34:23",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "43,220 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-08 22:34:18",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "1,300 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 22:22:17",
+      "updated": "2021-09-08 22:31:13",
       "lat": "40.241",
       "lng": "-120.897",
       "size": "0 Acres",
@@ -18,26 +122,13 @@
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
       "state": "WASHINGTON",
-      "updated": "2021-09-08 22:22:03",
+      "updated": "2021-09-08 22:26:35",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "97,288 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "17"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-08 22:20:09",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "17,962 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "Twentyfive Mile",
@@ -103,19 +194,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "50"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 21:31:40",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "922,507 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
     },
     {
       "name": "River Complex 2021",
@@ -261,19 +339,6 @@
       "contained": "74"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-08 17:52:31",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "1,300 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
-    },
-    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "The Muddy Slide Fire remains 4,093 acres and 80% contained. The fire...",
@@ -298,19 +363,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "40"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-08 15:10:15",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "43,178 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
     },
     {
       "name": "Crater Ridge",
@@ -350,19 +402,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-08 14:46:44",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Nason Fire",
@@ -495,19 +534,6 @@
       "contained": "95"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 10:55:35",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "59,049 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "15"
-    },
-    {
       "name": "Jakes Gulch",
       "type": "Wildfire",
       "summary": " The Jake Gulch Fire was reported on Sunday, September 5, 2021. The...",
@@ -597,32 +623,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "76"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-09-08 09:30:27",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,099 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "41"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-09-08 09:29:27",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,489 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "89"
     },
     {
       "name": "Mud Lick Fire",
