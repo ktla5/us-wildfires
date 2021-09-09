@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-09 18:50:18",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "25,000 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 18:42:52",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "927,320 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Cold",
       "type": "Wildfire",
       "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
@@ -77,19 +103,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "29"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 18:21:17",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "927,320 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
     },
     {
       "name": "Caldor Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "90"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-09 16:12:09",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "25,000 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
     },
     {
       "name": "Chaparral Fire",
