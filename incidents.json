@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 14:51:12",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "927,320 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -25,19 +38,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "45"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 14:17:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "927,320 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
     },
     {
       "name": "Boundary Fire",
