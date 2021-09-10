@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-10 17:37:10",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "418 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "75"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Friday, September 10, 2021...",
@@ -493,19 +506,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-10 09:54:03",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "418 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "75"
     },
     {
       "name": "Alder Creek Fire",
