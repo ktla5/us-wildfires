@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-09 23:38:21",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "37,000 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "   Monument Fire and Knob Fire Evening Update Thursday, September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 23:36:13",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "92"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 23:33:43",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "928,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "   Monument Fire and Knob Fire Evening Update Thursday, September...",
@@ -14,19 +53,6 @@
       "contained": "45"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 23:28:23",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "928,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -38,19 +64,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "77"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-09 23:14:55",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "37,000 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
     },
     {
       "name": "Bull Complex ",
@@ -207,19 +220,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "35"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Thursday, September 9,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 20:20:45",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "92"
     },
     {
       "name": "Haystack Fire",
