@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles    |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 21:54:14",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "175,212 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-09 21:45:05",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "44,476 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -404,19 +430,6 @@
       "contained": "17"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles    |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 13:44:52",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "168,520 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
@@ -545,19 +558,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "65"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-09 10:56:59",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "44,434 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
     },
     {
       "name": "Alder Creek Fire",
