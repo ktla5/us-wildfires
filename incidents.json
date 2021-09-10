@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-10 18:34:55",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "418 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "75"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 18:33:23",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,512 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "77"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
+      "state": "IDAHO",
+      "updated": "2021-09-10 18:26:58",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "432 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "0"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-10 18:20:29",
+      "updated": "2021-09-10 18:24:30",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "23,990 Acres",
@@ -105,19 +144,6 @@
       "contained": "45"
     },
     {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-10 17:43:43",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "418 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "75"
-    },
-    {
       "name": "West Lolo Complex (Thorne Creek)",
       "type": "Wildfire",
       "summary": "This Thorne Creek Fire/West Lolo Complex InciWeb Page is not being...",
@@ -196,19 +222,6 @@
       "contained": "100"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 15:01:22",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,512 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "77"
-    },
-    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -272,19 +285,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
-      "state": "IDAHO",
-      "updated": "2021-09-10 14:01:55",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "410 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "0"
     },
     {
       "name": "Vinegar Fire",
