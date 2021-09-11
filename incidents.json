@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-11 15:21:35",
+      "updated": "2021-09-11 15:34:55",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "185,624 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "21"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-11 15:34:47",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "101,633 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "17"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-11 15:33:40",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "959,253 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "62"
     },
     {
       "name": "Black Mountain Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "60"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 14:29:59",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "959,253 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "62"
     },
     {
       "name": "Middle Fork Complex",
@@ -519,19 +532,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-10 23:28:03",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "101,633 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "17"
     },
     {
       "name": "Stateline Complex",
