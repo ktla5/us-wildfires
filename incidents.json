@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-11 07:46:52",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,512 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "63"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
@@ -103,19 +116,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "40"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 23:24:13",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,512 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "63"
     },
     {
       "name": "Jack Fire",
