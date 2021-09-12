@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-12 10:53:23",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "19,252 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "9"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:48:16",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,950 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "65"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:40:45",
+      "updated": "2021-09-12 10:46:34",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "960,213 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "65"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:45:01",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,826 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "66"
     },
     {
       "name": "Monument Fire",
@@ -144,19 +183,6 @@
       "contained": "44"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:06:46",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,826 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "66"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
@@ -168,19 +194,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "40"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-12 10:05:11",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "19,252 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "9"
     },
     {
       "name": "Jack Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "35"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 09:33:47",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,950 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "65"
     },
     {
       "name": "Greenwood Fire",
