@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Route",
+      "type": "Wildfire",
+      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 18:33:10",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "462 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
+      "contained": "63"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "A significant lightning event on September 9 ignited multiple...",
@@ -116,19 +129,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "40"
-    },
-    {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 15:54:30",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "454 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
