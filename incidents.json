@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "KNP Complex ",
+      "name": "Schneider Springs",
       "type": "Wildfire",
-      "summary": "A significant lightning event on September 9 ignited multiple...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 14:15:31",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "550 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 14:30:00",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "101,633 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "17"
     },
     {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
       "state": "WYOMING",
-      "updated": "2021-09-12 14:14:06",
+      "updated": "2021-09-12 14:27:15",
       "lat": "42.84",
       "lng": "-108.998",
       "size": "749 Acres",
@@ -27,24 +27,50 @@
       "contained": "0"
     },
     {
-      "name": "Twentyfive Mile",
+      "name": "Rough Patch",
       "type": "Wildfire",
-      "summary": " View the September 9 Virtual Community...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-12 14:12:59",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "21,130 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "41"
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-12 14:26:41",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "44,434 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 14:20:26",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,862 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "A significant lightning event on September 9 ignited multiple...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 14:17:34",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "550 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 14:12:17",
+      "updated": "2021-09-12 14:17:33",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "960,213 Acres",
@@ -53,17 +79,17 @@
       "contained": "65"
     },
     {
-      "name": "River Complex 2021",
+      "name": "Twentyfive Mile",
       "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 13:43:24",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,862 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 14:16:40",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "21,130 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "41"
     },
     {
       "name": "Monument Fire",
@@ -352,19 +378,6 @@
       "contained": "55"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-12 09:56:44",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "44,434 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -467,19 +480,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-11 21:59:25",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "101,633 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "17"
     },
     {
       "name": "John Ek and Whelp Fires",
