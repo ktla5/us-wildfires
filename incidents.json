@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-12 12:49:56",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "28,300 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 12:49:56",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,862 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-12 12:45:12",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "86,170 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-12 12:30:59",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "42,722 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "40"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 12:29:15",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -12,19 +77,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "65"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 12:18:33",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -66,19 +118,6 @@
       "contained": "74"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 12:12:34",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,862 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
@@ -116,19 +155,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-12 12:00:17",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "28,300 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
     },
     {
       "name": "Twentyfive Mile",
@@ -326,19 +352,6 @@
       "contained": "58"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-12 09:16:00",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "86,170 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
-    },
-    {
       "name": "Jakes Gulch",
       "type": "Wildfire",
       "summary": "Low RH and increased winds contributed to the fire kicking up a...",
@@ -350,19 +363,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "4"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-12 08:46:40",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "42,722 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "40"
     },
     {
       "name": "Mud Lick Fire",
