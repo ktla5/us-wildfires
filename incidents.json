@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:40:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,213 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "65"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:34:00",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "210,353 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 10:34:00",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,608 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "80"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:31:31",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "73,107 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "11"
+    },
+    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
@@ -53,19 +105,6 @@
       "contained": "32"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:16:50",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "210,353 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
@@ -77,32 +116,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:15:07",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "73,107 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "11"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:12:40",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,213 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "65"
     },
     {
       "name": "Scarface Fire",
@@ -194,19 +207,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "35"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-12 09:54:39",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,608 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "80"
     },
     {
       "name": "Caldor Fire",
