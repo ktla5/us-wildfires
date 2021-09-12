@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "  The Trail Creek Fire Open House is scheduled for Monday,...",
+      "state": "MONTANA",
+      "updated": "2021-09-12 08:03:22",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "35,578 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "32"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": "   The Trail Creek Fire Open House is scheduled for Monday,...",
+      "state": "MONTANA",
+      "updated": "2021-09-12 08:02:59",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "50,386 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "29"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-12 08:02:29",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-12 08:01:18",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "85,901 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 07:56:26",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,826 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "66"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-12 07:54:57",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Jakes Gulch",
       "type": "Wildfire",
       "summary": "Low RH and increased winds contributed to the fire kicking up a...",
@@ -12,19 +90,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "4"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-12 07:13:20",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "85,901 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
     },
     {
       "name": "Walkers Fire",
@@ -248,19 +313,6 @@
       "contained": "64"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 21:25:51",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,512 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "66"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
@@ -311,45 +363,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "0"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-11 20:15:37",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "218 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": "   The Trail Creek Fire Open House is scheduled for Monday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-11 20:13:25",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "49,440 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "29"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "  The Trail Creek Fire Open House is scheduled for Monday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-11 20:10:54",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "32,767 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "32"
     },
     {
       "name": "Devil's Knob Complex",
@@ -623,19 +636,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "44"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 07:05:34",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Stateline Complex",
