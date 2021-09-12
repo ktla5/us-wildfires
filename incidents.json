@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "A significant lightning event on September 9 ignited multiple...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 14:47:22",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "550 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 14:46:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,213 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "65"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
       "state": "WASHINGTON",
-      "updated": "2021-09-12 14:30:00",
+      "updated": "2021-09-12 14:39:19",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "101,633 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "17"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-12 14:32:42",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "44,434 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
     },
     {
       "name": "Sand Creek Fire",
@@ -27,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-12 14:26:41",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "44,434 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -51,32 +77,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "21"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "A significant lightning event on September 9 ignited multiple...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 14:17:34",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "550 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 14:17:33",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,213 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "65"
     },
     {
       "name": "Twentyfive Mile",
