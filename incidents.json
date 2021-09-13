@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 21:41:43",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "65"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-12 21:41:25",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "28,500 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "24"
+    },
+    {
       "name": "Caldor Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 21:07:31",
-      "lat": "38.417",
-      "lng": "-120.368",
+      "updated": "2021-09-12 21:41:25",
+      "lat": "38.622",
+      "lng": "-120.574",
       "size": "0 Acres",
       "url": "/incident/7842/",
       "id": "7842",
       "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 21:30:40",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,862 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-12 21:26:09",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "44,434 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
     },
     {
       "name": "Devil's Knob Complex",
@@ -51,19 +103,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "32"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 21:01:08",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,862 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
     },
     {
       "name": "Trail Creek Fire",
@@ -222,19 +261,6 @@
       "contained": "63"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 16:21:58",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,950 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "65"
-    },
-    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
@@ -300,19 +326,6 @@
       "contained": "11"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-12 14:32:42",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "44,434 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
-    },
-    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -324,19 +337,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "41"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-12 12:49:56",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "28,300 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
     },
     {
       "name": "Muckamuck",
