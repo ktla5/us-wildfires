@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 17:22:05",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,205 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "63"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 17:21:55",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "212,517 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "&amp;#183;A significant smoke inversion has prevented new mapping thus...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 17:11:58",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "1,037 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-13 17:05:37",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "21,373 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
       "state": "OREGON",
-      "updated": "2021-09-13 16:46:50",
+      "updated": "2021-09-13 17:01:35",
       "lat": "42.277",
       "lng": "-120.613",
       "size": "86,282 Acres",
@@ -25,19 +77,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "75"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "A significant lightning event on September 9 ignited multiple...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 16:33:12",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "1,037 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Rough Patch",
@@ -103,32 +142,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "67"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 15:23:56",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,205 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "63"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 15:20:49",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "212,517 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
     },
     {
       "name": "Windy Fire",
@@ -220,19 +233,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "40"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-13 12:29:44",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "21,373 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Summit Trail",
