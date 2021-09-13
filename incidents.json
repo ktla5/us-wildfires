@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-09-13 17:49:04",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,424 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "90"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 17:45:54",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,205 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "63"
+    },
+    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -25,19 +51,6 @@
       "url": "/incident/7830/",
       "id": "7830",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 17:32:02",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,205 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "63"
     },
     {
       "name": "Monument Fire",
@@ -987,19 +1000,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "20"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-06 12:47:22",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,424 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "90"
     },
     {
       "name": "Oak Grove Fire",
