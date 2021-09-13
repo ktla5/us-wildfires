@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire started on Thursday September 9th on the Tule River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 18:30:40",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "974 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -207,19 +220,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "30"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire started on Thursday September 9th on the Tule River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 14:58:10",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "974 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Sand Creek Fire",
