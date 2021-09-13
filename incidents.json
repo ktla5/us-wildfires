@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Caldor Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 23:29:40",
+      "lat": "38.753",
+      "lng": "-120.333",
+      "size": "0 Acres",
+      "url": "/incident/7842/",
+      "id": "7842",
+      "contained": "0"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " The Windy Fire started on Thursday September 9th on the Tule River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 23:24:34",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "650 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": " Monument Fire and Knob Fire Evening UpdateSunday, September 12,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 23:24:21",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
       "state": "OREGON",
-      "updated": "2021-09-12 22:51:48",
+      "updated": "2021-09-12 23:22:34",
       "lat": "42.277",
       "lng": "-120.613",
       "size": "86,170 Acres",
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "6"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Monument Fire and Knob Fire Evening Update Sunday, September 12,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 23:09:35",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "210,617 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
     },
     {
       "name": "Twentyfive Mile",
@@ -37,19 +89,6 @@
       "size": "1,037 Acres",
       "url": "/incident/7838/",
       "id": "7838",
-      "contained": "0"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 22:42:02",
-      "lat": "38.836",
-      "lng": "-120.419",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
       "contained": "0"
     },
     {
@@ -261,32 +300,6 @@
       "contained": "17"
     },
     {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 20:27:25",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 20:23:37",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "210,617 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
-    },
-    {
       "name": "Route",
       "type": "Wildfire",
       "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
@@ -337,19 +350,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "40"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " The Windy Fire started on Thursday September 9th on the Tule River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 15:28:27",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "450 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
