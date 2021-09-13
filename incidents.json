@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 18:49:16",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "67"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-13 18:47:16",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 18:38:16",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,205 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "63"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire started on Thursday September 9th on the Tule River...",
@@ -14,19 +53,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 18:21:35",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "67"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
@@ -38,19 +64,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "90"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 18:16:07",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,205 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "63"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -363,19 +376,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-13 11:54:03",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "67"
     },
     {
       "name": "Bull Complex ",
