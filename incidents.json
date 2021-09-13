@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 09:33:43",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,862 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
       "state": "COLORADO",
-      "updated": "2021-09-13 09:33:42",
+      "updated": "2021-09-13 09:38:34",
       "lat": "40.161",
       "lng": "-106.235",
       "size": "418 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
       "state": "WASHINGTON",
-      "updated": "2021-09-13 09:32:53",
+      "updated": "2021-09-13 09:38:09",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "21,373 Acres",
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "50"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 09:33:43",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,862 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
     },
     {
       "name": "Caldor Fire",
