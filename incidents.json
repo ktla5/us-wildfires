@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-14 17:38:16",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,470 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -11,19 +24,6 @@
       "size": "26,797 Acres",
       "url": "/incident/7805/",
       "id": "7805",
-      "contained": "75"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 16:50:39",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,470 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
       "contained": "75"
     },
     {
