@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-14 18:18:40",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "213,319 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-14 17:38:16",
+      "updated": "2021-09-14 18:17:24",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "960,470 Acres",
@@ -194,19 +207,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "90"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 13:21:50",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "213,319 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
     },
     {
       "name": "Knob Fire",
