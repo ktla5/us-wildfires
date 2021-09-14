@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-14 12:41:20",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "509 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "5"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-14 12:37:58",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,742 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "19"
+    },
+    {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-14 12:37:55",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "749 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "7"
+    },
+    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
@@ -40,19 +79,6 @@
       "contained": "43"
     },
     {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-14 12:33:11",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "749 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "7"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update   ...",
@@ -64,19 +90,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "74"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
-      "state": "IDAHO",
-      "updated": "2021-09-14 12:30:24",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "509 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "5"
     },
     {
       "name": "Character Complex",
@@ -129,19 +142,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "68"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-14 11:56:09",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,742 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "19"
     },
     {
       "name": "Summit Trail",
