@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 20:09:09",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 20:06:01",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,951 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "40"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-13 19:50:59",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "65,764 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "40"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 19:38:09",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,335 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 19:24:16",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "212,517 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-13 18:49:16",
+      "updated": "2021-09-13 19:06:23",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "219,267 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "67"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-13 19:03:54",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "49,551 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "69"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
+      "state": "IDAHO",
+      "updated": "2021-09-13 19:02:15",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "499 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "5"
     },
     {
       "name": "Greenwood Fire",
@@ -131,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 17:21:55",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "212,517 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
-    },
-    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
@@ -170,19 +248,6 @@
       "contained": "6"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 16:40:32",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,335 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -207,32 +272,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-13 15:53:17",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "65,764 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "40"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 15:30:31",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,951 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "30"
     },
     {
       "name": "Sand Creek Fire",
@@ -274,19 +313,6 @@
       "contained": "15"
     },
     {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": " Northern Rockies Incident Management Team 2 took command of the fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 14:24:53",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -313,19 +339,6 @@
       "contained": "40"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-13 12:26:38",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "49,551 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "69"
-    },
-    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
@@ -337,19 +350,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "20"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
-      "state": "IDAHO",
-      "updated": "2021-09-13 12:24:06",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "499 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "5"
     },
     {
       "name": "Schneider Springs",
