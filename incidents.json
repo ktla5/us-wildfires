@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "UPDATE: The Paradise Fire is now measured at 4,821 acres, and the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-14 15:22:05",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "5,861 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-14 15:21:47",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "86,412 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "Cub Creek 2 BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-14 15:04:21",
+      "lat": "48.631",
+      "lng": "-120.158",
+      "size": "0 Acres",
+      "url": "/incident/7830/",
+      "id": "7830",
+      "contained": "0"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-14 14:49:37",
+      "updated": "2021-09-14 15:02:51",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "145,047 Acres",
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "66"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-14 14:55:00",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "43,238 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "40"
     },
     {
       "name": "Caldor Fire",
@@ -196,19 +248,6 @@
       "contained": "7"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. September 14, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 12:35:34",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "3,024 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update   ...",
@@ -285,19 +324,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-14 11:19:42",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "86,282 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
     },
     {
       "name": "Bull Complex ",
@@ -417,19 +443,6 @@
       "contained": "80"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-14 08:52:25",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "43,238 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "40"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -492,19 +505,6 @@
       "size": "0 Acres",
       "url": "/incident/7832/",
       "id": "7832",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-13 17:33:48",
-      "lat": "48.631",
-      "lng": "-120.158",
-      "size": "0 Acres",
-      "url": "/incident/7830/",
-      "id": "7830",
       "contained": "0"
     },
     {
