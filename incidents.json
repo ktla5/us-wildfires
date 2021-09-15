@@ -1,24 +1,50 @@
 {
   "markers": [
     {
-      "name": "Caldor Fire",
+      "name": "Rough Patch",
       "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-15 09:32:53",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "47,215 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 09:32:35",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,728 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "85"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-15 09:18:41",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "70"
+      "updated": "2021-09-15 09:30:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "214,576 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "46"
     },
     {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-15 09:18:06",
+      "updated": "2021-09-15 09:30:27",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "145,110 Acres",
@@ -27,24 +53,11 @@
       "contained": "70"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 09:17:40",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "49,554 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "91"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-15 09:17:15",
+      "updated": "2021-09-15 09:29:52",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "23,990 Acres",
@@ -53,17 +66,69 @@
       "contained": "55"
     },
     {
-      "name": "Rough Patch",
+      "name": "West Lolo Complex (Thorne Creek)",
       "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "summary": "This Thorne Creek Fire/West Lolo Complex InciWeb Page is not being...",
+      "state": "MONTANA",
+      "updated": "2021-09-15 09:27:42",
+      "lat": "47.397",
+      "lng": "-115.076",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 09:21:57",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,583 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 09:21:36",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "70"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 09:21:17",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "49,554 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "91"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
       "state": "OREGON",
-      "updated": "2021-09-15 09:13:59",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "47,215 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
+      "updated": "2021-09-15 09:20:34",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "65,766 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "40"
     },
     {
       "name": "Sand Creek Fire",
@@ -274,19 +339,6 @@
       "contained": "75"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-14 21:10:19",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "65,766 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "40"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
@@ -350,32 +402,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 20:40:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,470 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 20:33:33",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "213,810 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "46"
     },
     {
       "name": "Knob Fire",
@@ -506,19 +532,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "20"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-14 09:56:56",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,608 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "80"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -792,19 +805,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "57"
-    },
-    {
-      "name": "West Lolo Complex (Thorne Creek)",
-      "type": "Wildfire",
-      "summary": "This Thorne Creek Fire/West Lolo Complex InciWeb Page is not being...",
-      "state": "MONTANA",
-      "updated": "2021-09-10 17:42:58",
-      "lat": "47.397",
-      "lng": "-115.076",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
     },
     {
       "name": "Pincer Creek Fire",
