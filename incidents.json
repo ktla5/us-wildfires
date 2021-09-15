@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-15 18:45:55",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "907 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "30"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Fire MapsThe Monument Fire is a lightning-caused...",
@@ -194,19 +207,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "6"
-    },
-    {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-15 15:38:28",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "907 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "30"
     },
     {
       "name": "Crater Ridge",
