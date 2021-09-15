@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 17:33:50",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "980 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-15 17:22:54",
+      "updated": "2021-09-15 17:27:35",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "960,583 Acres",
@@ -18,26 +31,13 @@
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
       "state": "OREGON",
-      "updated": "2021-09-15 17:21:42",
+      "updated": "2021-09-15 17:26:58",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "29,267 Acres",
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "30"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 17:12:39",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "980 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Antelope Fire",
