@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-14 21:53:03",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "46,135 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-14 21:52:50",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "509 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "5"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-14 21:49:55",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,990 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-14 21:42:27",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,047 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "66"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -12,32 +64,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "69"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-14 21:40:45",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "46,135 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 21:40:24",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,047 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "66"
     },
     {
       "name": "KNP Complex ",
@@ -64,19 +90,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "7"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-14 21:33:32",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "509 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "5"
     },
     {
       "name": "Cougar Peak Fire",
@@ -441,19 +454,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "20"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-14 10:05:40",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Walker Creek Fire",
