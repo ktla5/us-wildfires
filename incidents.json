@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-15 15:38:28",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "907 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "30"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-15 15:37:20",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,804 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "68"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 15:30:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,583 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "Due to decreased fire activity across the Nez Perce-Clearwater...",
+      "state": "IDAHO",
+      "updated": "2021-09-15 15:23:29",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. September 15, 2021...",
@@ -25,32 +77,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-15 15:22:13",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,804 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "68"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "Due to decreased fire activity across the Nez Perce-Clearwater...",
-      "state": "IDAHO",
-      "updated": "2021-09-15 15:22:12",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -105,19 +131,6 @@
       "contained": "40"
     },
     {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-15 14:58:36",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "907 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "30"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -142,19 +155,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 14:47:22",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,583 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
     },
     {
       "name": "Windy Fire",
