@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-14 23:29:11",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,742 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "25"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-14 23:27:57",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "46,092 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-14 23:25:13",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "19,950 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "14"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-14 22:59:27",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "86,412 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -38,32 +90,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "20"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-14 22:13:58",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,742 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "25"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-14 22:04:49",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "46,135 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
     },
     {
       "name": "Jack Fire",
@@ -142,19 +168,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "7"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-14 21:32:30",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "86,412 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
     },
     {
       "name": "Summit Trail",
@@ -415,19 +428,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-14 11:08:40",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "19,950 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "14"
     },
     {
       "name": "Mud Lick Fire",
