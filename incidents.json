@@ -1,16 +1,42 @@
 {
   "markers": [
     {
-      "name": "McFarland Post-Fire BAER",
+      "name": "TwentyFive Mile BAER",
       "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:50:40",
-      "lat": "40.184",
-      "lng": "-123.017",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-16 16:18:43",
+      "lat": "47.935",
+      "lng": "-120.308",
       "size": "0 Acres",
-      "url": "/incident/7847/",
-      "id": "7847",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Update: The acreage for the Paradise Fire is currently measured at...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 16:18:32",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "8,940 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 16:10:55",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "3,924 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
       "contained": "0"
     },
     {
@@ -18,7 +44,7 @@
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:50:25",
+      "updated": "2021-09-16 15:53:10",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "189,085 Acres",
@@ -27,16 +53,16 @@
       "contained": "40"
     },
     {
-      "name": "TwentyFive Mile BAER",
+      "name": "McFarland Post-Fire BAER",
       "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-16 15:41:03",
-      "lat": "47.935",
-      "lng": "-120.308",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 15:52:23",
+      "lat": "40.25",
+      "lng": "-123",
       "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
+      "url": "/incident/7847/",
+      "id": "7847",
       "contained": "0"
     },
     {
@@ -129,19 +155,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "86"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Update: The acreage for the Paradise Fire is currently measured at...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 13:50:01",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "8,940 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
@@ -246,19 +259,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 12:35:10",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "3,924 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Antelope Fire",
