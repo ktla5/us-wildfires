@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "McFarland Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 15:50:40",
+      "lat": "40.184",
+      "lng": "-123.017",
+      "size": "0 Acres",
+      "url": "/incident/7847/",
+      "id": "7847",
+      "contained": "0"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:22:59",
+      "updated": "2021-09-16 15:50:25",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "189,085 Acres",
@@ -14,30 +27,30 @@
       "contained": "40"
     },
     {
-      "name": "McFarland Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:21:23",
-      "lat": "40.684",
-      "lng": "-122",
-      "size": "0 Acres",
-      "url": "/incident/7847/",
-      "id": "7847",
-      "contained": "0"
-    },
-    {
       "name": "TwentyFive Mile BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
       "state": "WASHINGTON",
-      "updated": "2021-09-16 15:18:52",
+      "updated": "2021-09-16 15:41:03",
       "lat": "47.935",
       "lng": "-120.308",
       "size": "0 Acres",
       "url": "/incident/7846/",
       "id": "7846",
       "contained": "0"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-16 15:23:50",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
     },
     {
       "name": "Caldor Fire",
@@ -506,19 +519,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "68"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-15 20:48:57",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "75"
     },
     {
       "name": "Huff Fire",
