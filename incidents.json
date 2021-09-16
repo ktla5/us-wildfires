@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 22:38:45",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "187,880 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "40"
+    },
+    {
+      "name": "Caldor Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 22:26:28",
+      "lat": "38.753",
+      "lng": "-120.333",
+      "size": "0 Acres",
+      "url": "/incident/7842/",
+      "id": "7842",
+      "contained": "0"
+    },
+    {
       "name": "Jakes Gulch",
       "type": "Wildfire",
       "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
@@ -12,19 +38,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "60"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 22:17:45",
-      "lat": "38.753",
-      "lng": "-120.333",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
-      "contained": "0"
     },
     {
       "name": "Schneider Springs",
@@ -220,19 +233,6 @@
       "url": "/incident/7844/",
       "id": "7844",
       "contained": "100"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 20:25:22",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "187,880 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "40"
     },
     {
       "name": "Windy Fire",
