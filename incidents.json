@@ -5,13 +5,65 @@
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-18 12:25:35",
+      "updated": "2021-09-18 12:46:57",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "11,365 Acres",
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-18 12:43:14",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,643 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "75"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 12:40:58",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "190,884 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-18 12:39:30",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "89,203 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 12:33:07",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,457 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "53"
     },
     {
       "name": "Middle Fork Complex",
@@ -53,19 +105,6 @@
       "contained": "71"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 12:16:25",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,457 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "53"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
@@ -90,19 +129,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 12:00:17",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "190,884 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
     },
     {
       "name": "Devil's Knob Complex",
@@ -170,19 +196,6 @@
       "contained": "50"
     },
     {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-18 11:28:53",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,643 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "75"
-    },
-    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
@@ -194,19 +207,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-18 11:14:58",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "89,203 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
     },
     {
       "name": "Windy Fire",
