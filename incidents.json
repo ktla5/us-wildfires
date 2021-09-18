@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 18:49:36",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "17,857 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
       "state": "OREGON",
-      "updated": "2021-09-18 18:35:42",
+      "updated": "2021-09-18 18:49:10",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "30,761 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-18 18:33:58",
+      "updated": "2021-09-18 18:42:04",
       "lat": "36.058",
       "lng": "-118.625",
       "size": "12,370 Acres",
@@ -142,19 +155,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "45"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 16:13:10",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "17,857 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Crater Ridge",
