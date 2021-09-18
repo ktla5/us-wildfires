@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-18 18:35:42",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-18 18:21:32",
+      "updated": "2021-09-18 18:33:58",
       "lat": "36.058",
       "lng": "-118.625",
       "size": "12,370 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "0"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Saturday, September 18, 2021 Reminder about Drones: If you fly, we...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-18 18:27:12",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,061 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -129,19 +155,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-18 15:30:14",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
     },
     {
       "name": "Crater Ridge",
@@ -272,19 +285,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Saturday, September 18, 2021 Reminder about Drones: If you fly, we...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 11:34:41",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,061 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Knob Fire",
