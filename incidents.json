@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 18:21:32",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "12,370 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 18:19:10",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,641 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "88"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-18 18:18:44",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "80"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " A temporary flight restriction (TFR) went into effect September...",
+      "state": "IDAHO",
+      "updated": "2021-09-18 18:14:01",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 17:53:14",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,243 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "73"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
@@ -12,19 +77,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "53"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 17:30:43",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,243 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "73"
     },
     {
       "name": "Devil's Knob Complex",
@@ -53,19 +105,6 @@
       "contained": "75"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " A temporary flight restriction (TFR) went into effect September...",
-      "state": "IDAHO",
-      "updated": "2021-09-18 16:59:01",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -90,19 +129,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 15:49:46",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,641 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "88"
     },
     {
       "name": "Middle Fork Complex",
@@ -144,19 +170,6 @@
       "contained": "71"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-18 14:01:30",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "80"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -168,19 +181,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "15"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 13:48:40",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "12,370 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Schneider Springs",
