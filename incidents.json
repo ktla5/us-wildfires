@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Emigrant",
+      "type": "Wildfire",
+      "summary": "The Emigrant fire started as tractor-trailer fire on the northbound...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 11:24:01",
+      "lat": "34.666",
+      "lng": "-118.763",
+      "size": "255 Acres",
+      "url": "/incident/7848/",
+      "id": "7848",
+      "contained": "50"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 10:50:01",
+      "updated": "2021-09-19 11:17:40",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "195,779 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "45"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 11:14:07",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "104,853 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
+      "state": "IDAHO",
+      "updated": "2021-09-19 11:09:09",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:59:50",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,457 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "53"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:58:32",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
+      "state": "MONTANA",
+      "updated": "2021-09-19 10:50:42",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "6,000 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "23"
     },
     {
       "name": "Walker Creek Fire",
@@ -27,19 +105,6 @@
       "contained": "90"
     },
     {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 10:48:23",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
@@ -51,32 +116,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "91"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-09-19 10:46:55",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 10:45:44",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,457 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "53"
     },
     {
       "name": "KNP Complex ",
@@ -105,32 +144,6 @@
       "contained": "49"
     },
     {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
-      "state": "MONTANA",
-      "updated": "2021-09-19 10:41:35",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "6,000 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "0"
-    },
-    {
-      "name": "Emigrant",
-      "type": "Wildfire",
-      "summary": " The Emigrant fire started as tractor-trailer fire on the northbound...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 10:36:48",
-      "lat": "34.666",
-      "lng": "-118.763",
-      "size": "255 Acres",
-      "url": "/incident/7848/",
-      "id": "7848",
-      "contained": "50"
-    },
-    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
@@ -155,19 +168,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "50"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 10:20:26",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "104,853 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
     },
     {
       "name": "Antelope Fire",
