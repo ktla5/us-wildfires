@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-19 12:21:22",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 12:20:57",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,876 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-19 12:15:12",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,643 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "85"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 12:01:40",
+      "updated": "2021-09-19 12:04:49",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "195,779 Acres",
@@ -222,19 +261,6 @@
       "contained": "88"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 10:15:15",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
@@ -246,19 +272,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-19 10:05:12",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
     },
     {
       "name": "McCash Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "70"
-    },
-    {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-19 09:24:59",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,643 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "85"
     },
     {
       "name": "Jack Fire",
