@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 14:20:50",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "21,777 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Emigrant",
       "type": "Wildfire",
       "summary": "The Emigrant fire started as tractor-trailer fire on the northbound...",
@@ -12,19 +25,6 @@
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "50"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 14:12:01",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "21,777 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "TwentyFive Mile BAER",
