@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Emigrant",
+      "type": "Wildfire",
+      "summary": "The Emigrant fire started as tractor-trailer fire on the northbound...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 14:14:59",
+      "lat": "34.666",
+      "lng": "-118.763",
+      "size": "255 Acres",
+      "url": "/incident/7848/",
+      "id": "7848",
+      "contained": "50"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 13:48:55",
+      "updated": "2021-09-19 14:12:01",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "21,777 Acres",
@@ -14,17 +27,17 @@
       "contained": "0"
     },
     {
-      "name": "Emigrant",
-      "type": "Wildfire",
-      "summary": "The Emigrant fire started as tractor-trailer fire on the northbound...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 13:46:53",
-      "lat": "34.666",
-      "lng": "-118.763",
-      "size": "255 Acres",
-      "url": "/incident/7848/",
-      "id": "7848",
-      "contained": "50"
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 14:06:25",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
     },
     {
       "name": "Twentyfive Mile",
@@ -298,19 +311,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "22"
-    },
-    {
-      "name": "TwentyFive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 09:40:47",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
