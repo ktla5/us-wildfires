@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-19 09:17:27",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "7,337 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "70"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-19 08:49:23",
+      "updated": "2021-09-19 09:13:20",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "24,165 Acres",
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-19 09:06:32",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "37"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 08:55:29",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "88"
     },
     {
       "name": "Twentyfive Mile",
@@ -38,19 +77,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "90"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-19 08:47:27",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "7,337 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "70"
     },
     {
       "name": "Monument Fire",
@@ -116,19 +142,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 07:44:28",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,243 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "73"
     },
     {
       "name": "Cougar Peak Fire",
@@ -220,19 +233,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "22"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-18 21:53:51",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "37"
     },
     {
       "name": "Dixie Fire (CA)",
