@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Woods Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
+      "state": "MONTANA",
+      "updated": "2021-09-19 17:49:47",
+      "lat": "46.556",
+      "lng": "-111.356",
+      "size": "0 Acres",
+      "url": "/incident/7845/",
+      "id": "7845",
+      "contained": "0"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -493,19 +506,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "99"
-    },
-    {
-      "name": "Woods Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
-      "state": "MONTANA",
-      "updated": "2021-09-17 15:38:29",
-      "lat": "46.554",
-      "lng": "-111.356",
-      "size": "0 Acres",
-      "url": "/incident/7845/",
-      "id": "7845",
-      "contained": "0"
     },
     {
       "name": "Larkins Complex",
