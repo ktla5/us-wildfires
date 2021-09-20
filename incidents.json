@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 17:35:17",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "23,743 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "9-20-2021 Minimal fire behavior with backing, creeping, and...",
       "state": "WASHINGTON",
-      "updated": "2021-09-20 17:21:54",
+      "updated": "2021-09-20 17:33:28",
       "lat": "48.568",
       "lng": "-120.488",
       "size": "55,572 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "75"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 15:46:11",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "23,743 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
