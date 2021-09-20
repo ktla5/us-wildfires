@@ -1,30 +1,43 @@
 {
   "markers": [
     {
-      "name": "KNP Complex ",
+      "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 17:35:17",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "23,743 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
+      "summary": "9-20-2021:  Minimal fire behavior with backing, creeping, and...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-20 17:48:32",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "90"
     },
     {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "9-20-2021 Minimal fire behavior with backing, creeping, and...",
       "state": "WASHINGTON",
-      "updated": "2021-09-20 17:33:28",
+      "updated": "2021-09-20 17:43:46",
       "lat": "48.568",
       "lng": "-120.488",
       "size": "55,572 Acres",
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 17:41:17",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "23,743 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
     },
     {
       "name": "Emigrant",
@@ -38,19 +51,6 @@
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "65"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "After two weeks of hard work by Northwest Incident Management Team 9,...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-20 17:15:50",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "90"
     },
     {
       "name": "Lick Creek Fire",
