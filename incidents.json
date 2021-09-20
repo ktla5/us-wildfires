@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 14:29:07",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "25,191 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
       "state": "IDAHO",
-      "updated": "2021-09-20 14:16:39",
+      "updated": "2021-09-20 14:20:05",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "73,620 Acres",
@@ -14,17 +27,17 @@
       "contained": "48"
     },
     {
-      "name": "Windy Fire",
+      "name": "KNP Complex ",
       "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-20 14:16:20",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "25,191 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
+      "updated": "2021-09-20 14:17:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "23,743 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
     },
     {
       "name": "Twentyfive Mile",
@@ -116,19 +129,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "50"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 13:13:07",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "23,743 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
