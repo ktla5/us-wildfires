@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 22:50:10",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "23,801 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-19 22:49:15",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "38"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 22:33:37",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "84,471 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
       "name": "Haystack Fire",
       "type": "Wildfire",
-      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
       "state": "MONTANA",
-      "updated": "2021-09-19 22:21:24",
+      "updated": "2021-09-19 22:26:48",
       "lat": "46.117",
       "lng": "-112.335",
       "size": "10,800 Acres",
@@ -18,26 +57,13 @@
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
       "state": "OREGON",
-      "updated": "2021-09-19 22:20:01",
+      "updated": "2021-09-19 22:24:20",
       "lat": "42.277",
       "lng": "-120.613",
       "size": "90,614 Acres",
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "42"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-19 22:07:37",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "38"
     },
     {
       "name": "Caldor Fire",
@@ -51,19 +77,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "72"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 21:56:30",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "23,801 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
     },
     {
       "name": "Route",
@@ -389,19 +402,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "44"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 09:49:13",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "84,471 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
     },
     {
       "name": "Sand Lake Fire",
