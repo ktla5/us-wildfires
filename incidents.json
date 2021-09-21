@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 08:48:54",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "89"
+    },
+    {
+      "name": "Route",
+      "type": "Wildfire",
+      "summary": "OverviewThe Route Fire started on September 11th at 3:54 P.M. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 08:42:39",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "464 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
+      "contained": "100"
+    },
+    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-21 08:34:08",
+      "updated": "2021-09-21 08:35:17",
       "lat": "40.916",
       "lng": "-123.634",
       "size": "2,421 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "54"
-    },
-    {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "OverviewThe Route Fire started on September 11th at 3:54 P.M. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 08:24:54",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "464 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "100"
     },
     {
       "name": "Emigrant",
@@ -259,19 +272,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 20:57:02",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "89"
     },
     {
       "name": "Haystack Fire",
