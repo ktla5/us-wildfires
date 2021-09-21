@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 18:14:28",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "25,142 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
       "state": "OREGON",
-      "updated": "2021-09-21 17:49:53",
+      "updated": "2021-09-21 18:00:01",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "30,928 Acres",
@@ -77,19 +90,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "90"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 14:36:29",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "25,142 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Five Spots Fire",
