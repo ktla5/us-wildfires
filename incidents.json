@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-09-21 10:50:35",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,937 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-21 10:47:08",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "24,777 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "15"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 10:45:50",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "90"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 10:42:56",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,101 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
+      "state": "IDAHO",
+      "updated": "2021-09-21 10:42:25",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-21 10:40:49",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-21 10:40:34",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
       "state": "WASHINGTON",
-      "updated": "2021-09-21 10:23:59",
+      "updated": "2021-09-21 10:29:17",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "104,853 Acres",
@@ -14,11 +105,24 @@
       "contained": "31"
     },
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 10:29:08",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "88,947 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-21 10:23:53",
+      "updated": "2021-09-21 10:27:52",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "195,982 Acres",
@@ -38,32 +142,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-09-21 10:19:55",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,937 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-21 10:19:43",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "22,432 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "15"
     },
     {
       "name": "Alder Creek Fire",
@@ -129,19 +207,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "100"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 09:59:12",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,101 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
     },
     {
       "name": "Rough Patch",
@@ -287,19 +352,6 @@
       "contained": "55"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-21 07:21:42",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
-    },
-    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -311,19 +363,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "49"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 23:56:37",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "87,754 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
     },
     {
       "name": "Windy Fire",
@@ -339,19 +378,6 @@
       "contained": "5"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
-      "state": "IDAHO",
-      "updated": "2021-09-20 22:05:49",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
-    },
-    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
@@ -363,19 +389,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 20:43:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "90"
     },
     {
       "name": "Greenwood Fire",
@@ -532,19 +545,6 @@
       "url": "/incident/7843/",
       "id": "7843",
       "contained": "95"
-    },
-    {
-      "name": "TwentyFive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 14:06:25",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
     },
     {
       "name": "Summit Trail",
