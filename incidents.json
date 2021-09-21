@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 23:56:37",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "87,754 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -12,19 +25,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "41"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 23:52:47",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "87,754 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
     },
     {
       "name": "Jack Fire",
