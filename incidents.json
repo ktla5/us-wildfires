@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
       "state": "OREGON",
-      "updated": "2021-09-21 17:36:39",
+      "updated": "2021-09-21 17:49:53",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "30,928 Acres",
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "49"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-21 17:47:57",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "80"
     },
     {
       "name": "Caldor Post-Fire BAER",
@@ -220,19 +233,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "8"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-21 11:44:01",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "80"
     },
     {
       "name": "Emigrant",
