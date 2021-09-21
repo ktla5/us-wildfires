@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 13:15:21",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "27,183 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
+    },
+    {
       "name": "Five Spots Fire",
       "type": "Wildfire",
       "summary": " Brownwood TAMFS office rested for the night while Merkel TAMFS...",
@@ -64,19 +77,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 12:17:37",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "27,183 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "5"
     },
     {
       "name": "River Complex 2021",
