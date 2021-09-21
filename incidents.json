@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 16:49:09",
+      "lat": "38.753",
+      "lng": "-120.333",
+      "size": "0 Acres",
+      "url": "/incident/7842/",
+      "id": "7842",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
@@ -77,19 +90,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "49"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 14:03:08",
-      "lat": "38.753",
-      "lng": "-120.333",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
