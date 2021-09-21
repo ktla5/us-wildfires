@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-21 09:31:12",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
       "state": "OREGON",
-      "updated": "2021-09-21 09:18:02",
+      "updated": "2021-09-21 09:26:58",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "50,351 Acres",
@@ -14,17 +27,30 @@
       "contained": "41"
     },
     {
-      "name": "Jack Fire",
+      "name": "Trail Creek Fire",
       "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-21 09:11:34",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-21 09:26:32",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "55,860 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "50"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-21 09:26:11",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "34,639 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
     },
     {
       "name": "Knob Fire",
@@ -233,32 +259,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-20 21:04:56",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "65,868 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "50"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-20 21:03:21",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "34,639 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
     },
     {
       "name": "KNP Complex ",
