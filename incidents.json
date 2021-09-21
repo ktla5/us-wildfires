@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Five Spots Fire",
+      "type": "Wildfire",
+      "summary": " Brownwood TAMFS office rested for the night while Merkel TAMFS...",
+      "state": "TEXAS",
+      "updated": "2021-09-21 12:49:42",
+      "lat": "31.901",
+      "lng": "-98.65",
+      "size": "650 Acres",
+      "url": "/incident/7850/",
+      "id": "7850",
+      "contained": "75"
+    },
+    {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-21 12:44:08",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "929 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "45"
+    },
+    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -66,19 +92,6 @@
       "contained": "50"
     },
     {
-      "name": "Five Spots Fire",
-      "type": "Wildfire",
-      "summary": " Brownwood TAMFS office rested for the night while Merkel TAMFS...",
-      "state": "TEXAS",
-      "updated": "2021-09-21 12:03:54",
-      "lat": "31.901",
-      "lng": "-98.65",
-      "size": "650 Acres",
-      "url": "/incident/7850/",
-      "id": "7850",
-      "contained": "75"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -90,19 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-21 11:56:18",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "929 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "45"
     },
     {
       "name": "Knob Fire",
