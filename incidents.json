@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 14:49:25",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "92,602 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
@@ -12,19 +25,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 14:16:39",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "92,602 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
     },
     {
       "name": "Cougar Peak Fire",
@@ -817,19 +817,6 @@
       "size": "4,093 Acres",
       "url": "/incident/7566/",
       "id": "7566",
-      "contained": "100"
-    },
-    {
-      "name": "Huff Fire",
-      "type": "Wildfire",
-      "summary": "Huff Fire stated September 15, 2021 at approximately 4:00pm....",
-      "state": "TEXAS",
-      "updated": "2021-09-15 20:38:19",
-      "lat": "33.855",
-      "lng": "-98.464",
-      "size": "19 Acres",
-      "url": "/incident/7844/",
-      "id": "7844",
       "contained": "100"
     },
     {
