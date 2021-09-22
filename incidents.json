@@ -1871,19 +1871,6 @@
       "url": "/incident/7555/",
       "id": "7555",
       "contained": "95"
-    },
-    {
-      "name": "Rincon Fire",
-      "type": "Wildfire",
-      "summary": "The Rincon Fire was started by lightning June 11, 2021. It is burning...",
-      "state": "NEW MEXICO",
-      "updated": "2021-06-24 16:11:56",
-      "lat": "35.909",
-      "lng": "-105.533",
-      "size": "533 Acres",
-      "url": "/incident/7527/",
-      "id": "7527",
-      "contained": "0"
     }
   ]
 }
