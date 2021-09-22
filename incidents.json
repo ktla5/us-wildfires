@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 17:42:28",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "92,602 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -103,19 +116,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "54"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 14:49:25",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "92,602 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
     },
     {
       "name": "KNP Complex ",
