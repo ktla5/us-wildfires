@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-23 09:45:07",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "33,046 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-23 09:36:16",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -64,19 +90,6 @@
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "80"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 09:08:35",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "33,046 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Monument Fire",
@@ -1012,19 +1025,6 @@
       "size": "0 Acres",
       "url": "/incident/7700/",
       "id": "7700",
-      "contained": "0"
-    },
-    {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-11 20:58:04",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
       "contained": "0"
     },
     {
