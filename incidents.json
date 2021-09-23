@@ -1858,19 +1858,6 @@
       "url": "/incident/7570/",
       "id": "7570",
       "contained": "90"
-    },
-    {
-      "name": "Mojave",
-      "type": "Wildfire",
-      "summary": "On Thursday June 17, thunderstorms with dry lightning moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-06-25 00:07:43",
-      "lat": "35.343",
-      "lng": "-115.783",
-      "size": "2,490 Acres",
-      "url": "/incident/7555/",
-      "id": "7555",
-      "contained": "95"
     }
   ]
 }
