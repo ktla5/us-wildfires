@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Twentyfive Mile Fire Update September 22, 2021 Size: 22,061 acres...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-22 21:39:59",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,117 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "61"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 21:21:33",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "220,877 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -313,19 +339,6 @@
       "contained": "7"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 12:33:49",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "220,548 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -389,19 +402,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "100"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Twentyfive Mile Fire Update September 22, 2021 Size: 22,061 acres...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-22 10:33:09",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,117 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Sand Lake Fire",
