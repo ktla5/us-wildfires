@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Woods Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
+      "state": "MONTANA",
+      "updated": "2021-09-24 15:22:44",
+      "lat": "46.561",
+      "lng": "-111.226",
+      "size": "0 Acres",
+      "url": "/incident/7845/",
+      "id": "7845",
+      "contained": "0"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire is 49,053 acres with 6% containment. The fire began on...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-24 14:47:03",
+      "updated": "2021-09-24 15:16:42",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "56,802 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "5"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Twentyfive Mile Fire Update September 24, 2021 Size: 22,117 acres...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-24 15:15:48",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,117 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "62"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-09-24 15:15:20",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,449 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "89"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-24 15:12:20",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "100"
+    },
+    {
+      "name": "San Juan NF Prescribed Fire Program",
+      "type": "Prescribed Fire",
+      "summary": " The San Juan National Forest Fuels Management Staff are planning...",
+      "state": "COLORADO",
+      "updated": "2021-09-24 15:08:48",
+      "lat": "37.279",
+      "lng": "-107.882",
+      "size": "0 Acres",
+      "url": "/incident/6288/",
+      "id": "6288",
+      "contained": "0"
     },
     {
       "name": "Caldor Fire",
@@ -220,19 +285,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "80"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Twentyfive Mile Fire Update September 24, 2021 Size: 22,117 acres...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-24 11:20:51",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,117 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "62"
     },
     {
       "name": "Middle Fork Complex",
@@ -547,19 +599,6 @@
       "contained": "0"
     },
     {
-      "name": "San Juan NF Prescribed Fire Program",
-      "type": "Prescribed Fire",
-      "summary": " The San Juan National Forest Fuels Management Staff are planning...",
-      "state": "COLORADO",
-      "updated": "2021-09-23 11:06:50",
-      "lat": "37.279",
-      "lng": "-107.882",
-      "size": "0 Acres",
-      "url": "/incident/6288/",
-      "id": "6288",
-      "contained": "0"
-    },
-    {
       "name": "Dry Cabin",
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
@@ -664,19 +703,6 @@
       "contained": "100"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-21 10:06:41",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "100"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
@@ -753,19 +779,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "83"
-    },
-    {
-      "name": "Woods Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
-      "state": "MONTANA",
-      "updated": "2021-09-19 18:06:56",
-      "lat": "46.561",
-      "lng": "-111.226",
-      "size": "0 Acres",
-      "url": "/incident/7845/",
-      "id": "7845",
-      "contained": "0"
     },
     {
       "name": "Big Meadow Fire",
@@ -896,19 +909,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-16 16:48:21",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,448 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "89"
     },
     {
       "name": "Cedar Creek BAER",
