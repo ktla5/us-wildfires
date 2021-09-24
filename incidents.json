@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is 49,053 acres with 6% containment. The fire began on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 14:47:03",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "56,802 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 24,2021 CURRENT...",
@@ -402,19 +415,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "75"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is 49,053 acres with 6% containment. The fire began on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 00:07:41",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "49,053 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "6"
     },
     {
       "name": "Prescribed Fire Projects 2021",
