@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " The Twentyfive Mile Fire was reported at 3:45 p.m. on August 15,...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-25 08:51:28",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,117 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "62"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 08:45:26",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "11,655 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
       "name": "French Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
@@ -77,19 +103,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "36"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " The Twentyfive Mile Fire was reported at 3:45 p.m. on August 15,...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-25 00:05:40",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,117 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "62"
     },
     {
       "name": "Middle Fork Complex",
@@ -259,19 +272,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-24 18:51:09",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "11,655 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "8"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
