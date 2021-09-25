@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 17:29:34",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "11,655 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex was ignited by lightning on the night of September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 17:27:41",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "42,048 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
@@ -64,32 +90,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 14:34:16",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "11,655 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "36"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex was ignited by lightning on the night of September...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 13:23:13",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "42,048 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "McCash Fire",
