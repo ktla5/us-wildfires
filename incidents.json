@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:     Caltrans     |      Progression Map     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 10:41:32",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "197,989 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "65"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-25 10:41:14",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "105,523 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "38"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 10:41:08",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "35,412 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 10:36:57",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "56,743 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "75"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2021-09-25 10:36:46",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,334 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "60"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " The Twentyfive Mile Fire was reported at 3:45 p.m. on August 15,...",
       "state": "WASHINGTON",
-      "updated": "2021-09-25 10:23:26",
+      "updated": "2021-09-25 10:36:07",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "22,117 Acres",
@@ -25,19 +90,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "67"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 10:20:33",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "56,743 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "75"
     },
     {
       "name": "Lukens",
@@ -118,19 +170,6 @@
       "contained": "45"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2021-09-25 10:11:57",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,334 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "60"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
@@ -170,19 +209,6 @@
       "contained": "20"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 09:55:52",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "35,412 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
-    },
-    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -220,19 +246,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "55"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:     Caltrans     |      Progression Map     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 08:55:14",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "197,989 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "65"
     },
     {
       "name": "French Post-Fire BAER",
@@ -376,19 +389,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-24 20:50:02",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "105,523 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "38"
     },
     {
       "name": "Antelope Fire",
