@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 16:15:42",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "71,349 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
@@ -25,19 +38,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 14:46:07",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "71,349 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "5"
     },
     {
       "name": "Haystack Fire",
