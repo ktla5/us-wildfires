@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-25 09:19:26",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "58"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " The Twentyfive Mile Fire was reported at 3:45 p.m. on August 15,...",
       "state": "WASHINGTON",
-      "updated": "2021-09-25 08:51:28",
+      "updated": "2021-09-25 09:14:34",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "22,117 Acres",
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "62"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-25 09:11:20",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "45"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:     Caltrans     |      Progression Map     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 08:55:14",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "197,989 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "65"
     },
     {
       "name": "Haystack Fire",
@@ -142,32 +181,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "54"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-24 23:05:04",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "45"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-24 22:54:57",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "58"
     },
     {
       "name": "Windy Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "20"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:     Caltrans     |      Progression Map     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 11:59:00",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "197,474 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "65"
     },
     {
       "name": "Bog Fire",
