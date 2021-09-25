@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-25 09:50:31",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "24,850 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "20"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 09:50:15",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "11,655 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 09:42:31",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "35,412 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-09-25 09:41:51",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,994 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "54"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-25 09:40:30",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "45"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by a local Type...",
@@ -27,19 +92,6 @@
       "contained": "62"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-25 09:24:51",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "45"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -64,19 +116,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "65"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 08:45:26",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "11,655 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "36"
     },
     {
       "name": "French Post-Fire BAER",
@@ -168,19 +207,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-09-24 23:23:33",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,994 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "54"
     },
     {
       "name": "Windy Fire",
@@ -391,19 +417,6 @@
       "contained": "61"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-24 12:14:15",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "24,837 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "20"
-    },
-    {
       "name": "Bog Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Bog Fire is approximately 380 acres burning on...",
@@ -519,19 +532,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-24 09:41:38",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "35,412 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
     },
     {
       "name": "Sand Creek Fire",
