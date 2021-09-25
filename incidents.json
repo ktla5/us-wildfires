@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Twentyfive Mile Fire Update September 24, 2021 Size: 22,117 acres...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-24 23:29:22",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,117 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "62"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "The KNP Complex was ignited by lightning on the night of September...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-24 22:49:59",
+      "updated": "2021-09-24 23:26:07",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "40,112 Acres",
@@ -14,11 +27,37 @@
       "contained": "0"
     },
     {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-09-24 23:23:33",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,994 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "54"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-24 23:05:04",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "45"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-24 22:49:53",
+      "updated": "2021-09-24 22:54:57",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "24,165 Acres",
@@ -38,32 +77,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "5"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-09-24 22:20:14",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,941 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "54"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-24 22:10:01",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "45"
     },
     {
       "name": "Cougar Peak Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "36"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Twentyfive Mile Fire Update September 24, 2021 Size: 22,117 acres...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-24 20:41:06",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,117 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "62"
     },
     {
       "name": "Antelope Fire",
