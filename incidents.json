@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex was ignited by lightning on the night of September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 22:49:59",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "40,112 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-24 22:39:08",
+      "updated": "2021-09-24 22:49:53",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "24,165 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "60"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex was ignited by lightning on the night of September...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 21:48:35",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "40,112 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Caldor Fire",
