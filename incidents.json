@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 16:16:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "44,828 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "8"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -12,19 +25,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 15:48:54",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "44,828 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "8"
     },
     {
       "name": "Haystack Fire",
