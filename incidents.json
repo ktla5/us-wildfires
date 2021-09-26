@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 18:49:39",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "44,828 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "8"
+    },
+    {
       "name": "Red Road Fire",
       "type": "Wildfire",
       "summary": "Red Road Fire: 26 September 2021Red Road Fire, is located on Red Road...",
       "state": "TEXAS",
-      "updated": "2021-09-26 18:33:18",
+      "updated": "2021-09-26 18:43:02",
       "lat": "33.263",
       "lng": "-98.15",
       "size": "450 Acres",
@@ -77,19 +90,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "36"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 16:27:48",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "44,828 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "8"
     },
     {
       "name": "Antelope Fire",
