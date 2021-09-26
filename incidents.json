@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-26 09:51:20",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "13,926 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-26 09:31:33",
+      "updated": "2021-09-26 09:42:39",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,774 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-26 09:39:08",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "47"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-26 09:37:44",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "61"
     },
     {
       "name": "Monument Fire",
@@ -53,32 +92,6 @@
       "contained": "8"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-26 09:08:25",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "61"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-26 09:05:16",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "47"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -116,19 +129,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "54"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 22:55:53",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "13,587 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "36"
     },
     {
       "name": "Windy Fire",
