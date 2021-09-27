@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-27 10:51:37",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "57,052 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "75"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
+      "state": "OREGON",
+      "updated": "2021-09-27 10:51:29",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,730 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "65"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 10:45:11",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "95"
+    },
+    {
+      "name": "San Juan NF Prescribed Fire Program",
+      "type": "Prescribed Fire",
+      "summary": " The San Juan National Forest Fuels Management Staff are planning...",
+      "state": "COLORADO",
+      "updated": "2021-09-27 10:44:06",
+      "lat": "37.279",
+      "lng": "-107.882",
+      "size": "0 Acres",
+      "url": "/incident/6288/",
+      "id": "6288",
+      "contained": "0"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -12,19 +64,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "20"
-    },
-    {
-      "name": "San Juan NF Prescribed Fire Program",
-      "type": "Prescribed Fire",
-      "summary": " The San Juan National Forest Fuels Management Staff are planning...",
-      "state": "COLORADO",
-      "updated": "2021-09-27 10:37:30",
-      "lat": "37.279",
-      "lng": "-107.882",
-      "size": "0 Acres",
-      "url": "/incident/6288/",
-      "id": "6288",
-      "contained": "0"
     },
     {
       "name": "Devils Knob Complex",
@@ -144,19 +183,6 @@
       "contained": "45"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-27 09:46:27",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "57,052 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "75"
-    },
-    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -261,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 22:12:12",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "95"
-    },
-    {
       "name": "Red Road Fire",
       "type": "Wildfire",
       "summary": "Red Road Fire: 26 September 2021Red Road Fire, is located on Red Road...",
@@ -311,19 +324,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "55"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
-      "state": "OREGON",
-      "updated": "2021-09-26 20:13:32",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,730 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "65"
     },
     {
       "name": "Emigrant",
