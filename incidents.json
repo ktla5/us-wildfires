@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 14:13:07",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "46,976 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "8"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 14:07:28",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-27 13:55:00",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "81,607 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "58"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -14,32 +53,6 @@
       "contained": "95"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 13:41:47",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 13:09:49",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "46,976 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "8"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -51,19 +64,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "52"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-27 13:04:49",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "81,607 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "58"
     },
     {
       "name": "Jack Fire",
