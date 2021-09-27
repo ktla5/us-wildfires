@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 09:32:41",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "46,976 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "8"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
@@ -142,19 +155,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 21:38:27",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "45,790 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "8"
     },
     {
       "name": "Red Road Fire",
