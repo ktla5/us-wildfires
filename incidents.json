@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "     River Complex Fire Update Monday September 27, 2021 Etna,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 12:03:14",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,248 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "67"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 12:02:49",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "85,383 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "2"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-27 11:33:43",
+      "updated": "2021-09-27 11:39:50",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "222,323 Acres",
@@ -14,17 +40,17 @@
       "contained": "69"
     },
     {
-      "name": "Windy Fire",
+      "name": "Antelope Fire",
       "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-27 11:28:46",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "85,383 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
+      "updated": "2021-09-27 11:38:07",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "95"
     },
     {
       "name": "Cougar Peak Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 10:45:11",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "95"
     },
     {
       "name": "San Juan NF Prescribed Fire Program",
@@ -285,19 +298,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "   River Complex Fire Update Sunday September 26, 2021 Etna, CA-...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 22:38:48",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,248 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "67"
     },
     {
       "name": "Caldor Post-Fire BAER",
