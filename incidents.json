@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-28 08:34:08",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "16,189 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "41"
+    },
+    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -90,19 +103,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "2"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-27 23:08:39",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "15,297 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "41"
     },
     {
       "name": "Jack Fire",
