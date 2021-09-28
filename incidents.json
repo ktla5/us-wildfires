@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-27 21:55:03",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "22,117 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 21:54:18",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "86,502 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "2"
+    },
+    {
       "name": "Shedhorn Fire",
       "type": "Wildfire",
       "summary": "",
@@ -272,32 +298,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 12:02:49",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "85,383 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
-    },
-    {
-      "name": "Twentyfive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-27 11:12:20",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "22,117 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
     },
     {
       "name": "San Juan NF Prescribed Fire Program",
