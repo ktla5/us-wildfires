@@ -5,13 +5,52 @@
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |    ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 08:44:02",
+      "updated": "2021-09-28 09:19:56",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,774 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 09:18:35",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,244 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "48"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Monday evening, the Windy Fire is approximately 86,502 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 09:17:39",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,318 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-28 09:06:01",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "84,138 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "58"
     },
     {
       "name": "River Complex 2021",
@@ -53,19 +92,6 @@
       "contained": "58"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-28 07:30:36",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "84,138 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "58"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -90,32 +116,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "72"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 00:01:50",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "93,244 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "48"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Monday evening, the Windy Fire is approximately 86,502 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 23:22:17",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "86,502 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
     },
     {
       "name": "Jack Fire",
