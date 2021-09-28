@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 18:35:35",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,774 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -51,19 +64,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "8"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 17:16:53",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,774 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
     },
     {
       "name": "Antelope Fire",
