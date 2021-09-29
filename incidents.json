@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-28 20:09:29",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "56"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
+      "state": "OREGON",
+      "updated": "2021-09-28 19:50:14",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,730 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "80"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 18:47:15",
+      "updated": "2021-09-28 18:56:03",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,001 Acres",
@@ -38,19 +64,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "61"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
-      "state": "OREGON",
-      "updated": "2021-09-28 18:07:14",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,730 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "75"
     },
     {
       "name": "Haystack Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "20"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-28 11:22:27",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "56"
     },
     {
       "name": "John Ek and Whelp Fires",
