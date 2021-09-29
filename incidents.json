@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Sequoia and Kings Canyon You Tube Channel(Link to Sequoia and Kings...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-29 14:27:19",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "48,872 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "11"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters last night reported active fire throughout the night...",
+      "state": "COLORADO",
+      "updated": "2021-09-29 14:22:10",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "85 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
@@ -25,19 +51,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "69"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters last night reported active fire throughout the night...",
-      "state": "COLORADO",
-      "updated": "2021-09-29 14:02:31",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "85 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -103,19 +116,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-29 11:56:52",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "48,872 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "11"
     },
     {
       "name": "Jack Fire",
