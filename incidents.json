@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-29 09:43:58",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,244 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "53"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-29 09:34:06",
+      "updated": "2021-09-29 09:39:10",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "24,894 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 23:30:28",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "93,244 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "53"
     },
     {
       "name": "Sand Lake Fire",
