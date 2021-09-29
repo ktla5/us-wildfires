@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-29 18:44:24",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,244 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "53"
+    },
+    {
       "name": "Ptarmigan Fire",
       "type": "Wildfire",
       "summary": "Firefighters last night reported active fire throughout the night...",
@@ -220,19 +233,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "58"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-29 12:34:15",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "93,244 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "53"
     },
     {
       "name": "County Line",
