@@ -1806,19 +1806,6 @@
       "url": "/incident/7573/",
       "id": "7573",
       "contained": "0"
-    },
-    {
-      "name": "Deep Creek Canyon Fire",
-      "type": "Wildfire",
-      "summary": "  Wildfire Information Deep Creek Canyon FireTownsend Ranger...",
-      "state": "MONTANA",
-      "updated": "2021-07-02 16:28:53",
-      "lat": "46.349",
-      "lng": "-111.165",
-      "size": "4,648 Acres",
-      "url": "/incident/7536/",
-      "id": "7536",
-      "contained": "98"
     }
   ]
 }
