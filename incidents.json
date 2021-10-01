@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-01 08:33:10",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "18,490 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "45"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
+      "state": "IDAHO",
+      "updated": "2021-10-01 08:18:28",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "84,756 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "68"
+    },
+    {
       "name": "Kaibab NF South Zone Rx Fire",
       "type": "Prescribed Fire",
       "summary": "Burning has been re-scheduled to resume on Saturday May 1 and could...",
@@ -12,19 +38,6 @@
       "url": "/incident/5922/",
       "id": "5922",
       "contained": "0"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
-      "state": "IDAHO",
-      "updated": "2021-10-01 08:02:38",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "84,756 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "68"
     },
     {
       "name": "Mud Lick Fire",
@@ -142,19 +155,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-30 22:36:44",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "17,009 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "45"
     },
     {
       "name": "Alder Creek Fire",
