@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-09-30 23:06:51",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-30 23:02:25",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "80"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "https://www.youtube.com/channel/UCuoCoXWvwVpQTIUc7Aviewg Sequoia &amp;...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-30 22:49:33",
+      "updated": "2021-09-30 22:50:23",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "49,496 Acres",
@@ -118,19 +144,6 @@
       "contained": "69"
     },
     {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-09-30 21:27:52",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -207,19 +220,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "79"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-30 18:00:40",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "77"
     },
     {
       "name": "Magic Feather Prescribed Burn",
