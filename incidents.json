@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters on the ground and in the air made significant progress...",
+      "state": "COLORADO",
+      "updated": "2021-10-01 09:20:04",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "85 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "10"
+    },
+    {
+      "name": "Kaibab NF South Zone Rx Fire",
+      "type": "Prescribed Fire",
+      "summary": "Fire managers on the Kaibab National Forest are planning for the 2021...",
+      "state": "ARIZONA",
+      "updated": "2021-10-01 09:16:59",
+      "lat": "35.982",
+      "lng": "-112.086",
+      "size": "350 Acres",
+      "url": "/incident/5922/",
+      "id": "5922",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-01 08:48:18",
+      "updated": "2021-10-01 09:08:48",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,775 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "91"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "https://www.youtube.com/channel/UCuoCoXWvwVpQTIUc7Aviewg Sequoia &amp;...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 09:02:32",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "51,596 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Friday morning, the Windy Fire is approximately 89,804 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 09:02:28",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "89,804 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "40"
     },
     {
       "name": "Boundary Fire",
@@ -25,32 +77,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "68"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Friday morning, the Windy Fire is approximately 89,771 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 08:45:57",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "89,771 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "40"
-    },
-    {
-      "name": "Kaibab NF South Zone Rx Fire",
-      "type": "Prescribed Fire",
-      "summary": "Burning has been re-scheduled to resume on Saturday May 1 and could...",
-      "state": "ARIZONA",
-      "updated": "2021-10-01 08:40:38",
-      "lat": "35.982",
-      "lng": "-112.086",
-      "size": "350 Acres",
-      "url": "/incident/5922/",
-      "id": "5922",
-      "contained": "0"
     },
     {
       "name": "Haystack Fire",
@@ -144,19 +170,6 @@
       "contained": "80"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "https://www.youtube.com/channel/UCuoCoXWvwVpQTIUc7Aviewg Sequoia &amp;...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-30 22:50:23",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "49,496 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -220,19 +233,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "68"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters on the ground and in the air made significant progress...",
-      "state": "COLORADO",
-      "updated": "2021-09-30 21:07:42",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "85 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
     },
     {
       "name": "Shedhorn Fire",
