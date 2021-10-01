@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "9-20-2021 Minimal fire behavior with backing, creeping, and...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-01 17:37:24",
+      "lat": "48.568",
+      "lng": "-120.488",
+      "size": "55,572 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "87"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-01 17:21:42",
+      "updated": "2021-10-01 17:28:35",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "51,596 Acres",
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "20"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "9-20-2021:  Minimal fire behavior with backing, creeping, and...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-01 17:23:39",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "90"
     },
     {
       "name": "Schneider Springs",
@@ -857,32 +883,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "100"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "9-20-2021:  Minimal fire behavior with backing, creeping, and...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-20 18:19:23",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "90"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "9-20-2021 Minimal fire behavior with backing, creeping, and...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-20 18:15:55",
-      "lat": "48.568",
-      "lng": "-120.488",
-      "size": "55,572 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "87"
     },
     {
       "name": "Lick Creek Fire",
