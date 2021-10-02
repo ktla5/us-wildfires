@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-02 09:31:46",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "36,696 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "43"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
       "state": "MONTANA",
-      "updated": "2021-10-02 09:18:17",
+      "updated": "2021-10-02 09:30:19",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "61,980 Acres",
@@ -18,13 +31,26 @@
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
       "state": "OREGON",
-      "updated": "2021-10-02 09:15:54",
+      "updated": "2021-10-02 09:25:37",
       "lat": "42.892",
       "lng": "-122.853",
       "size": "70,110 Acres",
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "58"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 09:18:52",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "91,237 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "52"
     },
     {
       "name": "Haystack Fire",
@@ -64,19 +90,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "91"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 08:56:29",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "91,237 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "52"
     },
     {
       "name": "Boundary Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-01 19:29:43",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "36,696 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "43"
     },
     {
       "name": "French Fire (CA)",
