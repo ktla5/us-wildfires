@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 11:34:11",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 11:21:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "58,283 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-02 11:21:06",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,118 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "55"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 11:20:53",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "91,237 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "52"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-02 11:12:26",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "18,490 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "52"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 11:02:03",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,001 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "79"
+    },
+    {
       "name": "Ptarmigan Fire",
       "type": "Wildfire",
       "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
@@ -27,32 +105,6 @@
       "contained": "20"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-10-02 10:45:35",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,118 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 10:45:27",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "91,237 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "52"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
@@ -77,19 +129,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 10:20:41",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,001 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "79"
     },
     {
       "name": "Cougar Peak Fire",
@@ -157,19 +196,6 @@
       "contained": "43"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 09:57:49",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -196,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 09:50:25",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "58,283 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -220,19 +233,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "67"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-02 09:02:28",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "18,490 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "52"
     },
     {
       "name": "Boundary Fire",
