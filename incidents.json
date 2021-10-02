@@ -1,30 +1,30 @@
 {
   "markers": [
     {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
-      "state": "COLORADO",
-      "updated": "2021-10-02 18:35:37",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "86 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "25"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-02 17:54:19",
+      "updated": "2021-10-02 18:47:51",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,775 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "91"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
+      "state": "COLORADO",
+      "updated": "2021-10-02 18:38:38",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "86 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "25"
     },
     {
       "name": "Haystack Fire",
