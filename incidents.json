@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 11:51:33",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "91,237 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "52"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-02 11:34:11",
+      "updated": "2021-10-02 11:46:06",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,775 Acres",
@@ -38,19 +51,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 91,237...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 11:20:53",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "91,237 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "52"
     },
     {
       "name": "Haystack Fire",
