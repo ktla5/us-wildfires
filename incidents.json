@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
+      "state": "COLORADO",
+      "updated": "2021-10-03 10:35:09",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "86 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "25"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 10:34:09",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "67,761 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 10:31:11",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,001 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "80"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-03 10:25:12",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "61,987 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "67"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
@@ -51,19 +103,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "85"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-03 10:04:05",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "61,987 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "67"
     },
     {
       "name": "Windy Fire",
@@ -144,19 +183,6 @@
       "contained": "70"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 06:53:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,001 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "80"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
@@ -196,19 +222,6 @@
       "contained": "58"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 22:25:23",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "60,306 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
@@ -233,19 +246,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
-      "state": "COLORADO",
-      "updated": "2021-10-02 18:38:38",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "86 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "25"
     },
     {
       "name": "Bull Complex ",
