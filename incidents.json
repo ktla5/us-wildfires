@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 14:54:53",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "67,761 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 14:54:06",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Sunday morning, the Windy Fire is approximately 92,473 acres...",
@@ -12,19 +38,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "56"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 14:42:15",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -51,19 +64,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "91"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 13:26:23",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "67,761 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
     },
     {
       "name": "Schneider Springs",
