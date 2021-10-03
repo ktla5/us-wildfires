@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-02 22:37:45",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-02 22:26:49",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-02 22:21:26",
+      "updated": "2021-10-02 22:25:23",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "60,306 Acres",
@@ -77,19 +103,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 20:20:58",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
     },
     {
       "name": "Trail Creek Fire",
@@ -285,19 +298,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-02 09:54:39",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
     },
     {
       "name": "Boundary Fire",
