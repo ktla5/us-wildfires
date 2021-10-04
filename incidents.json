@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Sunday evening, the Windy Fire is approximately 94,032 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 08:32:32",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "94,746 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "68"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-04 07:58:33",
+      "updated": "2021-10-04 08:16:23",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "62,761 Acres",
@@ -181,19 +194,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "67"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Sunday evening, the Windy Fire is approximately 94,032 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 21:23:33",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "94,032 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "65"
     },
     {
       "name": "River Complex 2021",
