@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 22:43:44",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,514 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "61"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
+      "state": "OREGON",
+      "updated": "2021-10-03 22:39:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-10-03 22:31:56",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,409 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "71"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 22:30:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "62,761 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-03 22:26:55",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-03 22:25:53",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "36,742 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "43"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -25,32 +103,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "81"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-10-03 22:09:36",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,409 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "71"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Sequoia &amp; Kings Canyon NPS YouTube Channel(View the recordings of the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 21:59:24",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "62,761 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -131,19 +183,6 @@
       "contained": "90"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
-      "state": "OREGON",
-      "updated": "2021-10-03 18:29:01",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "83"
-    },
-    {
       "name": "Ptarmigan Fire",
       "type": "Wildfire",
       "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
@@ -181,45 +220,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "55"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 11:42:22",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "93,514 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "61"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-03 10:22:46",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "36,742 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "43"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-03 10:19:43",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
     },
     {
       "name": "Boundary Fire",
