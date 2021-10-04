@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-04 09:51:04",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-04 09:50:36",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "61,990 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "67"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 09:49:39",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "94,746 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "68"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of LakeviewThe Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-10-04 09:47:35",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,795 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "90"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 09:47:35",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "61"
+    },
+    {
+      "name": "Kaibab NF South Zone Rx Fire",
+      "type": "Prescribed Fire",
+      "summary": "Fire managers on the Kaibab National Forest are planning for the 2021...",
+      "state": "ARIZONA",
+      "updated": "2021-10-04 09:39:06",
+      "lat": "35.982",
+      "lng": "-112.086",
+      "size": "1,500 Acres",
+      "url": "/incident/5922/",
+      "id": "5922",
+      "contained": "0"
+    },
+    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
       "state": "MONTANA",
-      "updated": "2021-10-04 09:30:25",
+      "updated": "2021-10-04 09:34:31",
       "lat": "46.117",
       "lng": "-112.335",
       "size": "21,231 Acres",
@@ -53,19 +131,6 @@
       "contained": "68"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 08:56:13",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "61"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
@@ -77,19 +142,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "73"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 08:40:51",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "94,746 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "68"
     },
     {
       "name": "Mud Lick Fire",
@@ -157,19 +209,6 @@
       "contained": "71"
     },
     {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-03 22:26:55",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -183,19 +222,6 @@
       "contained": "43"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-03 22:21:05",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "61,987 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "67"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -207,19 +233,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of LakeviewThe Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-10-03 19:43:05",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,795 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "90"
     },
     {
       "name": "Ptarmigan Fire",
@@ -505,19 +518,6 @@
       "size": "0 Acres",
       "url": "/incident/7688/",
       "id": "7688",
-      "contained": "0"
-    },
-    {
-      "name": "Kaibab NF South Zone Rx Fire",
-      "type": "Prescribed Fire",
-      "summary": "Fire managers on the Kaibab National Forest are planning for the 2021...",
-      "state": "ARIZONA",
-      "updated": "2021-10-01 09:22:46",
-      "lat": "35.982",
-      "lng": "-112.086",
-      "size": "3,800 Acres",
-      "url": "/incident/5922/",
-      "id": "5922",
       "contained": "0"
     },
     {
