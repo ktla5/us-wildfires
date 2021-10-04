@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 14:50:56",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "94,746 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "68"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "KNP Complex Summary – October 4, 2021 Southwest Area Type 1...",
@@ -12,19 +25,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "11"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 14:26:12",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "94,746 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "68"
     },
     {
       "name": "Caldor Fire",
