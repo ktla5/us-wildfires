@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 21:39:39",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 21:07:24",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
       "name": "South Moccasin ",
       "type": "Wildfire",
       "summary": "The South Moccasin Fire is located northwest of Lewistown, MT in the...",
@@ -11,19 +37,6 @@
       "size": "1,200 Acres",
       "url": "/incident/7858/",
       "id": "7858",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 21:01:52",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
       "contained": "0"
     },
     {
@@ -207,19 +220,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "65"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 16:55:59",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Payette NF 2021 Fall Prescribed Fire",
