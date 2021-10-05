@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
+      "state": "IDAHO",
+      "updated": "2021-10-05 07:29:11",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "87,314 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "72"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-10-05 07:12:10",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
@@ -350,32 +376,6 @@
       "url": "/incident/5922/",
       "id": "5922",
       "contained": "0"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
-      "state": "IDAHO",
-      "updated": "2021-10-04 09:04:28",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "85,937 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "68"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-10-04 07:03:19",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Schneider Springs",
