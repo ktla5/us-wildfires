@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Alder Creek Fire",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-05 09:35:04",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "36,930 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
+      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
+      "state": "OREGON",
+      "updated": "2021-10-05 10:15:13",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
     },
     {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
       "state": "OREGON",
-      "updated": "2021-10-05 09:25:16",
+      "updated": "2021-10-05 10:12:51",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "50,409 Acres",
@@ -27,17 +27,108 @@
       "contained": "72"
     },
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " The Twentyfive Mile fire, located 12 miles northwest of Chelan, WA,...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-05 10:02:03",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,117 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "62"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 10:01:01",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,728 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "75"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 09:58:31",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "61"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Notice: We are aware of social media platforms, Facebook etc. being...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 09:50:10",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "76,768 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "11"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Tuesday morning , the Windy Fire is approximately 97,014...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-05 09:24:00",
+      "updated": "2021-10-05 09:49:36",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,014 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "72"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-05 09:44:27",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
+      "state": "COLORADO",
+      "updated": "2021-10-05 09:40:34",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "86 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "55"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-05 09:36:06",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "36,930 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
     },
     {
       "name": "Trail Creek Fire",
@@ -92,19 +183,6 @@
       "contained": "93"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 08:56:43",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "61"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -131,19 +209,6 @@
       "contained": "81"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
-      "state": "OREGON",
-      "updated": "2021-10-05 00:21:09",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "83"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -155,19 +220,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "65"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Notice: We are aware of social media platforms, Facebook etc. being...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 22:29:51",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "76,768 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "11"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -246,32 +298,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "90"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-04 19:56:57",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
-      "state": "COLORADO",
-      "updated": "2021-10-04 18:38:50",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "86 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "55"
     },
     {
       "name": "Green Ridge Fire",
@@ -363,19 +389,6 @@
       "url": "/incident/7856/",
       "id": "7856",
       "contained": "50"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 12:09:36",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,692 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "73"
     },
     {
       "name": "Kaibab NF South Zone Rx Fire",
@@ -818,19 +831,6 @@
       "url": "/incident/7855/",
       "id": "7855",
       "contained": "100"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " The Twentyfive Mile Fire was reported at 3:45 p.m. on August 15,...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-25 11:18:39",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,117 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "62"
     },
     {
       "name": "Woods Creek Fire",
