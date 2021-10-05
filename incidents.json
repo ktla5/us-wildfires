@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
+      "state": "OREGON",
+      "updated": "2021-10-05 12:03:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-10-05 12:01:38",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Tuesday morning , the Windy Fire is approximately 97,014...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-05 11:31:55",
+      "updated": "2021-10-05 12:01:19",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,014 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "72"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 11:56:47",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,728 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "75"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-10-05 11:56:47",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,409 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "72"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 11:52:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
     },
     {
       "name": "Caldor Fire",
@@ -105,19 +170,6 @@
       "contained": "100"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 10:59:18",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
       "name": "Shedhorn Fire",
       "type": "Wildfire",
       "summary": "",
@@ -131,19 +183,6 @@
       "contained": "60"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 10:53:11",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,728 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "75"
-    },
-    {
       "name": "Ptarmigan Fire",
       "type": "Wildfire",
       "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
@@ -155,32 +194,6 @@
       "url": "/incident/7857/",
       "id": "7857",
       "contained": "55"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-10-05 10:22:19",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,409 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "72"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
-      "state": "OREGON",
-      "updated": "2021-10-05 10:18:45",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "83"
     },
     {
       "name": "Twentyfive Mile",
@@ -623,19 +636,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "100"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2021-10-01 10:47:28",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
-      "contained": "0"
     },
     {
       "name": "McFarland Post-Fire BAER",
