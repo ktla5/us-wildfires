@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 23:27:10",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 23:03:21",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,685 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "79"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "On September 9, 2021, a significant lightning storm moved through the...",
@@ -38,19 +64,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 21:22:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Caldor Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 16:17:12",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,728 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "75"
     },
     {
       "name": "Haystack Fire",
