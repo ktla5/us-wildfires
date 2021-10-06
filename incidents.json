@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-06 06:51:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,001 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "84"
+    },
+    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "",
@@ -155,19 +168,6 @@
       "url": "/incident/6403/",
       "id": "6403",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 18:13:44",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,001 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "84"
     },
     {
       "name": "Ptarmigan Fire",
