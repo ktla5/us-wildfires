@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-06 18:10:04",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "1,269 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "90"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
@@ -792,19 +805,6 @@
       "url": "/incident/7832/",
       "id": "7832",
       "contained": "0"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-28 10:43:54",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "1,269 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "70"
     },
     {
       "name": "Woods Creek BAER",
