@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Magic Feather Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " &amp;#183;Ignitions have concluded for the day (10/07/21) on the Magic...",
+      "state": "COLORADO",
+      "updated": "2021-10-07 18:49:40",
+      "lat": "40.764",
+      "lng": "-105.542",
+      "size": "6,329 Acres",
+      "url": "/incident/6403/",
+      "id": "6403",
+      "contained": "0"
+    },
+    {
       "name": "South Moccasin ",
       "type": "Wildfire",
       "summary": "The South Moccasin Fire began Monday, October 4, 2021 around 12:45pm....",
@@ -194,19 +207,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "83"
-    },
-    {
-      "name": "Magic Feather Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " &amp;#183; Firefighters have begun ignitions on the Magic Feather...",
-      "state": "COLORADO",
-      "updated": "2021-10-07 13:00:20",
-      "lat": "40.764",
-      "lng": "-105.542",
-      "size": "6,329 Acres",
-      "url": "/incident/6403/",
-      "id": "6403",
-      "contained": "0"
     },
     {
       "name": "Crown Mountain Fire",
