@@ -1,30 +1,30 @@
 {
   "markers": [
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "On September 9, 2021, a significant lightning storm moved through the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-07 21:12:43",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "85,952 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "11"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Thursday evening, the Windy Fire is approximately 97,514...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-07 21:12:32",
+      "updated": "2021-10-07 21:18:31",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,514 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "80"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "On September 9, 2021, a significant lightning storm moved through the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-07 21:14:02",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "85,952 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "11"
     },
     {
       "name": "Jack Fire",
