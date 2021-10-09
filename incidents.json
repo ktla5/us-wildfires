@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 18:22:36",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "82"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español  -  Actualización diaria de incendios     Daily...",
@@ -25,19 +38,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "20"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-09 17:35:30",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "82"
     },
     {
       "name": "River Complex 2021",
