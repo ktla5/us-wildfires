@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": " A Type 3 team, with Paul Diaz IC, assumed command of the fire Oct....",
+      "state": "MONTANA",
+      "updated": "2021-10-09 12:56:39",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-10-09 12:49:25",
+      "updated": "2021-10-09 12:50:03",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,124 Acres",
@@ -349,19 +362,6 @@
       "size": "0 Acres",
       "url": "/incident/7847/",
       "id": "7847",
-      "contained": "0"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-07 20:46:36",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
       "contained": "0"
     },
     {
