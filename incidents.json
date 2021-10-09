@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "On September 9, 2021, a significant lightning storm moved through the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 09:31:55",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "85,952 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "20"
+    },
+    {
+      "name": "South Moccasin ",
+      "type": "Wildfire",
+      "summary": "The South Moccasin Fire began Monday, October 4, 2021 around 12:45pm...",
+      "state": "MONTANA",
+      "updated": "2021-10-09 09:24:29",
+      "lat": "47.143",
+      "lng": "-109.534",
+      "size": "12,800 Acres",
+      "url": "/incident/7858/",
+      "id": "7858",
+      "contained": "100"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
@@ -64,19 +90,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "83"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "On September 9, 2021, a significant lightning storm moved through the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-08 22:37:52",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "85,952 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "20"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -194,19 +207,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
-    },
-    {
-      "name": "South Moccasin ",
-      "type": "Wildfire",
-      "summary": "The South Moccasin Fire began Monday, October 4, 2021 around 12:45pm....",
-      "state": "MONTANA",
-      "updated": "2021-10-08 17:15:50",
-      "lat": "47.143",
-      "lng": "-109.534",
-      "size": "12,800 Acres",
-      "url": "/incident/7858/",
-      "id": "7858",
-      "contained": "100"
     },
     {
       "name": "Cub Creek 2 Fire",
