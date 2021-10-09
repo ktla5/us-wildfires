@@ -3,9 +3,9 @@
     {
       "name": "Windy Fire",
       "type": "Wildfire",
-      "summary": " As of Friday evening, the Windy Fire is approximately 97,554 acres...",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-09 08:21:57",
+      "updated": "2021-10-09 08:45:14",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
@@ -18,13 +18,26 @@
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
       "state": "OREGON",
-      "updated": "2021-10-08 23:02:04",
+      "updated": "2021-10-09 08:37:16",
       "lat": "42.892",
       "lng": "-122.853",
       "size": "70,110 Acres",
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "65"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 08:32:47",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "81"
     },
     {
       "name": "Rough Patch",
@@ -64,19 +77,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "20"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-08 21:39:40",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "78"
     },
     {
       "name": "Dixie Fire (CA)",
