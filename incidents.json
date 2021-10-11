@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-11 14:48:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
       "name": "Schneider Springs BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team was recently organized...",
       "state": "WASHINGTON",
-      "updated": "2021-10-11 14:27:16",
+      "updated": "2021-10-11 14:44:26",
       "lat": "46.765",
       "lng": "-120.923",
       "size": "107,322 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "83"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-11 11:13:19",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "River Complex 2021",
