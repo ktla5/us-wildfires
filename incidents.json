@@ -3,15 +3,28 @@
     {
       "name": "Windy Fire",
       "type": "Wildfire",
-      "summary": " As of Tuesday morning, the Windy Fire is approximately 97,554 acres...",
+      "summary": " As of Wednesday morning, the Windy Fire is approximately 97,554...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-13 07:55:02",
+      "updated": "2021-10-13 09:19:56",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "88"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-13 09:07:09",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "65"
     },
     {
       "name": "Boundary Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "46"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-12 10:34:02",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "65"
     },
     {
       "name": "County Line",
