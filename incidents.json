@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-13 09:31:44",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "86"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-13 09:26:47",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "87,786 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "40"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Wednesday morning, the Windy Fire is approximately 97,554...",
@@ -144,19 +170,6 @@
       "contained": "74"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-12 20:47:54",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "87,786 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "40"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
@@ -246,19 +259,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "83"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-12 10:40:25",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "86"
     },
     {
       "name": "Bull Complex ",
