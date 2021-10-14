@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-14 18:27:17",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "16,801 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "5"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Daily Update | Public Information Map | Daily Operations...",
@@ -77,19 +90,6 @@
       "url": "/incident/7865/",
       "id": "7865",
       "contained": "0"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-14 15:30:59",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "16,801 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "5"
     },
     {
       "name": "Muddy Slide Fire",
@@ -1793,19 +1793,6 @@
       "url": "/incident/7673/",
       "id": "7673",
       "contained": "0"
-    },
-    {
-      "name": "Pinnacle Fire",
-      "type": "Wildfire",
-      "summary": "Pinnacle Fire 100% contained at 3PM July 16,",
-      "state": "ARIZONA",
-      "updated": "2021-07-16 18:32:32",
-      "lat": "32.865",
-      "lng": "-110.201",
-      "size": "34,417 Acres",
-      "url": "/incident/7523/",
-      "id": "7523",
-      "contained": "100"
     }
   ]
 }
