@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-14 12:30:01",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "16,801 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "5"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-14 12:26:47",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "65"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -51,19 +77,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "100"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-14 11:20:43",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "16,801 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "5"
     },
     {
       "name": "KNP Complex ",
@@ -142,19 +155,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "86"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-14 09:11:11",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "65"
     },
     {
       "name": "Mud Lick Fire",
