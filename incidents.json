@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "David Canyon RX - Sandia RD",
+      "type": "Prescribed Fire",
+      "summary": "The primary objective of this burn is hazard fuel reduction.  Fuel...",
+      "state": "NEW MEXICO",
+      "updated": "2021-10-14 15:17:20",
+      "lat": "34.984",
+      "lng": "-106.35",
+      "size": "459 Acres",
+      "url": "/incident/7864/",
+      "id": "7864",
+      "contained": "0"
+    },
+    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "The Muddy Slide Fire remains 4,093 acres and 80% contained. The fire...",
