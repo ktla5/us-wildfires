@@ -5,13 +5,39 @@
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-15 01:36:40",
+      "updated": "2021-10-15 08:32:55",
       "lat": "36",
       "lng": "-118.513",
       "size": "0 Acres",
       "url": "/incident/7866/",
       "id": "7866",
       "contained": "0"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-10-15 08:29:17",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,586 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "100"
+    },
+    {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-15 08:27:53",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "16,901 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "41"
     },
     {
       "name": "Caldor Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "45"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-14 22:40:20",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "16,801 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "11"
     },
     {
       "name": "McCash Fire",
@@ -1169,19 +1182,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "99"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-09-17 08:25:37",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,586 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "36"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
