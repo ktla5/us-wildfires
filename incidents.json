@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-15 12:30:28",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "87,786 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "45"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -64,19 +77,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "91"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-15 10:08:00",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "87,786 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "45"
     },
     {
       "name": "Tiltill",
