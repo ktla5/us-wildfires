@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-15 15:38:46",
-      "lat": "39.879",
-      "lng": "-121.379",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Friday morning, the Windy Fire is approximately 97,554 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-15 15:38:09",
+      "updated": "2021-10-15 15:49:09",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-15 15:33:21",
+      "updated": "2021-10-15 15:42:16",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,835 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "98"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-15 15:42:14",
+      "lat": "39.879",
+      "lng": "-121.379",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
     },
     {
       "name": "KNP Complex ",
