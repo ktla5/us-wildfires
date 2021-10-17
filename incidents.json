@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 17:29:03",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "17,253 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "78"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 17:18:40",
+      "updated": "2021-10-17 17:25:43",
       "lat": "39.879",
       "lng": "-121.379",
       "size": "963,309 Acres",
@@ -18,26 +31,13 @@
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 17:18:08",
+      "updated": "2021-10-17 17:24:23",
       "lat": "38.753",
       "lng": "-120.333",
       "size": "0 Acres",
       "url": "/incident/7842/",
       "id": "7842",
       "contained": "0"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 17:17:17",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "17,253 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "78"
     },
     {
       "name": "KNP Complex ",
