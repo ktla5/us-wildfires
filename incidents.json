@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-16 22:22:58",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "93"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-16 22:20:47",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-16 21:48:32",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "88"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -12,19 +51,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-16 21:42:13",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "88"
     },
     {
       "name": "Monument Fire",
@@ -53,19 +79,6 @@
       "contained": "53"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-16 21:02:01",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "93"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
@@ -90,19 +103,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "55"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-16 19:13:47",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "Fall 2021 Bastrop County Prescribed Burn",
