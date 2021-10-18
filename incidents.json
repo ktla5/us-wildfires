@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 22:21:55",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "17,254 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "78"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 21:45:50",
+      "updated": "2021-10-17 21:59:36",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "94,962 Acres",
@@ -14,30 +27,30 @@
       "contained": "93"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 21:41:36",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "88,068 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "55"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 21:32:35",
+      "updated": "2021-10-17 21:56:43",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "88"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 21:47:55",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "88,068 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "55"
     },
     {
       "name": "Monument Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "92"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 20:21:09",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "17,254 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "78"
     },
     {
       "name": "Dixie Fire (CA)",
