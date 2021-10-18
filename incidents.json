@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Crown Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Crown Mountain Fire started within the Forest boundary of the...",
+      "state": "MONTANA",
+      "updated": "2021-10-18 17:20:51",
+      "lat": "47.379",
+      "lng": "-112.701",
+      "size": "1,368 Acres",
+      "url": "/incident/7859/",
+      "id": "7859",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-10-18 16:57:11",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "418 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "100"
+    },
+    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "The Lukens Fire is one of several fires still burning in Yosemite...",
@@ -547,19 +573,6 @@
       "contained": "89"
     },
     {
-      "name": "Crown Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Crown Mountain Fire started within the Forest boundary of the...",
-      "state": "MONTANA",
-      "updated": "2021-10-13 15:56:31",
-      "lat": "47.379",
-      "lng": "-112.701",
-      "size": "1,368 Acres",
-      "url": "/incident/7859/",
-      "id": "7859",
-      "contained": "0"
-    },
-    {
       "name": "Willow Fire",
       "type": "Wildfire",
       "summary": "Los Padres National Forest completed its post-fire assessment for...",
@@ -818,19 +831,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-10-05 11:03:11",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "418 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "100"
     },
     {
       "name": "Dixie Post-Fire BAER",
