@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily Update | Public Information Map | Daily Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 21:17:27",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "94"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 20:58:13",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "199,343 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "92"
+    },
+    {
       "name": "Alisal Fire",
       "type": "Wildfire",
       "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 20:19:07",
+      "updated": "2021-10-17 20:21:09",
       "lat": "34.517",
       "lng": "-120.131",
       "size": "17,254 Acres",
@@ -66,19 +92,6 @@
       "contained": "98"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily Update | Public Information Map | Daily Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 11:59:02",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "94"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
@@ -129,19 +142,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 10:55:55",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "199,343 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "92"
     },
     {
       "name": "Windy Post-Fire BAER",
