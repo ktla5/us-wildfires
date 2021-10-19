@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-19 13:51:19",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "17,254 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "93"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
@@ -25,19 +38,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "92"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-19 12:35:59",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "17,254 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "93"
     },
     {
       "name": "Dixie Fire (CA)",
