@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-19 12:02:47",
+      "lat": "39.876",
+      "lng": "-121.379",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "95"
+    },
+    {
       "name": "Caldor Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "SPECIAL SAFETY NOTE: Everyone near and downstream from the burned...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-19 11:37:07",
+      "updated": "2021-10-19 11:38:37",
       "lat": "38.753",
       "lng": "-120.333",
       "size": "0 Acres",
       "url": "/incident/7842/",
       "id": "7842",
       "contained": "0"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-19 11:37:31",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "91"
     },
     {
       "name": "Monument Fire",
@@ -25,19 +51,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "94"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Tuesday morning, the Windy Fire is approximately 97,554 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-19 11:17:07",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "91"
     },
     {
       "name": "Shasta-Trinity RX Burning 2021-2022",
@@ -129,19 +142,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 21:51:17",
-      "lat": "39.876",
-      "lng": "-121.379",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "95"
     },
     {
       "name": "River Complex Post-Fire BAER",
