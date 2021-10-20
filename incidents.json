@@ -1,30 +1,43 @@
 {
   "markers": [
     {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-20 08:49:49",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "17,281 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "97"
-    },
-    {
       "name": "McCash Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-20 08:49:00",
+      "updated": "2021-10-20 09:16:54",
       "lat": "41.664",
       "lng": "-123.338",
       "size": "0 Acres",
       "url": "/incident/7870/",
       "id": "7870",
       "contained": "0"
+    },
+    {
+      "name": "Fall 2021 Bastrop County Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " Texas A&amp;M Forest Service is planning for several prescribed burns...",
+      "state": "TEXAS",
+      "updated": "2021-10-20 09:15:59",
+      "lat": "30.102",
+      "lng": "-97.306",
+      "size": "2,800 Acres",
+      "url": "/incident/7867/",
+      "id": "7867",
+      "contained": "0"
+    },
+    {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-20 08:52:37",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "17,281 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "97"
     },
     {
       "name": "KNP Complex ",
@@ -128,19 +141,6 @@
       "size": "150 Acres",
       "url": "/incident/7861/",
       "id": "7861",
-      "contained": "0"
-    },
-    {
-      "name": "Fall 2021 Bastrop County Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " Texas A&amp;M Forest Service is planning for several prescribed burns...",
-      "state": "TEXAS",
-      "updated": "2021-10-19 16:58:44",
-      "lat": "30.102",
-      "lng": "-97.306",
-      "size": "2,800 Acres",
-      "url": "/incident/7867/",
-      "id": "7867",
       "contained": "0"
     },
     {
@@ -1364,19 +1364,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "20"
-    },
-    {
-      "name": "Oak Grove Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
-      "state": "UTAH",
-      "updated": "2021-09-05 08:44:42",
-      "lat": "37.318",
-      "lng": "-113.454",
-      "size": "686 Acres",
-      "url": "/incident/7826/",
-      "id": "7826",
-      "contained": "50"
     },
     {
       "name": "Fox Complex",
