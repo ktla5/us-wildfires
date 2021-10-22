@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " SPECIAL NOTE: Everyone near and downstream from the burned areas...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-22 18:15:36",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
       "name": "Alisal Fire",
       "type": "Wildfire",
-      "summary": "YesterdayFirefighters completely secured north, east, south and most...",
+      "summary": "Yesterday Firefighters completely secured north, east, south and...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-22 17:50:27",
+      "updated": "2021-10-22 18:14:09",
       "lat": "34.517",
       "lng": "-120.131",
       "size": "16,962 Acres",
@@ -90,19 +103,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "100"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " SPECIAL NOTE: Everyone near and downstream from the burned areas...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-22 13:20:11",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
     },
     {
       "name": "KNP Complex ",
