@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Fall 2021 Bastrop County Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " Texas A&amp;M Forest Service is planning for several prescribed burns...",
+      "state": "TEXAS",
+      "updated": "2021-10-25 13:34:30",
+      "lat": "30.102",
+      "lng": "-97.306",
+      "size": "2,800 Acres",
+      "url": "/incident/7867/",
+      "id": "7867",
+      "contained": "0"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": " On September 9, 2021, a significant lightning storm moved through...",
@@ -336,19 +349,6 @@
       "size": "107,322 Acres",
       "url": "/incident/7860/",
       "id": "7860",
-      "contained": "0"
-    },
-    {
-      "name": "Fall 2021 Bastrop County Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " Texas A&amp;M Forest Service is planning for several prescribed burns...",
-      "state": "TEXAS",
-      "updated": "2021-10-20 09:15:59",
-      "lat": "30.102",
-      "lng": "-97.306",
-      "size": "2,800 Acres",
-      "url": "/incident/7867/",
-      "id": "7867",
       "contained": "0"
     },
     {
