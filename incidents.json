@@ -1,30 +1,30 @@
 {
   "markers": [
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-25 21:43:01",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "99"
-    },
-    {
       "name": "Windy Fire",
       "type": "Wildfire",
-      "summary": " A FLASH FLOOD WATCH IS IN EFFECT FOR THE WINDY FIRE  AREA SPECIAL...",
+      "summary": "This Windy Fire inciweb page will no longer be updated on a regular...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-25 21:33:21",
+      "updated": "2021-10-25 22:22:28",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "92"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "Updates will be posted on this page only as events warrant.The McCash...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-25 22:20:53",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "97"
     },
     {
       "name": "Dixie Fire (CA)",
