@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Alisal Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "  SPECIAL SAFETY NOTE: Everyone near and downstream from the burned...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-26 12:01:43",
+      "lat": "34.5",
+      "lng": "-120.047",
+      "size": "0 Acres",
+      "url": "/incident/7873/",
+      "id": "7873",
+      "contained": "0"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "On October 25 at 7:00 a.m., the fire will transition to a local type...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-26 11:37:02",
+      "updated": "2021-10-26 11:41:23",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,835 Acres",
@@ -38,19 +51,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "69"
-    },
-    {
-      "name": "Alisal Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "  SPECIAL SAFETY NOTE: Everyone near and downstream from the burned...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-26 02:23:42",
-      "lat": "34.5",
-      "lng": "-120.047",
-      "size": "0 Acres",
-      "url": "/incident/7873/",
-      "id": "7873",
-      "contained": "0"
     },
     {
       "name": "Windy Fire",
