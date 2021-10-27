@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-10-27 18:50:59",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "13,199 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "95"
+    },
+    {
       "name": "La Gloria Fire",
       "type": "Wildfire",
       "summary": "Firefighters are currently responding to the La Gloria Fire in Starr...",
       "state": "TEXAS",
-      "updated": "2021-10-27 18:21:46",
+      "updated": "2021-10-27 18:48:46",
       "lat": "26.726",
       "lng": "-98.514",
       "size": "500 Acres",
@@ -609,19 +622,6 @@
       "size": "6,631 Acres",
       "url": "/incident/7648/",
       "id": "7648",
-      "contained": "100"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-10-14 11:46:01",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "13,199 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
       "contained": "100"
     },
     {
