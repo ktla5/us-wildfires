@@ -5,13 +5,13 @@
       "type": "Wildfire",
       "summary": "Firefighters are currently responding to the Sterling 350 Fire...",
       "state": "TEXAS",
-      "updated": "2021-10-28 17:09:08",
+      "updated": "2021-10-28 17:49:07",
       "lat": "32.459",
       "lng": "-101.264",
       "size": "171 Acres",
       "url": "/incident/7879/",
       "id": "7879",
-      "contained": "50"
+      "contained": "100"
     },
     {
       "name": "Red Fence Fire",
