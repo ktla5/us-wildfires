@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Southwest District BLM Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
+      "state": "COLORADO",
+      "updated": "2021-10-29 16:27:37",
+      "lat": "37.903",
+      "lng": "-108.826",
+      "size": "0 Acres",
+      "url": "/incident/7852/",
+      "id": "7852",
+      "contained": "0"
+    },
+    {
       "name": "Buck Fire",
       "type": "Wildfire",
       "summary": " The Buck Fire started some time on the Afternoon of Thursday,...",
@@ -12,19 +25,6 @@
       "url": "/incident/7880/",
       "id": "7880",
       "contained": "45"
-    },
-    {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2021-10-29 16:17:08",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
-      "contained": "0"
     },
     {
       "name": "Prescribed Fire Projects 2021",
