@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": " Transition of the Monument Fire will transition back to the local...",
       "state": "CALIFORNIA",
-      "updated": "2021-11-01 15:21:36",
+      "updated": "2021-11-01 15:46:46",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,124 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "100"
+    },
+    {
+      "name": "Buck Fire",
+      "type": "Wildfire",
+      "summary": " The Buck Fire started some time on the Afternoon of Thursday,...",
+      "state": "TEXAS",
+      "updated": "2021-11-01 15:41:29",
+      "lat": "32.972",
+      "lng": "-99.368",
+      "size": "15,000 Acres",
+      "url": "/incident/7880/",
+      "id": "7880",
+      "contained": "90"
+    },
+    {
+      "name": "Hamilton Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service is working in unified command with the...",
+      "state": "TEXAS",
+      "updated": "2021-11-01 15:30:48",
+      "lat": "33.987",
+      "lng": "-100.935",
+      "size": "627 Acres",
+      "url": "/incident/7882/",
+      "id": "7882",
+      "contained": "90"
     },
     {
       "name": "KNP Complex ",
@@ -24,19 +50,6 @@
       "size": "88,307 Acres",
       "url": "/incident/7838/",
       "id": "7838",
-      "contained": "75"
-    },
-    {
-      "name": "Buck Fire",
-      "type": "Wildfire",
-      "summary": " The Buck Fire started some time on the Afternoon of Thursday,...",
-      "state": "TEXAS",
-      "updated": "2021-11-01 10:39:31",
-      "lat": "32.972",
-      "lng": "-99.368",
-      "size": "15,000 Acres",
-      "url": "/incident/7880/",
-      "id": "7880",
       "contained": "75"
     },
     {
@@ -64,19 +77,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "100"
-    },
-    {
-      "name": "Hamilton Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service is working in unified command with the...",
-      "state": "TEXAS",
-      "updated": "2021-10-31 20:14:15",
-      "lat": "33.987",
-      "lng": "-100.935",
-      "size": "627 Acres",
-      "url": "/incident/7882/",
-      "id": "7882",
-      "contained": "75"
     },
     {
       "name": "Monument-Knob Post-Fire BAER",
