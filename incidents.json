@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Crown Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Crown Mountain Fire started within the Forest boundary of the...",
+      "state": "MONTANA",
+      "updated": "2021-11-02 15:49:41",
+      "lat": "47.379",
+      "lng": "-112.701",
+      "size": "1,379 Acres",
+      "url": "/incident/7859/",
+      "id": "7859",
+      "contained": "5"
+    },
+    {
       "name": "Liberty Prescribed Fire",
       "type": "Prescribed Fire",
-      "summary": "Liberty Prescribed Fire InformationGreat Sand Dunes National Park and...",
+      "summary": "Liberty Prescribed Fire Information Great Sand Dunes National Park...",
       "state": "COLORADO",
-      "updated": "2021-11-02 15:17:31",
+      "updated": "2021-11-02 15:36:18",
       "lat": "37.905",
       "lng": "-105.685",
       "size": "0 Acres",
@@ -428,19 +441,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Crown Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Crown Mountain Fire started within the Forest boundary of the...",
-      "state": "MONTANA",
-      "updated": "2021-10-22 11:02:58",
-      "lat": "47.379",
-      "lng": "-112.701",
-      "size": "1,379 Acres",
-      "url": "/incident/7859/",
-      "id": "7859",
-      "contained": "5"
     },
     {
       "name": "2021 Umatilla NF Prescribed Fire",
