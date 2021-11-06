@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-11-06 11:34:45",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "88,307 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "75"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "On September 9, 2021 the Windy Fire was ignited by lightning on the...",
@@ -53,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Derby Ditch Rx",
-      "type": "Prescribed Fire",
-      "summary": " Derby Ditch Prescribed Burn Successful First of Four Planned for...",
-      "state": "INDIANA",
-      "updated": "2021-11-05 17:26:46",
-      "lat": "41.681",
-      "lng": "-86.987",
-      "size": "0 Acres",
-      "url": "/incident/7886/",
-      "id": "7886",
-      "contained": "0"
-    },
-    {
       "name": "North Complex",
       "type": "Wildfire",
       "summary": " Incident Start Date: 8/17/2020   Size: 318,935 acres ...",
@@ -77,19 +77,6 @@
       "url": "/incident/6997/",
       "id": "6997",
       "contained": "100"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-11-04 18:18:28",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "88,307 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "75"
     },
     {
       "name": "Valley RX Burns",
