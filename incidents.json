@@ -703,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "October 14, 2021 Final Update: The Hay Creek Fire was declared...",
-      "state": "MONTANA",
-      "updated": "2021-10-15 13:34:38",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "100"
-    },
-    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -922,19 +909,6 @@
       "url": "/incident/7847/",
       "id": "7847",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex (Thorne Creek)",
-      "type": "Wildfire",
-      "summary": "This Thorne Creek Fire/West Lolo Complex InciWeb Page is not being...",
-      "state": "MONTANA",
-      "updated": "2021-10-07 15:10:24",
-      "lat": "47.397",
-      "lng": "-115.076",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "100"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
