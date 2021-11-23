@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Valle Vidal Hart Canyon Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "Fire managers on the Carson National Forest started to implement the...",
+      "state": "NEW MEXICO",
+      "updated": "2021-11-23 10:45:59",
+      "lat": "36.782",
+      "lng": "-105.068",
+      "size": "5,600 Acres",
+      "url": "/incident/7893/",
+      "id": "7893",
+      "contained": "0"
+    },
+    {
       "name": "Kruger Rock Fire",
       "type": "Wildfire",
       "summary": "From Larimer County Sheriff's Office Media Release &quot;Kruger Rock Fire...",
@@ -154,19 +167,6 @@
       "size": "0 Acres",
       "url": "/incident/7889/",
       "id": "7889",
-      "contained": "0"
-    },
-    {
-      "name": "Valle Vidal Hart Canyon Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "Fire managers on the Carson National Forest started to implement the...",
-      "state": "NEW MEXICO",
-      "updated": "2021-11-18 13:28:06",
-      "lat": "36.782",
-      "lng": "-105.068",
-      "size": "6,529 Acres",
-      "url": "/incident/7893/",
-      "id": "7893",
       "contained": "0"
     },
     {
