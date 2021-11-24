@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Kruger Rock Fire",
+      "type": "Wildfire",
+      "summary": "From Larimer County Sheriff's Office Media Release &quot;Kruger Rock Fire...",
+      "state": "COLORADO",
+      "updated": "2021-11-24 11:03:40",
+      "lat": "40.338",
+      "lng": "-105.497",
+      "size": "147 Acres",
+      "url": "/incident/7895/",
+      "id": "7895",
+      "contained": "100"
+    },
+    {
       "name": "Indiana Dunes Fall 2021 Prescribed Fire",
       "type": "Prescribed Fire",
       "summary": " The National Park Service is planning four prescribed fires this...",
@@ -12,19 +25,6 @@
       "url": "/incident/7885/",
       "id": "7885",
       "contained": "0"
-    },
-    {
-      "name": "Kruger Rock Fire",
-      "type": "Wildfire",
-      "summary": "From Larimer County Sheriff's Office Media Release &quot;Kruger Rock Fire...",
-      "state": "COLORADO",
-      "updated": "2021-11-23 15:33:15",
-      "lat": "40.338",
-      "lng": "-105.497",
-      "size": "147 Acres",
-      "url": "/incident/7895/",
-      "id": "7895",
-      "contained": "100"
     },
     {
       "name": "Prescribed Fire Projects 2021",
