@@ -1403,32 +1403,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "100"
-    },
-    {
-      "name": "Lava Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 19:57:17",
-      "lat": "41.425",
-      "lng": "-122.261",
-      "size": "0 Acres",
-      "url": "/incident/7693/",
-      "id": "7693",
-      "contained": "0"
-    },
-    {
-      "name": "Salt Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 19:57:13",
-      "lat": "40.916",
-      "lng": "-122.403",
-      "size": "0 Acres",
-      "url": "/incident/7697/",
-      "id": "7697",
-      "contained": "0"
     }
   ]
 }
