@@ -1,30 +1,30 @@
 {
   "markers": [
     {
+      "name": "North 207 Fire",
+      "type": "Wildfire",
+      "summary": "At 1:15 pm on Wednesday December 15th, Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2021-12-18 14:11:19",
+      "lat": "35.551",
+      "lng": "-101.332",
+      "size": "23,810 Acres",
+      "url": "/incident/7917/",
+      "id": "7917",
+      "contained": "93"
+    },
+    {
       "name": "Parker Creek Fire",
       "type": "Wildfire",
       "summary": " Amarillo, Texas - On Wednesday, December 15th the Parker Creek...",
       "state": "TEXAS",
-      "updated": "2021-12-18 13:47:49",
+      "updated": "2021-12-18 14:10:39",
       "lat": "35.625",
       "lng": "-102.367",
       "size": "11,067 Acres",
       "url": "/incident/7914/",
       "id": "7914",
       "contained": "100"
-    },
-    {
-      "name": "North 207 Fire",
-      "type": "Wildfire",
-      "summary": "At 1:15 pm on Wednesday December 15th, Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2021-12-18 09:24:16",
-      "lat": "35.551",
-      "lng": "-101.332",
-      "size": "23,810 Acres",
-      "url": "/incident/7917/",
-      "id": "7917",
-      "contained": "90"
     },
     {
       "name": "KNP Complex ",
