@@ -1,29 +1,29 @@
 {
   "markers": [
     {
-      "name": "2022 Humboldt-Toiyabe Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": " As part of Humboldt-Toiyabe National Forest’s hazardous fuels...",
-      "state": "NEVADA",
-      "updated": "2022-01-05 15:50:26",
-      "lat": "39.524",
-      "lng": "-119.769",
-      "size": "0 Acres",
-      "url": "/incident/7310/",
-      "id": "7310",
-      "contained": "0"
-    },
-    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
       "state": "COLORADO",
-      "updated": "2022-01-05 10:08:49",
+      "updated": "2022-01-05 16:21:47",
       "lat": "37.903",
       "lng": "-108.826",
       "size": "0 Acres",
       "url": "/incident/7852/",
       "id": "7852",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Prescribed Fire",
+      "type": "Prescribed Fire",
+      "summary": " As part of Humboldt-Toiyabe National Forest’s hazardous fuels...",
+      "state": "NEVADA",
+      "updated": "2022-01-05 15:55:37",
+      "lat": "39.524",
+      "lng": "-119.769",
+      "size": "0 Acres",
+      "url": "/incident/7310/",
+      "id": "7310",
       "contained": "0"
     },
     {
