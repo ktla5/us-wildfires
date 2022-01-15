@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "On the afternoon of January 14, 2022, a wildfire started outside the...",
       "state": "TEXAS",
-      "updated": "2022-01-15 10:38:38",
+      "updated": "2022-01-15 11:04:12",
       "lat": "35.794",
       "lng": "-101.43",
       "size": "177 Acres",
@@ -688,19 +688,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "63"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "   The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-10-17 11:08:13",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
     }
   ]
 }
