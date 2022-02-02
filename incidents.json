@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Fairchild State Forest Rx Fires 2022",
+      "type": "Prescribed Fire",
+      "summary": "Texas A&amp;M Forest Service is planning for several prescribed burns to...",
+      "state": "TEXAS",
+      "updated": "2022-02-02 10:48:27",
+      "lat": "31.787",
+      "lng": "-95.354",
+      "size": "387 Acres",
+      "url": "/incident/7935/",
+      "id": "7935",
+      "contained": "0"
+    },
+    {
       "name": "Leona GLO Prescribed Fires 2022",
       "type": "Prescribed Fire",
       "summary": "Texas A&amp;M Forest Service is planning for prescribed burns to take...",
@@ -50,19 +63,6 @@
       "size": "2,092 Acres",
       "url": "/incident/7943/",
       "id": "7943",
-      "contained": "0"
-    },
-    {
-      "name": "Fairchild State Forest Rx Fires 2022",
-      "type": "Prescribed Fire",
-      "summary": "Texas A&amp;M Forest Service is planning for several prescribed burns to...",
-      "state": "TEXAS",
-      "updated": "2022-02-02 10:33:01",
-      "lat": "31.787",
-      "lng": "-95.354",
-      "size": "67 Acres",
-      "url": "/incident/7935/",
-      "id": "7935",
       "contained": "0"
     },
     {
