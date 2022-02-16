@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Key Fire",
+      "type": "Wildfire",
+      "summary": "On February 15, 2022, at 2:00 PM, a wildfire started approximately 10...",
+      "state": "TEXAS",
+      "updated": "2022-02-15 20:16:02",
+      "lat": "33.346",
+      "lng": "-98.067",
+      "size": "700 Acres",
+      "url": "/incident/7972/",
+      "id": "7972",
+      "contained": "50"
+    },
+    {
       "name": "Experiment Station #1 Fire",
       "type": "Wildfire",
       "summary": "Firefighters are currently engaged in a wildfire in Crockett County,...",
       "state": "TEXAS",
-      "updated": "2022-02-15 19:20:03",
+      "updated": "2022-02-15 20:00:41",
       "lat": "31.039",
       "lng": "-101.166",
-      "size": "150 Acres",
+      "size": "339 Acres",
       "url": "/incident/7974/",
       "id": "7974",
-      "contained": "50"
+      "contained": "75"
+    },
+    {
+      "name": "Seep Draw Complex",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in multiple wildfires in Irion...",
+      "state": "TEXAS",
+      "updated": "2022-02-15 19:49:50",
+      "lat": "31.191",
+      "lng": "-100.944",
+      "size": "514 Acres",
+      "url": "/incident/7973/",
+      "id": "7973",
+      "contained": "95"
     },
     {
       "name": "Hawk Fire",
@@ -25,32 +51,6 @@
       "url": "/incident/7975/",
       "id": "7975",
       "contained": "35"
-    },
-    {
-      "name": "Seet Draw Complex",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in multiple wildfires in Irion...",
-      "state": "TEXAS",
-      "updated": "2022-02-15 15:54:55",
-      "lat": "31.191",
-      "lng": "-100.944",
-      "size": "320 Acres",
-      "url": "/incident/7973/",
-      "id": "7973",
-      "contained": "0"
-    },
-    {
-      "name": "Key Fire",
-      "type": "Wildfire",
-      "summary": "On February 15, 2022, at 2:00 PM, a wildfire started approximately 10...",
-      "state": "TEXAS",
-      "updated": "2022-02-15 15:42:58",
-      "lat": "33.346",
-      "lng": "-98.067",
-      "size": "70 Acres",
-      "url": "/incident/7972/",
-      "id": "7972",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Prescribed Fire",
