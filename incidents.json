@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Baney Unit 3C RX Fire - Magdalena RD",
+      "type": "Prescribed Fire",
+      "summary": " Prescribed fires are one of the most effective tools available to...",
+      "state": "NEW MEXICO",
+      "updated": "2022-02-23 11:22:42",
+      "lat": "33.786",
+      "lng": "-107.612",
+      "size": "291 Acres",
+      "url": "/incident/7883/",
+      "id": "7883",
+      "contained": "0"
+    },
+    {
+      "name": "Sulphur Canyon &amp; Hondo Canyon Pile Burns",
+      "type": "Prescribed Fire",
+      "summary": "Cibola National Forest and National Grasslands fire crews are...",
+      "state": "NEW MEXICO",
+      "updated": "2022-02-23 11:20:49",
+      "lat": "35.16",
+      "lng": "-106.38",
+      "size": "0 Acres",
+      "url": "/incident/7948/",
+      "id": "7948",
+      "contained": "0"
+    },
+    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
       "state": "COLORADO",
-      "updated": "2022-02-23 11:00:17",
+      "updated": "2022-02-23 11:02:33",
       "lat": "37.903",
       "lng": "-108.826",
       "size": "0 Acres",
@@ -219,19 +245,6 @@
       "size": "0 Acres",
       "url": "/incident/7949/",
       "id": "7949",
-      "contained": "0"
-    },
-    {
-      "name": "Sulphur Canyon &amp; Hondo Canyon Pile Burns",
-      "type": "Prescribed Fire",
-      "summary": "Cibola National Forest and National Grasslands fire crews are...",
-      "state": "NEW MEXICO",
-      "updated": "2022-02-08 14:14:38",
-      "lat": "35.16",
-      "lng": "-106.38",
-      "size": "0 Acres",
-      "url": "/incident/7948/",
-      "id": "7948",
       "contained": "0"
     },
     {
