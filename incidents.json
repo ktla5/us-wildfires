@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Schulz Tract Prescribed Fires 2022",
+      "type": "Prescribed Fire",
+      "summary": "Texas A&amp;M Forest Service is planning for a prescribed burn to take...",
+      "state": "TEXAS",
+      "updated": "2022-02-24 10:00:38",
+      "lat": "29.926",
+      "lng": "-97.254",
+      "size": "208 Acres",
+      "url": "/incident/7985/",
+      "id": "7985",
+      "contained": "0"
+    },
+    {
       "name": "Camp Swift Prescribed Fires 2022",
       "type": "Prescribed Fire",
       "summary": "Texas A&amp;M Forest Service is planning for several prescribed burns to...",
