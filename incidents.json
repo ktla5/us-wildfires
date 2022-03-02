@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Oak Mott Fire",
+      "type": "Wildfire",
+      "summary": "Firefighting are currently responding to the Oak Mott Fire located...",
+      "state": "TEXAS",
+      "updated": "2022-03-02 16:49:27",
+      "lat": "26.603",
+      "lng": "-97.623",
+      "size": "600 Acres",
+      "url": "/incident/7986/",
+      "id": "7986",
+      "contained": "5"
+    },
+    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
