@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Fain Fire",
+      "type": "Wildfire",
+      "summary": "On 3/03/2022 wildfire started in Potter County off of Highway 287....",
+      "state": "TEXAS",
+      "updated": "2022-03-03 16:48:21",
+      "lat": "35.521",
+      "lng": "-101.916",
+      "size": "0 Acres",
+      "url": "/incident/7988/",
+      "id": "7988",
+      "contained": "0"
+    },
+    {
       "name": "Jim Fire",
       "type": "Wildfire",
       "summary": " The Jim Fire began March 2, 2022, at approximately 11:20 a.m. on...",
