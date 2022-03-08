@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Miller Fire",
+      "type": "Wildfire",
+      "summary": "The Miller Fire, located off Highway 281 near Falfurrias in Brooks...",
+      "state": "TEXAS",
+      "updated": "2022-03-08 09:49:33",
+      "lat": "27.198",
+      "lng": "-98.145",
+      "size": "271 Acres",
+      "url": "/incident/7990/",
+      "id": "7990",
+      "contained": "100"
+    },
+    {
+      "name": "Oak Mott Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters have responded to the Oak Mott Fire located three miles...",
+      "state": "TEXAS",
+      "updated": "2022-03-08 09:47:45",
+      "lat": "26.603",
+      "lng": "-97.623",
+      "size": "873 Acres",
+      "url": "/incident/7986/",
+      "id": "7986",
+      "contained": "100"
+    },
+    {
       "name": "San Juan NF Prescribed Fire Program",
       "type": "Prescribed Fire",
       "summary": "The San Juan National Forest Fuels Management Staff are planning pile...",
@@ -53,19 +79,6 @@
       "contained": "100"
     },
     {
-      "name": "Miller Fire",
-      "type": "Wildfire",
-      "summary": "The Miller Fire, located off Highway 281 near Falfurrias in Brooks...",
-      "state": "TEXAS",
-      "updated": "2022-03-06 16:03:47",
-      "lat": "27.198",
-      "lng": "-98.145",
-      "size": "271 Acres",
-      "url": "/incident/7990/",
-      "id": "7990",
-      "contained": "100"
-    },
-    {
       "name": "Hoosier National Forest Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "Bedford, Indiana. October 22, 2021 — The U.S. Forest Service plans...",
@@ -90,19 +103,6 @@
       "url": "/incident/7945/",
       "id": "7945",
       "contained": "0"
-    },
-    {
-      "name": "Oak Mott Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters have responded to the Oak Mott Fire located three miles...",
-      "state": "TEXAS",
-      "updated": "2022-03-03 12:12:35",
-      "lat": "26.603",
-      "lng": "-97.623",
-      "size": "873 Acres",
-      "url": "/incident/7986/",
-      "id": "7986",
-      "contained": "60"
     },
     {
       "name": "Cleveland RX Burning 2022",
