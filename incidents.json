@@ -3,15 +3,15 @@
     {
       "name": "Buddy Fire",
       "type": "Wildfire",
-      "summary": "TAMFS was requested to the Buddy Fire 8 miles WNW of Johnson City,...",
+      "summary": "",
       "state": "TEXAS",
-      "updated": "2022-03-14 08:30:30",
+      "updated": "2022-03-14 08:50:30",
       "lat": "20.317",
       "lng": "-98.538",
-      "size": "0 Acres",
+      "size": "1,000 Acres",
       "url": "/incident/7996/",
       "id": "7996",
-      "contained": "0"
+      "contained": "70"
     },
     {
       "name": "Hippy Ridge",
