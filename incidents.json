@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Indiana Dunes NP Spring 2022",
+      "type": "Prescribed Fire",
+      "summary": " Indiana Dunes National Park is planning 6 prescribed fires for the...",
+      "state": "INDIANA",
+      "updated": "2022-03-16 08:51:11",
+      "lat": "41.617",
+      "lng": "-87.19",
+      "size": "0 Acres",
+      "url": "/incident/8001/",
+      "id": "8001",
+      "contained": "0"
+    },
+    {
+      "name": "Hoosier National Forest Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "Bedford, Indiana. October 22, 2021 — The U.S. Forest Service plans...",
+      "state": "INDIANA",
+      "updated": "2022-03-16 08:50:44",
+      "lat": "38.556",
+      "lng": "-86.468",
+      "size": "0 Acres",
+      "url": "/incident/7887/",
+      "id": "7887",
+      "contained": "0"
+    },
+    {
+      "name": "Buddy Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "TEXAS",
+      "updated": "2022-03-16 08:41:53",
+      "lat": "30.317",
+      "lng": "-98.538",
+      "size": "1,469 Acres",
+      "url": "/incident/7996/",
+      "id": "7996",
+      "contained": "100"
+    },
+    {
       "name": "Crews Gap",
       "type": "Wildfire",
       "summary": " The Crews Gap fire started along the Runnels and Coleman County...",
@@ -53,32 +92,6 @@
       "contained": "20"
     },
     {
-      "name": "Buddy Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "TEXAS",
-      "updated": "2022-03-15 16:27:25",
-      "lat": "30.317",
-      "lng": "-98.538",
-      "size": "1,456 Acres",
-      "url": "/incident/7996/",
-      "id": "7996",
-      "contained": "95"
-    },
-    {
-      "name": "Indiana Dunes NP Spring 2022",
-      "type": "Prescribed Fire",
-      "summary": " Indiana Dunes National Park is planning 6 prescribed fires for the...",
-      "state": "INDIANA",
-      "updated": "2022-03-15 14:58:56",
-      "lat": "41.617",
-      "lng": "-87.19",
-      "size": "0 Acres",
-      "url": "/incident/8001/",
-      "id": "8001",
-      "contained": "0"
-    },
-    {
       "name": "Hippy Ridge Fire",
       "type": "Wildfire",
       "summary": "The Hippy Ridge Fire started around 3:00 pm near Boonsville Texas....",
@@ -129,19 +142,6 @@
       "url": "/incident/7999/",
       "id": "7999",
       "contained": "90"
-    },
-    {
-      "name": "Hoosier National Forest Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "Bedford, Indiana. October 22, 2021 — The U.S. Forest Service plans...",
-      "state": "INDIANA",
-      "updated": "2022-03-15 08:55:07",
-      "lat": "38.556",
-      "lng": "-86.468",
-      "size": "0 Acres",
-      "url": "/incident/7887/",
-      "id": "7887",
-      "contained": "0"
     },
     {
       "name": "Jim Fire",
