@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Christine Fire",
+      "type": "Wildfire",
+      "summary": "The Christine Fire started at 2:35 PM on March 15th. Local fire...",
+      "state": "TEXAS",
+      "updated": "2022-03-16 09:19:52",
+      "lat": "28.703",
+      "lng": "-98.541",
+      "size": "2,500 Acres",
+      "url": "/incident/8002/",
+      "id": "8002",
+      "contained": "60"
+    },
+    {
       "name": "Indiana Dunes NP Spring 2022",
       "type": "Prescribed Fire",
       "summary": " Indiana Dunes National Park is planning 6 prescribed fires for the...",
@@ -77,19 +90,6 @@
       "url": "/incident/8000/",
       "id": "8000",
       "contained": "0"
-    },
-    {
-      "name": "Christine Fire",
-      "type": "Wildfire",
-      "summary": "The Christine Fire started at 2:35 PM on March 15th. Local fire...",
-      "state": "TEXAS",
-      "updated": "2022-03-15 19:21:32",
-      "lat": "28.703",
-      "lng": "-98.541",
-      "size": "2,500 Acres",
-      "url": "/incident/8002/",
-      "id": "8002",
-      "contained": "20"
     },
     {
       "name": "Hippy Ridge Fire",
