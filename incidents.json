@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Los Olmos Fire",
+      "type": "Wildfire",
+      "summary": "Local authorities in Kleberg County requested assistance from the...",
+      "state": "TEXAS",
+      "updated": "2022-03-17 18:51:23",
+      "lat": "27.299",
+      "lng": "-97.749",
+      "size": "80 Acres",
+      "url": "/incident/8009/",
+      "id": "8009",
+      "contained": "20"
+    },
+    {
       "name": "Wells Fire",
       "type": "Wildfire",
       "summary": "Wells fire started on March 17, 2022, 3 miles east of the town of...",
