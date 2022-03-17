@@ -5,13 +5,13 @@
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service was called to assist local responders from...",
       "state": "TEXAS",
-      "updated": "2022-03-17 14:17:11",
+      "updated": "2022-03-17 14:29:24",
       "lat": "35.13",
       "lng": "-102.044",
-      "size": "100 Acres",
+      "size": "175 Acres",
       "url": "/incident/8004/",
       "id": "8004",
-      "contained": "10"
+      "contained": "35"
     },
     {
       "name": "Jim Post-Fire BAER",
