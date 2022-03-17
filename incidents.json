@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "Firefighters are currently engaged in wildfire suppression in Reagan...",
       "state": "TEXAS",
-      "updated": "2022-03-17 15:49:53",
+      "updated": "2022-03-17 16:12:57",
       "lat": "31.106",
       "lng": "-101.415",
       "size": "0 Acres",
       "url": "/incident/8005/",
       "id": "8005",
       "contained": "0"
+    },
+    {
+      "name": "Walling Fire",
+      "type": "Wildfire",
+      "summary": "Walling Fire started on Wednesday March 16th in Eastland County near...",
+      "state": "TEXAS",
+      "updated": "2022-03-17 15:56:32",
+      "lat": "32.255",
+      "lng": "-99.098",
+      "size": "383 Acres",
+      "url": "/incident/8003/",
+      "id": "8003",
+      "contained": "95"
     },
     {
       "name": "Hollywood Fire",
@@ -51,19 +64,6 @@
       "url": "/incident/8000/",
       "id": "8000",
       "contained": "0"
-    },
-    {
-      "name": "Walling Fire",
-      "type": "Wildfire",
-      "summary": "Walling Fire started on Wednesday March 16th in Eastland County near...",
-      "state": "TEXAS",
-      "updated": "2022-03-17 12:35:17",
-      "lat": "32.255",
-      "lng": "-99.098",
-      "size": "383 Acres",
-      "url": "/incident/8003/",
-      "id": "8003",
-      "contained": "95"
     },
     {
       "name": "Indiana Dunes NP Spring 2022",
