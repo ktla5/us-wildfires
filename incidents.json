@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hollywood Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was called to assist local responders from...",
+      "state": "TEXAS",
+      "updated": "2022-03-17 14:17:11",
+      "lat": "35.13",
+      "lng": "-102.044",
+      "size": "100 Acres",
+      "url": "/incident/8004/",
+      "id": "8004",
+      "contained": "10"
+    },
+    {
       "name": "Jim Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
