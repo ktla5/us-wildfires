@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "GWJ National Forest Prescribed Burns",
+      "type": "Prescribed Fire",
+      "summary": "The George Washington and Jefferson National Forests will conduct...",
+      "state": "VIRGINIA",
+      "updated": "2022-03-18 14:34:59",
+      "lat": "37.671",
+      "lng": "-79.861",
+      "size": "0 Acres",
+      "url": "/incident/7945/",
+      "id": "7945",
+      "contained": "0"
+    },
+    {
       "name": "3 Oaks Fire",
       "type": "Wildfire",
       "summary": " The 3 Oaks fire started around 3pm on March 14th, 2022. Local Fire...",
@@ -116,19 +129,6 @@
       "url": "/incident/8003/",
       "id": "8003",
       "contained": "95"
-    },
-    {
-      "name": "GWJ National Forest Prescribed Burns",
-      "type": "Prescribed Fire",
-      "summary": "The George Washington and Jefferson National Forests will conduct...",
-      "state": "VIRGINIA",
-      "updated": "2022-03-18 10:08:09",
-      "lat": "37.671",
-      "lng": "-79.861",
-      "size": "0 Acres",
-      "url": "/incident/7945/",
-      "id": "7945",
-      "contained": "0"
     },
     {
       "name": "Los Olmos Fire",
