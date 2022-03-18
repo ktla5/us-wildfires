@@ -5,13 +5,13 @@
       "type": "Wildfire",
       "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
       "state": "TEXAS",
-      "updated": "2022-03-18 11:27:25",
+      "updated": "2022-03-18 11:43:55",
       "lat": "32.223",
       "lng": "-98.937",
-      "size": "39,883 Acres",
+      "size": "45,383 Acres",
       "url": "/incident/8010/",
       "id": "8010",
-      "contained": "2"
+      "contained": "4"
     },
     {
       "name": "Walling Fire",
