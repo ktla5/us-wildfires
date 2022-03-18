@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hollywood Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was called to assist local responders from...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 12:51:32",
+      "lat": "35.13",
+      "lng": "-102.044",
+      "size": "166 Acres",
+      "url": "/incident/8004/",
+      "id": "8004",
+      "contained": "100"
+    },
+    {
       "name": "Eastland Complex",
       "type": "Wildfire",
       "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
@@ -64,19 +77,6 @@
       "url": "/incident/8009/",
       "id": "8009",
       "contained": "100"
-    },
-    {
-      "name": "Hollywood Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was called to assist local responders from...",
-      "state": "TEXAS",
-      "updated": "2022-03-18 08:57:32",
-      "lat": "35.13",
-      "lng": "-102.044",
-      "size": "166 Acres",
-      "url": "/incident/8004/",
-      "id": "8004",
-      "contained": "95"
     },
     {
       "name": "Edmunson Fire",
