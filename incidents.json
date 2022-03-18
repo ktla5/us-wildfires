@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-17 21:53:57",
+      "lat": "32.335",
+      "lng": "-98.829",
+      "size": "14,800 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "0"
+    },
+    {
       "name": "Edmunson Fire",
       "type": "Wildfire",
       "summary": "Firefighters are currently engaged in wildfire suppression in...",
@@ -12,19 +25,6 @@
       "url": "/incident/8006/",
       "id": "8006",
       "contained": "50"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-17 21:30:00",
-      "lat": "32.335",
-      "lng": "-98.829",
-      "size": "14,800 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "0"
     },
     {
       "name": "Los Olmos Fire",
