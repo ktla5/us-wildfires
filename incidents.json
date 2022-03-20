@@ -3,6 +3,19 @@
     {
       "name": "Big L Fire",
       "type": "Wildfire",
+      "summary": " At 1:00 pm a wildfire was started outside of Bluff Dale. Hood...",
+      "state": "TEXAS",
+      "updated": "2022-03-20 18:49:42",
+      "lat": "32.394",
+      "lng": "-97.933",
+      "size": "0 Acres",
+      "url": "/incident/8018/",
+      "id": "8018",
+      "contained": "0"
+    },
+    {
+      "name": "Big L Fire",
+      "type": "Wildfire",
       "summary": "Firefighters are currently engaged in wildfire suppression in Erath...",
       "state": "TEXAS",
       "updated": "2022-03-20 18:35:04",
