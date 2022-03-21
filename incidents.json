@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-03-21 10:50:12",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "1,500 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "5"
+    },
+    {
+      "name": "Southwest District BLM Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
+      "state": "COLORADO",
+      "updated": "2022-03-21 10:35:19",
+      "lat": "37.903",
+      "lng": "-108.826",
+      "size": "0 Acres",
+      "url": "/incident/7852/",
+      "id": "7852",
+      "contained": "0"
+    },
+    {
       "name": "Birdwell Fire",
       "type": "Wildfire",
       "summary": "Firefighters are currently engaged in wildfire suppression in Howard...",
@@ -193,19 +219,6 @@
       "size": "0 Acres",
       "url": "/incident/7992/",
       "id": "7992",
-      "contained": "0"
-    },
-    {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2022-03-11 16:59:10",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
       "contained": "0"
     },
     {
