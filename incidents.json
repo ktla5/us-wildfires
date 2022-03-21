@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Birdwell Fire",
+      "type": "Wildfire",
+      "summary": "This page will no longer be updated. Firefighters are currently...",
+      "state": "TEXAS",
+      "updated": "2022-03-21 18:43:20",
+      "lat": "32.248",
+      "lng": "-101.45",
+      "size": "28 Acres",
+      "url": "/incident/8014/",
+      "id": "8014",
+      "contained": "100"
+    },
+    {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-03-21 18:36:24",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "1,800 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "60"
+    },
+    {
+      "name": "Loma East Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters have responded to a wildfire in Jim Wells County,...",
+      "state": "TEXAS",
+      "updated": "2022-03-21 18:29:42",
+      "lat": "27.777",
+      "lng": "-98.178",
+      "size": "461 Acres",
+      "url": "/incident/8025/",
+      "id": "8025",
+      "contained": "80"
+    },
+    {
+      "name": "Cleveland RX Burning 2022",
+      "type": "Prescribed Fire",
+      "summary": "Each year the Cleveland National Forest conducts prescribed burns...",
+      "state": "CALIFORNIA",
+      "updated": "2022-03-21 18:24:00",
+      "lat": "33.3",
+      "lng": "-116.801",
+      "size": "0 Acres",
+      "url": "/incident/7317/",
+      "id": "7317",
+      "contained": "0"
+    },
+    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
@@ -14,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Loma East Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters have responded to a wildfire in Jim Wells County,...",
-      "state": "TEXAS",
-      "updated": "2022-03-21 18:18:57",
-      "lat": "27.777",
-      "lng": "-98.178",
-      "size": "300 Acres",
-      "url": "/incident/8025/",
-      "id": "8025",
-      "contained": "50"
-    },
-    {
       "name": "Jim Fire",
       "type": "Wildfire",
       "summary": "On the Trabuco Ranger District in the Holy Jim Canyon area, the Jim...",
@@ -38,19 +77,6 @@
       "url": "/incident/7987/",
       "id": "7987",
       "contained": "95"
-    },
-    {
-      "name": "Ramsey Fire",
-      "type": "Wildfire",
-      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
-      "state": "TEXAS",
-      "updated": "2022-03-21 18:05:19",
-      "lat": "31.828",
-      "lng": "-98.824",
-      "size": "1,800 Acres",
-      "url": "/incident/8020/",
-      "id": "8020",
-      "contained": "60"
     },
     {
       "name": "Wells 2",
@@ -170,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Birdwell Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in Howard...",
-      "state": "TEXAS",
-      "updated": "2022-03-21 11:09:00",
-      "lat": "32.248",
-      "lng": "-101.45",
-      "size": "28 Acres",
-      "url": "/incident/8014/",
-      "id": "8014",
-      "contained": "90"
-    },
-    {
       "name": "Three Sections Fire",
       "type": "Wildfire",
       "summary": "This page will no longer be updated.Firefighters are currently...",
@@ -271,19 +284,6 @@
       "size": "0 Acres",
       "url": "/incident/6288/",
       "id": "6288",
-      "contained": "0"
-    },
-    {
-      "name": "Cleveland RX Burning 2022",
-      "type": "Prescribed Fire",
-      "summary": "Each year the Cleveland National Forest conducts prescribed burns...",
-      "state": "CALIFORNIA",
-      "updated": "2022-03-03 12:07:42",
-      "lat": "33.3",
-      "lng": "-116.801",
-      "size": "0 Acres",
-      "url": "/incident/7317/",
-      "id": "7317",
       "contained": "0"
     },
     {
