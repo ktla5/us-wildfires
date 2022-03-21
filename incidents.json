@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-21 16:20:06",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "54,463 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "60"
+    },
+    {
       "name": "Bitterroot Spring RX Fire 2022",
       "type": "Prescribed Fire",
       "summary": "See the 'Announcements' and 'News' Tabs for the latest information on...",
@@ -12,19 +25,6 @@
       "url": "/incident/8024/",
       "id": "8024",
       "contained": "0"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-21 16:02:37",
-      "lat": "32.223",
-      "lng": "-98.937",
-      "size": "54,463 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "60"
     },
     {
       "name": "Veterans Lake Fire",
@@ -701,19 +701,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "On September 9, 2021, a significant lightning storm moved through the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-12-21 16:28:26",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "88,307 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "100"
     }
   ]
 }
