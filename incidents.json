@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Bosque River Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance in Bosque...",
+      "state": "TEXAS",
+      "updated": "2022-03-29 15:44:24",
+      "lat": "32.002",
+      "lng": "-97.818",
+      "size": "700 Acres",
+      "url": "/incident/8034/",
+      "id": "8034",
+      "contained": "90"
+    },
+    {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-03-29 15:26:25",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "3,100 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "75"
+    },
+    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
@@ -103,32 +129,6 @@
       "url": "/incident/8036/",
       "id": "8036",
       "contained": "0"
-    },
-    {
-      "name": "Ramsey Fire",
-      "type": "Wildfire",
-      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
-      "state": "TEXAS",
-      "updated": "2022-03-29 10:26:22",
-      "lat": "31.828",
-      "lng": "-98.824",
-      "size": "3,100 Acres",
-      "url": "/incident/8020/",
-      "id": "8020",
-      "contained": "75"
-    },
-    {
-      "name": "Bosque River Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance in Bosque...",
-      "state": "TEXAS",
-      "updated": "2022-03-29 09:57:25",
-      "lat": "32.002",
-      "lng": "-97.818",
-      "size": "700 Acres",
-      "url": "/incident/8034/",
-      "id": "8034",
-      "contained": "80"
     },
     {
       "name": "Das Goat Fire",
