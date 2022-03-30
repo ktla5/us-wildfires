@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 08:51:15",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "54,513 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "90"
+    },
+    {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 08:45:48",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "3,100 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "80"
+    },
+    {
+      "name": "Crittenberg Complex",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service  received a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 08:43:20",
+      "lat": "31.267",
+      "lng": "-97.626",
+      "size": "33,175 Acres",
+      "url": "/incident/8033/",
+      "id": "8033",
+      "contained": "75"
+    },
+    {
+      "name": "Canadian River Bottom Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service (TAMFS) responded to a request for...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 08:34:51",
+      "lat": "35.745",
+      "lng": "-100.543",
+      "size": "30,000 Acres",
+      "url": "/incident/8041/",
+      "id": "8041",
+      "contained": "10"
+    },
+    {
       "name": "Dean Fire",
       "type": "Wildfire",
       "summary": " The Dean Fire started on March 29, 2022 at approximately 3:00 pm....",
@@ -12,19 +64,6 @@
       "url": "/incident/8040/",
       "id": "8040",
       "contained": "95"
-    },
-    {
-      "name": "Canadian River Bottom Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service (TAMFS) responded to a request for...",
-      "state": "TEXAS",
-      "updated": "2022-03-30 08:13:32",
-      "lat": "35.745",
-      "lng": "-100.543",
-      "size": "20,000 Acres",
-      "url": "/incident/8041/",
-      "id": "8041",
-      "contained": "0"
     },
     {
       "name": "Doe Fire",
@@ -105,32 +144,6 @@
       "contained": "40"
     },
     {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-29 17:34:36",
-      "lat": "32.223",
-      "lng": "-98.937",
-      "size": "54,513 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "90"
-    },
-    {
-      "name": "Ramsey Fire",
-      "type": "Wildfire",
-      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
-      "state": "TEXAS",
-      "updated": "2022-03-29 15:26:25",
-      "lat": "31.828",
-      "lng": "-98.824",
-      "size": "3,100 Acres",
-      "url": "/incident/8020/",
-      "id": "8020",
-      "contained": "75"
-    },
-    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
@@ -155,19 +168,6 @@
       "url": "/incident/8023/",
       "id": "8023",
       "contained": "100"
-    },
-    {
-      "name": "Crittenburg Complex",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service  received a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-03-29 12:19:48",
-      "lat": "31.267",
-      "lng": "-97.626",
-      "size": "33,175 Acres",
-      "url": "/incident/8033/",
-      "id": "8033",
-      "contained": "55"
     },
     {
       "name": "Bitterroot Spring RX Fire 2022",
