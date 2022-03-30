@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Presumido Peak Fire",
+      "type": "Wildfire",
+      "summary": " Tuesday Evening Update, Today with the help of high relative...",
+      "state": "ARIZONA",
+      "updated": "2022-03-29 21:47:51",
+      "lat": "31.567",
+      "lng": "-111.621",
+      "size": "4,000 Acres",
+      "url": "/incident/8036/",
+      "id": "8036",
+      "contained": "20"
+    },
+    {
       "name": "Canadian River Bottom Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service (TAMFS) responded to a request for...",
       "state": "TEXAS",
-      "updated": "2022-03-29 20:54:30",
+      "updated": "2022-03-29 21:04:07",
       "lat": "35.745",
       "lng": "-100.543",
       "size": "20,000 Acres",
@@ -180,19 +193,6 @@
       "size": "0 Acres",
       "url": "/incident/6288/",
       "id": "6288",
-      "contained": "0"
-    },
-    {
-      "name": "Presumido Peak Fire",
-      "type": "Wildfire",
-      "summary": "Overnight, the fire received intermittent showers which helped...",
-      "state": "ARIZONA",
-      "updated": "2022-03-29 10:26:48",
-      "lat": "31.567",
-      "lng": "-111.621",
-      "size": "2,600 Acres",
-      "url": "/incident/8036/",
-      "id": "8036",
       "contained": "0"
     },
     {
