@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-31 17:19:58",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "54,513 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "100"
+    },
+    {
       "name": "Los Angeles Fire",
       "type": "Wildfire",
       "summary": "The Los Angeles Fire began on the afternoon of March 30th burning in...",
@@ -155,19 +168,6 @@
       "url": "/incident/8041/",
       "id": "8041",
       "contained": "40"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-31 07:44:48",
-      "lat": "32.223",
-      "lng": "-98.937",
-      "size": "54,513 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "100"
     },
     {
       "name": "Jim Fire",
