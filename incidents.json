@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-04-01 11:54:22",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "3,456 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "90"
+    },
+    {
       "name": "Das Goat Fire",
       "type": "Wildfire",
       "summary": "The Das Goat Fire began on March 25, 2022 burning in grass and...",
@@ -25,19 +38,6 @@
       "url": "/incident/8039/",
       "id": "8039",
       "contained": "100"
-    },
-    {
-      "name": "Ramsey Fire",
-      "type": "Wildfire",
-      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
-      "state": "TEXAS",
-      "updated": "2022-04-01 10:40:22",
-      "lat": "31.828",
-      "lng": "-98.824",
-      "size": "3,456 Acres",
-      "url": "/incident/8020/",
-      "id": "8020",
-      "contained": "90"
     },
     {
       "name": "Double Barrel Fire",
