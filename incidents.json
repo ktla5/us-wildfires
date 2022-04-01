@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Double Barrel Fire",
+      "type": "Wildfire",
+      "summary": "On Tuesday, March 29, 2022, a fire had started south of the city of...",
+      "state": "TEXAS",
+      "updated": "2022-04-01 09:45:56",
+      "lat": "35.475",
+      "lng": "-100.991",
+      "size": "984 Acres",
+      "url": "/incident/8045/",
+      "id": "8045",
+      "contained": "85"
+    },
+    {
       "name": "Eastland Complex",
       "type": "Wildfire",
       "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
@@ -103,19 +116,6 @@
       "url": "/incident/8039/",
       "id": "8039",
       "contained": "95"
-    },
-    {
-      "name": "Double Barrel Fire",
-      "type": "Wildfire",
-      "summary": "On Tuesday, March 29, 2022, a fire had started south of the city of...",
-      "state": "TEXAS",
-      "updated": "2022-04-01 07:55:22",
-      "lat": "35.475",
-      "lng": "-100.991",
-      "size": "984 Acres",
-      "url": "/incident/8045/",
-      "id": "8045",
-      "contained": "85"
     },
     {
       "name": "Vib Fire ",
