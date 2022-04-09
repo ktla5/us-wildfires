@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cashew Fire ",
+      "type": "Wildfire",
+      "summary": " The Cashew Fire started on April 9th and Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-04-09 16:20:47",
+      "lat": "34.019",
+      "lng": "-98.895",
+      "size": "130 Acres",
+      "url": "/incident/8055/",
+      "id": "8055",
+      "contained": "0"
+    },
+    {
+      "name": "Benavidez Fire",
+      "type": "Wildfire",
+      "summary": " The Benavidez Fire started on April 9th and Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-04-09 15:59:24",
+      "lat": "27.776",
+      "lng": "-98.237",
+      "size": "45 Acres",
+      "url": "/incident/8054/",
+      "id": "8054",
+      "contained": "0"
+    },
+    {
       "name": "Overflow Fire",
       "type": "Wildfire",
       "summary": "On April 7, 2022, the Bureau of Land Management (BLM) declared the...",
