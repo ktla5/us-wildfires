@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Overflow Fire",
+      "type": "Wildfire",
+      "summary": "On April 7, 2022, the Bureau of Land Management (BLM) declared the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-10 11:39:18",
+      "lat": "33.269",
+      "lng": "-104.363",
+      "size": "1,900 Acres",
+      "url": "/incident/8053/",
+      "id": "8053",
+      "contained": "70"
+    },
+    {
       "name": "Training Area 23 Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service responded to a request for assistance on...",
@@ -12,19 +25,6 @@
       "url": "/incident/8057/",
       "id": "8057",
       "contained": "40"
-    },
-    {
-      "name": "Overflow Fire",
-      "type": "Wildfire",
-      "summary": "On April 7, 2022, the Bureau of Land Management (BLM) declared the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-10 11:18:27",
-      "lat": "33.269",
-      "lng": "-104.363",
-      "size": "1,900 Acres",
-      "url": "/incident/8053/",
-      "id": "8053",
-      "contained": "70"
     },
     {
       "name": "Britt Fire",
