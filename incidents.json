@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-17 11:54:08",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "433 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "42"
+    },
+    {
       "name": "McBride Fire",
       "type": "Wildfire",
       "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
@@ -38,19 +51,6 @@
       "url": "/incident/8059/",
       "id": "8059",
       "contained": "80"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-17 09:34:00",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "433 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "42"
     },
     {
       "name": "Mesa Re-Entry Rx Fire",
