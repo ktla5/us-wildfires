@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-04-19 16:49:21",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "100 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,19 +25,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "81"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-04-19 15:48:52",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "100 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "0"
     },
     {
       "name": "Nina Lucia Fire",
