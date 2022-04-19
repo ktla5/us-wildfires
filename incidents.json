@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": "The Tunnel Fire, located north of Flagstaff along U.S Highway 89 was...",
+      "state": "ARIZONA",
+      "updated": "2022-04-19 14:27:18",
+      "lat": "35.511",
+      "lng": "-111.086",
+      "size": "0 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,19 +25,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "81"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": "The Tunnel Fire, located north of Flagstaff along U.S Highway 89 was...",
-      "state": "ARIZONA",
-      "updated": "2022-04-19 14:16:31",
-      "lat": "35.511",
-      "lng": "-111.086",
-      "size": "0 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "0"
     },
     {
       "name": "Nogal Canyon Fire",
