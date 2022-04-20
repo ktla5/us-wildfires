@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "The Cooks Peak Fire is located on private land north of Ocate in Mora...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-19 21:17:47",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "2,209 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "0"
+    },
+    {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-04-19 19:05:44",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "6,000 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,19 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "81"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-04-19 17:47:34",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "2,000 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "0"
     },
     {
       "name": "Nina Lucia Fire",
@@ -77,19 +90,6 @@
       "url": "/incident/8059/",
       "id": "8059",
       "contained": "85"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "The Cooks Peak Fire is located on private land north of Ocate in Mora...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-19 12:51:21",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "2,209 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "0"
     },
     {
       "name": "Crooks Fire",
