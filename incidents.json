@@ -1,17 +1,30 @@
 {
   "markers": [
     {
+      "name": "South Rim Too",
+      "type": "Wildfire",
+      "summary": "This fire location is across the South Rim trail from the SR-4...",
+      "state": "TEXAS",
+      "updated": "2022-04-22 10:56:26",
+      "lat": "29.233",
+      "lng": "-103.306",
+      "size": "30 Acres",
+      "url": "/incident/8070/",
+      "id": "8070",
+      "contained": "0"
+    },
+    {
       "name": "Tunnel Fire",
       "type": "Wildfire",
       "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
       "state": "ARIZONA",
-      "updated": "2022-04-22 10:52:29",
+      "updated": "2022-04-22 10:55:50",
       "lat": "35.304",
       "lng": "-111.589",
-      "size": "20,198 Acres",
+      "size": "21,087 Acres",
       "url": "/incident/8068/",
       "id": "8068",
-      "contained": "0"
+      "contained": "3"
     },
     {
       "name": "Calf Canyon",
@@ -24,19 +37,6 @@
       "size": "3,000 Acres",
       "url": "/incident/8069/",
       "id": "8069",
-      "contained": "0"
-    },
-    {
-      "name": "South Rim Too",
-      "type": "Wildfire",
-      "summary": "This fire location is across the South Rim trail from the SR-4...",
-      "state": "TEXAS",
-      "updated": "2022-04-22 10:35:04",
-      "lat": "29.233",
-      "lng": "-103.306",
-      "size": "30 Acres",
-      "url": "/incident/8070/",
-      "id": "8070",
       "contained": "0"
     },
     {
