@@ -5,12 +5,25 @@
       "type": "Prescribed Fire",
       "summary": "The George Washington and Jefferson National Forests will conduct...",
       "state": "VIRGINIA",
-      "updated": "2022-04-22 16:22:14",
+      "updated": "2022-04-22 16:33:23",
       "lat": "37.671",
       "lng": "-79.861",
       "size": "0 Acres",
       "url": "/incident/7945/",
       "id": "7945",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-22 16:32:32",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "3,000 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
       "contained": "0"
     },
     {
@@ -37,19 +50,6 @@
       "size": "20 Acres",
       "url": "/incident/8073/",
       "id": "8073",
-      "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-22 15:39:12",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "3,000 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "0"
     },
     {
