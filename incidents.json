@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Campbell Road Fire",
+      "type": "Wildfire",
+      "summary": "The Campbell Road Fire is located east of Des Moines off of Road 370...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-23 00:36:31",
+      "lat": "36.646",
+      "lng": "-103.373",
+      "size": "2,000 Acres",
+      "url": "/incident/8076/",
+      "id": "8076",
+      "contained": "0"
+    },
+    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Strong winds Hampering Firefighting Efforts, Evacuations orders...",
