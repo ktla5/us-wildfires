@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Big Hole Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-23 00:49:52",
+      "lat": "34.665",
+      "lng": "-106.747",
+      "size": "890 Acres",
+      "url": "/incident/8059/",
+      "id": "8059",
+      "contained": "95"
+    },
+    {
+      "name": "Mitchell Fire",
+      "type": "Wildfire",
+      "summary": "The Mitchell Fire, located east of Mosquero in Harding County. The...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-23 00:47:32",
+      "lat": "35.802",
+      "lng": "-103.841",
+      "size": "5,000 Acres",
+      "url": "/incident/8077/",
+      "id": "8077",
+      "contained": "0"
+    },
+    {
       "name": "Campbell Road Fire",
       "type": "Wildfire",
       "summary": "The Campbell Road Fire is located east of Des Moines off of Road 370...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-23 00:36:31",
+      "updated": "2022-04-23 00:38:51",
       "lat": "36.646",
       "lng": "-103.373",
       "size": "2,000 Acres",
