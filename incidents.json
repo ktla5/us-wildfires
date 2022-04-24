@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-24 07:56:28",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "39,788 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "0"
+    },
+    {
       "name": "Little Highline Fire",
       "type": "Wildfire",
       "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
       "state": "TEXAS",
-      "updated": "2022-04-24 07:33:59",
+      "updated": "2022-04-24 07:54:16",
       "lat": "35.385",
       "lng": "-101.847",
       "size": "12,000 Acres",
@@ -51,19 +64,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "91"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-23 23:08:35",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "39,788 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "0"
     },
     {
       "name": "Crooks Fire",
