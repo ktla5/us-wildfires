@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Little Highline Fire",
+      "type": "Wildfire",
+      "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
+      "state": "TEXAS",
+      "updated": "2022-04-24 18:38:44",
+      "lat": "35.385",
+      "lng": "-101.847",
+      "size": "27,000 Acres",
+      "url": "/incident/8079/",
+      "id": "8079",
+      "contained": "70"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Evacuation Status Change, &amp; Community Meeting Announcement for Cooks...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-24 18:33:41",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "48,672 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "0"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update The Crooks Fire began on...",
@@ -77,32 +103,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "0"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Evacuation Status Change, &amp; Community Meeting Announcement for Cooks...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-24 14:08:45",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "48,672 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "0"
-    },
-    {
-      "name": "Little Highline Fire",
-      "type": "Wildfire",
-      "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
-      "state": "TEXAS",
-      "updated": "2022-04-24 13:33:16",
-      "lat": "35.385",
-      "lng": "-101.847",
-      "size": "27,000 Acres",
-      "url": "/incident/8079/",
-      "id": "8079",
-      "contained": "70"
     },
     {
       "name": "Tunnel Fire",
