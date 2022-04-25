@@ -183,19 +183,6 @@
       "contained": "95"
     },
     {
-      "name": "Simona Fire",
-      "type": "Wildfire",
-      "summary": "The Simona Fire is located near Jarales in Valencia County. The fire...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-24 11:28:10",
-      "lat": "34.564",
-      "lng": "-106.772",
-      "size": "165 Acres",
-      "url": "/incident/8078/",
-      "id": "8078",
-      "contained": "75"
-    },
-    {
       "name": "GWJ National Forest Prescribed Burns",
       "type": "Prescribed Fire",
       "summary": "The George Washington and Jefferson National Forests will conduct...",
