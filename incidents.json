@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Road 702 Fire",
+      "name": "Tunnel Fire",
       "type": "Wildfire",
-      "summary": " The Rocky Mountain Complex Incident Management Team One (CIMT1),...",
-      "state": "NEBRASKA",
-      "updated": "2022-04-25 11:59:48",
-      "lat": "40.174",
-      "lng": "-100.231",
-      "size": "41,155 Acres",
-      "url": "/incident/8081/",
-      "id": "8081",
-      "contained": "0"
+      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-04-25 12:40:27",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "21,164 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "15"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update  | Community Meeting...",
+      "state": "ARIZONA",
+      "updated": "2022-04-25 12:25:28",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "3,914 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "22"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-25 11:49:53",
+      "updated": "2022-04-25 12:25:06",
       "lat": "33.577",
       "lng": "-105.68",
       "size": "0 Acres",
@@ -27,17 +40,17 @@
       "contained": "0"
     },
     {
-      "name": "Tunnel Fire",
+      "name": "Road 702 Fire",
       "type": "Wildfire",
-      "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-04-25 11:45:07",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "21,164 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "15"
+      "summary": " The Rocky Mountain Complex Incident Management Team One (CIMT1),...",
+      "state": "NEBRASKA",
+      "updated": "2022-04-25 12:18:49",
+      "lat": "40.174",
+      "lng": "-100.231",
+      "size": "41,155 Acres",
+      "url": "/incident/8081/",
+      "id": "8081",
+      "contained": "0"
     },
     {
       "name": "Cooks Peak",
@@ -90,19 +103,6 @@
       "url": "/incident/8079/",
       "id": "8079",
       "contained": "95"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update  | Community Meeting...",
-      "state": "ARIZONA",
-      "updated": "2022-04-25 10:58:54",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "3,914 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "22"
     },
     {
       "name": "McBride Post-Fire BAER",
