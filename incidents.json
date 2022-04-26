@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Big Mountain Unit 1 Prescribed Fire",
+      "type": "Prescribed Fire",
+      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
+      "state": "WEST VIRGINIA",
+      "updated": "2022-04-26 15:23:02",
+      "lat": "38.658",
+      "lng": "-79.594",
+      "size": "0 Acres",
+      "url": "/incident/8082/",
+      "id": "8082",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 15:18:06",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "60,173 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "12"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update The Crooks Fire began on...",
@@ -27,19 +53,6 @@
       "contained": "65"
     },
     {
-      "name": "Big Mountain Unit 1 Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
-      "state": "WEST VIRGINIA",
-      "updated": "2022-04-26 13:48:03",
-      "lat": "38.667",
-      "lng": "-79.594",
-      "size": "0 Acres",
-      "url": "/incident/8082/",
-      "id": "8082",
-      "contained": "0"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
@@ -50,19 +63,6 @@
       "size": "60,173 Acres",
       "url": "/incident/8069/",
       "id": "8069",
-      "contained": "12"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 13:10:50",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "60,173 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
       "contained": "12"
     },
     {
