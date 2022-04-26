@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Cooks Peak Fire community meeting scheduled for 7 p.m. tonightFire...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 08:57:08",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "54,021 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "18"
+    },
+    {
       "name": "Little Highline Fire",
       "type": "Wildfire",
       "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
@@ -129,19 +142,6 @@
       "url": "/incident/6288/",
       "id": "6288",
       "contained": "0"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Cooks Peak Fire community meeting scheduled for 7 p.m. tonightFire...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-25 11:22:12",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "51,982 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "9"
     },
     {
       "name": "McBride Post-Fire BAER",
