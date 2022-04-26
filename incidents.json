@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Nogal Canyon Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 16:23:11",
+      "lat": "33.577",
+      "lng": "-105.68",
+      "size": "0 Acres",
+      "url": "/incident/8072/",
+      "id": "8072",
+      "contained": "0"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Most recent Video Operations BriefingMost recent Daily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 16:18:22",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "4,903 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "0"
+    },
+    {
+      "name": "Locklin Fire",
+      "type": "Wildfire",
+      "summary": "Fire reported near Bisbee, AZ at approximately 11 p.m. on April 25....",
+      "state": "ARIZONA",
+      "updated": "2022-04-26 16:13:56",
+      "lat": "31.453",
+      "lng": "-109.93",
+      "size": "0 Acres",
+      "url": "/incident/8083/",
+      "id": "8083",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 15:58:54",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "60,173 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "12"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 15:52:03",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "60,173 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "12"
+    },
+    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Firefighters continue to make progress with containmentFire behavior...",
@@ -12,32 +77,6 @@
       "url": "/incident/8066/",
       "id": "8066",
       "contained": "18"
-    },
-    {
-      "name": "Nogal Canyon Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 15:49:16",
-      "lat": "33.577",
-      "lng": "-105.68",
-      "size": "0 Acres",
-      "url": "/incident/8072/",
-      "id": "8072",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 15:44:44",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "60,173 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "12"
     },
     {
       "name": "Big Mountain Unit 1 Prescribed Fire",
@@ -77,32 +116,6 @@
       "url": "/incident/8077/",
       "id": "8077",
       "contained": "65"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 13:13:32",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "60,173 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "12"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Most recent Video Operations BriefingMost recent Daily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 12:56:44",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "4,903 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "0"
     },
     {
       "name": "McBride Post-Fire BAER",
