@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Locklin Fire",
+      "type": "Wildfire",
+      "summary": "Fire reported near Bisbee, AZ at approximately 11 p.m. on April 25....",
+      "state": "ARIZONA",
+      "updated": "2022-04-26 17:25:07",
+      "lat": "31.453",
+      "lng": "-109.93",
+      "size": "0 Acres",
+      "url": "/incident/8083/",
+      "id": "8083",
+      "contained": "0"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update The Crooks Fire began on...",
       "state": "ARIZONA",
-      "updated": "2022-04-26 16:50:17",
+      "updated": "2022-04-26 16:55:15",
       "lat": "34.403",
       "lng": "-112.426",
       "size": "6,454 Acres",
@@ -14,17 +27,30 @@
       "contained": "16"
     },
     {
-      "name": "Locklin Fire",
+      "name": "Cooks Peak",
       "type": "Wildfire",
-      "summary": "Fire reported near Bisbee, AZ at approximately 11 p.m. on April 25....",
-      "state": "ARIZONA",
-      "updated": "2022-04-26 16:47:54",
-      "lat": "31.453",
-      "lng": "-109.93",
-      "size": "0 Acres",
-      "url": "/incident/8083/",
-      "id": "8083",
-      "contained": "0"
+      "summary": "Firefighters continue to make progress with containmentFire behavior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 16:53:23",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "54,021 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "18"
+    },
+    {
+      "name": "Horseshoe Fire",
+      "type": "Wildfire",
+      "summary": " On April 20, 2022, at approximately 5:00 pm A wildfire had started...",
+      "state": "TEXAS",
+      "updated": "2022-04-26 16:52:09",
+      "lat": "35.463",
+      "lng": "-102.106",
+      "size": "553 Acres",
+      "url": "/incident/8071/",
+      "id": "8071",
+      "contained": "100"
     },
     {
       "name": "Hermits Peak Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "12"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Firefighters continue to make progress with containmentFire behavior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 15:50:24",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "54,021 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "18"
     },
     {
       "name": "Big Mountain Unit 1 Prescribed Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/8073/",
       "id": "8073",
       "contained": "75"
-    },
-    {
-      "name": "Horseshoe Fire",
-      "type": "Wildfire",
-      "summary": " On April 20, 2022, at approximately 5:00 pm A wildfire had started...",
-      "state": "TEXAS",
-      "updated": "2022-04-22 21:03:15",
-      "lat": "35.463",
-      "lng": "-102.106",
-      "size": "553 Acres",
-      "url": "/incident/8071/",
-      "id": "8071",
-      "contained": "85"
     },
     {
       "name": "Nogal Canyon Fire",
