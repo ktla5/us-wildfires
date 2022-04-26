@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Little Highline Fire",
+      "type": "Wildfire",
+      "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
+      "state": "TEXAS",
+      "updated": "2022-04-26 08:29:09",
+      "lat": "35.385",
+      "lng": "-101.847",
+      "size": "25,609 Acres",
+      "url": "/incident/8079/",
+      "id": "8079",
+      "contained": "100"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Most recent Video Operations BriefingMost recent Daily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 08:21:57",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "4,903 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 08:13:57",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "60,173 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "12"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 08:13:36",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "60,173 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "12"
+    },
+    {
       "name": "Road 702 Fire",
       "type": "Wildfire",
       "summary": "Road 702 Fire Update for April 25, 2022 - 6 pmGreat progress was made...",
@@ -12,19 +64,6 @@
       "url": "/incident/8081/",
       "id": "8081",
       "contained": "47"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": " Cerro Pelado FireStart date: April 22, 2022        Cause:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 06:20:47",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "4,903 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "0"
     },
     {
       "name": "Tunnel Fire",
@@ -103,45 +142,6 @@
       "url": "/incident/8066/",
       "id": "8066",
       "contained": "9"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-25 11:17:19",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "56,478 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "12"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-25 11:15:16",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "56,478 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "12"
-    },
-    {
-      "name": "Little Highline Fire",
-      "type": "Wildfire",
-      "summary": " The Highline Fire is located 12 miles north of downtown Amarillo,...",
-      "state": "TEXAS",
-      "updated": "2022-04-25 10:59:00",
-      "lat": "35.385",
-      "lng": "-101.847",
-      "size": "25,609 Acres",
-      "url": "/incident/8079/",
-      "id": "8079",
-      "contained": "95"
     },
     {
       "name": "McBride Post-Fire BAER",
@@ -285,19 +285,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Nina Lucia Fire",
-      "type": "Wildfire",
-      "summary": " The Nina Lucia Fire started along County Road 273 approximately 6...",
-      "state": "TEXAS",
-      "updated": "2022-04-21 08:39:57",
-      "lat": "32.175",
-      "lng": "-100.567",
-      "size": "564 Acres",
-      "url": "/incident/8065/",
-      "id": "8065",
-      "contained": "100"
     },
     {
       "name": "Overflow Fire",
