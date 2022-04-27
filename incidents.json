@@ -1,30 +1,30 @@
 {
   "markers": [
     {
-      "name": "Road 702 Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters successfully increased containment to 74% on the...",
-      "state": "NEBRASKA",
-      "updated": "2022-04-27 08:54:48",
-      "lat": "40.174",
-      "lng": "-100.231",
-      "size": "41,448 Acres",
-      "url": "/incident/8081/",
-      "id": "8081",
-      "contained": "74"
-    },
-    {
       "name": "Hoosier National Forest Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "Bedford, Indiana. October 22, 2021 — The U.S. Forest Service plans...",
       "state": "INDIANA",
-      "updated": "2022-04-27 08:28:33",
+      "updated": "2022-04-27 09:22:42",
       "lat": "38.556",
       "lng": "-86.468",
       "size": "0 Acres",
       "url": "/incident/7887/",
       "id": "7887",
       "contained": "0"
+    },
+    {
+      "name": "Road 702 Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters successfully increased containment to 74% on the...",
+      "state": "NEBRASKA",
+      "updated": "2022-04-27 09:16:41",
+      "lat": "40.174",
+      "lng": "-100.231",
+      "size": "41,448 Acres",
+      "url": "/incident/8081/",
+      "id": "8081",
+      "contained": "74"
     },
     {
       "name": "Cerro Pelado",
@@ -272,19 +272,6 @@
       "url": "/incident/8076/",
       "id": "8076",
       "contained": "90"
-    },
-    {
-      "name": "Pine Park Fire - Magdalena Ranger Distri",
-      "type": "Wildfire",
-      "summary": "Wildfire - Pine Park Fire in the Datil Mountains of the Magdalena...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-23 11:42:30",
-      "lat": "34.183",
-      "lng": "-107.867",
-      "size": "31 Acres",
-      "url": "/incident/8073/",
-      "id": "8073",
-      "contained": "75"
     },
     {
       "name": "Nogal Canyon Fire",
