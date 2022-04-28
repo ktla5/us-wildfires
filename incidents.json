@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-28 12:51:15",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update | Smoke...",
+      "state": "ARIZONA",
+      "updated": "2022-04-28 12:42:40",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,014 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "23"
+    },
+    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Firefighters continue building line to increase containment Active...",
@@ -38,19 +64,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "5"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update | Smoke...",
-      "state": "ARIZONA",
-      "updated": "2022-04-28 12:20:00",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,014 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "23"
     },
     {
       "name": "Locklin Fire",
@@ -128,19 +141,6 @@
       "size": "519 Acres",
       "url": "/incident/8087/",
       "id": "8087",
-      "contained": "0"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-27 18:27:39",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
       "contained": "0"
     },
     {
