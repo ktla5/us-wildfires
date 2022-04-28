@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Buckaloons Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "The US Department of Agriculture, Forest Service plans to use...",
+      "state": "PENNSYLVANIA",
+      "updated": "2022-04-28 09:16:57",
+      "lat": "41.831",
+      "lng": "-79.264",
+      "size": "78 Acres",
+      "url": "/incident/8085/",
+      "id": "8085",
+      "contained": "0"
+    },
+    {
       "name": "Road 702 Fire",
       "type": "Wildfire",
       "summary": "Firefighters successfully increased containment to 74% on the...",
       "state": "NEBRASKA",
-      "updated": "2022-04-28 08:57:13",
+      "updated": "2022-04-28 09:07:01",
       "lat": "40.174",
       "lng": "-100.231",
       "size": "43,582 Acres",
@@ -141,19 +154,6 @@
       "size": "519 Acres",
       "url": "/incident/8087/",
       "id": "8087",
-      "contained": "0"
-    },
-    {
-      "name": "Buckaloons Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "The US Department of Agriculture, Forest Service plans to use...",
-      "state": "PENNSYLVANIA",
-      "updated": "2022-04-27 12:19:17",
-      "lat": "41.831",
-      "lng": "-79.264",
-      "size": "78 Acres",
-      "url": "/incident/8085/",
-      "id": "8085",
       "contained": "0"
     },
     {
