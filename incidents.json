@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-28 10:51:24",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "63,720 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "33"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-28 10:50:39",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "63,720 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "33"
+    },
+    {
+      "name": "Buckaloons Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "The US Department of Agriculture, Forest Service plans to use...",
+      "state": "PENNSYLVANIA",
+      "updated": "2022-04-28 10:38:32",
+      "lat": "41.831",
+      "lng": "-79.264",
+      "size": "78 Acres",
+      "url": "/incident/8085/",
+      "id": "8085",
+      "contained": "0"
+    },
+    {
       "name": "Road 702 Fire",
       "type": "Wildfire",
       "summary": " The Road 702 Fire began in Kansas on April 22, 2022 and grew in a...",
@@ -64,45 +103,6 @@
       "url": "/incident/8083/",
       "id": "8083",
       "contained": "30"
-    },
-    {
-      "name": "Buckaloons Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "The US Department of Agriculture, Forest Service plans to use...",
-      "state": "PENNSYLVANIA",
-      "updated": "2022-04-28 09:16:57",
-      "lat": "41.831",
-      "lng": "-79.264",
-      "size": "78 Acres",
-      "url": "/incident/8085/",
-      "id": "8085",
-      "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-28 08:52:56",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "63,720 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "33"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-28 08:52:35",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "63,720 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "33"
     },
     {
       "name": "Cooks Peak",
