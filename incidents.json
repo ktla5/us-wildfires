@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 10:51:39",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "65,824 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "37"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Firefighters continue building line to increase containment Active...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 10:51:00",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "55,931 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "54"
+    },
+    {
+      "name": "Big Mountain Unit 1 Prescribed Fire",
+      "type": "Prescribed Fire",
+      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
+      "state": "WEST VIRGINIA",
+      "updated": "2022-04-29 10:32:08",
+      "lat": "38.658",
+      "lng": "-79.594",
+      "size": "0 Acres",
+      "url": "/incident/8082/",
+      "id": "8082",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Video from April 26 Community MeetingMost recent Video Operations...",
@@ -25,19 +64,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "27"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-29 10:13:26",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "65,824 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "37"
     },
     {
       "name": "Hermits Peak Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "89"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Firefighters continue building line to increase containment Active...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-29 09:04:23",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "55,931 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "54"
     },
     {
       "name": "Road 702 Fire",
@@ -194,19 +207,6 @@
       "url": "/incident/8071/",
       "id": "8071",
       "contained": "100"
-    },
-    {
-      "name": "Big Mountain Unit 1 Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
-      "state": "WEST VIRGINIA",
-      "updated": "2022-04-26 15:37:05",
-      "lat": "38.658",
-      "lng": "-79.594",
-      "size": "0 Acres",
-      "url": "/incident/8082/",
-      "id": "8082",
-      "contained": "0"
     },
     {
       "name": "Mitchell Fire",
