@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Water Fire",
+      "type": "Wildfire",
+      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-01 21:31:32",
+      "lat": "32.933",
+      "lng": "-107.964",
+      "size": "765 Acres",
+      "url": "/incident/8089/",
+      "id": "8089",
+      "contained": "30"
+    },
+    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Containment increasesCritical fire weather returns SundayUpdate...",
@@ -12,19 +25,6 @@
       "url": "/incident/8066/",
       "id": "8066",
       "contained": "69"
-    },
-    {
-      "name": "Water Fire",
-      "type": "Wildfire",
-      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 21:17:55",
-      "lat": "32.933",
-      "lng": "-107.964",
-      "size": "765 Acres",
-      "url": "/incident/8089/",
-      "id": "8089",
-      "contained": "30"
     },
     {
       "name": "Bear Trap Fire",
