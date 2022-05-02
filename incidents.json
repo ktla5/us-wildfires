@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Water Fire",
+      "type": "Wildfire",
+      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 12:53:19",
+      "lat": "32.933",
+      "lng": "-107.964",
+      "size": "765 Acres",
+      "url": "/incident/8089/",
+      "id": "8089",
+      "contained": "30"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 12:52:41",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "852 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 12:45:39",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "59,065 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "69"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-02 12:41:04",
+      "updated": "2022-05-02 12:44:09",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "120,653 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "10"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 12:40:40",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "59,065 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "69"
     },
     {
       "name": "Hermits Peak Fire",
@@ -66,19 +92,6 @@
       "contained": "95"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 11:46:40",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "500 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update | Smoke...",
@@ -103,19 +116,6 @@
       "url": "/incident/8088/",
       "id": "8088",
       "contained": "0"
-    },
-    {
-      "name": "Water Fire",
-      "type": "Wildfire",
-      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 21:31:32",
-      "lat": "32.933",
-      "lng": "-107.964",
-      "size": "765 Acres",
-      "url": "/incident/8089/",
-      "id": "8089",
-      "contained": "30"
     },
     {
       "name": "Skiles 429 Fire",
