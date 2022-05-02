@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Skiles 429 Fire",
+      "type": "Wildfire",
+      "summary": "The Skiles 429 Fire is located northeast of Clayton along the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 16:42:39",
+      "lat": "36.806",
+      "lng": "-103.017",
+      "size": "1,312 Acres",
+      "url": "/incident/8092/",
+      "id": "8092",
+      "contained": "90"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
@@ -129,19 +142,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "75"
-    },
-    {
-      "name": "Skiles 429 Fire",
-      "type": "Wildfire",
-      "summary": "The Skiles 429 Fire is located northeast of Clayton along the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 12:34:40",
-      "lat": "36.806",
-      "lng": "-103.017",
-      "size": "1,312 Acres",
-      "url": "/incident/8092/",
-      "id": "8092",
-      "contained": "30"
     },
     {
       "name": "Locklin Fire",
