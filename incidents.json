@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Video from April 30 Community MeetingVideo from April 28 Community...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 08:07:26",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "17,885 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "10"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-02 07:44:46",
+      "updated": "2022-05-02 07:55:45",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "103,908 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "95"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Video from April 30 Community MeetingVideo from April 28 Community...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 20:01:02",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "17,885 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "10"
     },
     {
       "name": "Crooks Fire",
