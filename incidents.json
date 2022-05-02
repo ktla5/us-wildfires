@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 07:44:46",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "103,908 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "30"
+    },
+    {
       "name": "Water Fire",
       "type": "Wildfire",
       "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
@@ -77,19 +90,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "75"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 18:13:40",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "103,908 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "30"
     },
     {
       "name": "Calf Canyon",
