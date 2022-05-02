@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 16:29:22",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "852 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
       "name": "Tunnel Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
@@ -77,19 +90,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "20"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 12:52:41",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "852 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
     },
     {
       "name": "Cooks Peak",
