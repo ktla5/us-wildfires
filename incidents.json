@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Bear Trap Fire",
+      "name": "Cerro Pelado",
       "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "summary": "Video from May 1 Community MeetingVideo from April 30 Community...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-02 11:39:13",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "500 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
+      "updated": "2022-05-02 12:06:32",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "17,885 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "10"
+    },
+    {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-05-02 12:02:55",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "19,075 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "95"
     },
     {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-02 11:35:37",
+      "updated": "2022-05-02 11:50:11",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "103,908 Acres",
@@ -27,11 +40,37 @@
       "contained": "30"
     },
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 11:46:40",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "500 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 11:44:21",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "103,908 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "30"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update | Smoke...",
       "state": "ARIZONA",
-      "updated": "2022-05-02 11:35:24",
+      "updated": "2022-05-02 11:43:17",
       "lat": "34.403",
       "lng": "-112.426",
       "size": "9,402 Acres",
@@ -66,32 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 08:58:57",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "103,908 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "30"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Video from April 30 Community MeetingVideo from April 28 Community...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 08:07:26",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "17,885 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "10"
-    },
-    {
       "name": "Water Fire",
       "type": "Wildfire",
       "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
@@ -103,19 +116,6 @@
       "url": "/incident/8089/",
       "id": "8089",
       "contained": "30"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-05-01 20:17:45",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "19,075 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "95"
     },
     {
       "name": "Skiles 429 Fire",
