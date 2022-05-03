@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire - Magdalena Ranger Distri",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 10:49:22",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "1,209 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update | Smoke...",
+      "state": "ARIZONA",
+      "updated": "2022-05-03 10:45:16",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,402 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "83"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 10:38:09",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "145,854 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "20"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "KMZ files for Google EarthVideo of May 2 Community MeetingVideo from...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 10:36:47",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "25,004 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "10"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 10:34:49",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "59,076 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "72"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -14,58 +79,6 @@
       "contained": "20"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 10:06:13",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "145,854 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "20"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "KMZ files for Google EarthVideo of May 2 Community MeetingVideo from...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 09:59:36",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "25,004 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "10"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 09:55:31",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "59,076 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "72"
-    },
-    {
-      "name": "Bear Trap Fire - Magdalena Ranger Distri",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 09:34:04",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "1,209 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
-    },
-    {
       "name": "Tunnel Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
@@ -77,19 +90,6 @@
       "url": "/incident/8088/",
       "id": "8088",
       "contained": "0"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update | Smoke...",
-      "state": "ARIZONA",
-      "updated": "2022-05-03 08:37:07",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,402 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "83"
     },
     {
       "name": "Smoke Stack Lighting Fire",
