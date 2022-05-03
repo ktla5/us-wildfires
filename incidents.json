@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "KMZ files for Google EarthVideo from May 2 Community MeetingVideo...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-03 16:06:21",
+      "updated": "2022-05-03 16:49:00",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "25,004 Acres",
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "10"
+    },
+    {
+      "name": "Tunnel Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
+      "state": "ARIZONA",
+      "updated": "2022-05-03 16:30:41",
+      "lat": "35.387",
+      "lng": "-111.533",
+      "size": "19,075 Acres",
+      "url": "/incident/8088/",
+      "id": "8088",
+      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -38,19 +51,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "20"
-    },
-    {
-      "name": "Tunnel Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
-      "state": "ARIZONA",
-      "updated": "2022-05-03 15:05:21",
-      "lat": "35.387",
-      "lng": "-111.533",
-      "size": "19,075 Acres",
-      "url": "/incident/8088/",
-      "id": "8088",
-      "contained": "0"
     },
     {
       "name": "Izenbrown Corners Prescribed Burn 2022",
