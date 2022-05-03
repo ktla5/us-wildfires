@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire - Magdalena Ranger Distri",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 09:34:04",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "1,209 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "KMZ files for Google EarthVideo of May 2 Community MeetingVideo from...",
@@ -77,19 +90,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "95"
-    },
-    {
-      "name": "Bear Trap Fire - Magdalena Ranger Distri",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 20:13:59",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "1,209 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
     },
     {
       "name": "Skiles 429 Fire",
