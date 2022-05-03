@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 09:49:25",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "145,854 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "20"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 09:49:12",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "59,076 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "72"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "KMZ files for Google EarthVideo of May 2 Community MeetingVideo from...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 09:48:47",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "25,004 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "10"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 09:47:30",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "120,653 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "20"
+    },
+    {
       "name": "Bear Trap Fire - Magdalena Ranger Distri",
       "type": "Wildfire",
       "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
@@ -12,32 +64,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "KMZ files for Google EarthVideo of May 2 Community MeetingVideo from...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 09:19:04",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "25,004 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "10"
-    },
-    {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning Again TodayUpdate 5/02/2022Acres: 59,065...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 08:57:20",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "59,076 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "72"
     },
     {
       "name": "Tunnel Fire BAER",
@@ -129,32 +155,6 @@
       "url": "/incident/8089/",
       "id": "8089",
       "contained": "60"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 13:09:52",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "120,653 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "20"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-02 12:56:15",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "120,653 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "20"
     },
     {
       "name": "Locklin Fire",
