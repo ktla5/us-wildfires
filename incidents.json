@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-04 10:22:42",
+      "updated": "2022-05-04 10:51:38",
       "lat": "33.85",
       "lng": "-107.517",
       "size": "2,309 Acres",
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "0"
+    },
+    {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-05-04 10:43:09",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "19,075 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "95"
+    },
+    {
+      "name": "Cooks Peak",
+      "type": "Wildfire",
+      "summary": "Containment Increases Windy, Dry Trend Continues; Red Flag Warning...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-04 10:34:02",
+      "lat": "36.243",
+      "lng": "-105.038",
+      "size": "59,359 Acres",
+      "url": "/incident/8066/",
+      "id": "8066",
+      "contained": "89"
     },
     {
       "name": "Cerro Pelado",
@@ -79,19 +105,6 @@
       "contained": "80"
     },
     {
-      "name": "Cooks Peak",
-      "type": "Wildfire",
-      "summary": "Containment Increases Windy, Dry Trend Continues; Red Flag Warning...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 20:16:14",
-      "lat": "36.243",
-      "lng": "-105.038",
-      "size": "59,359 Acres",
-      "url": "/incident/8066/",
-      "id": "8066",
-      "contained": "89"
-    },
-    {
       "name": "Tunnel Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
@@ -142,19 +155,6 @@
       "url": "/incident/8080/",
       "id": "8080",
       "contained": "0"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-05-02 21:45:23",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "19,075 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "95"
     },
     {
       "name": "Skiles 429 Fire",
