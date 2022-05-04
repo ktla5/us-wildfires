@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "GWJ National Forest Prescribed Burns",
+      "type": "Prescribed Fire",
+      "summary": "The George Washington and Jefferson National Forests will conduct...",
+      "state": "VIRGINIA",
+      "updated": "2022-05-04 18:27:04",
+      "lat": "37.671",
+      "lng": "-79.861",
+      "size": "0 Acres",
+      "url": "/incident/7945/",
+      "id": "7945",
+      "contained": "0"
+    },
+    {
       "name": "Tunnel Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
@@ -51,19 +64,6 @@
       "url": "/incident/8089/",
       "id": "8089",
       "contained": "75"
-    },
-    {
-      "name": "GWJ National Forest Prescribed Burns",
-      "type": "Prescribed Fire",
-      "summary": "The George Washington and Jefferson National Forests will conduct...",
-      "state": "VIRGINIA",
-      "updated": "2022-05-04 15:13:43",
-      "lat": "37.671",
-      "lng": "-79.861",
-      "size": "0 Acres",
-      "url": "/incident/7945/",
-      "id": "7945",
-      "contained": "0"
     },
     {
       "name": "Cooks Peak",
