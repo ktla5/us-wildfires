@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Tunnel Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
+      "state": "ARIZONA",
+      "updated": "2022-05-04 18:24:41",
+      "lat": "35.387",
+      "lng": "-111.533",
+      "size": "19,060 Acres",
+      "url": "/incident/8088/",
+      "id": "8088",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
@@ -25,19 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "20"
-    },
-    {
-      "name": "Tunnel Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
-      "state": "ARIZONA",
-      "updated": "2022-05-04 16:10:07",
-      "lat": "35.387",
-      "lng": "-111.533",
-      "size": "19,060 Acres",
-      "url": "/incident/8088/",
-      "id": "8088",
-      "contained": "0"
     },
     {
       "name": "Water Fire",
