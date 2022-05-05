@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "KMZ files for Google EarthVideo from May 3 Virtual Community...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-05 07:50:24",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "29,368 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "13"
+    },
+    {
       "name": "Bear Trap Fire - Magdalena Ranger Distri",
       "type": "Wildfire",
       "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
@@ -77,19 +90,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "96"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "KMZ files for Google EarthVideo from May 3 Virtual Community...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-04 19:37:20",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "26,927 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "13"
     },
     {
       "name": "GWJ National Forest Prescribed Burns",
