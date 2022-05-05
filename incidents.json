@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire - Magdalena Ranger Distri",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-05 09:50:42",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "2,694 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Closure Order | Closure MapThe Crooks Fire began on April 18, 2022...",
+      "state": "ARIZONA",
+      "updated": "2022-05-05 09:50:35",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,402 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "96"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
@@ -40,19 +66,6 @@
       "contained": "95"
     },
     {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Closure Order | Closure MapThe Crooks Fire began on April 18, 2022...",
-      "state": "ARIZONA",
-      "updated": "2022-05-05 09:17:37",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,402 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "96"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -64,19 +77,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "20"
-    },
-    {
-      "name": "Bear Trap Fire - Magdalena Ranger Distri",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-05 06:28:51",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "2,309 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
     },
     {
       "name": "Cooks Peak",
