@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-07 08:50:20",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "170,665 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "21"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -51,19 +64,6 @@
       "url": "/incident/8066/",
       "id": "8066",
       "contained": "97"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-06 20:29:00",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "168,009 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "20"
     },
     {
       "name": "Crooks Fire",
