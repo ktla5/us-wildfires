@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Today's Highlights:Crews working night operations last evening made...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-10 08:49:49",
+      "updated": "2022-05-10 09:22:46",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "42,491 Acres",
@@ -14,30 +14,43 @@
       "contained": "11"
     },
     {
-      "name": "Calf Canyon",
+      "name": "Bear Trap Fire - Magdalena Ranger Distri",
       "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-10 07:51:05",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "203,920 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "43"
+      "updated": "2022-05-10 09:15:28",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "6,655 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-10 07:49:36",
+      "updated": "2022-05-10 08:56:00",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "203,920 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "43"
+      "contained": "39"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-10 08:55:50",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "203,920 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "39"
     },
     {
       "name": "Helium Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/8099/",
       "id": "8099",
       "contained": "90"
-    },
-    {
-      "name": "Bear Trap Fire - Magdalena Ranger Distri",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-09 20:28:51",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "6,143 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
     },
     {
       "name": "Crooks Fire",
