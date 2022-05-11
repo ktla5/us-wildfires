@@ -196,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Smoke Stack Lightning Fire",
-      "type": "Wildfire",
-      "summary": "The Smoke Stack Lightning Fire started on May 2nd in Stonewall County...",
-      "state": "TEXAS",
-      "updated": "2022-05-05 19:10:24",
-      "lat": "33.187",
-      "lng": "-100.169",
-      "size": "14,898 Acres",
-      "url": "/incident/8094/",
-      "id": "8094",
-      "contained": "100"
-    },
-    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
