@@ -1,37 +1,37 @@
 {
   "markers": [
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-11 07:39:49",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "236,939 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "43"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-11 07:37:49",
+      "updated": "2022-05-11 08:33:28",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "236,939 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "43"
+      "contained": "33"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-11 08:33:21",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "236,939 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "33"
     },
     {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Today's Highlights:Crews working night operations last evening made...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-11 07:36:58",
+      "updated": "2022-05-11 08:19:55",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "42,491 Acres",
@@ -44,10 +44,10 @@
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-10 20:09:48",
+      "updated": "2022-05-11 08:02:41",
       "lat": "33.85",
       "lng": "-107.517",
-      "size": "6,655 Acres",
+      "size": "7,249 Acres",
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "0"
