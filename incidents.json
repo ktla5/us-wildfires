@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Today's HighlightsThe Cerro Pelado Fire Incident Meteorologist...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-13 13:27:30",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,394 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "19"
+    },
+    {
       "name": "High Park Fire",
       "type": "Wildfire",
       "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
       "state": "COLORADO",
-      "updated": "2022-05-13 12:22:29",
+      "updated": "2022-05-13 12:45:27",
       "lat": "38.739",
       "lng": "-105.281",
       "size": "386 Acres",
@@ -38,19 +51,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "30"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Today's HighlightsThe Cerro Pelado Fire Incident Meteorologist...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-13 11:11:54",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,394 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "19"
     },
     {
       "name": "Hermits Peak Fire",
