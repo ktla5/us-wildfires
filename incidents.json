@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Today's HighlightsThe Cerro Pelado Fire Incident Meteorologist...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-13 08:52:13",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,394 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "19"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,19 +25,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "30"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Today's HighlightsA dry cold front has moved into the area. Though...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-13 07:38:46",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "43,887 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "19"
     },
     {
       "name": "Calf Canyon",
