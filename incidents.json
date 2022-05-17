@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-16 22:39:17",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "298,060 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "26"
+    },
+    {
+      "name": "Johnson Fork",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-16 22:15:02",
+      "lat": "30.444",
+      "lng": "-99.689",
+      "size": "40 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "40"
+    },
+    {
+      "name": "Johnson Fork",
+      "type": "Wildfire",
+      "summary": " At approximately 5:00 pm on May 11th, the Johnson Fork Fire located...",
+      "state": "TEXAS",
+      "updated": "2022-05-16 21:50:32",
+      "lat": "29.12",
+      "lng": "-98.841",
+      "size": "40 Acres",
+      "url": "/incident/8107/",
+      "id": "8107",
+      "contained": "40"
+    },
+    {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-16 21:37:19",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "37"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -66,19 +118,6 @@
       "contained": "62"
     },
     {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-16 16:22:05",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,558 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "27"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -89,19 +128,6 @@
       "size": "298,060 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "27"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-16 14:10:00",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "298,060 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "27"
     },
     {
