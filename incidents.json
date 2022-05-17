@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-17 09:43:22",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "13,504 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "High Park Fire",
       "type": "Wildfire",
       "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
@@ -64,19 +77,6 @@
       "url": "/incident/8107/",
       "id": "8107",
       "contained": "40"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-17 08:33:31",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "13,504 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
     },
     {
       "name": "Johnson Fork",
