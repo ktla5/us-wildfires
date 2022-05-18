@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-18 18:25:14",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "69"
+    },
+    {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-18 18:09:33",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "613 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
       "name": "Mesquite Heat Fire",
       "type": "Wildfire",
       "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
       "state": "TEXAS",
-      "updated": "2022-05-18 17:49:17",
+      "updated": "2022-05-18 17:50:21",
       "lat": "32.266",
       "lng": "-99.964",
       "size": "1,500 Acres",
@@ -64,19 +90,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "5"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 17:16:44",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "613 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Bear Trap Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "34"
-    },
-    {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 12:44:50",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,573 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "69"
     },
     {
       "name": "Crooks Fire",
