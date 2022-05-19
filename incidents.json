@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 09:24:15",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "17,122 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 09:08:35",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "5,000 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "5"
+    },
+    {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-19 08:57:59",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "87"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -53,19 +92,6 @@
       "contained": "90"
     },
     {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 23:55:56",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "5,000 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "5"
-    },
-    {
       "name": "Coconut Fire",
       "type": "Wildfire",
       "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
@@ -103,19 +129,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "0"
-    },
-    {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 21:25:19",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,573 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "87"
     },
     {
       "name": "Mayfield Fire",
@@ -194,19 +207,6 @@
       "url": "/incident/8115/",
       "id": "8115",
       "contained": "5"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 18:39:57",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "17,122 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
     },
     {
       "name": "Tunnel Fire",
