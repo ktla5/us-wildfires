@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "We’d like to welcome a new incident management team to the fire....",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 11:07:18",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "74"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-19 10:36:05",
+      "updated": "2022-05-19 11:04:25",
       "lat": "33.85",
       "lng": "-107.533",
       "size": "17,122 Acres",
@@ -14,17 +27,17 @@
       "contained": "28"
     },
     {
-      "name": "Cerro Pelado",
+      "name": "Mesquite Heat Fire",
       "type": "Wildfire",
-      "summary": "We’d like to welcome a new incident management team to the fire....",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 10:33:40",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "74"
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 11:01:52",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "5,000 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "5"
     },
     {
       "name": "High Park Fire",
@@ -77,19 +90,6 @@
       "url": "/incident/8114/",
       "id": "8114",
       "contained": "60"
-    },
-    {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-19 09:08:35",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "5,000 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "5"
     },
     {
       "name": "Slab Road Fire",
