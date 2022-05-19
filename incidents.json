@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Type 2 Incident Management Team Takes Command of Black Fire Daily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-18 22:38:47",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "77,529 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-18 22:38:46",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "301,971 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "34"
+    },
+    {
+      "name": "Coconut Fire",
+      "type": "Wildfire",
+      "summary": "The Coconut Fire started this afternoon roughly 10 miles South of...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 22:08:06",
+      "lat": "33.862",
+      "lng": "-99.34",
+      "size": "18,000 Acres",
+      "url": "/incident/8109/",
+      "id": "8109",
+      "contained": "5"
+    },
+    {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-18 21:53:46",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "735 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
       "name": "High Park Fire",
       "type": "Wildfire",
       "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
       "state": "COLORADO",
-      "updated": "2022-05-18 21:20:25",
+      "updated": "2022-05-18 21:25:19",
       "lat": "38.739",
       "lng": "-105.281",
       "size": "1,573 Acres",
@@ -25,19 +77,6 @@
       "url": "/incident/8112/",
       "id": "8112",
       "contained": "60"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Type 2 Incident Management Team Takes Command of Black Fire Daily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 20:54:50",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "77,529 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "0"
     },
     {
       "name": "Bowman Fire",
@@ -142,45 +181,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "34"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 18:31:06",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "301,971 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "34"
-    },
-    {
-      "name": "Coconut Fire",
-      "type": "Wildfire",
-      "summary": "The Coconut Fire started this afternoon roughly 10 miles South of...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 18:28:36",
-      "lat": "33.862",
-      "lng": "-99.34",
-      "size": "18,000 Acres",
-      "url": "/incident/8109/",
-      "id": "8109",
-      "contained": "5"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 18:09:33",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "613 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Sandstone Mountain Fire",
