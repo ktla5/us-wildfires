@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Mayfield Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 18:50:18",
+      "lat": "31.039",
+      "lng": "-99.075",
+      "size": "1,250 Acres",
+      "url": "/incident/8112/",
+      "id": "8112",
+      "contained": "60"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
@@ -155,19 +168,6 @@
       "url": "/incident/8102/",
       "id": "8102",
       "contained": "87"
-    },
-    {
-      "name": "Mayfield Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 20:56:29",
-      "lat": "31.039",
-      "lng": "-99.075",
-      "size": "1,250 Acres",
-      "url": "/incident/8112/",
-      "id": "8112",
-      "contained": "60"
     },
     {
       "name": "Bowman Fire",
