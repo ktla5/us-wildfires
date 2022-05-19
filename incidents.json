@@ -3,15 +3,41 @@
     {
       "name": "Cerro Pelado",
       "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only. Please drive carefully through...",
+      "summary": "The Rocky Mountain Incident Management Team #3 assumed command of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-19 12:54:23",
+      "updated": "2022-05-19 13:48:26",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "45,605 Acres",
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "74"
+    },
+    {
+      "name": "Sandstone Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
+      "state": "TEXAS",
+      "updated": "2022-05-19 13:34:52",
+      "lat": "30.724",
+      "lng": "-98.636",
+      "size": "351 Acres",
+      "url": "/incident/8114/",
+      "id": "8114",
+      "contained": "75"
+    },
+    {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-19 13:30:02",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "735 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
     },
     {
       "name": "Bear Trap Fire",
@@ -92,19 +118,6 @@
       "contained": "34"
     },
     {
-      "name": "Sandstone Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
-      "state": "TEXAS",
-      "updated": "2022-05-19 09:41:29",
-      "lat": "30.724",
-      "lng": "-98.636",
-      "size": "351 Acres",
-      "url": "/incident/8114/",
-      "id": "8114",
-      "contained": "60"
-    },
-    {
       "name": "Slab Road Fire",
       "type": "Wildfire",
       "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
@@ -129,19 +142,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "5"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 21:53:46",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "735 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Mayfield Fire",
