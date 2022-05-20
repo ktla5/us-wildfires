@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Coconut Fire",
+      "type": "Wildfire",
+      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 15:23:28",
+      "lat": "33.862",
+      "lng": "-99.34",
+      "size": "26,000 Acres",
+      "url": "/incident/8109/",
+      "id": "8109",
+      "contained": "65"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-20 15:18:42",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "303,341 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "40"
+    },
+    {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
+      "state": "COLORADO",
+      "updated": "2022-05-20 14:54:19",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "0 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "0"
+    },
+    {
       "name": "Twin Starts Fire",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
@@ -12,32 +51,6 @@
       "url": "/incident/8116/",
       "id": "8116",
       "contained": "85"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at 4:25 p.m. on May 19, 2022. Fire...",
-      "state": "COLORADO",
-      "updated": "2022-05-20 14:27:33",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "0 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "0"
-    },
-    {
-      "name": "Coconut Fire",
-      "type": "Wildfire",
-      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 14:25:18",
-      "lat": "33.862",
-      "lng": "-99.34",
-      "size": "26,000 Acres",
-      "url": "/incident/8109/",
-      "id": "8109",
-      "contained": "65"
     },
     {
       "name": "Johnson Fork Fire",
@@ -103,19 +116,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "28"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-20 12:43:47",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "303,341 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "40"
     },
     {
       "name": "Calf Canyon",
