@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-20 10:53:20",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "303,341 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "40"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Active Fire Behavior Continues Across the Black Fire with Red Flag...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-20 10:51:07",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "93,014 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "The Rocky Mountain Incident Management Team #3 assumed command of the...",
@@ -12,19 +38,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "75"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-20 10:27:22",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "303,341 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "40"
     },
     {
       "name": "Sandstone Mountain Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "25"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Active Fire Behavior Continues Across the Black Fire with Red Flag...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 22:21:12",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "93,014 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "0"
     },
     {
       "name": "Twin Starts",
