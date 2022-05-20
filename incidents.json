@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Twin Starts",
+      "type": "Wildfire",
+      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 14:33:51",
+      "lat": "30.649",
+      "lng": "-98.544",
+      "size": "420 Acres",
+      "url": "/incident/8116/",
+      "id": "8116",
+      "contained": "85"
+    },
+    {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at 4:25 p.m. on May 19, 2022. Fire...",
+      "state": "COLORADO",
+      "updated": "2022-05-20 14:27:33",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "0 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "0"
+    },
+    {
+      "name": "Coconut Fire",
+      "type": "Wildfire",
+      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 14:25:18",
+      "lat": "33.862",
+      "lng": "-99.34",
+      "size": "26,000 Acres",
+      "url": "/incident/8109/",
+      "id": "8109",
+      "contained": "65"
+    },
+    {
+      "name": "Johnson Fork Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 14:21:14",
+      "lat": "29.12",
+      "lng": "-98.841",
+      "size": "55 Acres",
+      "url": "/incident/8107/",
+      "id": "8107",
+      "contained": "100"
+    },
+    {
       "name": "Pope 2 Fire",
       "type": "Wildfire",
       "summary": " At approximately 6:53 pm, a wildfire started at the...",
@@ -38,19 +90,6 @@
       "url": "/incident/8112/",
       "id": "8112",
       "contained": "85"
-    },
-    {
-      "name": "Johnson Fork Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 14:08:47",
-      "lat": "29.12",
-      "lng": "-98.841",
-      "size": "55 Acres",
-      "url": "/incident/8107/",
-      "id": "8107",
-      "contained": "100"
     },
     {
       "name": "Bear Trap Fire",
@@ -118,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at 4:25 p.m. on May 19, 2022. Fire...",
-      "state": "COLORADO",
-      "updated": "2022-05-20 11:42:06",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "0 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "0"
-    },
-    {
       "name": "Dry Branch Fire",
       "type": "Wildfire",
       "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
@@ -183,19 +209,6 @@
       "contained": "90"
     },
     {
-      "name": "Twin Starts",
-      "type": "Wildfire",
-      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 11:21:24",
-      "lat": "30.649",
-      "lng": "-98.544",
-      "size": "420 Acres",
-      "url": "/incident/8116/",
-      "id": "8116",
-      "contained": "75"
-    },
-    {
       "name": "High Park Fire",
       "type": "Wildfire",
       "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
@@ -207,19 +220,6 @@
       "url": "/incident/8102/",
       "id": "8102",
       "contained": "89"
-    },
-    {
-      "name": "Coconut Fire",
-      "type": "Wildfire",
-      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 00:31:21",
-      "lat": "33.862",
-      "lng": "-99.34",
-      "size": "26,000 Acres",
-      "url": "/incident/8109/",
-      "id": "8109",
-      "contained": "55"
     },
     {
       "name": "Mesquite Heat Fire",
