@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
+      "state": "COLORADO",
+      "updated": "2022-05-21 10:50:38",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "0 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "0"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-21 10:36:12",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "21,732 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -40,19 +66,6 @@
       "contained": "4"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-21 09:37:08",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "21,732 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
-    },
-    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -64,19 +77,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "75"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
-      "state": "COLORADO",
-      "updated": "2022-05-20 22:46:40",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "0 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "0"
     },
     {
       "name": "Mesquite Heat Fire",
