@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-21 09:49:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "306,472 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "40"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Crews Construct Fire Line as Red Flag Warning Continues on Black Fire...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-21 09:43:03",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "106,021 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "4"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-21 09:36:58",
+      "updated": "2022-05-21 09:37:08",
       "lat": "33.85",
       "lng": "-107.533",
       "size": "21,732 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "75"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-21 08:11:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "306,472 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "40"
     },
     {
       "name": "Calf Canyon",
@@ -90,19 +103,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "75"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Crews Construct Fire Line as Red Flag Warning Continues on Black Fire...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-20 22:06:36",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "106,021 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "4"
     },
     {
       "name": "HermitsPeak +Calf Cyn BAER",
