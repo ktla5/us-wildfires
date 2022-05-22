@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
+      "state": "COLORADO",
+      "updated": "2022-05-22 10:17:43",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "373 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "75"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 10:04:27",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "23,043 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire was reported on April 19 in the Upper Gallinas...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 10:00:43",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "310,016 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "40"
+    },
+    {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-22 09:56:50",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "721 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "12"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -27,45 +79,6 @@
       "contained": "95"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire was reported on April 19 in the Upper Gallinas...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 09:48:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "310,016 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "40"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-22 09:43:25",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "721 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "12"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
-      "state": "COLORADO",
-      "updated": "2022-05-22 09:41:12",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "373 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "75"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -90,19 +103,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "25"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 08:26:00",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "23,043 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
     },
     {
       "name": "Mayfield Fire",
