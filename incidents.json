@@ -5,7 +5,7 @@
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-22 13:52:41",
+      "updated": "2022-05-22 14:16:01",
       "lat": "33.4",
       "lng": "-105.568",
       "size": "0 Acres",
@@ -18,13 +18,26 @@
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-22 13:51:24",
+      "updated": "2022-05-22 14:11:00",
       "lat": "33.577",
       "lng": "-105.68",
       "size": "0 Acres",
       "url": "/incident/8072/",
       "id": "8072",
       "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters increase containment; Cause under investigationDaily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 13:56:17",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "130,224 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "6"
     },
     {
       "name": "Cerro Pelado",
@@ -103,19 +116,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "25"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters increase containment; Cause under investigationDaily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 12:27:00",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "130,224 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "6"
     },
     {
       "name": "Calf Canyon",
