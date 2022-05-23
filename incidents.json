@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
+      "state": "COLORADO",
+      "updated": "2022-05-23 10:25:19",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "373 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "90"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-23 10:23:58",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "85"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -25,19 +51,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "40"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-23 09:47:30",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "85"
     },
     {
       "name": "Hermits Peak Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "52"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
-      "state": "COLORADO",
-      "updated": "2022-05-22 19:56:15",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "373 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "90"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
