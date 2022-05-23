@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Additional evacuations issued on the Black FireAfternoon Daily Update...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 22:14:14",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "130,224 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "8"
+    },
+    {
+      "name": "HermitsPeak +Calf Cyn BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 21:53:46",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Quick Links:     Daily Update (pdf)     |      Smoke...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 21:52:14",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "310,253 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "40"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)     |      Smoke...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 21:49:33",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "310,253 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "40"
+    },
+    {
+      "name": "Cerro Pelado Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 21:26:34",
+      "lat": "35.675",
+      "lng": "-106.501",
+      "size": "0 Acres",
+      "url": "/incident/8118/",
+      "id": "8118",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -14,19 +79,6 @@
       "contained": "85"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Quick Links:     Daily Update (pdf)     |      Smoke...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 20:28:52",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "310,016 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "40"
-    },
-    {
       "name": "Coconut Fire",
       "type": "Wildfire",
       "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
@@ -38,19 +90,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)     |      Smoke...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 20:18:31",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "310,016 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "40"
     },
     {
       "name": "Mesquite Heat Fire",
@@ -105,19 +144,6 @@
       "contained": "28"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Additional evacuations issued on the Black FireAfternoon Daily Update...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 17:38:22",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "130,224 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "6"
-    },
-    {
       "name": "Nogal Canyon Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
@@ -141,32 +167,6 @@
       "size": "0 Acres",
       "url": "/incident/8080/",
       "id": "8080",
-      "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 17:08:51",
-      "lat": "35.675",
-      "lng": "-106.501",
-      "size": "0 Acres",
-      "url": "/incident/8118/",
-      "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "HermitsPeak +Calf Cyn BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 17:08:30",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
       "contained": "0"
     },
     {
