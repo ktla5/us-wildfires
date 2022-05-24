@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-24 08:42:31",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "721 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "51"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -116,19 +129,6 @@
       "url": "/incident/8117/",
       "id": "8117",
       "contained": "100"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-23 20:21:04",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "721 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "51"
     },
     {
       "name": "Mesquite Heat Fire",
