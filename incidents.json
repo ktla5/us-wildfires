@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
+      "state": "COLORADO",
+      "updated": "2022-05-26 09:49:36",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "313 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "100"
+    },
+    {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-26 09:47:47",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "10,960 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "74"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": " Quick Links:     Daily Update (pdf)      |  ...",
@@ -92,19 +118,6 @@
       "contained": "28"
     },
     {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-25 18:07:18",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "10,960 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "74"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
@@ -116,19 +129,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "96"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
-      "state": "COLORADO",
-      "updated": "2022-05-25 12:40:46",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "313 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "100"
     },
     {
       "name": "Cerro Pelado Post-Fire BAER",
