@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Lost Lake Fire",
+      "type": "Wildfire",
+      "summary": "May 28, 2021 Parker, AZ – The Lost Lake Fire started May 26th on...",
+      "state": "ARIZONA",
+      "updated": "2022-05-28 17:24:59",
+      "lat": "33.993",
+      "lng": "-114.481",
+      "size": "5,900 Acres",
+      "url": "/incident/8122/",
+      "id": "8122",
+      "contained": "44"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": " Quick Links:     Daily Update (pdf)      |  ...",
@@ -12,19 +25,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "48"
-    },
-    {
-      "name": "Lost Lake Fire",
-      "type": "Wildfire",
-      "summary": "May 28, 2021 Parker, AZ – The Lost Lake Fire started May 26th on...",
-      "state": "ARIZONA",
-      "updated": "2022-05-28 16:47:38",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "5,900 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
-      "contained": "44"
     },
     {
       "name": "Mesquite Heat Fire",
