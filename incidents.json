@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Lost Lake Fire",
+      "name": "Black Fire",
       "type": "Wildfire",
-      "summary": "Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
-      "state": "ARIZONA",
-      "updated": "2022-05-29 11:34:17",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "5,465 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
-      "contained": "34"
+      "summary": "Red flag conditions continue New interactive evacuation map...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-29 11:56:31",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "228,311 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "19"
     },
     {
       "name": "Simms",
       "type": "Wildfire",
       "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
       "state": "COLORADO",
-      "updated": "2022-05-29 11:32:10",
+      "updated": "2022-05-29 11:46:38",
       "lat": "38.286",
       "lng": "-107.938",
       "size": "313 Acres",
@@ -27,17 +27,17 @@
       "contained": "100"
     },
     {
-      "name": "Black Fire",
+      "name": "Lost Lake Fire",
       "type": "Wildfire",
-      "summary": "Evacuation levels changing again Afternoon Update...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-29 11:17:13",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "228,311 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "19"
+      "summary": "Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
+      "state": "ARIZONA",
+      "updated": "2022-05-29 11:44:54",
+      "lat": "33.993",
+      "lng": "-114.481",
+      "size": "5,465 Acres",
+      "url": "/incident/8122/",
+      "id": "8122",
+      "contained": "34"
     },
     {
       "name": "Cerro Pelado",
