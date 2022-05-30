@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-30 15:27:28",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "315,223 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "50"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Quick Links:     Daily Update (pdf)     |   ...",
@@ -90,19 +103,6 @@
       "url": "/incident/8120/",
       "id": "8120",
       "contained": "80"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-30 11:04:59",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "315,223 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "50"
     },
     {
       "name": "Midpoint Fire",
