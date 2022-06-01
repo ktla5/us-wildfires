@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "Containment Increases on the Black Fire Despite Windy ConditionsDaily...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-31 21:34:29",
+      "updated": "2022-05-31 22:21:53",
       "lat": "33.204",
       "lng": "-108.059",
-      "size": "246,648 Acres",
+      "size": "249,656 Acres",
       "url": "/incident/8103/",
       "id": "8103",
-      "contained": "28"
+      "contained": "26"
+    },
+    {
+      "name": "Menkhaven",
+      "type": "Wildfire",
+      "summary": "Tuesday, May 31 at 2100 Firefighters made good progress again today...",
+      "state": "COLORADO",
+      "updated": "2022-05-31 22:03:45",
+      "lat": "37.111",
+      "lng": "-106.32",
+      "size": "242 Acres",
+      "url": "/incident/8124/",
+      "id": "8124",
+      "contained": "50"
     },
     {
       "name": "Hermits Peak Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "90"
-    },
-    {
-      "name": "Menkhaven",
-      "type": "Wildfire",
-      "summary": "Monday, May 30 at 2100 The fire area experienced strong winds today...",
-      "state": "COLORADO",
-      "updated": "2022-05-30 21:30:19",
-      "lat": "37.111",
-      "lng": "-106.32",
-      "size": "242 Acres",
-      "url": "/incident/8124/",
-      "id": "8124",
-      "contained": "50"
     },
     {
       "name": "Mesquite Heat Fire",
