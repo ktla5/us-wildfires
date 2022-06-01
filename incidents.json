@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Tharps-Hazelwood Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "Scheduled to start in early June 2022, fire managers will conduct the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-01 14:42:34",
+      "lat": "36.563",
+      "lng": "-118.747",
+      "size": "752 Acres",
+      "url": "/incident/8130/",
+      "id": "8130",
+      "contained": "0"
+    },
+    {
       "name": "Ash Mountain Prescribed Burn ",
       "type": "Prescribed Fire",
       "summary": "   Fire managers with Sequoia and Kings Canyon National Parks have...",
@@ -154,19 +167,6 @@
       "size": "0 Acres",
       "url": "/incident/8104/",
       "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Tharps-Hazelwood Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "Scheduled to start in early June 2022, fire managers will conduct the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-05-31 19:51:26",
-      "lat": "36.563",
-      "lng": "-118.747",
-      "size": "752 Acres",
-      "url": "/incident/8130/",
-      "id": "8130",
       "contained": "0"
     },
     {
