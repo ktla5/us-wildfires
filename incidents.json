@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-03 17:38:27",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "316,971 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "62"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-03 17:37:38",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "316,971 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "62"
+    },
+    {
+      "name": "Cinnamon Fire",
+      "type": "Wildfire",
+      "summary": "The Cinnamon Fire is located on private land near Brushy Creek, NM in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-03 17:33:04",
+      "lat": "32.313",
+      "lng": "-108.456",
+      "size": "981 Acres",
+      "url": "/incident/8128/",
+      "id": "8128",
+      "contained": "75"
+    },
+    {
       "name": "Lost Lake Fire",
       "type": "Wildfire",
       "summary": " Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
@@ -118,32 +157,6 @@
       "contained": "91"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-03 10:19:01",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "316,971 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "62"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-03 10:16:57",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "316,971 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "62"
-    },
-    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -207,19 +220,6 @@
       "url": "/incident/8129/",
       "id": "8129",
       "contained": "0"
-    },
-    {
-      "name": "Cinnamon Fire",
-      "type": "Wildfire",
-      "summary": "The Cinnamon Fire is located on private land near Brushy Creek, NM in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-02 10:17:00",
-      "lat": "32.313",
-      "lng": "-108.456",
-      "size": "981 Acres",
-      "url": "/incident/8128/",
-      "id": "8128",
-      "contained": "50"
     },
     {
       "name": "Bouquet Fire",
