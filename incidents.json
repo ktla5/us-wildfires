@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-03 09:50:07",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "264,657 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "29"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Quick Links:     Daily Update (pdf)     |   ...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-03 09:33:06",
+      "updated": "2022-06-03 09:39:15",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "316,971 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": " Quick Links:     Daily Update (pdf)      |  ...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-03 09:29:02",
+      "updated": "2022-06-03 09:36:38",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "316,971 Acres",
@@ -51,19 +64,6 @@
       "url": "/incident/8125/",
       "id": "8125",
       "contained": "82"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-03 07:55:10",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "264,657 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "29"
     },
     {
       "name": "Perins Peak Fire",
