@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-06 10:22:24",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "287,283 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "49"
+    },
+    {
       "name": "Lincoln Smith",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is in unified command with local resources...",
@@ -25,19 +38,6 @@
       "url": "/incident/8128/",
       "id": "8128",
       "contained": "100"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-06 09:47:08",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "287,283 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "49"
     },
     {
       "name": "Hermits Peak Fire",
