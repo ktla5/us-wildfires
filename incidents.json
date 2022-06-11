@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 17:40:23",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "304,550 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "42"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 17:36:31",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "320,009 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "67"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -12,19 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "67"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 17:34:42",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "304,550 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "42"
     },
     {
       "name": "East Fork Fire ",
@@ -142,19 +155,6 @@
       "url": "/incident/8080/",
       "id": "8080",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 12:23:52",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "320,009 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "67"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
