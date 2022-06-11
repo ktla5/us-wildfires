@@ -1,30 +1,30 @@
 {
   "markers": [
     {
-      "name": "Skates",
-      "type": "Wildfire",
-      "summary": " The Skates Fire is located 13 miles northeast of Silver City on the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 18:35:09",
-      "lat": "32.965",
-      "lng": "-108.148",
-      "size": "0 Acres",
-      "url": "/incident/8149/",
-      "id": "8149",
-      "contained": "0"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-11 18:34:51",
+      "updated": "2022-06-11 18:45:45",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "320,009 Acres",
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "70"
+    },
+    {
+      "name": "Skates",
+      "type": "Wildfire",
+      "summary": " The Skates Fire is located 13 miles northeast of Silver City on the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 18:39:23",
+      "lat": "32.965",
+      "lng": "-108.148",
+      "size": "100 Acres",
+      "url": "/incident/8149/",
+      "id": "8149",
+      "contained": "0"
     },
     {
       "name": "Black Fire",
