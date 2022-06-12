@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-12 16:32:46",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "121,831 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "0"
+    },
+    {
       "name": "Pawlik",
       "type": "Wildfire",
-      "summary": "The Pawlik fire began on Sunday, June 12th at approximately 3pm. The...",
+      "summary": "Natural Gas pipeline in area that is threat to fire resources at this...",
       "state": "TEXAS",
-      "updated": "2022-06-12 16:17:34",
+      "updated": "2022-06-12 16:21:57",
       "lat": "28.346",
       "lng": "-98.121",
       "size": "300 Acres",
@@ -51,19 +64,6 @@
       "url": "/incident/8151/",
       "id": "8151",
       "contained": "5"
-    },
-    {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-12 13:01:16",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "121,831 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "0"
     },
     {
       "name": "Black Post-Fire BAER",
