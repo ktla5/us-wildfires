@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Pollick",
+      "type": "Wildfire",
+      "summary": "The Pollick fire began on Sunday, June 12th at approximately 3pm. The...",
+      "state": "TEXAS",
+      "updated": "2022-06-12 15:50:16",
+      "lat": "28.346",
+      "lng": "-98.121",
+      "size": "250 Acres",
+      "url": "/incident/8153/",
+      "id": "8153",
+      "contained": "0"
+    },
+    {
+      "name": "Contreras Wildfire ",
+      "type": "Wildfire",
+      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
+      "state": "ARIZONA",
+      "updated": "2022-06-12 15:44:45",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "0 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
