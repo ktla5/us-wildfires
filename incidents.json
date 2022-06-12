@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-12 18:48:26",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "3,478 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "0"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
@@ -76,19 +89,6 @@
       "size": "0 Acres",
       "url": "/incident/8144/",
       "id": "8144",
-      "contained": "0"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 12:24:27",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "3,478 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
       "contained": "0"
     },
     {
