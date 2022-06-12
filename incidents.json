@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 22:27:02",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "320,009 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "70"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 22:22:15",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "304,673 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "42"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 22:17:19",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "320,009 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "70"
+    },
+    {
+      "name": "Cerro Bandera Fire",
+      "type": "Wildfire",
+      "summary": "The Cerro Bandera Fire is burning on private land within the National...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-11 21:49:21",
+      "lat": "35.001",
+      "lng": "-108.131",
+      "size": "939 Acres",
+      "url": "/incident/8146/",
+      "id": "8146",
+      "contained": "0"
+    },
+    {
+      "name": "Graham Fire",
+      "type": "Wildfire",
+      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-11 21:44:12",
+      "lat": "40.05",
+      "lng": "-121.776",
+      "size": "153 Acres",
+      "url": "/incident/8150/",
+      "id": "8150",
+      "contained": "15"
+    },
+    {
       "name": "Skates",
       "type": "Wildfire",
       "summary": " The Skates Fire is located 13 miles northeast of Silver City on the...",
@@ -25,45 +90,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 20:49:10",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "320,009 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "70"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 20:49:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "320,009 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "70"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 20:36:10",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "304,673 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "42"
     },
     {
       "name": "Midnight Fire",
@@ -180,19 +206,6 @@
       "size": "752 Acres",
       "url": "/incident/8130/",
       "id": "8130",
-      "contained": "0"
-    },
-    {
-      "name": "Cerro Bandera Fire",
-      "type": "Wildfire",
-      "summary": "The Cerro Bandera Fire is burning on private land within the National...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 11:43:57",
-      "lat": "35.001",
-      "lng": "-108.131",
-      "size": "939 Acres",
-      "url": "/incident/8146/",
-      "id": "8146",
       "contained": "0"
     },
     {
