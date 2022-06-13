@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-13 17:50:41",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "153,505 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 17:46:45",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "311,692 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "47"
+    },
+    {
       "name": "Yogi Fire",
       "type": "Wildfire",
       "summary": "Evacuations and closures are in the impacted area of Gotier Trace,...",
@@ -12,19 +38,6 @@
       "url": "/incident/8157/",
       "id": "8157",
       "contained": "65"
-    },
-    {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-13 17:12:31",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "153,505 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "0"
     },
     {
       "name": "Cypress Mill Road",
@@ -77,19 +90,6 @@
       "url": "/incident/8146/",
       "id": "8146",
       "contained": "85"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 14:48:07",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "311,692 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "47"
     },
     {
       "name": "Haywire Fire",
