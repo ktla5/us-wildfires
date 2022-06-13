@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 09:21:44",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "320,495 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "70"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 09:17:44",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "311,692 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "47"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 09:09:33",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "320,495 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "70"
+    },
+    {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-13 08:42:40",
+      "updated": "2022-06-13 09:02:51",
       "lat": "36.45",
       "lng": "-106.224",
       "size": "3,944 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8145/",
       "id": "8145",
       "contained": "74"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 07:30:52",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "311,692 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "47"
     },
     {
       "name": "Sheep Fire",
@@ -90,32 +116,6 @@
       "url": "/incident/8149/",
       "id": "8149",
       "contained": "80"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 22:12:55",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "320,333 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "70"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 22:07:29",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "320,333 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "70"
     },
     {
       "name": "Graham Fire",
@@ -339,32 +339,6 @@
       "contained": "100"
     },
     {
-      "name": "Lincoln Smith",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is in unified command with local resources...",
-      "state": "TEXAS",
-      "updated": "2022-06-09 12:23:34",
-      "lat": "30.458",
-      "lng": "-98.295",
-      "size": "119 Acres",
-      "url": "/incident/8133/",
-      "id": "8133",
-      "contained": "100"
-    },
-    {
-      "name": "Gas Plant Road",
-      "type": "Wildfire",
-      "summary": " fire contained and returned to local fire department to monitor. ...",
-      "state": "TEXAS",
-      "updated": "2022-06-08 14:28:15",
-      "lat": "32.071",
-      "lng": "-100.678",
-      "size": "148 Acres",
-      "url": "/incident/8136/",
-      "id": "8136",
-      "contained": "100"
-    },
-    {
       "name": "Lost Lake Fire",
       "type": "Wildfire",
       "summary": "The Lost Lake Fire started May 26th on the Colorado River Indian...",
@@ -480,19 +454,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "96"
-    },
-    {
-      "name": "Coconut Fire",
-      "type": "Wildfire",
-      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
-      "state": "TEXAS",
-      "updated": "2022-05-22 20:20:07",
-      "lat": "33.862",
-      "lng": "-99.34",
-      "size": "28,449 Acres",
-      "url": "/incident/8109/",
-      "id": "8109",
-      "contained": "100"
     },
     {
       "name": "High Park Fire",
