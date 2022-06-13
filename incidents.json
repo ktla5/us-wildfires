@@ -1,14 +1,53 @@
 {
   "markers": [
     {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "STATUS: The following information is correct as of June 13, 2022, at...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-13 14:50:22",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "939 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "5"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 14:48:07",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "311,692 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "47"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 14:36:38",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "1,600 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
       "name": "Double Fire",
       "type": "Wildfire",
       "summary": "The Double Fire was reported at 4:13 p.m. on June 12. It is predicted...",
       "state": "ARIZONA",
-      "updated": "2022-06-13 14:29:50",
+      "updated": "2022-06-13 14:36:34",
       "lat": "35.346",
       "lng": "-111.451",
-      "size": "0 Acres",
+      "size": "500 Acres",
       "url": "/incident/8156/",
       "id": "8156",
       "contained": "0"
@@ -27,32 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-13 14:26:20",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "1,600 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS: The following information is correct as of June 12, 2022, at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-13 14:02:19",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "939 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "5"
-    },
-    {
       "name": "East Fork Fire ",
       "type": "Wildfire",
       "summary": "The East fork Fire started on May 31st in a limited protection area...",
@@ -64,19 +77,6 @@
       "url": "/incident/8148/",
       "id": "8148",
       "contained": "0"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 13:31:43",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "311,692 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "47"
     },
     {
       "name": "Midnight Fire",
