@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Yogi Fire",
+      "type": "Wildfire",
+      "summary": "Evacuations and closures are in the impacted area of Gotier Trace,...",
+      "state": "TEXAS",
+      "updated": "2022-06-13 17:23:25",
+      "lat": "30.128",
+      "lng": "-97.148",
+      "size": "50 Acres",
+      "url": "/incident/8157/",
+      "id": "8157",
+      "contained": "65"
+    },
+    {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-13 17:12:31",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "153,505 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "0"
+    },
+    {
+      "name": "Cypress Mill Road",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance for the...",
+      "state": "TEXAS",
+      "updated": "2022-06-13 17:09:28",
+      "lat": "30.353",
+      "lng": "-98.295",
+      "size": "978 Acres",
+      "url": "/incident/8137/",
+      "id": "8137",
+      "contained": "100"
+    },
+    {
       "name": "Sheep Fire",
       "type": "Wildfire",
       "summary": "STATUS: The following information is correct as of June 13, 2022, at...",
@@ -12,32 +51,6 @@
       "url": "/incident/8151/",
       "id": "8151",
       "contained": "18"
-    },
-    {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-13 16:46:07",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "153,505 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "0"
-    },
-    {
-      "name": "Yogi Fire",
-      "type": "Wildfire",
-      "summary": "Evacuations and closures are in the impacted area of Gotier Trace,...",
-      "state": "TEXAS",
-      "updated": "2022-06-13 16:44:34",
-      "lat": "30.128",
-      "lng": "-97.148",
-      "size": "50 Acres",
-      "url": "/incident/8157/",
-      "id": "8157",
-      "contained": "50"
     },
     {
       "name": "Black Post-Fire BAER",
@@ -298,19 +311,6 @@
       "url": "/incident/8080/",
       "id": "8080",
       "contained": "0"
-    },
-    {
-      "name": "Cypress Mill Road",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance for the...",
-      "state": "TEXAS",
-      "updated": "2022-06-10 21:54:55",
-      "lat": "30.353",
-      "lng": "-98.295",
-      "size": "978 Acres",
-      "url": "/incident/8137/",
-      "id": "8137",
-      "contained": "95"
     },
     {
       "name": "Contact Creek Fire",
