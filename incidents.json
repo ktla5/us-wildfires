@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 09:49:13",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "3,944 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -51,19 +64,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "47"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 09:02:51",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "3,944 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "0"
     },
     {
       "name": "Deer Creek",
