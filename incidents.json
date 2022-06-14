@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-14 14:47:13",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "990 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "35"
+    },
+    {
+      "name": "Fish Fire",
+      "type": "Wildfire",
+      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 14:40:58",
+      "lat": "33.635",
+      "lng": "-109.393",
+      "size": "226 Acres",
+      "url": "/incident/8160/",
+      "id": "8160",
+      "contained": "0"
+    },
+    {
       "name": "Graham Fire",
       "type": "Wildfire",
       "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
@@ -53,19 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Fish Fire",
-      "type": "Wildfire",
-      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 14:30:42",
-      "lat": "33.635",
-      "lng": "-109.393",
-      "size": "226 Acres",
-      "url": "/incident/8160/",
-      "id": "8160",
-      "contained": "0"
-    },
-    {
       "name": "Yogi Fire",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
@@ -90,19 +103,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "100"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-14 14:11:52",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "990 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "35"
     },
     {
       "name": "East Fork Fire ",
