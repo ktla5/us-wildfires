@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Black Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 22:26:27",
+      "lat": "33.204",
+      "lng": "-108.009",
+      "size": "0 Acres",
+      "url": "/incident/8144/",
+      "id": "8144",
+      "contained": "0"
+    },
+    {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-13 21:26:49",
+      "updated": "2022-06-13 21:50:33",
       "lat": "36.45",
       "lng": "-106.224",
       "size": "3,944 Acres",
@@ -181,19 +194,6 @@
       "url": "/incident/8151/",
       "id": "8151",
       "contained": "18"
-    },
-    {
-      "name": "Black Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 16:29:49",
-      "lat": "33.204",
-      "lng": "-108.009",
-      "size": "0 Acres",
-      "url": "/incident/8144/",
-      "id": "8144",
-      "contained": "0"
     },
     {
       "name": "Cerro Bandera Fire",
