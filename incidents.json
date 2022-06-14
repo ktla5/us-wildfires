@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 18:47:21",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "2,750 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -116,19 +129,6 @@
       "url": "/incident/8150/",
       "id": "8150",
       "contained": "50"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 14:32:16",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "1,670 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
     },
     {
       "name": "Yogi Fire",
