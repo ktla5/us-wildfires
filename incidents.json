@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Lucky Strike Fire",
+      "type": "Wildfire",
+      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
+      "state": "TEXAS",
+      "updated": "2022-06-15 18:50:19",
+      "lat": "36.059",
+      "lng": "-100.954",
+      "size": "0 Acres",
+      "url": "/incident/8163/",
+      "id": "8163",
+      "contained": "0"
+    },
+    {
+      "name": "Raspberry Fire",
+      "type": "Wildfire",
+      "summary": "The Coronado National Forest is responding to a lightning caused...",
+      "state": "ARIZONA",
+      "updated": "2022-06-15 18:47:05",
+      "lat": "31.824",
+      "lng": "-109.285",
+      "size": "500 Acres",
+      "url": "/incident/8162/",
+      "id": "8162",
+      "contained": "0"
+    },
+    {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-15 18:47:01",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": "Contreras Fire Quick Facts:Size: 6,662 acresContainment: 0%Road...",
@@ -37,19 +76,6 @@
       "size": "0 Acres",
       "url": "/incident/8144/",
       "id": "8144",
-      "contained": "0"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-15 16:18:54",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
       "contained": "0"
     },
     {
