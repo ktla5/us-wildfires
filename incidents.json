@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-15 12:51:15",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "4,052 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-15 12:50:54",
+      "lat": "35.282",
+      "lng": "-111.681",
+      "size": "20,178 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "0"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
+      "state": "ARIZONA",
+      "updated": "2022-06-15 12:38:29",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "2,750 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "The Northern New Mexico Type 3 Incident Management Team will...",
@@ -12,45 +51,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "100"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 12:23:02",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "2,750 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 12:19:29",
-      "lat": "35.282",
-      "lng": "-111.681",
-      "size": "20,178 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "0"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 12:19:08",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "4,052 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
     },
     {
       "name": "Black Fire",
