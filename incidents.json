@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "The Sheep Fire is burning both in the Angeles National Forest and on...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-15 11:50:26",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "865 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "81"
+    },
+    {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 11:43:04",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,905 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "12"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 11:39:11",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "317,676 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "48"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
@@ -25,32 +64,6 @@
       "url": "/incident/8131/",
       "id": "8131",
       "contained": "0"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "The Sheep Fire is burning both in the Angeles National Forest and on...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-15 11:30:44",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "865 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "81"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 11:28:03",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,905 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "12"
     },
     {
       "name": "Calf Canyon",
@@ -129,19 +142,6 @@
       "url": "/incident/8158/",
       "id": "8158",
       "contained": "25"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 10:29:44",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "317,676 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "48"
     },
     {
       "name": "Carbon County Flood",
