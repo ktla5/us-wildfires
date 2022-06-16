@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 09:22:04",
+      "updated": "2022-06-16 09:33:45",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "336,638 Acres",
@@ -18,13 +18,26 @@
       "type": "Wildfire",
       "summary": "The Black Fire is currently burning mostly on National Forest lands...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 09:22:00",
+      "updated": "2022-06-16 09:26:12",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "320,971 Acres",
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "48"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 09:22:16",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "24,815 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
     },
     {
       "name": "Lucky Strike Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "11"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 08:13:50",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "24,815 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
     },
     {
       "name": "Sierra Fire",
