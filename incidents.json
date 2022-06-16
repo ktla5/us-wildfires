@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": "INCIDENT STATISTICSFire start date: June 11, 2022Cause:...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 17:08:30",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "11,489 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
       "name": "Fish Fire",
       "type": "Wildfire",
       "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
@@ -11,19 +24,6 @@
       "size": "1,900 Acres",
       "url": "/incident/8160/",
       "id": "8160",
-      "contained": "0"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": "INCIDENT STATISTICSFire start date: June 11, 2022Cause:...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 16:43:46",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "11,489 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
       "contained": "0"
     },
     {
