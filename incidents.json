@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 11:53:38",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "336,638 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
+    },
+    {
       "name": "Sheep Fire",
       "type": "Wildfire",
       "summary": "BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
@@ -180,19 +193,6 @@
       "size": "336,638 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "72"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 10:39:39",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "336,638 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "72"
     },
     {
