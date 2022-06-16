@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Lucky Strike Fire",
+      "type": "Wildfire",
+      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
+      "state": "TEXAS",
+      "updated": "2022-06-16 08:56:02",
+      "lat": "36.059",
+      "lng": "-100.954",
+      "size": "1,273 Acres",
+      "url": "/incident/8163/",
+      "id": "8163",
+      "contained": "80"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 08:52:44",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "336,638 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
+    },
+    {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
@@ -77,19 +103,6 @@
       "url": "/incident/8151/",
       "id": "8151",
       "contained": "85"
-    },
-    {
-      "name": "Lucky Strike Fire",
-      "type": "Wildfire",
-      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
-      "state": "TEXAS",
-      "updated": "2022-06-15 22:31:46",
-      "lat": "36.059",
-      "lng": "-100.954",
-      "size": "1,273 Acres",
-      "url": "/incident/8163/",
-      "id": "8163",
-      "contained": "80"
     },
     {
       "name": "Black Post-Fire BAER",
@@ -259,19 +272,6 @@
       "url": "/incident/8131/",
       "id": "8131",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 11:27:18",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "335,069 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "70"
     },
     {
       "name": "Hermits Peak Fire",
