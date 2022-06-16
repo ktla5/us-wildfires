@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 08:41:20",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,919 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "16"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 08:25:53",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "320,971 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "48"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
       "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 07:49:41",
+      "updated": "2022-06-16 08:14:11",
       "lat": "35.37",
       "lng": "-111.436",
       "size": "5,372 Acres",
@@ -18,26 +44,13 @@
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 07:48:52",
+      "updated": "2022-06-16 08:13:50",
       "lat": "35.27",
       "lng": "-111.666",
       "size": "24,815 Acres",
       "url": "/incident/8152/",
       "id": "8152",
       "contained": "27"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 07:36:30",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "320,971 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "48"
     },
     {
       "name": "Sierra Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 11:43:04",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,905 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "12"
     },
     {
       "name": "Contact Creek Fire",
