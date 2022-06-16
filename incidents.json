@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": " SUMMARY: The Contreras Fire started June 11 on a remote ridge of...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 15:43:17",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "6,662 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
+      "name": "Sierra Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT STATUS OF THE SIERRA FIRE:  Updated June 16, 2022, at 1:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-16 15:31:46",
+      "lat": "34.554",
+      "lng": "-118.414",
+      "size": "11 Acres",
+      "url": "/incident/8164/",
+      "id": "8164",
+      "contained": "0"
+    },
+    {
       "name": "Yogi Fire",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
@@ -131,19 +157,6 @@
       "contained": "100"
     },
     {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 13:33:07",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "6,662 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
-    },
-    {
       "name": "Graham Fire",
       "type": "Wildfire",
       "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
@@ -155,19 +168,6 @@
       "url": "/incident/8150/",
       "id": "8150",
       "contained": "70"
-    },
-    {
-      "name": "Sierra Fire",
-      "type": "Wildfire",
-      "summary": "A new fire was reported to the Angeles National Forest Emergency...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 12:55:39",
-      "lat": "34.554",
-      "lng": "-118.414",
-      "size": "11 Acres",
-      "url": "/incident/8164/",
-      "id": "8164",
-      "contained": "0"
     },
     {
       "name": "Midnight Fire",
