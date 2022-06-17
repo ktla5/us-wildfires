@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-17 10:26:50",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,372 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "11"
-    },
-    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is currently burning mostly on National Forest lands...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-17 10:23:14",
+      "updated": "2022-06-17 11:35:30",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "324,132 Acres",
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "50"
+    },
+    {
+      "name": "Tharps-Hazelwood Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " Following a successful test burn on the morning of June 9, 2022 and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-17 11:24:09",
+      "lat": "36.563",
+      "lng": "-118.747",
+      "size": "752 Acres",
+      "url": "/incident/8130/",
+      "id": "8130",
+      "contained": "0"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": " The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-17 11:08:43",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,297 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-17 11:07:17",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,449 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "11"
     },
     {
       "name": "Midnight Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/8147/",
       "id": "8147",
       "contained": "69"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-17 09:32:49",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "24,815 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
     },
     {
       "name": "Hermits Peak Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/8159/",
       "id": "8159",
       "contained": "100"
-    },
-    {
-      "name": "Tharps-Hazelwood Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " Following a successful test burn on the morning of June 9, 2022 and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 12:28:58",
-      "lat": "36.563",
-      "lng": "-118.747",
-      "size": "752 Acres",
-      "url": "/incident/8130/",
-      "id": "8130",
-      "contained": "0"
     },
     {
       "name": "McBride Post-Fire BAER",
