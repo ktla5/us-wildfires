@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-18 09:49:13",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,314 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "  The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
       "state": "ARIZONA",
-      "updated": "2022-06-18 09:32:04",
+      "updated": "2022-06-18 09:43:59",
       "lat": "35.27",
       "lng": "-111.666",
       "size": "26,473 Acres",
@@ -63,19 +76,6 @@
       "size": "341,314 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "72"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-18 08:34:21",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,314 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "72"
     },
     {
