@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Tonto Canyon Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
+      "state": "ARIZONA",
+      "updated": "2022-06-18 12:50:26",
+      "lat": "31.381",
+      "lng": "-111.198",
+      "size": "11,867 Acres",
+      "url": "/incident/8158/",
+      "id": "8158",
+      "contained": "50"
+    },
+    {
+      "name": "Kinsley Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are fully suppressing the Kinsley Fire in the Antelope...",
+      "state": "NEVADA",
+      "updated": "2022-06-18 12:48:11",
+      "lat": "40.081",
+      "lng": "-114.422",
+      "size": "0 Acres",
+      "url": "/incident/8166/",
+      "id": "8166",
+      "contained": "0"
+    },
+    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
@@ -155,19 +181,6 @@
       "url": "/incident/8162/",
       "id": "8162",
       "contained": "0"
-    },
-    {
-      "name": "Tonto Canyon Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
-      "state": "ARIZONA",
-      "updated": "2022-06-17 20:24:34",
-      "lat": "31.381",
-      "lng": "-111.198",
-      "size": "9,550 Acres",
-      "url": "/incident/8158/",
-      "id": "8158",
-      "contained": "50"
     },
     {
       "name": "Sheep Fire",
