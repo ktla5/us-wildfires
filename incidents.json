@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-17 22:05:29",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,896 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "69"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "  The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-17 22:03:11",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,297 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
+    },
+    {
+      "name": "Sierra Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT STATUS OF THE SIERRA FIRE:  Updated June 17, 2022- 11...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-17 21:47:03",
+      "lat": "34.554",
+      "lng": "-118.414",
+      "size": "11 Acres",
+      "url": "/incident/8164/",
+      "id": "8164",
+      "contained": "0"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
       "state": "ARIZONA",
-      "updated": "2022-06-17 21:12:03",
+      "updated": "2022-06-17 21:42:05",
       "lat": "35.37",
       "lng": "-111.436",
       "size": "5,449 Acres",
@@ -14,17 +53,30 @@
       "contained": "11"
     },
     {
-      "name": "Pipeline Fire",
+      "name": "Black Fire",
       "type": "Wildfire",
-      "summary": " The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-17 21:39:16",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "324,909 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "58"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": " INCIDENT...",
       "state": "ARIZONA",
-      "updated": "2022-06-17 21:01:33",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,297 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
+      "updated": "2022-06-17 21:31:06",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "17,646 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
     },
     {
       "name": "Carbon County Flood",
@@ -53,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": " INCIDENT...",
-      "state": "ARIZONA",
-      "updated": "2022-06-17 20:33:32",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "17,646 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
-    },
-    {
       "name": "Tonto Canyon Fire",
       "type": "Wildfire",
       "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
@@ -90,19 +129,6 @@
       "url": "/incident/8160/",
       "id": "8160",
       "contained": "0"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-17 19:22:10",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "324,909 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "58"
     },
     {
       "name": "Sheep Fire",
@@ -170,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-17 09:43:38",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,896 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "69"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -246,19 +259,6 @@
       "url": "/incident/8150/",
       "id": "8150",
       "contained": "100"
-    },
-    {
-      "name": "Sierra Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT STATUS OF THE SIERRA FIRE:  Updated June 16, 2022, at 1:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 16:11:16",
-      "lat": "34.554",
-      "lng": "-118.414",
-      "size": "11 Acres",
-      "url": "/incident/8164/",
-      "id": "8164",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
