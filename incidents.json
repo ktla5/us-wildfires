@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-18 22:41:42",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-18 22:28:04",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,896 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "79"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-18 22:09:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,314 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "72"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-18 22:04:04",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,314 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
+    },
+    {
+      "name": "Kinsley Fire",
+      "type": "Wildfire",
+      "summary": "The wind-driven Kinsley Fire was aerially mapped today at 3,209...",
+      "state": "NEVADA",
+      "updated": "2022-06-18 21:34:23",
+      "lat": "40.081",
+      "lng": "-114.422",
+      "size": "3,209 Acres",
+      "url": "/incident/8167/",
+      "id": "8167",
+      "contained": "0"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
       "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
@@ -53,32 +118,6 @@
       "contained": "70"
     },
     {
-      "name": "Kinsley Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are fully suppressing the Kinsley Fire in the Antelope...",
-      "state": "NEVADA",
-      "updated": "2022-06-18 20:57:34",
-      "lat": "40.081",
-      "lng": "-114.422",
-      "size": "3,209 Acres",
-      "url": "/incident/8167/",
-      "id": "8167",
-      "contained": "0"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-18 20:20:15",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
-      "contained": "0"
-    },
-    {
       "name": "Tonto Canyon Fire",
       "type": "Wildfire",
       "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
@@ -116,45 +155,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "64"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-18 17:35:27",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,314 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "72"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-18 17:34:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,314 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "72"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-18 16:59:47",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,896 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "79"
     },
     {
       "name": "Yogi Fire",
