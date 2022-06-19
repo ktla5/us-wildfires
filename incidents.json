@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Raspberry Fire",
+      "type": "Wildfire",
+      "summary": "The Southeast Zone Type 3 Incident Command Team is managing the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 12:46:46",
+      "lat": "31.821",
+      "lng": "-109.295",
+      "size": "420 Acres",
+      "url": "/incident/8162/",
+      "id": "8162",
+      "contained": "70"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
       "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
       "state": "ARIZONA",
-      "updated": "2022-06-19 12:37:38",
+      "updated": "2022-06-19 12:38:11",
       "lat": "35.37",
       "lng": "-111.436",
       "size": "5,563 Acres",
@@ -155,19 +168,6 @@
       "url": "/incident/8167/",
       "id": "8167",
       "contained": "0"
-    },
-    {
-      "name": "Raspberry Fire",
-      "type": "Wildfire",
-      "summary": "The Southeast Zone Type 3 Incident Command Team is managing the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-18 21:02:02",
-      "lat": "31.821",
-      "lng": "-109.295",
-      "size": "530 Acres",
-      "url": "/incident/8162/",
-      "id": "8162",
-      "contained": "70"
     },
     {
       "name": "East Fork Fire ",
