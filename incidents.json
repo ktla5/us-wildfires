@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 12:37:38",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,563 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "20"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 12:36:34",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,473 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "40"
+    },
+    {
+      "name": "Tonto Canyon Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 12:30:47",
+      "lat": "31.381",
+      "lng": "-111.198",
+      "size": "9,426 Acres",
+      "url": "/incident/8158/",
+      "id": "8158",
+      "contained": "60"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 12:28:32",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "17,646 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "40"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-19 12:27:14",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
@@ -11,19 +76,6 @@
       "size": "0 Square Miles",
       "url": "/incident/8161/",
       "id": "8161",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-19 12:12:13",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
       "contained": "0"
     },
     {
@@ -79,45 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-19 09:16:44",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,563 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "20"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-19 08:01:30",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "17,646 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "40"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-19 07:52:50",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,473 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "40"
-    },
-    {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
@@ -155,19 +168,6 @@
       "url": "/incident/8162/",
       "id": "8162",
       "contained": "70"
-    },
-    {
-      "name": "Tonto Canyon Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
-      "state": "ARIZONA",
-      "updated": "2022-06-18 20:02:35",
-      "lat": "31.381",
-      "lng": "-111.198",
-      "size": "9,426 Acres",
-      "url": "/incident/8158/",
-      "id": "8158",
-      "contained": "60"
     },
     {
       "name": "East Fork Fire ",
