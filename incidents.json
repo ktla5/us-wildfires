@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "  The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-19 07:41:32",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,473 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "40"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is currently burning mostly on National Forest lands...",
@@ -90,19 +103,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "20"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "  The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-18 21:16:48",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,473 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "40"
     },
     {
       "name": "Contreras Fire ",
