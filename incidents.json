@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Contreras Fire ",
+      "name": "East Fork Fire ",
       "type": "Wildfire",
-      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-20 13:31:46",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "20,360 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "40"
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-20 13:53:44",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "235,684 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "100"
+    },
+    {
+      "name": "Nogal Canyon Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-20 13:44:48",
+      "lat": "33.577",
+      "lng": "-105.68",
+      "size": "0 Acres",
+      "url": "/incident/8072/",
+      "id": "8072",
+      "contained": "0"
+    },
+    {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-20 13:44:30",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
+      "name": "Black Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-20 13:42:18",
+      "lat": "33.204",
+      "lng": "-108.009",
+      "size": "0 Acres",
+      "url": "/incident/8144/",
+      "id": "8144",
+      "contained": "0"
     },
     {
       "name": "Cerro Pelado Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-20 13:31:29",
+      "updated": "2022-06-20 13:40:03",
       "lat": "35.675",
       "lng": "-106.501",
       "size": "0 Acres",
       "url": "/incident/8118/",
       "id": "8118",
       "contained": "0"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-20 13:38:34",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-20 13:31:58",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "20,360 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "40"
     },
     {
       "name": "Pipeline Fire",
@@ -170,19 +235,6 @@
       "contained": "75"
     },
     {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-19 14:28:09",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "235,684 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "100"
-    },
-    {
       "name": "Snow ",
       "type": "Wildfire",
       "summary": " The Snow fire was reported on Thursday, June 16, 2022 at...",
@@ -193,19 +245,6 @@
       "size": "19 Acres",
       "url": "/incident/8165/",
       "id": "8165",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-19 12:27:14",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
       "contained": "0"
     },
     {
@@ -311,45 +350,6 @@
       "url": "/incident/8159/",
       "id": "8159",
       "contained": "100"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 11:32:36",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
-      "contained": "0"
-    },
-    {
-      "name": "Black Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 11:30:57",
-      "lat": "33.204",
-      "lng": "-108.009",
-      "size": "0 Acres",
-      "url": "/incident/8144/",
-      "id": "8144",
-      "contained": "0"
-    },
-    {
-      "name": "Nogal Canyon Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 11:29:09",
-      "lat": "33.577",
-      "lng": "-105.68",
-      "size": "0 Acres",
-      "url": "/incident/8072/",
-      "id": "8072",
-      "contained": "0"
     },
     {
       "name": "Menkhaven",
