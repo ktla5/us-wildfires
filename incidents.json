@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Kinsley Fire",
+      "type": "Wildfire",
+      "summary": "The Kinsley Fire on the Elko-White Pine County line 60 miles...",
+      "state": "NEVADA",
+      "updated": "2022-06-21 16:50:47",
+      "lat": "40.081",
+      "lng": "-114.422",
+      "size": "3,209 Acres",
+      "url": "/incident/8167/",
+      "id": "8167",
+      "contained": "80"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
@@ -194,19 +207,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Kinsley Fire",
-      "type": "Wildfire",
-      "summary": "The Kinsley Fire on the Elko-White Pine County line 60 miles...",
-      "state": "NEVADA",
-      "updated": "2022-06-20 18:33:04",
-      "lat": "40.081",
-      "lng": "-114.422",
-      "size": "3,209 Acres",
-      "url": "/incident/8167/",
-      "id": "8167",
-      "contained": "60"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
