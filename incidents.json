@@ -3,9 +3,9 @@
     {
       "name": "Left Fork Fire",
       "type": "Wildfire",
-      "summary": " The Left Fork Fire ignited on June 18, 2022 on the Dixie National...",
+      "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
       "state": "UTAH",
-      "updated": "2022-06-22 11:38:48",
+      "updated": "2022-06-22 12:05:39",
       "lat": "37.483",
       "lng": "-112.358",
       "size": "3,984 Acres",
@@ -14,11 +14,24 @@
       "contained": "5"
     },
     {
+      "name": "Contact Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
+      "state": "ALASKA",
+      "updated": "2022-06-22 11:58:14",
+      "lat": "58.219",
+      "lng": "-155.966",
+      "size": "10,321 Acres",
+      "url": "/incident/8131/",
+      "id": "8131",
+      "contained": "0"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
       "state": "ARIZONA",
-      "updated": "2022-06-22 11:38:46",
+      "updated": "2022-06-22 11:39:31",
       "lat": "31.849",
       "lng": "-111.574",
       "size": "27,791 Acres",
@@ -323,19 +336,6 @@
       "size": "11 Acres",
       "url": "/incident/8164/",
       "id": "8164",
-      "contained": "0"
-    },
-    {
-      "name": "Contact Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
-      "state": "ALASKA",
-      "updated": "2022-06-17 15:36:51",
-      "lat": "58.219",
-      "lng": "-155.966",
-      "size": "10,321 Acres",
-      "url": "/incident/8131/",
-      "id": "8131",
       "contained": "0"
     },
     {
