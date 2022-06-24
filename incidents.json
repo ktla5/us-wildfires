@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "On June 24th at approximately 2:30 pm the Texas A&amp;M Forest Service...",
       "state": "TEXAS",
-      "updated": "2022-06-24 13:28:50",
+      "updated": "2022-06-24 13:51:49",
       "lat": "32.801",
       "lng": "-98.251",
       "size": "3,000 Acres",
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "22"
+    },
+    {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": " The Western Montana All Hazards Incident Management Team is...",
+      "state": "MONTANA",
+      "updated": "2022-06-24 13:37:54",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
     },
     {
       "name": "Lime Complex",
@@ -38,19 +51,6 @@
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "100"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": " The Western Montana All Hazards Incident Management Team is...",
-      "state": "MONTANA",
-      "updated": "2022-06-24 12:06:12",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
-      "contained": "0"
     },
     {
       "name": "Black Fire",
