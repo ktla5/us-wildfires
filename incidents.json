@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-24 11:59:43",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-24 11:47:58",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,133 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
       "name": "Hog Spring Fire",
       "type": "Wildfire",
       "summary": "The Hog Spring fire transitioned from a type 4 Incident Management...",
@@ -24,19 +50,6 @@
       "size": "518,710 Acres",
       "url": "/incident/8173/",
       "id": "8173",
-      "contained": "0"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-24 11:22:25",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
       "contained": "0"
     },
     {
@@ -103,19 +116,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "15"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-24 10:03:41",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,133 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
