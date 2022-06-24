@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-24 14:30:12",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,133 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": " The Western Montana All Hazards Incident Management Team is...",
@@ -51,19 +64,6 @@
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "100"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-24 11:47:58",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,133 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
     },
     {
       "name": "Hog Spring Fire",
