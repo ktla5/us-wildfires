@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Archer Fire",
+      "type": "Wildfire",
+      "summary": "The Archer Fire is located approximately 6 miles NW of Round...",
+      "state": "TEXAS",
+      "updated": "2022-06-25 16:19:15",
+      "lat": "30.482",
+      "lng": "-98.426",
+      "size": "450 Acres",
+      "url": "/incident/8176/",
+      "id": "8176",
+      "contained": "60"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-25 15:49:45",
+      "updated": "2022-06-25 16:14:17",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -142,19 +155,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "12"
-    },
-    {
-      "name": "Archer Fire",
-      "type": "Wildfire",
-      "summary": "The Archer Fire is located approximately 6 miles NW of Round...",
-      "state": "TEXAS",
-      "updated": "2022-06-25 09:09:04",
-      "lat": "30.482",
-      "lng": "-98.426",
-      "size": "450 Acres",
-      "url": "/incident/8176/",
-      "id": "8176",
-      "contained": "20"
     },
     {
       "name": "Contreras Fire ",
