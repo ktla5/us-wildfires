@@ -3,22 +3,22 @@
     {
       "name": "Haywire Fire BAER",
       "type": "Burned Area Emergency Response",
-      "summary": "The Burned Area Emergency Response Team (BAER), led by Team Leader...",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
       "state": "ARIZONA",
-      "updated": "2022-06-26 16:20:08",
+      "updated": "2022-06-26 16:27:55",
       "lat": "35.392",
-      "lng": "-111.075",
-      "size": "0 Acres",
+      "lng": "-111.408",
+      "size": "5,575 Acres",
       "url": "/incident/8179/",
       "id": "8179",
-      "contained": "0"
+      "contained": "95"
     },
     {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-26 16:14:45",
+      "updated": "2022-06-26 16:26:03",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
