@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 12:08:19",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "92"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 12:03:54",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,136 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -40,19 +66,6 @@
       "contained": "27"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-27 10:25:39",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,136 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
@@ -64,19 +77,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-27 09:13:44",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "92"
     },
     {
       "name": "Haywire Fire BAER",
