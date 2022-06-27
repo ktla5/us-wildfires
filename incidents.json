@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 12:39:50",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,136 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-27 12:08:19",
+      "updated": "2022-06-27 12:23:21",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -14,17 +27,30 @@
       "contained": "92"
     },
     {
-      "name": "Black Fire",
+      "name": "Haywire Fire",
       "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-27 12:03:54",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,136 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-27 12:23:11",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-06-27 12:22:41",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "90"
     },
     {
       "name": "Hermits Peak Fire",
@@ -142,32 +168,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-26 19:16:03",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-06-26 19:12:47",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "90"
     },
     {
       "name": "Archer Fire",
