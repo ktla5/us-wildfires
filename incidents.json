@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022 at approximately 2:30 pm the Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-06-27 10:30:35",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,597 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "27"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 10:28:57",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "92"
+    },
+    {
       "name": "Left Fork Fire",
       "type": "Wildfire",
       "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
       "state": "UTAH",
-      "updated": "2022-06-27 09:50:40",
+      "updated": "2022-06-27 10:27:18",
       "lat": "37.483",
       "lng": "-112.358",
       "size": "4,254 Acres",
       "url": "/incident/8169/",
       "id": "8169",
       "contained": "13"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 10:25:39",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,136 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-27 09:56:07",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,402 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "100"
     },
     {
       "name": "Calf Canyon",
@@ -38,19 +90,6 @@
       "url": "/incident/8179/",
       "id": "8179",
       "contained": "95"
-    },
-    {
-      "name": "Dempsey Fire",
-      "type": "Wildfire",
-      "summary": "On June 23, 2022 at approximately 2:30 pm the Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-06-27 08:17:35",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,597 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "27"
     },
     {
       "name": "Pipeline Fire BAER",
@@ -103,32 +142,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-26 21:39:37",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "92"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-26 19:22:06",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,136 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
     },
     {
       "name": "Haywire Fire",
@@ -636,19 +649,6 @@
       "url": "/incident/8117/",
       "id": "8117",
       "contained": "100"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
-      "state": "ARIZONA",
-      "updated": "2022-05-27 08:53:21",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,402 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "96"
     },
     {
       "name": "High Park Fire",
