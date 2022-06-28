@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-06-28 11:40:29",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "0 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "0"
+    },
+    {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
+      "state": "TEXAS",
+      "updated": "2022-06-28 10:58:08",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,598 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "36"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -90,19 +116,6 @@
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "7"
-    },
-    {
-      "name": "Dempsey Fire",
-      "type": "Wildfire",
-      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
-      "state": "TEXAS",
-      "updated": "2022-06-27 22:07:19",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,598 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "36"
     },
     {
       "name": "Goshute Fire",
