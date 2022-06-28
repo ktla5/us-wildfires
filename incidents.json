@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-28 09:34:02",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -25,19 +38,6 @@
       "url": "/incident/8169/",
       "id": "8169",
       "contained": "40"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-28 08:43:43",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Haywire Fire BAER",
