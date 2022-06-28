@@ -326,19 +326,6 @@
       "contained": "0"
     },
     {
-      "name": "River Fire",
-      "type": "Wildfire",
-      "summary": "On the afternoon of June 23, 2022, a wildfire (River Fire) started...",
-      "state": "TEXAS",
-      "updated": "2022-06-24 17:55:36",
-      "lat": "34.154",
-      "lng": "-98.636",
-      "size": "383 Acres",
-      "url": "/incident/8175/",
-      "id": "8175",
-      "contained": "100"
-    },
-    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": " The Western Montana All Hazards Incident Management Team is...",
