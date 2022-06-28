@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "  The Bean Complex fires began from lightning between June 19 and...",
       "state": "ALASKA",
-      "updated": "2022-06-28 16:32:54",
+      "updated": "2022-06-28 16:59:42",
       "lat": "64.875",
       "lng": "-151.641",
       "size": "27,379 Acres",
@@ -571,19 +571,6 @@
       "url": "/incident/8122/",
       "id": "8122",
       "contained": "100"
-    },
-    {
-      "name": "Ash Mountain Prescribed Burn ",
-      "type": "Prescribed Fire",
-      "summary": " As of the afternoon of June 6, 2022, ignitions are complete on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-06 15:05:34",
-      "lat": "36.491",
-      "lng": "-118.829",
-      "size": "15 Acres",
-      "url": "/incident/8129/",
-      "id": "8129",
-      "contained": "0"
     },
     {
       "name": "Foster Fire ",
