@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Left Fork Fire",
+      "type": "Wildfire",
+      "summary": "Beginning in early April 2022, a planned ignition of slash piles was...",
+      "state": "UTAH",
+      "updated": "2022-06-29 14:46:51",
+      "lat": "37.483",
+      "lng": "-112.358",
+      "size": "4,254 Acres",
+      "url": "/incident/8169/",
+      "id": "8169",
+      "contained": "50"
+    },
+    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": " The Bean Complex fires began from lightning between June 19 and June...",
       "state": "ALASKA",
-      "updated": "2022-06-29 14:33:44",
+      "updated": "2022-06-29 14:41:01",
       "lat": "64.875",
       "lng": "-151.641",
       "size": "43,364 Acres",
@@ -77,19 +90,6 @@
       "url": "/incident/8173/",
       "id": "8173",
       "contained": "0"
-    },
-    {
-      "name": "Left Fork Fire",
-      "type": "Wildfire",
-      "summary": "Beginning in early April 2022, a planned ignition of slash piles was...",
-      "state": "UTAH",
-      "updated": "2022-06-29 11:16:29",
-      "lat": "37.483",
-      "lng": "-112.358",
-      "size": "4,254 Acres",
-      "url": "/incident/8169/",
-      "id": "8169",
-      "contained": "50"
     },
     {
       "name": "Pipeline Fire",
