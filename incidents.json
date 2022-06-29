@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Goshute Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are fully suppressing the Goshute Fire west of U.S....",
+      "state": "NEVADA",
+      "updated": "2022-06-29 13:15:51",
+      "lat": "40.514",
+      "lng": "-114.287",
+      "size": "1,800 Acres",
+      "url": "/incident/8180/",
+      "id": "8180",
+      "contained": "12"
+    },
+    {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-06-29 12:50:11",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "14,200 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -12,32 +38,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "93"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-06-29 12:47:58",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "10,591 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "0"
-    },
-    {
-      "name": "Goshute Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are fully suppressing the Goshute Fire west of U.S....",
-      "state": "NEVADA",
-      "updated": "2022-06-29 12:43:22",
-      "lat": "40.514",
-      "lng": "-114.287",
-      "size": "1,800 Acres",
-      "url": "/incident/8180/",
-      "id": "8180",
-      "contained": "12"
     },
     {
       "name": "Clear Fire",
