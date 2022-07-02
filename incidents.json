@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-02 15:27:41",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -168,19 +181,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "96"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-02 09:21:57",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "Midnight Fire",
