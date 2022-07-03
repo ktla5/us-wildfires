@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-03 11:48:50",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "29,555 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "0"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
+      "state": "ALASKA",
+      "updated": "2022-07-03 11:39:43",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "51,236 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "8"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -12,32 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "93"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
-      "state": "ALASKA",
-      "updated": "2022-07-03 11:24:09",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "39,872 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "8"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-03 10:56:23",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "29,555 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "0"
     },
     {
       "name": "Old Buckshot Complex",
