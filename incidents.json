@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
+      "state": "TEXAS",
+      "updated": "2022-07-03 09:51:06",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,598 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "96"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-03 09:44:20",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
@@ -24,19 +50,6 @@
       "size": "341,735 Acres",
       "url": "/incident/8069/",
       "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-03 09:19:25",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
       "contained": "93"
     },
     {
@@ -181,19 +194,6 @@
       "url": "/incident/8196/",
       "id": "8196",
       "contained": "100"
-    },
-    {
-      "name": "Dempsey Fire",
-      "type": "Wildfire",
-      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
-      "state": "TEXAS",
-      "updated": "2022-07-02 09:29:30",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,598 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "96"
     },
     {
       "name": "Midnight Fire",
