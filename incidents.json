@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-05 18:23:21",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Tanana Complex includes the South Fork (#427) and Yukon...",
+      "state": "ALASKA",
+      "updated": "2022-07-05 18:21:22",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "0 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-05 18:19:22",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
       "name": "Sparkling Fallen Fire",
       "type": "Wildfire",
       "summary": " The Sparkling Fallen Fire started late on the night of July 4th in...",
@@ -25,32 +64,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "95"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-05 16:44:07",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-05 15:53:42",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "Clear Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8180/",
       "id": "8180",
       "contained": "70"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes the South Fork (#427) and Yukon...",
-      "state": "ALASKA",
-      "updated": "2022-07-05 12:27:32",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "0 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
     },
     {
       "name": "Pipeline Fire",
