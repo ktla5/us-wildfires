@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Koonce Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
+      "state": "TEXAS",
+      "updated": "2022-07-07 16:37:44",
+      "lat": "33.917",
+      "lng": "-98.77",
+      "size": "3,500 Acres",
+      "url": "/incident/8203/",
+      "id": "8203",
+      "contained": "75"
+    },
+    {
       "name": "Hard Castle Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
@@ -12,19 +25,6 @@
       "url": "/incident/8208/",
       "id": "8208",
       "contained": "40"
-    },
-    {
-      "name": "Koonce Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
-      "state": "TEXAS",
-      "updated": "2022-07-07 15:24:34",
-      "lat": "33.917",
-      "lng": "-98.77",
-      "size": "3,500 Acres",
-      "url": "/incident/8203/",
-      "id": "8203",
-      "contained": "75"
     },
     {
       "name": "Calf Canyon",
