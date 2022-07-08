@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Gatlin Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Gatlin Creek Fire began on July 6th, 2022 in the area of Gatlin...",
+      "state": "TEXAS",
+      "updated": "2022-07-08 08:55:10",
+      "lat": "30.119",
+      "lng": "-98.142",
+      "size": "257 Acres",
+      "url": "/incident/8207/",
+      "id": "8207",
+      "contained": "90"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -103,19 +116,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Gatlin Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Gatlin Creek Fire began on July 6th, 2022 in the area of Gatlin...",
-      "state": "TEXAS",
-      "updated": "2022-07-07 20:18:29",
-      "lat": "30.119",
-      "lng": "-98.142",
-      "size": "257 Acres",
-      "url": "/incident/8207/",
-      "id": "8207",
-      "contained": "90"
     },
     {
       "name": "Koonce Fire",
