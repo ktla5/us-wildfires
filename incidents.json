@@ -1,43 +1,82 @@
 {
   "markers": [
     {
+      "name": "Hard Castle Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-07-07 21:27:49",
+      "lat": "32.004",
+      "lng": "-97.695",
+      "size": "600 Acres",
+      "url": "/incident/8208/",
+      "id": "8208",
+      "contained": "45"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-07 21:22:37",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "147,534 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
       "name": "Gatlin Creek Fire",
       "type": "Wildfire",
       "summary": "The Gatlin Creek Fire began on July 6th, 2022 in the area of Gatlin...",
       "state": "TEXAS",
-      "updated": "2022-07-07 17:54:43",
+      "updated": "2022-07-07 20:18:29",
       "lat": "30.119",
       "lng": "-98.142",
       "size": "257 Acres",
       "url": "/incident/8207/",
       "id": "8207",
-      "contained": "85"
+      "contained": "90"
     },
     {
       "name": "Koonce Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
       "state": "TEXAS",
-      "updated": "2022-07-07 16:39:20",
+      "updated": "2022-07-07 19:54:16",
       "lat": "33.917",
       "lng": "-98.77",
-      "size": "3,500 Acres",
+      "size": "3,794 Acres",
       "url": "/incident/8203/",
       "id": "8203",
-      "contained": "75"
+      "contained": "85"
     },
     {
-      "name": "Hard Castle Fire",
+      "name": "Hurd",
       "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
+      "summary": " .Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
       "state": "TEXAS",
-      "updated": "2022-07-07 16:13:12",
-      "lat": "32.004",
-      "lng": "-97.695",
-      "size": "470 Acres",
-      "url": "/incident/8208/",
-      "id": "8208",
-      "contained": "40"
+      "updated": "2022-07-07 19:38:12",
+      "lat": "28.793",
+      "lng": "-98.933",
+      "size": "90 Acres",
+      "url": "/incident/8205/",
+      "id": "8205",
+      "contained": "100"
+    },
+    {
+      "name": "Deer",
+      "type": "Wildfire",
+      "summary": " Fire is 95% contained,  Will monitor",
+      "state": "TEXAS",
+      "updated": "2022-07-07 19:35:53",
+      "lat": "27.004",
+      "lng": "-97.956",
+      "size": "1,062 Acres",
+      "url": "/incident/8204/",
+      "id": "8204",
+      "contained": "95"
     },
     {
       "name": "Calf Canyon",
@@ -144,32 +183,6 @@
       "contained": "80"
     },
     {
-      "name": "Deer",
-      "type": "Wildfire",
-      "summary": " Crews continue to patrol and mop up along containment lines. ...",
-      "state": "TEXAS",
-      "updated": "2022-07-06 20:42:36",
-      "lat": "27.004",
-      "lng": "-97.956",
-      "size": "1,062 Acres",
-      "url": "/incident/8204/",
-      "id": "8204",
-      "contained": "80"
-    },
-    {
-      "name": "Hurd",
-      "type": "Wildfire",
-      "summary": " .Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
-      "state": "TEXAS",
-      "updated": "2022-07-06 19:06:59",
-      "lat": "28.793",
-      "lng": "-98.933",
-      "size": "90 Acres",
-      "url": "/incident/8205/",
-      "id": "8205",
-      "contained": "95"
-    },
-    {
       "name": "Cerro Pelado Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -193,19 +206,6 @@
       "size": "0 Acres",
       "url": "/incident/8104/",
       "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-06 16:38:23",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "141,004 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
       "contained": "0"
     },
     {
