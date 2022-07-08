@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Washburn",
+      "type": "Wildfire",
+      "summary": "At 2:04 pm on July 7th, the Yosemite Emergency Communications Center...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-08 14:48:29",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "166 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "0"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
@@ -90,19 +103,6 @@
       "url": "/incident/8207/",
       "id": "8207",
       "contained": "90"
-    },
-    {
-      "name": "Washburn",
-      "type": "Wildfire",
-      "summary": "At 2:04 pm on July 7th, the Yosemite Emergency Communications Center...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-08 12:38:09",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "250 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "0"
     },
     {
       "name": "Minto Lakes",
