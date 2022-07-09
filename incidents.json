@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 16:46:57",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "155,302 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
       "name": "Middle Tanana Complex",
       "type": "Wildfire",
       "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
       "state": "ALASKA",
-      "updated": "2022-07-09 16:35:35",
+      "updated": "2022-07-09 16:39:34",
       "lat": "64.37",
       "lng": "-144.95",
       "size": "50,276 Acres",
@@ -24,19 +37,6 @@
       "size": "0 Acres",
       "url": "/incident/8210/",
       "id": "8210",
-      "contained": "0"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 15:04:25",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "155,302 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
       "contained": "0"
     },
     {
