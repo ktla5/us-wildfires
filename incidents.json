@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 14:31:20",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "69,748 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "15"
+    },
+    {
       "name": "Middle Tanana Complex",
       "type": "Wildfire",
       "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
@@ -142,19 +155,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 00:55:23",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "65,884 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "15"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
