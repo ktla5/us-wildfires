@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 11:57:01",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "35,367 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 11:54:17",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "30,528 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
       "name": "Hard Castle Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
@@ -12,19 +38,6 @@
       "url": "/incident/8208/",
       "id": "8208",
       "contained": "60"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 11:04:39",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "35,367 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "0"
     },
     {
       "name": "Post Oak Fire",
@@ -89,19 +102,6 @@
       "size": "155,302 Acres",
       "url": "/incident/8183/",
       "id": "8183",
-      "contained": "0"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 10:14:57",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "30,528 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
       "contained": "0"
     },
     {
