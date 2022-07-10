@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "683 acres as of 7/10 mid-dayReported early afternoon Saturday, July...",
+      "state": "WYOMING",
+      "updated": "2022-07-10 14:28:10",
+      "lat": "42.343",
+      "lng": "-105.491",
+      "size": "683 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "0"
+    },
+    {
       "name": "Mesa Fire",
       "type": "Wildfire",
       "summary": " The fire is burning in rugged terrain near Deer Lake Canyon, a...",
@@ -64,19 +77,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "93"
-    },
-    {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "683 acres as of 7/10 mid-dayReported early afternoon Saturday, July...",
-      "state": "WYOMING",
-      "updated": "2022-07-10 13:00:32",
-      "lat": "42.343",
-      "lng": "-105.491",
-      "size": "683 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "0"
     },
     {
       "name": "Washburn Fire",
