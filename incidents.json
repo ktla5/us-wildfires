@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Mesquite Berry Fire",
+      "type": "Wildfire",
+      "summary": "On the afternoon of July 9, 2022, fire started 9 miles northwest....",
+      "state": "TEXAS",
+      "updated": "2022-07-10 11:58:51",
+      "lat": "33.652",
+      "lng": "-99.931",
+      "size": "238 Acres",
+      "url": "/incident/8213/",
+      "id": "8213",
+      "contained": "100"
+    },
+    {
       "name": "Middle Tanana Complex",
       "type": "Wildfire",
       "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
