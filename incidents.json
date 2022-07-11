@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-11 12:10:27",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "37,523 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "0"
+    },
+    {
       "name": "Henke Cot Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is in unified command with locals on the...",
@@ -63,19 +76,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-11 11:07:06",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "37,523 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
       "contained": "0"
     },
     {
