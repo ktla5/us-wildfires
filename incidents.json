@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Halfway Hill Fire",
+      "name": "Nethery Road Fire",
       "type": "Wildfire",
-      "summary": "The Halfway Hill Fire put up a large column of smoke that towered...",
-      "state": "UTAH",
-      "updated": "2022-07-12 09:38:02",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "10,436 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "0"
+      "summary": "On July 10, 2022 at approximately 5:15 p.m., the Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 10:26:47",
+      "lat": "30.403",
+      "lng": "-100.041",
+      "size": "2,000 Acres",
+      "url": "/incident/8222/",
+      "id": "8222",
+      "contained": "10"
     },
     {
-      "name": "Dirty Rice Fore",
+      "name": "Dry Rice Fire",
       "type": "Wildfire",
       "summary": "The Dirty Rice Fire was reported on July 11, 2022 at 1:00 pm...",
       "state": "TEXAS",
-      "updated": "2022-07-12 09:15:51",
+      "updated": "2022-07-12 10:26:30",
       "lat": "29.651",
       "lng": "-96.521",
       "size": "300 Acres",
       "url": "/incident/8223/",
       "id": "8223",
       "contained": "60"
+    },
+    {
+      "name": "Three Aces Fire",
+      "type": "Wildfire",
+      "summary": "On the evening of July 10, 2022, fire started 4.5 miles northeast of...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 10:26:15",
+      "lat": "33.021",
+      "lng": "-98.746",
+      "size": "38 Acres",
+      "url": "/incident/8219/",
+      "id": "8219",
+      "contained": "85"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire put up a large column of smoke that towered...",
+      "state": "UTAH",
+      "updated": "2022-07-12 10:22:32",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "10,436 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -196,19 +222,6 @@
       "contained": "100"
     },
     {
-      "name": "Nethery Road",
-      "type": "Wildfire",
-      "summary": "On July 10, 2022 at approximately 5:15 p.m., the Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-07-11 16:51:52",
-      "lat": "30.403",
-      "lng": "-100.041",
-      "size": "0 Acres",
-      "url": "/incident/8222/",
-      "id": "8222",
-      "contained": "10"
-    },
-    {
       "name": "Blanket Fire",
       "type": "Wildfire",
       "summary": " Crews continue to construct and improve line, using aerial assets...",
@@ -259,19 +272,6 @@
       "url": "/incident/8212/",
       "id": "8212",
       "contained": "75"
-    },
-    {
-      "name": "Three Aces",
-      "type": "Wildfire",
-      "summary": "On the evening of July 10, 2022, fire started 4.5 miles northeast of...",
-      "state": "TEXAS",
-      "updated": "2022-07-11 01:02:42",
-      "lat": "33.021",
-      "lng": "-98.746",
-      "size": "38 Acres",
-      "url": "/incident/8219/",
-      "id": "8219",
-      "contained": "85"
     },
     {
       "name": "Mesquite Berry Fire",
