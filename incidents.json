@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-12 14:53:31",
+      "updated": "2022-07-12 15:50:24",
       "lat": "37.499",
       "lng": "-119.614",
       "size": "3,221 Acres",
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "22"
+    },
+    {
+      "name": "Jacob City",
+      "type": "Wildfire",
+      "summary": "The fire was discovered five miles south of Tooele and one mile east...",
+      "state": "UTAH",
+      "updated": "2022-07-12 15:49:45",
+      "lat": "40.423",
+      "lng": "-112.323",
+      "size": "4,094 Acres",
+      "url": "/incident/8224/",
+      "id": "8224",
+      "contained": "19"
     },
     {
       "name": "Bean Complex",
@@ -25,19 +38,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Jacob City",
-      "type": "Wildfire",
-      "summary": "The fire was discovered five miles south of Tooele and one mile east...",
-      "state": "UTAH",
-      "updated": "2022-07-12 14:35:51",
-      "lat": "40.423",
-      "lng": "-112.323",
-      "size": "4,094 Acres",
-      "url": "/incident/8224/",
-      "id": "8224",
-      "contained": "19"
     },
     {
       "name": "Hardcastle Fire",
