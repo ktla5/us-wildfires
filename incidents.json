@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire put up a large column of smoke that towered...",
+      "state": "UTAH",
+      "updated": "2022-07-12 22:44:13",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "10,436 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "5"
+    },
+    {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "A Type III Incident Management Team assumed management of the fire on...",
+      "state": "WYOMING",
+      "updated": "2022-07-12 21:57:29",
+      "lat": "42.336",
+      "lng": "-105.497",
+      "size": "653 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "38"
+    },
+    {
+      "name": "Nethery Road Fire",
+      "type": "Wildfire",
+      "summary": " Crews made good progress today on the East flank. Containment lines...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:39:52",
+      "lat": "30.403",
+      "lng": "-100.041",
+      "size": "3,500 Acres",
+      "url": "/incident/8222/",
+      "id": "8222",
+      "contained": "30"
+    },
+    {
+      "name": "Cemetery Fire",
+      "type": "Wildfire",
+      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:29:28",
+      "lat": "32.786",
+      "lng": "-98.119",
+      "size": "13 Acres",
+      "url": "/incident/8225/",
+      "id": "8225",
+      "contained": "80"
+    },
+    {
       "name": "Blanket Fire",
       "type": "Wildfire",
       "summary": "Fire is completely tied in with roads and dozer line. Aerial...",
@@ -105,19 +157,6 @@
       "contained": "28"
     },
     {
-      "name": "Cemetery Fire",
-      "type": "Wildfire",
-      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 19:34:25",
-      "lat": "32.786",
-      "lng": "-98.119",
-      "size": "13 Acres",
-      "url": "/incident/8225/",
-      "id": "8225",
-      "contained": "80"
-    },
-    {
       "name": "Becky Peak Fire",
       "type": "Wildfire",
       "summary": "The 5,989-acre Becky Peak Fire is 40-percent contained. Full...",
@@ -196,19 +235,6 @@
       "contained": "18"
     },
     {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "A Type III Incident Management Team assumed management of the fire on...",
-      "state": "WYOMING",
-      "updated": "2022-07-12 12:09:36",
-      "lat": "42.336",
-      "lng": "-105.497",
-      "size": "653 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "0"
-    },
-    {
       "name": "Three Aces Fire",
       "type": "Wildfire",
       "summary": "On the evening of July 10, 2022, fire started 4.5 miles northeast of...",
@@ -261,19 +287,6 @@
       "contained": "60"
     },
     {
-      "name": "Nethery Road Fire",
-      "type": "Wildfire",
-      "summary": " Update-July 12, 2022 at 11:00 am, crews are working the fire.  The...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 11:13:41",
-      "lat": "30.403",
-      "lng": "-100.041",
-      "size": "2,000 Acres",
-      "url": "/incident/8222/",
-      "id": "8222",
-      "contained": "10"
-    },
-    {
       "name": "Spade Ranch Fire",
       "type": "Wildfire",
       "summary": "On the evening of July 10, 2022, the fire started 25 miles of...",
@@ -285,19 +298,6 @@
       "url": "/incident/8220/",
       "id": "8220",
       "contained": "50"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire put up a large column of smoke that towered...",
-      "state": "UTAH",
-      "updated": "2022-07-12 10:22:32",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "10,436 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "0"
     },
     {
       "name": "Haywire Fire",
