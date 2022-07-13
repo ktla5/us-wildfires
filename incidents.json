@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-13 10:33:20",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-13 10:27:50",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
+      "state": "ALASKA",
+      "updated": "2022-07-13 10:27:16",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "57,934 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
       "name": "Jellison Fire",
       "type": "Wildfire",
       "summary": "The Jellison Fire was reported the evening of July 12. Fire is...",
       "state": "MONTANA",
-      "updated": "2022-07-13 09:49:46",
+      "updated": "2022-07-13 10:09:59",
       "lat": "46.696",
       "lng": "-110.082",
       "size": "15 Acres",
       "url": "/incident/8227/",
       "id": "8227",
       "contained": "0"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday afternoon’s thunderstorms brought only a trace of...",
+      "state": "UTAH",
+      "updated": "2022-07-13 10:05:17",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "10,436 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "5"
+    },
+    {
+      "name": "Spade Ranch Fire",
+      "type": "Wildfire",
+      "summary": "On the evening of July 10, 2022, the fire started 25 miles of...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 10:00:43",
+      "lat": "32.118",
+      "lng": "-100.778",
+      "size": "350 Acres",
+      "url": "/incident/8220/",
+      "id": "8220",
+      "contained": "100"
+    },
+    {
+      "name": "Cemetery Fire",
+      "type": "Wildfire",
+      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 09:57:13",
+      "lat": "32.786",
+      "lng": "-98.119",
+      "size": "13 Acres",
+      "url": "/incident/8225/",
+      "id": "8225",
+      "contained": "80"
     },
     {
       "name": "Deerhead Fire",
@@ -51,19 +129,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday afternoon’s thunderstorms brought only a trace of...",
-      "state": "UTAH",
-      "updated": "2022-07-13 08:50:21",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "10,436 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "5"
     },
     {
       "name": "Dry Rice Fire",
@@ -118,19 +183,6 @@
       "contained": "30"
     },
     {
-      "name": "Cemetery Fire",
-      "type": "Wildfire",
-      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 21:29:28",
-      "lat": "32.786",
-      "lng": "-98.119",
-      "size": "13 Acres",
-      "url": "/incident/8225/",
-      "id": "8225",
-      "contained": "80"
-    },
-    {
       "name": "Blanket Fire",
       "type": "Wildfire",
       "summary": "Fire is completely tied in with roads and dozer line. Aerial...",
@@ -183,32 +235,6 @@
       "contained": "80"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-12 20:53:21",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-12 20:51:56",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
       "name": "Jacob City",
       "type": "Wildfire",
       "summary": "The fire was discovered five miles south of Tooele and one mile east...",
@@ -233,19 +259,6 @@
       "url": "/incident/8210/",
       "id": "8210",
       "contained": "40"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
-      "state": "ALASKA",
-      "updated": "2022-07-12 16:54:57",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "57,934 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
     },
     {
       "name": "Mesa Fire",
@@ -298,19 +311,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "0"
-    },
-    {
-      "name": "Spade Ranch Fire",
-      "type": "Wildfire",
-      "summary": "On the evening of July 10, 2022, the fire started 25 miles of...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 10:43:44",
-      "lat": "32.118",
-      "lng": "-100.778",
-      "size": "500 Acres",
-      "url": "/incident/8220/",
-      "id": "8220",
-      "contained": "50"
     },
     {
       "name": "Haywire Fire",
