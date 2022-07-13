@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Texas Forts Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 14:49:05",
+      "lat": "32.626",
+      "lng": "-98.501",
+      "size": "0 Acres",
+      "url": "/incident/8228/",
+      "id": "8228",
+      "contained": "0"
+    },
+    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
