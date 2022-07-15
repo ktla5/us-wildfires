@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Goshute Fire",
+      "type": "Wildfire",
+      "summary": "Fire being shifted into monitor status - will be monitored from...",
+      "state": "NEVADA",
+      "updated": "2022-07-15 15:24:58",
+      "lat": "40.514",
+      "lng": "-114.287",
+      "size": "1,966 Acres",
+      "url": "/incident/8180/",
+      "id": "8180",
+      "contained": "90"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-15 14:50:49",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "38,225 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "100"
+    },
+    {
       "name": "South Bend Fire",
       "type": "Wildfire",
       "summary": "The South Bend Fire was reported the afternoon of July 14. Fire is...",
@@ -287,19 +313,6 @@
       "contained": "100"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-14 16:17:14",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "38,225 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "100"
-    },
-    {
       "name": "Hardcastle Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
@@ -545,19 +558,6 @@
       "url": "/incident/8203/",
       "id": "8203",
       "contained": "100"
-    },
-    {
-      "name": "Goshute Fire",
-      "type": "Wildfire",
-      "summary": "Fire being shifted into monitor status; Wildland Fire Use module will...",
-      "state": "NEVADA",
-      "updated": "2022-07-08 09:16:09",
-      "lat": "40.514",
-      "lng": "-114.287",
-      "size": "1,966 Acres",
-      "url": "/incident/8180/",
-      "id": "8180",
-      "contained": "85"
     },
     {
       "name": "Haywire Fire BAER",
