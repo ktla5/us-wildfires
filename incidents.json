@@ -1,29 +1,29 @@
 {
   "markers": [
     {
-      "name": "Black Post-Fire BAER",
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-16 14:50:09",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,637 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "26"
+    },
+    {
+      "name": "Cerro Pelado Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:29:36",
-      "lat": "33.204",
-      "lng": "-108.009",
+      "updated": "2022-07-16 14:49:18",
+      "lat": "35.675",
+      "lng": "-106.501",
       "size": "0 Acres",
-      "url": "/incident/8144/",
-      "id": "8144",
-      "contained": "0"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:28:53",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
+      "url": "/incident/8118/",
+      "id": "8118",
       "contained": "0"
     },
     {
@@ -31,7 +31,7 @@
       "type": "Wildfire",
       "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
       "state": "NEVADA",
-      "updated": "2022-07-16 14:28:41",
+      "updated": "2022-07-16 14:47:07",
       "lat": "41.646",
       "lng": "-115.294",
       "size": "21,423 Acres",
@@ -40,11 +40,37 @@
       "contained": "10"
     },
     {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-16 14:47:03",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-16 14:43:56",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
       "name": "Nogal Canyon Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:28:39",
+      "updated": "2022-07-16 14:42:47",
       "lat": "33.577",
       "lng": "-105.68",
       "size": "0 Acres",
@@ -53,16 +79,16 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "name": "Black Post-Fire BAER",
       "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:27:39",
-      "lat": "35.739",
-      "lng": "-105.442",
+      "updated": "2022-07-16 14:41:37",
+      "lat": "33.204",
+      "lng": "-108.009",
       "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
+      "url": "/incident/8144/",
+      "id": "8144",
       "contained": "0"
     },
     {
@@ -90,19 +116,6 @@
       "url": "/incident/8173/",
       "id": "8173",
       "contained": "38"
-    },
-    {
-      "name": "Cerro Pelado Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-16 13:35:49",
-      "lat": "35.675",
-      "lng": "-106.501",
-      "size": "0 Acres",
-      "url": "/incident/8118/",
-      "id": "8118",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
@@ -220,19 +233,6 @@
       "url": "/incident/8224/",
       "id": "8224",
       "contained": "51"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-16 11:23:24",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,637 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "26"
     },
     {
       "name": "Los Establos",
