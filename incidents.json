@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-16 15:00:37",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,157 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "56"
+    },
+    {
       "name": "Halfway Hill Fire",
       "type": "Wildfire",
       "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
       "state": "UTAH",
-      "updated": "2022-07-16 14:50:09",
+      "updated": "2022-07-16 14:58:36",
       "lat": "38.915",
       "lng": "-112.339",
       "size": "11,637 Acres",
@@ -129,19 +142,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-16 12:53:41",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,157 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "56"
     },
     {
       "name": "Fence Line",
