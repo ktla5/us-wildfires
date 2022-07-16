@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-16 13:27:58",
+      "lat": "35.675",
+      "lng": "-106.501",
+      "size": "0 Acres",
+      "url": "/incident/8118/",
+      "id": "8118",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-16 13:25:32",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-07-16 12:57:27",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-16 12:53:41",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,157 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "56"
+    },
+    {
       "name": "Fence Line",
       "type": "Wildfire",
       "summary": " Wildfire began on the evening of  July 15, 2022 .   The fire is...",
@@ -222,19 +274,6 @@
       "contained": "93"
     },
     {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-07-15 19:24:52",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
-    },
-    {
       "name": "Jellison Fire",
       "type": "Wildfire",
       "summary": "The Jellison Fire was reported the evening of July 12. Fire is...",
@@ -311,19 +350,6 @@
       "url": "/incident/8229/",
       "id": "8229",
       "contained": "100"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-15 13:37:51",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,157 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "56"
     },
     {
       "name": "Mesa Fire",
@@ -506,32 +532,6 @@
       "url": "/incident/8213/",
       "id": "8213",
       "contained": "100"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-10 17:44:04",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-10 17:43:43",
-      "lat": "35.675",
-      "lng": "-106.501",
-      "size": "0 Acres",
-      "url": "/incident/8118/",
-      "id": "8118",
-      "contained": "0"
     },
     {
       "name": "Black Post-Fire BAER",
