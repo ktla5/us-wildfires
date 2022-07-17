@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-17 12:32:57",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "100 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "0"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "The Dalton Highway Complex consists of 17 fires along the Dalton...",
@@ -25,19 +38,6 @@
       "url": "/incident/8215/",
       "id": "8215",
       "contained": "33"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-17 12:03:58",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "100 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "0"
     },
     {
       "name": "Washburn Fire",
@@ -427,19 +427,6 @@
       "size": "122 Acres",
       "url": "/incident/8228/",
       "id": "8228",
-      "contained": "100"
-    },
-    {
-      "name": "River Bottom Fire",
-      "type": "Wildfire",
-      "summary": " At 2:00 pm on July 13, 2022 resources from Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-07-15 14:29:40",
-      "lat": "32.322",
-      "lng": "-97.916",
-      "size": "100 Acres",
-      "url": "/incident/8229/",
-      "id": "8229",
       "contained": "100"
     },
     {
