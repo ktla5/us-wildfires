@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Woodtick",
+      "type": "Wildfire",
+      "summary": "Normal 0 false false false EN-US X-NONE X-NONE...",
+      "state": "IDAHO",
+      "updated": "2022-07-18 16:44:44",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "25 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Monday, July 18, 2022 (last edit at 1 p.m.)The Dalton Highway Complex...",
