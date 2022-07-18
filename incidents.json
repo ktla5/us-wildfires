@@ -1,29 +1,55 @@
 {
   "markers": [
     {
+      "name": "Hidden Shores",
+      "type": "Wildfire",
+      "summary": " Fire started on Jul 18, 2022, and is located near Hidden Shores Rd,...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 15:49:41",
+      "lat": "30.032",
+      "lng": "-97.194",
+      "size": "0 Acres",
+      "url": "/incident/8252/",
+      "id": "8252",
+      "contained": "0"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " Wildfire started on July 18,2022 in the 5200 block of Moore Lane...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 15:41:57",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "200 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "0"
+    },
+    {
+      "name": "Honey Creek Fire",
+      "type": "Wildfire",
+      "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 15:41:05",
+      "lat": "29.538",
+      "lng": "-99.851",
+      "size": "350 Acres",
+      "url": "/incident/8245/",
+      "id": "8245",
+      "contained": "15"
+    },
+    {
       "name": "Walker 4016",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
       "state": "TEXAS",
-      "updated": "2022-07-18 15:22:47",
+      "updated": "2022-07-18 15:31:33",
       "lat": "30.856",
       "lng": "-95.553",
-      "size": "0 Acres",
+      "size": "175 Acres",
       "url": "/incident/8250/",
       "id": "8250",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately five (5) miles southwest of the...",
-      "state": "IDAHO",
-      "updated": "2022-07-18 15:21:50",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "1,000 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
       "contained": "0"
     },
     {
@@ -31,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
       "state": "ALASKA",
-      "updated": "2022-07-18 15:17:37",
+      "updated": "2022-07-18 15:28:44",
       "lat": "64.405",
       "lng": "-149.506",
       "size": "72,157 Acres",
@@ -40,17 +66,17 @@
       "contained": "56"
     },
     {
-      "name": "Honey Creek Fire",
+      "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": " Fire is looking good. Crews continue to working perimeter with line...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 15:02:57",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "350 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "15"
+      "summary": "The fire is located approximately five (5) miles southwest of the...",
+      "state": "IDAHO",
+      "updated": "2022-07-18 15:27:50",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "1,000 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
     },
     {
       "name": "Washburn Fire",
