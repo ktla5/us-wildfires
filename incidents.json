@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Woodtick",
+      "type": "Wildfire",
+      "summary": "The lightning fires are located approximately six (6) miles west...",
+      "state": "IDAHO",
+      "updated": "2022-07-18 18:37:39",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "25 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-18 18:27:57",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,773 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "39"
+    },
+    {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -102,19 +128,6 @@
       "size": "50 Acres",
       "url": "/incident/8255/",
       "id": "8255",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick",
-      "type": "Wildfire",
-      "summary": "The lightning fires are located approximately six (6) miles west...",
-      "state": "IDAHO",
-      "updated": "2022-07-18 17:46:34",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "25 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
@@ -350,19 +363,6 @@
       "url": "/incident/8222/",
       "id": "8222",
       "contained": "80"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-18 10:02:27",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,773 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "39"
     },
     {
       "name": "Monday Creek Fire",
