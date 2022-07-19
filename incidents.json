@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-19 08:46:56",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,863 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "58"
+    },
+    {
+      "name": "Honey Creek Fire",
+      "type": "Wildfire",
+      "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 08:33:14",
+      "lat": "29.538",
+      "lng": "-99.851",
+      "size": "350 Acres",
+      "url": "/incident/8245/",
+      "id": "8245",
+      "contained": "25"
+    },
+    {
+      "name": "Holly Fire",
+      "type": "Wildfire",
+      "summary": "Acres: 200Containment: 90%Cause: Unknown On Sunday, July 17th 2022...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 08:27:01",
+      "lat": "31.073",
+      "lng": "-95.354",
+      "size": "350 Acres",
+      "url": "/incident/8242/",
+      "id": "8242",
+      "contained": "100"
+    },
+    {
+      "name": "Stanifer Branch Fire",
+      "type": "Wildfire",
+      "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 08:17:52",
+      "lat": "31.903",
+      "lng": "-97.62",
+      "size": "240 Acres",
+      "url": "/incident/8256/",
+      "id": "8256",
+      "contained": "30"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " The fire is located approximately five (5) miles southwest of the...",
+      "state": "IDAHO",
+      "updated": "2022-07-19 08:11:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "3,600 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
@@ -118,32 +183,6 @@
       "contained": "100"
     },
     {
-      "name": "Honey Creek Fire",
-      "type": "Wildfire",
-      "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 23:44:49",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "350 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "25"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-18 23:39:11",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,911 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "51"
-    },
-    {
       "name": "King Creek Fire",
       "type": "Wildfire",
       "summary": "At 4:30pm Texas A&amp;M Forest Service received a request for assistance...",
@@ -168,19 +207,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "5"
-    },
-    {
-      "name": "Stanifer Branch Fire",
-      "type": "Wildfire",
-      "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 23:25:27",
-      "lat": "31.903",
-      "lng": "-97.62",
-      "size": "200 Acres",
-      "url": "/incident/8256/",
-      "id": "8256",
-      "contained": "30"
     },
     {
       "name": "1148 Fire",
@@ -287,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " The fire is located approximately five (5) miles southwest of the...",
-      "state": "IDAHO",
-      "updated": "2022-07-18 20:52:14",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "1,000 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
-    },
-    {
       "name": "Committee Fire",
       "type": "Wildfire",
       "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
@@ -350,19 +363,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Holly Fire",
-      "type": "Wildfire",
-      "summary": "Acres: 200Containment: 90%Cause: Unknown On Sunday, July 17th 2022...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 18:02:18",
-      "lat": "31.073",
-      "lng": "-95.354",
-      "size": "200 Acres",
-      "url": "/incident/8242/",
-      "id": "8242",
-      "contained": "90"
     },
     {
       "name": "Jellison Fire",
