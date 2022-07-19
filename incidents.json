@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 16:34:20",
+      "lat": "30.856",
+      "lng": "-95.553",
+      "size": "1,800 Acres",
+      "url": "/incident/8250/",
+      "id": "8250",
+      "contained": "50"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-19 16:28:50",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,773 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "46"
+    },
+    {
       "name": "Hog Trough",
       "type": "Wildfire",
       "summary": "Hog Trough Fire   was discovered July 17th.  The lightning-caused...",
@@ -168,32 +194,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-19 14:42:20",
-      "lat": "30.856",
-      "lng": "-95.553",
-      "size": "1,800 Acres",
-      "url": "/incident/8250/",
-      "id": "8250",
-      "contained": "35"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-19 14:21:49",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,773 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "46"
     },
     {
       "name": "Pine Peak Fire",
