@@ -1,30 +1,30 @@
 {
   "markers": [
     {
+      "name": "Hog Trough",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th.  The lightning-caused...",
+      "state": "MONTANA",
+      "updated": "2022-07-19 15:47:31",
+      "lat": "46.152",
+      "lng": "-113.811",
+      "size": "300 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
       "state": "ALASKA",
-      "updated": "2022-07-19 15:25:52",
+      "updated": "2022-07-19 15:31:24",
       "lat": "64.405",
       "lng": "-149.506",
       "size": "72,157 Acres",
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "56"
-    },
-    {
-      "name": "Hog Trough",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th.  The lightning-caused...",
-      "state": "MONTANA",
-      "updated": "2022-07-19 15:24:49",
-      "lat": "46.152",
-      "lng": "-113.811",
-      "size": "50 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Minto Lakes",
