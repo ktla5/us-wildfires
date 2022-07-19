@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-19 13:27:33",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "193,670 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-19 13:23:42",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "300 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "As of Tuesday July 19, updates will no longer be made to this page....",
+      "state": "ALASKA",
+      "updated": "2022-07-19 13:19:26",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "60,861 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
       "name": "Moors Mountain Fire",
       "type": "Wildfire",
-      "summary": "Moors Mountain Fire was reported on Saturday, July 16 burning near...",
+      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
       "state": "MONTANA",
-      "updated": "2022-07-19 12:40:02",
+      "updated": "2022-07-19 13:09:14",
       "lat": "46.887",
       "lng": "-111.733",
       "size": "88 Acres",
       "url": "/incident/8238/",
       "id": "8238",
       "contained": "0"
+    },
+    {
+      "name": "Wildcat",
+      "type": "Wildfire",
+      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
+      "state": "NEVADA",
+      "updated": "2022-07-19 12:55:12",
+      "lat": "41.646",
+      "lng": "-115.294",
+      "size": "21,440 Acres",
+      "url": "/incident/8234/",
+      "id": "8234",
+      "contained": "55"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 12:47:54",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "500 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "10"
     },
     {
       "name": "Chalk Mountain Fire",
@@ -196,19 +261,6 @@
       "contained": "30"
     },
     {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-19 01:31:09",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "193,668 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
-    },
-    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
@@ -300,32 +352,6 @@
       "contained": "75"
     },
     {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 23:19:00",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "500 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "10"
-    },
-    {
-      "name": "Wildcat",
-      "type": "Wildfire",
-      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
-      "state": "NEVADA",
-      "updated": "2022-07-18 21:49:45",
-      "lat": "41.646",
-      "lng": "-115.294",
-      "size": "21,440 Acres",
-      "url": "/incident/8234/",
-      "id": "8234",
-      "contained": "55"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -362,19 +388,6 @@
       "size": "25 Acres",
       "url": "/incident/8253/",
       "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-18 20:33:46",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "300 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
       "contained": "0"
     },
     {
@@ -480,19 +493,6 @@
       "url": "/incident/8233/",
       "id": "8233",
       "contained": "100"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
-      "state": "ALASKA",
-      "updated": "2022-07-17 22:55:23",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "60,861 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
     },
     {
       "name": "Pipeline Fire",
