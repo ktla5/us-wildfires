@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-19 14:17:44",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,773 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "46"
+    },
+    {
+      "name": "Hog Trough",
+      "type": "Wildfire",
+      "summary": "The lighting-caused Hog Trough Fire burning 17 miles east of Hamilton...",
+      "state": "MONTANA",
+      "updated": "2022-07-19 14:16:05",
+      "lat": "46.152",
+      "lng": "-113.811",
+      "size": "50 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": "July 19, 2022, Morning Activity Update: Area firefighters remain...",
+      "state": "ARIZONA",
+      "updated": "2022-07-19 14:13:40",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "55 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-07-19 14:10:33",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -105,19 +157,6 @@
       "contained": "10"
     },
     {
-      "name": "Pine Peak ",
-      "type": "Wildfire",
-      "summary": "Fire Name -   Pine Peak Discovery Date  -  7/16 at 0900 hours....",
-      "state": "ARIZONA",
-      "updated": "2022-07-19 12:38:41",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "55 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
-    },
-    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
@@ -194,19 +233,6 @@
       "url": "/incident/8173/",
       "id": "8173",
       "contained": "56"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-19 10:48:03",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,773 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "46"
     },
     {
       "name": "Mesa Fire",
@@ -402,19 +428,6 @@
       "url": "/incident/8210/",
       "id": "8210",
       "contained": "100"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-07-18 18:17:52",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
     },
     {
       "name": "Jellison Fire",
