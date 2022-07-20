@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 16:49:02",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "500 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "15"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
       "state": "MONTANA",
-      "updated": "2022-07-20 16:36:55",
+      "updated": "2022-07-20 16:48:48",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "263 Acres",
@@ -207,19 +220,6 @@
       "url": "/incident/8259/",
       "id": "8259",
       "contained": "95"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 11:47:53",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "500 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "15"
     },
     {
       "name": "Hermits Peak Fire",
