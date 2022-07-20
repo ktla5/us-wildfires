@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
+      "state": "ARIZONA",
+      "updated": "2022-07-20 15:25:48",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "117 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "                                 Summary:...",
       "state": "ALASKA",
-      "updated": "2022-07-20 14:48:55",
+      "updated": "2022-07-20 15:23:34",
       "lat": "64.405",
       "lng": "-149.506",
       "size": "72,157 Acres",
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "56"
+    },
+    {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 15:22:01",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "37,554 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "53"
+    },
+    {
+      "name": "Honey Creek Fire",
+      "type": "Wildfire",
+      "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 15:03:24",
+      "lat": "29.538",
+      "lng": "-99.851",
+      "size": "273 Acres",
+      "url": "/incident/8245/",
+      "id": "8245",
+      "contained": "60"
     },
     {
       "name": "Stanifer Branch Fire",
@@ -25,19 +64,6 @@
       "url": "/incident/8256/",
       "id": "8256",
       "contained": "90"
-    },
-    {
-      "name": "Honey Creek Fire",
-      "type": "Wildfire",
-      "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 14:31:14",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "273 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "60"
     },
     {
       "name": "Hog Trough",
@@ -363,32 +389,6 @@
       "url": "/incident/8239/",
       "id": "8239",
       "contained": "100"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-19 15:10:07",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "37,554 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "53"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": "July 19, 2022, Morning Activity Update: Area firefighters remain...",
-      "state": "ARIZONA",
-      "updated": "2022-07-19 14:20:25",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "55 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
