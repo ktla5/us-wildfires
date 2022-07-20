@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
+      "state": "MONTANA",
+      "updated": "2022-07-20 17:04:40",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "263 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "1148 Fire",
       "type": "Wildfire",
       "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
@@ -12,19 +25,6 @@
       "url": "/incident/8251/",
       "id": "8251",
       "contained": "15"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
-      "state": "MONTANA",
-      "updated": "2022-07-20 16:48:48",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "263 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Minto Lakes",
