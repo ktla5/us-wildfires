@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 15:42:05",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "37,554 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "53"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-20 15:34:17",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "281 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "0"
+    },
+    {
       "name": "Pine Peak Fire",
       "type": "Wildfire",
       "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
       "state": "ARIZONA",
-      "updated": "2022-07-20 15:25:48",
+      "updated": "2022-07-20 15:32:00",
       "lat": "34.881",
       "lng": "-113.863",
       "size": "117 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "56"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 15:22:01",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "37,554 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "53"
     },
     {
       "name": "Honey Creek Fire",
@@ -181,19 +194,6 @@
       "url": "/incident/8259/",
       "id": "8259",
       "contained": "95"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-20 12:04:02",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "281 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "0"
     },
     {
       "name": "1148 Fire",
