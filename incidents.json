@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 14:48:55",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,157 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "56"
+    },
+    {
       "name": "Stanifer Branch Fire",
       "type": "Wildfire",
       "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
@@ -77,19 +90,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 12:49:22",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,157 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "56"
     },
     {
       "name": "Washburn Fire",
