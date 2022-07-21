@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately five (5) miles southwest of the...",
+      "state": "IDAHO",
+      "updated": "2022-07-20 22:49:35",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "16,581 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 22:49:10",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,157 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "61"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-20 22:12:23",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "281 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "14"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 21:58:18",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "865,620 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "56"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Wednesday, July 20, 2022 (last edited at 6:00 p.m.)After completing...",
@@ -248,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-20 15:34:17",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "281 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "0"
-    },
-    {
       "name": "Pine Peak Fire",
       "type": "Wildfire",
       "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
@@ -272,19 +311,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 15:23:34",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,157 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "56"
     },
     {
       "name": "Stanifer Branch Fire",
@@ -326,19 +352,6 @@
       "contained": "40"
     },
     {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 12:12:18",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "865,620 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "56"
-    },
-    {
       "name": "Moors Mountain Fire",
       "type": "Wildfire",
       "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
@@ -349,19 +362,6 @@
       "size": "94 Acres",
       "url": "/incident/8238/",
       "id": "8238",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately five (5) miles southwest of the...",
-      "state": "IDAHO",
-      "updated": "2022-07-20 11:17:22",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "16,581 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
       "contained": "0"
     },
     {
