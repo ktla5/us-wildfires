@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Stanifer Branch Fire",
+      "type": "Wildfire",
+      "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
+      "state": "TEXAS",
+      "updated": "2022-07-21 10:52:44",
+      "lat": "31.903",
+      "lng": "-97.62",
+      "size": "160 Acres",
+      "url": "/incident/8256/",
+      "id": "8256",
+      "contained": "100"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately five (5) miles southwest of the...",
+      "state": "IDAHO",
+      "updated": "2022-07-21 10:35:19",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "20,648 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -129,19 +155,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "58"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately five (5) miles southwest of the...",
-      "state": "IDAHO",
-      "updated": "2022-07-21 09:10:19",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "20,648 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
     },
     {
       "name": "Stayman",
@@ -350,19 +363,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "0"
-    },
-    {
-      "name": "Stanifer Branch Fire",
-      "type": "Wildfire",
-      "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 14:31:44",
-      "lat": "31.903",
-      "lng": "-97.62",
-      "size": "160 Acres",
-      "url": "/incident/8256/",
-      "id": "8256",
-      "contained": "90"
     },
     {
       "name": "Big Sandy Fire ",
