@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
       "state": "ALASKA",
-      "updated": "2022-07-22 16:22:53",
+      "updated": "2022-07-22 16:39:01",
       "lat": "64.875",
       "lng": "-151.641",
       "size": "193,766 Acres",
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "44"
+    },
+    {
+      "name": "Pipeline Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
+      "state": "ARIZONA",
+      "updated": "2022-07-22 16:33:22",
+      "lat": "35.336",
+      "lng": "-111.633",
+      "size": "26,770 Acres",
+      "url": "/incident/8168/",
+      "id": "8168",
+      "contained": "90"
     },
     {
       "name": "Moose Fire",
@@ -805,19 +818,6 @@
       "url": "/incident/8147/",
       "id": "8147",
       "contained": "100"
-    },
-    {
-      "name": "Pipeline Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
-      "state": "ARIZONA",
-      "updated": "2022-07-03 14:00:55",
-      "lat": "35.336",
-      "lng": "-111.633",
-      "size": "26,770 Acres",
-      "url": "/incident/8168/",
-      "id": "8168",
-      "contained": "90"
     },
     {
       "name": "Left Fork Fire",
