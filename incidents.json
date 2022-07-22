@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-22 07:26:44",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "23,620 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-22 06:51:06",
+      "updated": "2022-07-22 06:51:40",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -90,19 +103,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "9"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-21 22:41:19",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "20,648 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
