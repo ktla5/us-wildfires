@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "The Dodge Springs Fire was aerially mapped overnight at 5,100 acres....",
+      "state": "NEVADA",
+      "updated": "2022-07-23 16:51:34",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "6,000 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "5"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
+      "state": "ARIZONA",
+      "updated": "2022-07-23 16:50:32",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,295 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Saturday, July 23, 2022 (last edited at 11:30 a.m.)After Friday's...",
@@ -77,19 +103,6 @@
       "url": "/incident/8266/",
       "id": "8266",
       "contained": "0"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "The Dodge Springs Fire was aerially mapped overnight at 5,100 acres....",
-      "state": "NEVADA",
-      "updated": "2022-07-23 13:41:54",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "6,000 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "5"
     },
     {
       "name": "Mountain Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "94"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " UPDATE - July 22, 2022   The most active fire currently is Pine...",
-      "state": "ARIZONA",
-      "updated": "2022-07-23 00:33:10",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,295 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
