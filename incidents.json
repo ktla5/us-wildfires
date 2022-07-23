@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-23 17:10:43",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "557 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The Dodge Springs Fire was aerially mapped overnight at 5,100 acres....",
       "state": "NEVADA",
-      "updated": "2022-07-23 16:51:34",
+      "updated": "2022-07-23 16:57:58",
       "lat": "37.325",
       "lng": "-114.059",
       "size": "6,000 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
       "state": "ARIZONA",
-      "updated": "2022-07-23 16:50:32",
+      "updated": "2022-07-23 16:51:50",
       "lat": "34.881",
       "lng": "-113.863",
       "size": "1,295 Acres",
@@ -194,19 +207,6 @@
       "url": "/incident/8259/",
       "id": "8259",
       "contained": "100"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-23 11:10:06",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "557 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Middle Tanana Complex",
