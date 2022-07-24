@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Washburn Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-24 13:29:15",
+      "lat": "37.499",
+      "lng": "-119.514",
+      "size": "0 Acres",
+      "url": "/incident/8272/",
+      "id": "8272",
+      "contained": "0"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-24 13:28:52",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,735 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "Big Sandy Fire ",
+      "type": "Wildfire",
+      "summary": "The fire is now 80% contained at 150 acres and has been turned back...",
+      "state": "ARIZONA",
+      "updated": "2022-07-24 13:25:14",
+      "lat": "34.705",
+      "lng": "-113.612",
+      "size": "150 Acres",
+      "url": "/incident/8244/",
+      "id": "8244",
+      "contained": "80"
+    },
+    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The lightning fires are located approximately six (6) miles west...",
@@ -38,19 +77,6 @@
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "40"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 12:32:14",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,735 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "20"
     },
     {
       "name": "Washburn Fire",
@@ -207,19 +233,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "93"
-    },
-    {
-      "name": "Washburn Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-24 02:38:22",
-      "lat": "37.499",
-      "lng": "-119.514",
-      "size": "0 Acres",
-      "url": "/incident/8272/",
-      "id": "8272",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
@@ -402,19 +415,6 @@
       "url": "/incident/8260/",
       "id": "8260",
       "contained": "100"
-    },
-    {
-      "name": "Big Sandy Fire ",
-      "type": "Wildfire",
-      "summary": "Today, crews will focus on the southern edge of the fire as interior...",
-      "state": "ARIZONA",
-      "updated": "2022-07-22 12:32:31",
-      "lat": "34.705",
-      "lng": "-113.612",
-      "size": "150 Acres",
-      "url": "/incident/8244/",
-      "id": "8244",
-      "contained": "50"
     },
     {
       "name": "Monday Creek Fire",
