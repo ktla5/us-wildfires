@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-25 13:37:16",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "73"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The Dodge Springs Fire has increased in size to 5,612 acres. The fire...",
       "state": "NEVADA",
-      "updated": "2022-07-25 13:29:12",
+      "updated": "2022-07-25 13:32:36",
       "lat": "37.325",
       "lng": "-114.059",
       "size": "5,612 Acres",
@@ -77,19 +90,6 @@
       "url": "/incident/8276/",
       "id": "8276",
       "contained": "5"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-25 12:52:35",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,185 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "73"
     },
     {
       "name": "San Gabriel Fire",
