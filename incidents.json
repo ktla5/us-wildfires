@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Moors Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, near Moors...",
+      "state": "MONTANA",
+      "updated": "2022-07-25 09:23:24",
+      "lat": "46.887",
+      "lng": "-111.733",
+      "size": "98 Acres",
+      "url": "/incident/8238/",
+      "id": "8238",
+      "contained": "100"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-25 09:15:41",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,160 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "5"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 09:11:51",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "457 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "95"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 09:11:00",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,735 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Location: Yosemite National Park, Mariposa Grove             ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-25 09:00:47",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,866 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "87"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "IDAHO",
-      "updated": "2022-07-25 08:49:35",
+      "updated": "2022-07-25 08:52:40",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "35,739 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "7"
+    },
+    {
+      "name": "Escalera Fire",
+      "type": "Wildfire",
+      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 08:51:30",
+      "lat": "33.659",
+      "lng": "-99.078",
+      "size": "227 Acres",
+      "url": "/incident/8274/",
+      "id": "8274",
+      "contained": "92"
     },
     {
       "name": "Hog Trough Fire",
@@ -25,19 +103,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "9"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "NEW- Forest Order 05-15-51-22-17 (Supersedes previous Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-25 08:48:42",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,866 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "87"
     },
     {
       "name": "Wolf Fang Fire",
@@ -131,19 +196,6 @@
       "contained": "48"
     },
     {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-24 23:01:55",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,007 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "5"
-    },
-    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "                                 Summary:...",
@@ -155,19 +207,6 @@
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "73"
-    },
-    {
-      "name": "Escalera Fire",
-      "type": "Wildfire",
-      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 21:59:54",
-      "lat": "33.659",
-      "lng": "-99.078",
-      "size": "227 Acres",
-      "url": "/incident/8274/",
-      "id": "8274",
-      "contained": "92"
     },
     {
       "name": "San Gabriel Fire",
@@ -194,32 +233,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "10"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 20:49:08",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,735 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "20"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 20:47:38",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "457 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "95"
     },
     {
       "name": "Dragon Fire ",
@@ -324,19 +337,6 @@
       "url": "/incident/8270/",
       "id": "8270",
       "contained": "0"
-    },
-    {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
-      "state": "MONTANA",
-      "updated": "2022-07-24 09:00:50",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "98 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "74"
     },
     {
       "name": "Clover Fire",
