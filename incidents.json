@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "July 23rd, 2022 - As Fire Crews continued with targeted burning...",
+      "state": "MONTANA",
+      "updated": "2022-07-25 15:23:50",
+      "lat": "45.036",
+      "lng": "-111.867",
+      "size": "250 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "5"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-25 15:06:47",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "35,739 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "7"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The Dodge Springs Fire has increased in size to 5,612 acres. The fire...",
@@ -222,19 +248,6 @@
       "contained": "93"
     },
     {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "July 23rd, 2022 - As Fire Crews continued with targeted burning...",
-      "state": "MONTANA",
-      "updated": "2022-07-25 11:37:23",
-      "lat": "45.036",
-      "lng": "-111.867",
-      "size": "45 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "5"
-    },
-    {
       "name": "Wildcat BAER",
       "type": "Burned Area Emergency Response",
       "summary": " A Burned Area Emergency Response (RAER) team has arived on the...",
@@ -285,19 +298,6 @@
       "url": "/incident/8234/",
       "id": "8234",
       "contained": "100"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-25 10:33:06",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "35,739 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "7"
     },
     {
       "name": "Mountain Fire",
