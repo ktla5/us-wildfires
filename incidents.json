@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "The Dodge Springs Fire has increased in size to 5,612 acres. The fire...",
       "state": "NEVADA",
-      "updated": "2022-07-25 14:33:30",
+      "updated": "2022-07-25 14:44:14",
       "lat": "37.325",
       "lng": "-114.059",
       "size": "5,612 Acres",
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "10"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-25 14:38:47",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,160 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "5"
     },
     {
       "name": "Bean Complex",
@@ -103,19 +116,6 @@
       "url": "/incident/8251/",
       "id": "8251",
       "contained": "95"
-    },
-    {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-25 13:06:28",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,160 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "5"
     },
     {
       "name": "San Gabriel Fire",
