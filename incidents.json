@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-25 12:52:35",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "73"
+    },
+    {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 12:51:10",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "500 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "75"
+    },
+    {
+      "name": "Cat Fire",
+      "type": "Wildfire",
+      "summary": "The Cat Fire began at about 7:15pm in Clay County, Texas. By 8:30pm,...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 12:48:57",
+      "lat": "33.943",
+      "lng": "-98.42",
+      "size": "60 Acres",
+      "url": "/incident/8277/",
+      "id": "8277",
+      "contained": "50"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
       "state": "MONTANA",
-      "updated": "2022-07-25 12:37:06",
+      "updated": "2022-07-25 12:45:42",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "584 Acres",
@@ -64,19 +103,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "20"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-25 12:14:09",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,185 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "73"
     },
     {
       "name": "Washburn Fire",
@@ -248,19 +274,6 @@
       "contained": "100"
     },
     {
-      "name": "Cat Fire",
-      "type": "Wildfire",
-      "summary": "The Cat Fire began at about 7:15pm in Clay County, Texas. By 8:30pm,...",
-      "state": "TEXAS",
-      "updated": "2022-07-25 09:28:58",
-      "lat": "33.943",
-      "lng": "-98.42",
-      "size": "60 Acres",
-      "url": "/incident/8277/",
-      "id": "8277",
-      "contained": "50"
-    },
-    {
       "name": "Escalera Fire",
       "type": "Wildfire",
       "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
@@ -298,19 +311,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "48"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 21:31:58",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "500 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "75"
     },
     {
       "name": "Dragon Fire ",
