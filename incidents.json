@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Located in northern Albany County, Wyo.Medicine Bow National...",
+      "state": "WYOMING",
+      "updated": "2022-07-25 23:16:18",
+      "lat": "42.204",
+      "lng": "-105.603",
+      "size": "500 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-25 22:55:00",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "73"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-25 22:49:36",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,160 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "5"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 35,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-25 22:31:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "35,739 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "10"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Monday, July 25, 2022 (last edited at 8 p.m.)Fire activity did not...",
@@ -12,19 +64,6 @@
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "40"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-25 21:12:45",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "35,739 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "10"
     },
     {
       "name": "1148 Fire",
@@ -144,19 +183,6 @@
       "contained": "5"
     },
     {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-25 19:47:08",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,160 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "5"
-    },
-    {
       "name": "Wildcat BAER",
       "type": "Burned Area Emergency Response",
       "summary": " A Burned Area Emergency Response (RAER) team has arived on the...",
@@ -272,19 +298,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "48"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-25 14:08:17",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,185 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "73"
     },
     {
       "name": "Black Post-Fire BAER",
