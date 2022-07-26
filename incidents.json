@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-26 12:47:42",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 26, 2022 (last edited at 8 a.m.)The Idaho Bar Fire...",
+      "state": "ALASKA",
+      "updated": "2022-07-26 12:43:03",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "57"
+    },
+    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
       "state": "ALASKA",
-      "updated": "2022-07-26 12:29:29",
+      "updated": "2022-07-26 12:39:40",
       "lat": "64.875",
       "lng": "-151.641",
       "size": "196,786 Acres",
@@ -14,17 +40,17 @@
       "contained": "80"
     },
     {
-      "name": "Chalk Mountain Fire",
+      "name": "Dragon Fire ",
       "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 12:27:51",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "20"
+      "summary": "The Dragon Fire, located on the North Rim of Grand Canyon National...",
+      "state": "ARIZONA",
+      "updated": "2022-07-26 12:31:28",
+      "lat": "36.203",
+      "lng": "-112.138",
+      "size": "1,306 Acres",
+      "url": "/incident/8266/",
+      "id": "8266",
+      "contained": "0"
     },
     {
       "name": "Big Sandy Fire ",
@@ -38,19 +64,6 @@
       "url": "/incident/8244/",
       "id": "8244",
       "contained": "80"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 26, 2022 (last edited at 8 a.m.)The Idaho Bar Fire...",
-      "state": "ALASKA",
-      "updated": "2022-07-26 12:02:23",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "57"
     },
     {
       "name": "Wolf Fang Fire",
@@ -324,19 +337,6 @@
       "url": "/incident/8278/",
       "id": "8278",
       "contained": "100"
-    },
-    {
-      "name": "Dragon Fire ",
-      "type": "Wildfire",
-      "summary": "The Dragon Fire, located on the North Rim of Grand Canyon National...",
-      "state": "ARIZONA",
-      "updated": "2022-07-25 18:24:31",
-      "lat": "36.203",
-      "lng": "-112.138",
-      "size": "1,306 Acres",
-      "url": "/incident/8266/",
-      "id": "8266",
-      "contained": "0"
     },
     {
       "name": "San Gabriel Fire",
