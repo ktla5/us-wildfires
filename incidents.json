@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
+      "state": "NEVADA",
+      "updated": "2022-07-27 16:50:01",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "51"
+    },
+    {
       "name": "Long Creek Fire",
       "type": "Wildfire",
       "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27. By...",
       "state": "TEXAS",
-      "updated": "2022-07-27 16:33:05",
+      "updated": "2022-07-27 16:44:22",
       "lat": "33.892",
       "lng": "-98.09",
       "size": "150 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "93"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
-      "state": "NEVADA",
-      "updated": "2022-07-27 15:49:47",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "49"
     },
     {
       "name": "Woodtick",
