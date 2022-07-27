@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Long Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27. By...",
+      "state": "TEXAS",
+      "updated": "2022-07-27 16:20:18",
+      "lat": "33.892",
+      "lng": "-98.09",
+      "size": "150 Acres",
+      "url": "/incident/8282/",
+      "id": "8282",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-27 16:19:05",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "18,715 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "32"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-27 16:04:48",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-27 15:54:57",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
@@ -12,19 +64,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "49"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-27 15:49:27",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Woodtick",
@@ -183,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-27 12:01:48",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
       "name": "Sugarloaf Fire",
       "type": "Wildfire",
       "summary": "Fire remains at 396 acresAdditional crews arriving WednesdayAerial...",
@@ -220,19 +246,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-27 10:02:39",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "18,715 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "32"
     },
     {
       "name": "C3",
