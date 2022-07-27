@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27. By...",
       "state": "TEXAS",
-      "updated": "2022-07-27 16:20:18",
+      "updated": "2022-07-27 16:33:05",
       "lat": "33.892",
       "lng": "-98.09",
       "size": "150 Acres",
       "url": "/incident/8282/",
       "id": "8282",
       "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-27 16:23:01",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "38,321 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
     },
     {
       "name": "Oak Fire",
@@ -103,19 +116,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-27 14:52:20",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "38,321 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
     },
     {
       "name": "Bean Complex",
