@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "Suppression efforts continue on the Clear Fire, with firefighters...",
+      "state": "ALASKA",
+      "updated": "2022-07-27 12:55:16",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "77"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 27, 2022 (last edited at 9 a.m.)As fire containment...",
+      "state": "ALASKA",
+      "updated": "2022-07-27 12:48:38",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "57"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "Started by lightning and initially detected on the evening of July...",
@@ -12,19 +38,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "0"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 27, 2022 (last edited at 9 a.m.)As fire containment...",
-      "state": "ALASKA",
-      "updated": "2022-07-27 12:27:29",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "57"
     },
     {
       "name": "Hermits Peak Fire",
@@ -90,19 +103,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "15"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "Suppression efforts continue on the Clear Fire, with firefighters...",
-      "state": "ALASKA",
-      "updated": "2022-07-27 10:47:46",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,185 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "77"
     },
     {
       "name": "Dodge Springs Fire",
