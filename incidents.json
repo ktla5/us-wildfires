@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-28 06:49:19",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "445 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "100"
+    },
+    {
       "name": "Chalk Mountain Fire",
       "type": "Wildfire",
       "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
@@ -376,19 +389,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "10"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 15:25:40",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "451 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "90"
     },
     {
       "name": "Dragon Fire ",
