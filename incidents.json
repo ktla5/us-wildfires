@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
+      "state": "ARIZONA",
+      "updated": "2022-07-28 15:43:55",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,602 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "25"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-28 15:35:16",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "53"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -25,19 +51,6 @@
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "70"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 14:12:10",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "53"
     },
     {
       "name": "Bean Complex",
@@ -77,19 +90,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "13"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
-      "state": "ARIZONA",
-      "updated": "2022-07-28 12:18:21",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,602 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "Washburn Fire",
