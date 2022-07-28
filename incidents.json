@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-28 16:31:54",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "53"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "Suppression efforts continue on the Clear Fire, with firefighters...",
@@ -25,19 +38,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "25"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 15:35:16",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "53"
     },
     {
       "name": "Hog Trough Fire",
