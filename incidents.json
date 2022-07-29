@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dog Ridge Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 14:49:39",
+      "lat": "31.051",
+      "lng": "-97.518",
+      "size": "150 Acres",
+      "url": "/incident/8285/",
+      "id": "8285",
+      "contained": "70"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
       "state": "IDAHO",
-      "updated": "2022-07-29 14:32:30",
+      "updated": "2022-07-29 14:43:33",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "43,226 Acres",
@@ -220,19 +233,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "20"
-    },
-    {
-      "name": "Dog Ridge Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-07-29 11:02:12",
-      "lat": "31.051",
-      "lng": "-97.518",
-      "size": "235 Acres",
-      "url": "/incident/8285/",
-      "id": "8285",
-      "contained": "15"
     },
     {
       "name": "Oak Fire",
