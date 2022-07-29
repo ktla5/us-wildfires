@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire has been transitioned to the home unit.  Local...",
+      "state": "ALASKA",
+      "updated": "2022-07-29 12:30:20",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,191 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "77"
+    },
+    {
       "name": "Washburn Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-29 12:00:25",
+      "updated": "2022-07-29 12:29:24",
       "lat": "37.499",
       "lng": "-119.514",
       "size": "0 Acres",
       "url": "/incident/8272/",
       "id": "8272",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-29 12:26:39",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "94"
     },
     {
       "name": "Hermits Peak Fire",
@@ -24,19 +50,6 @@
       "size": "341,735 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "94"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-29 11:56:30",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "94"
     },
     {
@@ -272,19 +285,6 @@
       "url": "/incident/8215/",
       "id": "8215",
       "contained": "83"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "Suppression efforts continue on the Clear Fire, with firefighters...",
-      "state": "ALASKA",
-      "updated": "2022-07-28 16:08:46",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,188 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "77"
     },
     {
       "name": "Pine Peak Fire",
