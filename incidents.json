@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "After heavy rain fell over the area Wednesday the fire is now 98%...",
+      "state": "NEVADA",
+      "updated": "2022-07-29 16:50:27",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "98"
+    },
+    {
       "name": "Brook Mole Fire",
       "type": "Wildfire",
       "summary": " The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
       "state": "TEXAS",
-      "updated": "2022-07-29 16:36:48",
+      "updated": "2022-07-29 16:49:58",
       "lat": "33.761",
       "lng": "-97.782",
       "size": "300 Acres",
       "url": "/incident/8286/",
       "id": "8286",
       "contained": "0"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
+      "state": "ARIZONA",
+      "updated": "2022-07-29 16:49:06",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,631 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "77"
     },
     {
       "name": "Washburn Fire",
@@ -25,19 +51,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "95"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
-      "state": "ARIZONA",
-      "updated": "2022-07-29 15:40:52",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,602 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "77"
     },
     {
       "name": "Chalk Mountain Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8148/",
       "id": "8148",
       "contained": "100"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "After heavy rain fell over the area Wednesday the fire is now 98%...",
-      "state": "NEVADA",
-      "updated": "2022-07-29 13:15:51",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "98"
     },
     {
       "name": "Clear Fire",
