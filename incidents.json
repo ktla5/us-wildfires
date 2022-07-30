@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-30 17:49:56",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,240 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "52"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
@@ -12,19 +25,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "0"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-30 17:07:42",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,240 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "52"
     },
     {
       "name": "Brook Mole Fire",
