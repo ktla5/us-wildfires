@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are responding to a newly reported wildfire on the Oak...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-30 10:50:27",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "18,000 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-30 10:47:32",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "635 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -157,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are responding to a newly reported wildfire on the Oak...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-30 01:18:30",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "300 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "0"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -181,19 +194,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "88"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-29 22:42:37",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "611 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Halfway Hill Fire",
