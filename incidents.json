@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Brook Mole Fire",
+      "type": "Wildfire",
+      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-30 16:50:29",
+      "lat": "33.761",
+      "lng": "-97.782",
+      "size": "482 Acres",
+      "url": "/incident/8286/",
+      "id": "8286",
+      "contained": "100"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-30 16:35:06",
+      "updated": "2022-07-30 16:45:53",
       "lat": "41.819",
       "lng": "-122.885",
       "size": "18,000 Acres",
@@ -51,19 +64,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "20"
-    },
-    {
-      "name": "Brook Mole Fire",
-      "type": "Wildfire",
-      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-30 13:55:56",
-      "lat": "33.761",
-      "lng": "-97.782",
-      "size": "482 Acres",
-      "url": "/incident/8286/",
-      "id": "8286",
-      "contained": "95"
     },
     {
       "name": "Chalk Mountain Fire",
