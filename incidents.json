@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Brook Mole Fire",
+      "type": "Wildfire",
+      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-31 09:50:27",
+      "lat": "33.761",
+      "lng": "-97.782",
+      "size": "482 Acres",
+      "url": "/incident/8286/",
+      "id": "8286",
+      "contained": "100"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-31 09:49:12",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "30,000 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "1"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-31 09:38:19",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "64"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 524 acresContainment is at 19%An aerial ignition test fire is...",
+      "state": "WYOMING",
+      "updated": "2022-07-31 09:36:34",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "524 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "19"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-31 09:35:38",
+      "updated": "2022-07-31 09:35:51",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -25,32 +77,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "96"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-31 09:31:41",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "64"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 524 acresContainment is at 19%An aerial ignition test fire is...",
-      "state": "WYOMING",
-      "updated": "2022-07-31 09:16:59",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "524 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "19"
     },
     {
       "name": "Moose Fire",
@@ -118,19 +144,6 @@
       "contained": "83"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-30 23:16:50",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "30,000 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "1"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -168,19 +181,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "98"
-    },
-    {
-      "name": "Brook Mole Fire",
-      "type": "Wildfire",
-      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-30 16:50:29",
-      "lat": "33.761",
-      "lng": "-97.782",
-      "size": "482 Acres",
-      "url": "/incident/8286/",
-      "id": "8286",
-      "contained": "100"
     },
     {
       "name": "Halfway Hill Fire",
