@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 56,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-08-01 15:00:57",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "56,049 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "23"
+    },
+    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "August 1st, 2022  Firefighters will continue to strengthen...",
@@ -25,19 +38,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 56,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-08-01 14:36:57",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "56,049 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "23"
     },
     {
       "name": "McKinney Fire",
