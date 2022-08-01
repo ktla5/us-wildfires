@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 523 acresContainment is at 19%Aerial ignition will continue...",
+      "state": "WYOMING",
+      "updated": "2022-08-01 08:46:49",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "524 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "19"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-01 08:39:38",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "822 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
       "name": "Chalk Mountain Fire",
       "type": "Wildfire",
       "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
@@ -51,19 +77,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "98"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 524 acresContainment is at 19%An aerial ignition test fire is...",
-      "state": "WYOMING",
-      "updated": "2022-07-31 22:25:48",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "524 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "19"
     },
     {
       "name": "Moose Fire",
@@ -194,19 +207,6 @@
       "url": "/incident/8286/",
       "id": "8286",
       "contained": "100"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-07-31 09:00:21",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "806 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Dodge Springs Fire",
