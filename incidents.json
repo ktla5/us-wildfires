@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE 1:00 PM 8.2.22Evacuation orders from Lake County Sheriff’s...",
+      "state": "MONTANA",
+      "updated": "2022-08-02 15:23:27",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "16,226 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-02 15:23:14",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "731 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Escalera Fire",
+      "type": "Wildfire",
+      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
+      "state": "TEXAS",
+      "updated": "2022-08-02 15:22:37",
+      "lat": "33.659",
+      "lng": "-99.078",
+      "size": "227 Acres",
+      "url": "/incident/8274/",
+      "id": "8274",
+      "contained": "100"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
+      "state": "MONTANA",
+      "updated": "2022-08-02 15:17:14",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "150 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Fish Fire",
+      "type": "Wildfire",
+      "summary": "Federal, state, and local firefighters are responding to the Fish...",
+      "state": "WYOMING",
+      "updated": "2022-08-02 15:00:47",
+      "lat": "44.302",
+      "lng": "-104.285",
+      "size": "3,800 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "0"
+    },
+    {
       "name": "Sugarloaf Fire",
       "type": "Wildfire",
       "summary": "Fire is 699 acresContainment is at 19%Aerial ignition will continue...",
@@ -25,32 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "23"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE 1:00 PM 8.2.22Evacuation orders from Lake County Sheriff’s...",
-      "state": "MONTANA",
-      "updated": "2022-08-02 14:27:11",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "16,226 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-02 14:10:58",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "731 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Bean Complex",
@@ -206,19 +245,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
-      "state": "MONTANA",
-      "updated": "2022-08-02 09:47:12",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "150 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
       "contained": "0"
     },
     {
@@ -688,19 +714,6 @@
       "url": "/incident/8238/",
       "id": "8238",
       "contained": "100"
-    },
-    {
-      "name": "Escalera Fire",
-      "type": "Wildfire",
-      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 09:26:28",
-      "lat": "33.659",
-      "lng": "-99.078",
-      "size": "227 Acres",
-      "url": "/incident/8274/",
-      "id": "8274",
-      "contained": "92"
     },
     {
       "name": "Cat Fire",
