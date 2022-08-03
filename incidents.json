@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 17:50:55",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,400 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "25"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 17:48:07",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "57,515 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 699 acresContainment is at 19%Aerial ignition will continue...",
+      "state": "WYOMING",
+      "updated": "2022-08-03 17:43:32",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "19"
+    },
+    {
+      "name": "Smoke Rider Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 17:37:46",
+      "lat": "30.162",
+      "lng": "-98.244",
+      "size": "800 Acres",
+      "url": "/incident/8295/",
+      "id": "8295",
+      "contained": "60"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-03 17:28:38",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "60 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "0"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -25,19 +90,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "24"
-    },
-    {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-03 17:10:39",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "60 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "0"
     },
     {
       "name": "Elmo Fire",
@@ -118,19 +170,6 @@
       "contained": "10"
     },
     {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 15:21:30",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,400 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "25"
-    },
-    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "As of Aug. 3, the Dalton Highway Complex InciWeb pages will no...",
@@ -155,19 +194,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "0"
-    },
-    {
-      "name": "Smoke Rider Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 14:36:56",
-      "lat": "30.162",
-      "lng": "-98.244",
-      "size": "800 Acres",
-      "url": "/incident/8295/",
-      "id": "8295",
-      "contained": "30"
     },
     {
       "name": "Boldt Fire",
@@ -233,32 +259,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 699 acresContainment is at 19%Aerial ignition will continue...",
-      "state": "WYOMING",
-      "updated": "2022-08-03 12:14:00",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "19"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 12:07:42",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "57,515 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
