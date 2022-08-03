@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-03 16:49:49",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "60 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "0"
+    },
+    {
       "name": "Black Ranch Fire",
       "type": "Wildfire",
       "summary": "A fire started in southern Palo Pinto county on Tuesday July 2nd and...",
