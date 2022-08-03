@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Black Ranch Fire",
+      "type": "Wildfire",
+      "summary": "A fire started in southern Palo Pinto county on Tuesday July 2nd and...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 09:37:50",
+      "lat": "32.561",
+      "lng": "-98.124",
+      "size": "13 Acres",
+      "url": "/incident/8297/",
+      "id": "8297",
+      "contained": "70"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE 6:30 PM 8.2.22CHANGE IN EVACUATIONS: The Lake County Sheriff...",
+      "state": "MONTANA",
+      "updated": "2022-08-03 09:36:10",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "18,427 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "16"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-03 09:35:18",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
@@ -12,19 +51,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-03 09:18:00",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Woodtick Fire",
@@ -196,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE 6:30 PM 8.2.22CHANGE IN EVACUATIONS: The Lake County Sheriff...",
-      "state": "MONTANA",
-      "updated": "2022-08-02 22:31:00",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "16,226 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "0"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
@@ -233,19 +246,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "24"
-    },
-    {
-      "name": "Black Ranch Fire",
-      "type": "Wildfire",
-      "summary": "A fire started in southern Palo Pinto county on Tuesday July 2nd and...",
-      "state": "TEXAS",
-      "updated": "2022-08-02 19:31:46",
-      "lat": "32.561",
-      "lng": "-98.124",
-      "size": "13 Acres",
-      "url": "/incident/8297/",
-      "id": "8297",
-      "contained": "13"
     },
     {
       "name": "Washburn Fire",
