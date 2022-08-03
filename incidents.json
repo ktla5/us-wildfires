@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 13:55:07",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,400 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "25"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -298,19 +311,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 06:33:05",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,400 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "25"
     },
     {
       "name": "Washburn Fire",
