@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-03 21:48:13",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "749 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-03 21:27:04",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "978 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-03 21:26:43",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "97 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The 5,644-acre Dodge Springs Fire is 100-percent contained. The fire...",
@@ -51,19 +90,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "83"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-03 20:41:55",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "749 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Sugarloaf Fire",
@@ -128,32 +154,6 @@
       "size": "155 Acres",
       "url": "/incident/8290/",
       "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-03 19:44:45",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "978 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-03 19:43:25",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "97 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
       "contained": "0"
     },
     {
