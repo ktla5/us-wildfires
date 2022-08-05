@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 09:46:27",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "58,668 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
+      "state": "IDAHO",
+      "updated": "2022-08-05 09:45:19",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "67,466 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "11"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 09:31:36",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "771 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 09:29:38",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "90"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
@@ -51,32 +103,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "31"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-05 08:58:18",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "58,668 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
-      "state": "IDAHO",
-      "updated": "2022-08-05 08:58:01",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "67,466 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "11"
     },
     {
       "name": "Camp Seal Fire",
@@ -258,32 +284,6 @@
       "size": "120 Acres",
       "url": "/incident/8264/",
       "id": "8264",
-      "contained": "0"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 20:52:31",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "86"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-04 20:50:30",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "771 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
