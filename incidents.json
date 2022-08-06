@@ -1,30 +1,43 @@
 {
   "markers": [
     {
-      "name": "Smoke Rider Fire",
+      "name": "Elmo Fire",
       "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 07:36:59",
-      "lat": "30.162",
-      "lng": "-98.244",
-      "size": "1,210 Acres",
-      "url": "/incident/8295/",
-      "id": "8295",
-      "contained": "80"
+      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 08:08:41",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,198 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "18"
     },
     {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
       "state": "IDAHO",
-      "updated": "2022-08-06 07:20:27",
+      "updated": "2022-08-06 08:05:47",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "68,166 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "14"
+    },
+    {
+      "name": "Smoke Rider Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 07:50:45",
+      "lat": "30.162",
+      "lng": "-98.244",
+      "size": "1,210 Acres",
+      "url": "/incident/8295/",
+      "id": "8295",
+      "contained": "80"
     },
     {
       "name": "Fish",
@@ -350,19 +363,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "100"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 10:52:48",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,182 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "15"
     },
     {
       "name": "Oak Fire",
