@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 10:49:26",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "4,633 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "15"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 10:49:14",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,274 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 10:48:56",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "30,021 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "45"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "Update on Evacuations and Road Closure - 8.6.2022 10:00 AM Updates...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 10:47:38",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,198 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "18"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-06 10:46:52",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,044 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "30"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "Fire behavior has been remaining slightly active through the night...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 10:42:05",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "4,953 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately seven (7) miles northwest...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 10:38:07",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "120 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-06 10:36:11",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,046 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
       "name": "Matt Staff Rd Fire ",
       "type": "Wildfire",
       "summary": " MATT STAFF RD FIRE Update 8/6/22, 9:00 AMAll evacuations have now...",
       "state": "MONTANA",
-      "updated": "2022-08-06 10:25:27",
+      "updated": "2022-08-06 10:34:08",
       "lat": "46.573",
       "lng": "-111.783",
       "size": "1,538 Acres",
@@ -14,30 +118,17 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
+      "name": "Hog Trough Fire",
       "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-06 10:25:08",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,004 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "30"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 10:21:51",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "30,021 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "45"
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 10:31:41",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "779 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
     },
     {
       "name": "Moose Fire",
@@ -63,19 +154,6 @@
       "size": "1,438 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 10:15:50",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,274 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
       "contained": "0"
     },
     {
@@ -131,19 +209,6 @@
       "contained": "73"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 09:38:37",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,198 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "18"
-    },
-    {
       "name": "High Point Fire",
       "type": "Wildfire",
       "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
@@ -155,45 +220,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "75"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 09:16:48",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "779 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately seven (7) miles northwest...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 09:15:18",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "120 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-06 09:07:51",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,046 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
     },
     {
       "name": "Hermits Peak Fire",
@@ -222,19 +248,6 @@
       "contained": "98"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "Fire behavior has been remaining slightly active through the night...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 08:45:39",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "4,953 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
       "name": "Ranger Creek Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
@@ -259,19 +272,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "80"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-05 22:37:13",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "5,600 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
