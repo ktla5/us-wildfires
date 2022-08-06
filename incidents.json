@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 12:49:48",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,099 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "33"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 12:41:00",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-06 12:35:53",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "467 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "100"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 12:25:07",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "1,800 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "65"
+    },
+    {
       "name": "High Point Fire",
       "type": "Wildfire",
       "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
@@ -14,19 +66,6 @@
       "contained": "80"
     },
     {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-06 12:19:22",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "467 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "100"
-    },
-    {
       "name": "Chalk Mountain Fire",
       "type": "Wildfire",
       "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
@@ -38,19 +77,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "100"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 12:18:21",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "1,800 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "50"
     },
     {
       "name": "Fish",
@@ -183,19 +209,6 @@
       "contained": "14"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 11:00:15",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,438 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": "  The Yeti Fire is burning on the Klamath National Forest in between...",
@@ -311,19 +324,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "80"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "The Clover Wildfire started on July 13, 2022 as a result of a...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 22:18:53",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,099 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "33"
     },
     {
       "name": "Diamond Watch Fire",
