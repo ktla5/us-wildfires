@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-05 23:34:43",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,200 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-05 23:06:07",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "149 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
@@ -128,19 +154,6 @@
       "size": "2,180 Acres",
       "url": "/incident/8290/",
       "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-05 21:51:50",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "0 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -324,19 +337,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "100"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-05 12:09:56",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "149 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Elmo Fire",
