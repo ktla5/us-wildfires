@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
       "state": "OREGON",
-      "updated": "2022-08-06 14:50:42",
+      "updated": "2022-08-06 15:24:14",
       "lat": "43.363",
       "lng": "-122.052",
       "size": "1,046 Acres",
@@ -14,16 +14,42 @@
       "contained": "5"
     },
     {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 15:22:09",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "65"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-08-06 14:30:11",
+      "updated": "2022-08-06 14:57:26",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "167 Acres",
       "url": "/incident/8291/",
       "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 14:56:43",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
       "contained": "0"
     },
     {
@@ -92,19 +118,6 @@
       "contained": "45"
     },
     {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 13:09:27",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "1,800 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "65"
-    },
-    {
       "name": "High Point Fire",
       "type": "Wildfire",
       "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
@@ -116,19 +129,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 13:01:21",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,438 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
