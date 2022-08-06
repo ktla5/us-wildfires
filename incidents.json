@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-06 14:31:18",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,046 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-06 14:30:11",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "167 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Redhorn Fire",
+      "type": "Wildfire",
+      "summary": "Redhorn Fire Update for August 6, 2022 Location: 7 air miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 14:23:40",
+      "lat": "47.389",
+      "lng": "-113.985",
+      "size": "306 Acres",
+      "url": "/incident/8293/",
+      "id": "8293",
+      "contained": "0"
+    },
+    {
       "name": "Fish",
       "type": "Wildfire",
       "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
@@ -170,32 +209,6 @@
       "contained": "45"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-06 11:56:00",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "167 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-06 11:53:10",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,046 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -363,19 +376,6 @@
       "url": "/incident/8302/",
       "id": "8302",
       "contained": "35"
-    },
-    {
-      "name": "Redhorn Fire",
-      "type": "Wildfire",
-      "summary": "Redhorn Fire Update for August 5, 2022Community Meeting: There will...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 16:02:18",
-      "lat": "47.389",
-      "lng": "-113.985",
-      "size": "281 Acres",
-      "url": "/incident/8293/",
-      "id": "8293",
-      "contained": "0"
     },
     {
       "name": "Black Ranch Fire",
