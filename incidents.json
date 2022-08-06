@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 15:38:56",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "75"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-06 15:33:31",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "167 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 15:30:22",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "235 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "80"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
@@ -12,32 +51,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "5"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 15:22:09",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "65"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-06 14:57:26",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "167 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -116,19 +129,6 @@
       "url": "/incident/8301/",
       "id": "8301",
       "contained": "45"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 13:07:19",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "175 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "80"
     },
     {
       "name": "Clover Fire",
