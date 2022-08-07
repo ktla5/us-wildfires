@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 08:13:30",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,327 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "18"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-07 08:13:12",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,109 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "Fire behavior has been remaining slightly active through the night...",
+      "state": "IDAHO",
+      "updated": "2022-08-07 07:46:02",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "4,971 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Since Thursday afternoon’s windy conditions, the weather on the...",
@@ -79,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 22:29:52",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,198 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "18"
-    },
-    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
@@ -142,19 +168,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "90"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-06 21:32:09",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,109 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
     },
     {
       "name": "Smoke Rider Fire",
@@ -336,19 +349,6 @@
       "size": "120 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "Fire behavior has been remaining slightly active through the night...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 10:42:05",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "4,953 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
