@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 18:03:47",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,157 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-07 18:03:28",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,822 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
@@ -12,19 +38,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "35"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 17:46:44",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,157 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Cow Canyon",
@@ -194,19 +207,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "40"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-07 12:02:39",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,822 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Potter Fire",
