@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-07 17:18:26",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "4,633 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "20"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 16:57:09",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,157 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Matt Staff Rd Fire ",
+      "type": "Wildfire",
+      "summary": " MATT STAFF RD FIRE Update 8/7/22, 7:30 AMToday crews are working...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 16:55:58",
+      "lat": "46.573",
+      "lng": "-111.783",
+      "size": "1,587 Acres",
+      "url": "/incident/8309/",
+      "id": "8309",
+      "contained": "38"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Maps | Photos  Twelve lightning caused fires were...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-07 16:51:10",
+      "updated": "2022-08-07 16:55:22",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "1,101 Acres",
@@ -170,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-07 11:37:28",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "4,633 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "20"
-    },
-    {
       "name": "VANTAGE HIGHWAY",
       "type": "Wildfire",
       "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
@@ -233,19 +259,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "30"
-    },
-    {
-      "name": "Matt Staff Rd Fire ",
-      "type": "Wildfire",
-      "summary": " MATT STAFF RD FIRE Update 8/7/22, 7:30 AMToday crews are working...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 10:11:06",
-      "lat": "46.573",
-      "lng": "-111.783",
-      "size": "1,587 Acres",
-      "url": "/incident/8309/",
-      "id": "8309",
-      "contained": "38"
     },
     {
       "name": "Clover Fire",
@@ -323,19 +336,6 @@
       "size": "920 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 22:04:22",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,384 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
       "contained": "0"
     },
     {
