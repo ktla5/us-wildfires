@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "Updates | Maps | Photos  Twelve lightning caused fires were...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-07 13:27:40",
+      "updated": "2022-08-07 13:51:17",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "1,101 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
+      "state": "IDAHO",
+      "updated": "2022-08-07 13:41:19",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "68,353 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "16"
     },
     {
       "name": "Redhorn Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8294/",
       "id": "8294",
       "contained": "94"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
-      "state": "IDAHO",
-      "updated": "2022-08-07 10:47:51",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "68,353 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "16"
     },
     {
       "name": "Elmo Fire",
