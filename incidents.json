@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-07 11:33:07",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "31,000 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "60"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-07 11:28:37",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,271 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-07 11:25:28",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "4,633 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "20"
+    },
+    {
+      "name": "Beech Creek Fire",
+      "type": "Wildfire",
+      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
+      "state": "OREGON",
+      "updated": "2022-08-07 11:20:31",
+      "lat": "44.572",
+      "lng": "-119.116",
+      "size": "155 Acres",
+      "url": "/incident/8301/",
+      "id": "8301",
+      "contained": "66"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-07 11:19:54",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "94"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-07 10:48:37",
+      "updated": "2022-08-07 11:02:12",
       "lat": "43.74",
       "lng": "-122.166",
       "size": "1,822 Acres",
@@ -25,19 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "16"
-    },
-    {
-      "name": "Beech Creek Fire",
-      "type": "Wildfire",
-      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
-      "state": "OREGON",
-      "updated": "2022-08-07 10:42:39",
-      "lat": "44.572",
-      "lng": "-119.116",
-      "size": "155 Acres",
-      "url": "/incident/8301/",
-      "id": "8301",
-      "contained": "66"
     },
     {
       "name": "Potter Fire",
@@ -64,32 +116,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "30"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-07 10:37:34",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,271 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-07 10:34:49",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "94"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -311,32 +337,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "90"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 21:15:44",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "31,000 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "60"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 21:12:18",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "4,633 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "20"
     },
     {
       "name": "Redhorn Fire",
