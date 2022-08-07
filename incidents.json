@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-07 15:23:17",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "15"
+    },
+    {
       "name": "Ranger Creek Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
       "state": "TEXAS",
-      "updated": "2022-08-07 14:49:10",
+      "updated": "2022-08-07 14:59:29",
       "lat": "33.123",
       "lng": "-99.379",
       "size": "3,244 Acres",
       "url": "/incident/8311/",
       "id": "8311",
       "contained": "90"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-07 14:51:45",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "4,971 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "High Point Fire",
@@ -129,19 +155,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-07 11:44:24",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "15"
     },
     {
       "name": "Cow Canyon",
@@ -285,19 +298,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "34"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-07 08:55:54",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "4,971 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Smoke Rider Fire",
