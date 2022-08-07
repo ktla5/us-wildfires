@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-07 09:51:32",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "15"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-07 09:50:08",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "94"
+    },
+    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
@@ -170,19 +196,6 @@
       "contained": "66"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-07 08:59:15",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "15"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -233,19 +246,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-07 05:54:24",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "94"
     },
     {
       "name": "Cedar Creek Fire",
