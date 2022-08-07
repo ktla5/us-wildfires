@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 23:00:29",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
@@ -259,19 +272,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 17:37:32",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,438 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Redhorn Fire",
