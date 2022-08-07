@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 17:47:30",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,099 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "35"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-07 17:46:44",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,157 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
       "name": "Cow Canyon",
       "type": "Wildfire",
       "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
@@ -12,19 +38,6 @@
       "url": "/incident/8305/",
       "id": "8305",
       "contained": "20"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 16:57:09",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,157 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Matt Staff Rd Fire ",
@@ -259,19 +272,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "30"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 09:35:10",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,099 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "35"
     },
     {
       "name": "Norton Fire",
