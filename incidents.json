@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
+      "state": "IDAHO",
+      "updated": "2022-08-07 14:33:07",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "68,353 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "16"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -38,19 +51,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
-      "state": "IDAHO",
-      "updated": "2022-08-07 13:41:19",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "68,353 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "16"
     },
     {
       "name": "Redhorn Fire",
