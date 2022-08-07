@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-07 14:49:10",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "90"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-07 14:41:32",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "235 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "90"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
       "state": "IDAHO",
-      "updated": "2022-08-07 14:33:07",
+      "updated": "2022-08-07 14:37:50",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "68,353 Acres",
@@ -324,32 +350,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 21:53:36",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "90"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 21:51:49",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "235 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "90"
     },
     {
       "name": "Colony Fire",
