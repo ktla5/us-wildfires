@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Woodtick Fire",
+      "name": "Cow Canyon",
       "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-08 10:28:28",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,162 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-08 10:53:01",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "5,832 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "30"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-08 10:48:12",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "234 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
       "contained": "0"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-08 10:48:02",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "32,284 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "75"
     },
     {
       "name": "Beech Creek Fire",
       "type": "Wildfire",
       "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
       "state": "OREGON",
-      "updated": "2022-08-08 10:27:04",
+      "updated": "2022-08-08 10:45:25",
       "lat": "44.572",
       "lng": "-119.116",
       "size": "155 Acres",
       "url": "/incident/8301/",
       "id": "8301",
       "contained": "69"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-08 10:32:27",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,162 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "Elmo Fire",
@@ -64,32 +103,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "25"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 10:08:57",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "32,284 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "75"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 10:07:20",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "5,746 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "30"
     },
     {
       "name": "Cedar Creek Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-08 09:44:29",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "234 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Six Rivers Lightning Complex",
