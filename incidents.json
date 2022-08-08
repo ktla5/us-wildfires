@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos  Twelve lightning...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-08 15:26:50",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "3,181 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-08 15:16:28",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "95"
+    },
+    {
+      "name": "Sarco",
+      "type": "Wildfire",
+      "summary": "Sunday - Aug 7, 6 PM Update: Air attack is underway to suppress fire...",
+      "state": "TEXAS",
+      "updated": "2022-08-08 15:15:31",
+      "lat": "28.464",
+      "lng": "-97.438",
+      "size": "515 Acres",
+      "url": "/incident/8314/",
+      "id": "8314",
+      "contained": "95"
+    },
+    {
       "name": "Redhorn Fire",
       "type": "Wildfire",
       "summary": "Redhorn Fire Update for August 8, 2022 Location: 7 air miles...",
@@ -53,19 +92,6 @@
       "contained": "16"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Maps | Photos  Twelve lightning caused fires were...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-08 13:57:03",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "3,181 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "0"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -103,19 +129,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 13:36:48",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "95"
     },
     {
       "name": "Hermits Peak Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "95"
-    },
-    {
-      "name": "Sarco",
-      "type": "Wildfire",
-      "summary": "Sunday - Aug 7, 6 PM Update: Air attack is underway to suppress fire...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 08:41:58",
-      "lat": "28.464",
-      "lng": "-97.438",
-      "size": "515 Acres",
-      "url": "/incident/8314/",
-      "id": "8314",
-      "contained": "90"
     },
     {
       "name": "Wolf Fang Fire",
