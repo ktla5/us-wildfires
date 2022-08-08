@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Redhorn Fire",
+      "type": "Wildfire",
+      "summary": "Redhorn Fire Update for August 8, 2022 Location: 7 air miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-08 14:50:57",
+      "lat": "47.389",
+      "lng": "-113.985",
+      "size": "398 Acres",
+      "url": "/incident/8293/",
+      "id": "8293",
+      "contained": "0"
+    },
+    {
       "name": "Payette Wilderness Fires",
       "type": "Wildfire",
       "summary": " Lightning Starts Wilderness Fires on the Payette National...",
@@ -414,19 +427,6 @@
       "size": "1,180 Acres",
       "url": "/incident/8290/",
       "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Redhorn Fire",
-      "type": "Wildfire",
-      "summary": "Redhorn Fire Update for August 6, 2022 Location: 7 air miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 12:42:13",
-      "lat": "47.389",
-      "lng": "-113.985",
-      "size": "343 Acres",
-      "url": "/incident/8293/",
-      "id": "8293",
       "contained": "0"
     },
     {
