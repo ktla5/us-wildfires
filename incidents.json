@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
+      "state": "MONTANA",
+      "updated": "2022-08-08 11:59:35",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,099 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "36"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-08 11:57:05",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,379 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-08 11:46:42",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,053 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "25"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-08 11:44:40",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "234 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-08-08 11:40:14",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
@@ -79,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-08 11:18:27",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,053 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "25"
-    },
-    {
       "name": "VANTAGE HIGHWAY",
       "type": "Wildfire",
       "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
@@ -103,32 +155,6 @@
       "url": "/incident/8303/",
       "id": "8303",
       "contained": "75"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-08 11:14:49",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "234 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-08 11:13:25",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,379 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
     },
     {
       "name": "Sugarloaf Fire",
@@ -337,19 +363,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
-      "state": "MONTANA",
-      "updated": "2022-08-07 18:58:10",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,099 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "36"
     },
     {
       "name": "Ranger Creek Fire",
@@ -610,19 +623,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-08-03 11:47:15",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
     },
     {
       "name": "Bear Trap Fire",
