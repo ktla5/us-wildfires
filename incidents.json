@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 13:31:20",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-08-08 13:26:55",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "362 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "90"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-08 13:23:50",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "234 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-08 13:14:41",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,162 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-08 13:14:02",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,053 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "25"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-08 12:55:32",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "235 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "100"
+    },
+    {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -66,32 +144,6 @@
       "contained": "40"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-08 11:46:42",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,053 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "25"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-08 11:44:40",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "234 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -116,19 +168,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "55"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 11:30:29",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Hermits Peak Fire",
@@ -194,19 +233,6 @@
       "url": "/incident/8301/",
       "id": "8301",
       "contained": "69"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-08 10:32:27",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,162 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Burns Creek Fire",
@@ -375,19 +401,6 @@
       "size": "3,244 Acres",
       "url": "/incident/8311/",
       "id": "8311",
-      "contained": "90"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-07 14:41:32",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "235 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
       "contained": "90"
     },
     {
@@ -662,19 +675,6 @@
       "url": "/incident/8272/",
       "id": "8272",
       "contained": "0"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-08-01 10:52:49",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "362 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "90"
     },
     {
       "name": "Lime Complex",
