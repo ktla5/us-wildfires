@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
+      "state": "IDAHO",
+      "updated": "2022-08-08 14:33:50",
+      "lat": "45.384",
+      "lng": "-114.96",
+      "size": "838 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 839 acresContainment is at 60%Significant moisture was...",
+      "state": "WYOMING",
+      "updated": "2022-08-08 14:22:23",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "60"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "&amp;#183;JOIN US: Virtual Community Meeting LIVE  on the Salmon-Challis...",
@@ -248,19 +274,6 @@
       "contained": "75"
     },
     {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": " Fire is 839 acres Containment is at 60% Significant moisture was...",
-      "state": "WYOMING",
-      "updated": "2022-08-08 11:09:45",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "60"
-    },
-    {
       "name": "Beech Creek Fire",
       "type": "Wildfire",
       "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
@@ -427,19 +440,6 @@
       "size": "120 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 21:54:01",
-      "lat": "45.384",
-      "lng": "-114.96",
-      "size": "772 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
       "contained": "0"
     },
     {
