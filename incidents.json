@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Gate 6",
+      "type": "Wildfire",
+      "summary": " On Monday, August 9th at 12:50 pm, Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 16:13:24",
+      "lat": "30.957",
+      "lng": "-94.895",
+      "size": "100 Acres",
+      "url": "/incident/8317/",
+      "id": "8317",
+      "contained": "0"
+    },
+    {
+      "name": "TNT",
+      "type": "Wildfire",
+      "summary": " On Tuesday, August 9th, 2022 at 10:45 am, Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 16:01:19",
+      "lat": "30.974",
+      "lng": "-94.997",
+      "size": "60 Acres",
+      "url": "/incident/8320/",
+      "id": "8320",
+      "contained": "0"
+    },
+    {
+      "name": "Burns Creek Fire",
+      "type": "Wildfire",
+      "summary": " At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 16:01:00",
+      "lat": "30.277",
+      "lng": "-96.589",
+      "size": "397 Acres",
+      "url": "/incident/8313/",
+      "id": "8313",
+      "contained": "80"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-09 15:57:29",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "8,975 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning in July in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 15:54:21",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "2,400 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -12,19 +77,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning in July in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-09 15:51:09",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "2,400 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Wildcat BAER",
@@ -51,19 +103,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Gate 6",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist with a ...",
-      "state": "TEXAS",
-      "updated": "2022-08-09 15:34:56",
-      "lat": "30.957",
-      "lng": "-94.895",
-      "size": "0 Acres",
-      "url": "/incident/8317/",
-      "id": "8317",
-      "contained": "0"
     },
     {
       "name": "Weasel Fire",
@@ -103,19 +142,6 @@
       "url": "/incident/8301/",
       "id": "8301",
       "contained": "71"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos Twelve lightning...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-09 14:24:41",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "8,975 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "0"
     },
     {
       "name": "Fountain Creek Fire",
@@ -402,19 +428,6 @@
       "url": "/incident/8311/",
       "id": "8311",
       "contained": "100"
-    },
-    {
-      "name": "Burns Creek Fire",
-      "type": "Wildfire",
-      "summary": " At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 20:19:59",
-      "lat": "30.277",
-      "lng": "-96.589",
-      "size": "397 Acres",
-      "url": "/incident/8313/",
-      "id": "8313",
-      "contained": "60"
     },
     {
       "name": "Smoke Rider Fire",
@@ -870,19 +883,6 @@
       "url": "/incident/8234/",
       "id": "8234",
       "contained": "100"
-    },
-    {
-      "name": "Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Mountain Fire was started by lightning on Wednesday July 20,...",
-      "state": "ARIZONA",
-      "updated": "2022-07-25 10:03:43",
-      "lat": "35.337",
-      "lng": "-112.008",
-      "size": "17 Acres",
-      "url": "/incident/8270/",
-      "id": "8270",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
