@@ -1,30 +1,147 @@
 {
   "markers": [
     {
-      "name": "Six Rivers Lightning Complex",
+      "name": "Fountain Creek Fire",
       "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos Twelve lightning...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-09 10:53:28",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "8,975 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
+      "summary": "On Monday August 8th, 2022 at 9:30 pm, Texas A&amp;M Forest Service was...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 11:35:48",
+      "lat": "31.019",
+      "lng": "-94.846",
+      "size": "0 Acres",
+      "url": "/incident/8316/",
+      "id": "8316",
       "contained": "0"
+    },
+    {
+      "name": "Payette Wilderness Fires - Dismal Fire",
+      "type": "Wildfire",
+      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
+      "state": "IDAHO",
+      "updated": "2022-08-09 11:35:32",
+      "lat": "45.384",
+      "lng": "-114.96",
+      "size": "909 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Redhorn Fire",
+      "type": "Wildfire",
+      "summary": "Redhorn Fire Update for August 8, 2022 Location: 7 air miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 11:35:09",
+      "lat": "47.389",
+      "lng": "-113.985",
+      "size": "483 Acres",
+      "url": "/incident/8293/",
+      "id": "8293",
+      "contained": "0"
+    },
+    {
+      "name": "Beech Creek Fire",
+      "type": "Wildfire",
+      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
+      "state": "OREGON",
+      "updated": "2022-08-09 11:35:04",
+      "lat": "44.572",
+      "lng": "-119.116",
+      "size": "155 Acres",
+      "url": "/incident/8301/",
+      "id": "8301",
+      "contained": "71"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 11:34:04",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "61"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-09 11:22:54",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "180 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-09 11:17:17",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "98"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-09 11:14:47",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "279 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-09 11:14:02",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,389 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "55"
     },
     {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-09 10:52:14",
+      "updated": "2022-08-09 11:01:22",
       "lat": "41.868",
       "lng": "-123.278",
       "size": "7,886 Acres",
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "78"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos Twelve lightning...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-09 10:55:13",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "8,975 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
     },
     {
       "name": "Windigo Fire",
@@ -40,19 +157,6 @@
       "contained": "25"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-09 10:46:30",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,389 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "55"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -63,32 +167,6 @@
       "size": "3,234 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
-      "state": "MONTANA",
-      "updated": "2022-08-09 10:37:26",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,349 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "61"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-09 10:21:42",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "279 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
       "contained": "0"
     },
     {
@@ -116,19 +194,6 @@
       "url": "/incident/8305/",
       "id": "8305",
       "contained": "40"
-    },
-    {
-      "name": "Beech Creek Fire",
-      "type": "Wildfire",
-      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
-      "state": "OREGON",
-      "updated": "2022-08-09 09:59:38",
-      "lat": "44.572",
-      "lng": "-119.116",
-      "size": "155 Acres",
-      "url": "/incident/8301/",
-      "id": "8301",
-      "contained": "71"
     },
     {
       "name": "Sugarloaf Fire",
@@ -168,19 +233,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "21"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-09 09:44:28",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "180 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
     },
     {
       "name": "Woodtick Fire",
@@ -313,32 +365,6 @@
       "contained": "100"
     },
     {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-08 18:27:05",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "98"
-    },
-    {
-      "name": "Payette Wilderness Fires - Dismal Fire",
-      "type": "Wildfire",
-      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
-      "state": "IDAHO",
-      "updated": "2022-08-08 17:56:14",
-      "lat": "45.384",
-      "lng": "-114.96",
-      "size": "838 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": "History The Weasel Fire was discovered on July 30, 2022.  The fire...",
@@ -362,19 +388,6 @@
       "size": "0 Acres",
       "url": "/incident/8315/",
       "id": "8315",
-      "contained": "0"
-    },
-    {
-      "name": "Redhorn Fire",
-      "type": "Wildfire",
-      "summary": "Redhorn Fire Update for August 8, 2022 Location: 7 air miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-08 14:50:57",
-      "lat": "47.389",
-      "lng": "-113.985",
-      "size": "398 Acres",
-      "url": "/incident/8293/",
-      "id": "8293",
       "contained": "0"
     },
     {
