@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-10 11:32:03",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "3,772 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-10 11:00:04",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "30,659 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "90"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-10 10:59:53",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "279 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -12,19 +51,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "60"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-10 10:34:27",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "30,659 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "90"
     },
     {
       "name": "Cow Canyon",
@@ -53,19 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-10 10:29:50",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "279 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
@@ -90,19 +103,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "25"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-10 10:12:37",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "3,772 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Elmo Fire",
