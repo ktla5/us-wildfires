@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-09 23:28:55",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "10,138 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-09 23:22:55",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "3,536 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " &amp;#183;JOIN US: Virtual Community Meeting LIVE  on the...",
@@ -38,19 +64,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "50"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-09 21:25:41",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "10,138 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8314/",
       "id": "8314",
       "contained": "95"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-09 19:55:06",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "3,536 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Fish",
