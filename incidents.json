@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It was...",
+      "state": "ARIZONA",
+      "updated": "2022-08-11 15:27:33",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "362 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "100"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
@@ -532,19 +545,6 @@
       "url": "/incident/8315/",
       "id": "8315",
       "contained": "0"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-08-08 13:26:55",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "362 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "90"
     },
     {
       "name": "High Point Fire",
