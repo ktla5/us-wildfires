@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-11 13:29:34",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "117 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Mohr",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2022-08-11 13:19:35",
+      "lat": "47.533",
+      "lng": "-119.919",
+      "size": "6,489 Acres",
+      "url": "/incident/8322/",
+      "id": "8322",
+      "contained": "28"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-11 13:16:25",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "314 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-11 13:14:49",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,008 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "25"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-11 12:52:20",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -14,45 +79,6 @@
       "contained": "75"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-11 12:47:11",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,008 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "25"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-11 12:45:35",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "314 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-11 12:45:27",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
-    },
-    {
       "name": "Redhorn Fire",
       "type": "Wildfire",
       "summary": "Redhorn Fire Update for August 11, 2022Location: 7 air miles...",
@@ -63,19 +89,6 @@
       "size": "511 Acres",
       "url": "/incident/8293/",
       "id": "8293",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-11 12:36:16",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "117 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
       "contained": "0"
     },
     {
@@ -311,19 +324,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Mohr",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2022-08-11 02:42:17",
-      "lat": "47.533",
-      "lng": "-119.919",
-      "size": "4,620 Acres",
-      "url": "/incident/8322/",
-      "id": "8322",
-      "contained": "0"
     },
     {
       "name": "Sheep Post-Fire BAER",
