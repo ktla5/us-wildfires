@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-11 09:37:51",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,531 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-11 09:37:37",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "12,375 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
+      "state": "MONTANA",
+      "updated": "2022-08-11 09:37:33",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "66"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-11 09:33:32",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,008 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "25"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-11 09:32:52",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "314 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-11 09:32:26",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,538 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-11 09:26:38",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "824 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "56"
+    },
+    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
       "state": "IDAHO",
-      "updated": "2022-08-11 09:21:44",
+      "updated": "2022-08-11 09:24:55",
       "lat": "45.138",
       "lng": "-114.686",
       "size": "1,064 Acres",
@@ -105,19 +196,6 @@
       "contained": "98"
     },
     {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-11 07:38:20",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,538 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
-    },
-    {
       "name": "Mohr",
       "type": "Wildfire",
       "summary": "",
@@ -128,19 +206,6 @@
       "size": "4,620 Acres",
       "url": "/incident/8322/",
       "id": "8322",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-11 00:14:02",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "11,618 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
       "contained": "0"
     },
     {
@@ -222,19 +287,6 @@
       "contained": "95"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
-      "state": "MONTANA",
-      "updated": "2022-08-10 19:50:46",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,348 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "61"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
@@ -246,32 +298,6 @@
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-10 19:15:17",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,492 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-10 19:07:03",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "824 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "56"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
@@ -337,32 +363,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "38"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-10 12:42:54",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "279 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-10 12:30:21",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,053 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "25"
     },
     {
       "name": "Sugarloaf Fire",
