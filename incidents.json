@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-12 16:38:21",
+      "updated": "2022-08-12 16:50:12",
       "lat": "41.819",
       "lng": "-122.895",
       "size": "60,389 Acres",
@@ -18,13 +18,26 @@
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
       "state": "TEXAS",
-      "updated": "2022-08-12 16:37:26",
+      "updated": "2022-08-12 16:48:28",
       "lat": "30.091",
       "lng": "-97.159",
       "size": "700 Acres",
       "url": "/incident/8324/",
       "id": "8324",
       "contained": "20"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-12 16:47:10",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "3,948 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Yellow Brick",
@@ -115,19 +128,6 @@
       "size": "515 Acres",
       "url": "/incident/8293/",
       "id": "8293",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-12 12:31:36",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "3,948 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
