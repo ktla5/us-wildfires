@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-12 13:28:08",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "13,968 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
       "name": "Yellow Brick Road",
       "type": "Wildfire",
       "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
       "state": "TEXAS",
-      "updated": "2022-08-12 12:49:59",
+      "updated": "2022-08-12 13:18:09",
       "lat": "32.902",
       "lng": "-98.368",
       "size": "0 Acres",
@@ -76,19 +89,6 @@
       "size": "121 Acres",
       "url": "/incident/8323/",
       "id": "8323",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-12 11:52:27",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "13,968 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
       "contained": "0"
     },
     {
