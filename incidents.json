@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Yellow Brick Fire",
+      "type": "Wildfire",
+      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
+      "state": "TEXAS",
+      "updated": "2022-08-13 16:00:24",
+      "lat": "32.902",
+      "lng": "-98.368",
+      "size": "109 Acres",
+      "url": "/incident/8327/",
+      "id": "8327",
+      "contained": "100"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
@@ -64,19 +77,6 @@
       "url": "/incident/8322/",
       "id": "8322",
       "contained": "86"
-    },
-    {
-      "name": "Yellow Brick Fire",
-      "type": "Wildfire",
-      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
-      "state": "TEXAS",
-      "updated": "2022-08-13 13:00:57",
-      "lat": "32.902",
-      "lng": "-98.368",
-      "size": "109 Acres",
-      "url": "/incident/8327/",
-      "id": "8327",
-      "contained": "75"
     },
     {
       "name": "Cedar Creek Fire",
