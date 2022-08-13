@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-13 11:58:34",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "120 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
+      "state": "MONTANA",
+      "updated": "2022-08-13 11:37:12",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "75"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
@@ -38,19 +64,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "40"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON 8.12.2022 3:30 PM The new lightning-caused fire northwest...",
-      "state": "MONTANA",
-      "updated": "2022-08-13 10:45:13",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,349 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "75"
     },
     {
       "name": "McKinney Fire",
@@ -115,19 +128,6 @@
       "size": "371 Acres",
       "url": "/incident/8291/",
       "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-13 09:53:14",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "120 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
       "contained": "0"
     },
     {
