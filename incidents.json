@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-13 09:22:42",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "345 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-13 09:17:32",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "15,232 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "12"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-13 09:16:49",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "120 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-13 08:52:10",
+      "updated": "2022-08-13 09:09:53",
       "lat": "41.868",
       "lng": "-123.278",
       "size": "7,886 Acres",
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "90"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-13 09:03:08",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "3,948 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -25,19 +77,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "27"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-13 08:40:58",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "3,948 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -157,19 +196,6 @@
       "contained": "86"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-12 21:20:35",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "14,526 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "12"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -272,32 +298,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "40"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-12 12:27:55",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "345 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-12 12:26:25",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
