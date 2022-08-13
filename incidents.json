@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Yellow Brick",
+      "type": "Wildfire",
+      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
+      "state": "TEXAS",
+      "updated": "2022-08-13 08:09:36",
+      "lat": "32.902",
+      "lng": "-98.368",
+      "size": "109 Acres",
+      "url": "/incident/8327/",
+      "id": "8327",
+      "contained": "75"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-13 08:04:06",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-13 08:03:22",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -105,32 +144,6 @@
       "contained": "27"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 20:09:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 20:08:21",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -194,19 +207,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Yellow Brick",
-      "type": "Wildfire",
-      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 18:09:10",
-      "lat": "32.902",
-      "lng": "-98.368",
-      "size": "109 Acres",
-      "url": "/incident/8327/",
-      "id": "8327",
-      "contained": "50"
     },
     {
       "name": "Elmo Fire",
