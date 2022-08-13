@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-13 09:49:09",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "120 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-13 09:47:34",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "824 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "70"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
@@ -25,19 +51,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "27"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-13 09:24:27",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "120 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
     },
     {
       "name": "Potter Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/8322/",
       "id": "8322",
       "contained": "86"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-12 19:58:00",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "824 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "70"
     },
     {
       "name": "Pine Pond Fire",
