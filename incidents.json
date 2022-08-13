@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-08-13 10:24:00",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "35"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-13 10:19:44",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,591 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-13 10:09:16",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "371 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-08-13 09:49:09",
+      "updated": "2022-08-13 09:53:14",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "120 Acres",
@@ -51,19 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "27"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-13 09:22:52",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "345 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -183,19 +209,6 @@
       "contained": "98"
     },
     {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-13 07:15:21",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,572 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
-    },
-    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "08AUG22 - As fire behavior on the Clover Fire continues on a downward...",
@@ -220,19 +233,6 @@
       "url": "/incident/8322/",
       "id": "8322",
       "contained": "86"
-    },
-    {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 19:51:27",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "20"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
