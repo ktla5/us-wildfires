@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-14 15:58:42",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "832 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "70"
+    },
+    {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -77,19 +90,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "15"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-14 13:04:31",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "824 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "70"
     },
     {
       "name": "Cannon Fire",
