@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-14 11:30:59",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "824 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "70"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-14 11:30:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,256 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-14 11:29:32",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-14 11:19:43",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-14 11:19:33",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "435 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-14 11:08:04",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "341 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
       "name": "Deep Draw Fire",
       "type": "Wildfire",
       "summary": "The Deep Draw Fire was first reported just after 8pm on Friday,...",
@@ -27,45 +105,6 @@
       "contained": "60"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-14 10:37:33",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,256 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-14 10:37:12",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "371 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-14 10:36:36",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "120 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
-    },
-    {
       "name": "Pine Pond Fire",
       "type": "Wildfire",
       "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
@@ -77,19 +116,6 @@
       "url": "/incident/8324/",
       "id": "8324",
       "contained": "45"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-14 10:11:49",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "341 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
     },
     {
       "name": "Wolf Fang Fire",
@@ -170,19 +196,6 @@
       "contained": "29"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-14 07:39:16",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
-    },
-    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
@@ -259,19 +272,6 @@
       "url": "/incident/8322/",
       "id": "8322",
       "contained": "86"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-13 09:47:34",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "824 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "70"
     },
     {
       "name": "Norton Fire",
