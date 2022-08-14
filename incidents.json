@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-14 14:16:59",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,598 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -220,19 +233,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "29"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-13 21:36:43",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,591 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
