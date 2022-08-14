@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-14 09:38:15",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "16,924 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "15"
+    },
+    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
       "state": "IDAHO",
-      "updated": "2022-08-14 09:22:19",
+      "updated": "2022-08-14 09:35:50",
       "lat": "44.854",
       "lng": "-114.632",
       "size": "5,542 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
       "state": "TEXAS",
-      "updated": "2022-08-14 09:22:04",
+      "updated": "2022-08-14 09:34:22",
       "lat": "30.091",
       "lng": "-97.159",
       "size": "700 Acres",
@@ -27,24 +40,24 @@
       "contained": "45"
     },
     {
-      "name": "Six Rivers Lightning Complex",
+      "name": "Windigo Fire",
       "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-14 09:21:58",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "16,924 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "15"
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-14 09:33:48",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "60"
     },
     {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
       "state": "IDAHO",
-      "updated": "2022-08-14 09:18:48",
+      "updated": "2022-08-14 09:26:05",
       "lat": "45.138",
       "lng": "-114.686",
       "size": "1,069 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "75"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-13 22:38:24",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "60"
     },
     {
       "name": "Cedar Creek Fire",
