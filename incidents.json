@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-14 22:59:57",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "7,886 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
+      "contained": "90"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-14 22:13:27",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
+      "state": "TEXAS",
+      "updated": "2022-08-14 22:13:11",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "50"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-14 22:13:07",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "832 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "71"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "Firefighters are conducting initial attack on the Four Corners...",
       "state": "IDAHO",
-      "updated": "2022-08-14 21:32:06",
+      "updated": "2022-08-14 22:08:21",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "75 Acres",
@@ -18,7 +70,7 @@
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-14 21:30:10",
+      "updated": "2022-08-14 21:44:43",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "4,256 Acres",
@@ -38,19 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "34"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-14 20:52:28",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "832 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "71"
     },
     {
       "name": "Deep Draw Fire",
@@ -183,32 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-14 15:47:50",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-14 15:43:29",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "7,886 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "90"
-    },
-    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
@@ -285,19 +298,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "0"
-    },
-    {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
-      "state": "TEXAS",
-      "updated": "2022-08-14 10:14:58",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "45"
     },
     {
       "name": "Wolf Fang Fire",
