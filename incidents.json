@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-16 13:34:51",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,018 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Sutton Fire",
       "type": "Wildfire",
       "summary": " The Sutton fire originated 8/14/22 and is a lightning caused fire....",
       "state": "MONTANA",
-      "updated": "2022-08-16 12:26:44",
+      "updated": "2022-08-16 13:31:23",
       "lat": "48.675",
       "lng": "-115.16",
       "size": "94 Acres",
@@ -90,19 +103,6 @@
       "url": "/incident/8324/",
       "id": "8324",
       "contained": "50"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-16 11:16:58",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,018 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "White River ",
