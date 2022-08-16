@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-16 11:35:37",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,626 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 11:31:34",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,542 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 11:31:12",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "470 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
+      "state": "TEXAS",
+      "updated": "2022-08-16 11:31:09",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "50"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
       "state": "MONTANA",
-      "updated": "2022-08-16 10:48:25",
+      "updated": "2022-08-16 11:16:58",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "1,018 Acres",
@@ -105,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-16 09:55:05",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "437 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Firefighters responded to the Wishon Fire yesterday afternoon,...",
@@ -129,19 +168,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "5"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-16 09:49:16",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,542 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -181,19 +207,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "19"
-    },
-    {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
-      "state": "TEXAS",
-      "updated": "2022-08-16 09:18:37",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "50"
     },
     {
       "name": "Porphyry Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-15 19:24:40",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,650 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
