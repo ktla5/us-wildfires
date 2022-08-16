@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters responded to the Wishon Fire yesterday afternoon,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-16 11:56:45",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "350 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "5"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-16 11:43:29",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 11:41:23",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "470 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
       "state": "MONTANA",
-      "updated": "2022-08-16 11:35:37",
+      "updated": "2022-08-16 11:39:03",
       "lat": "48.977",
       "lng": "-114.748",
       "size": "1,626 Acres",
@@ -24,19 +63,6 @@
       "size": "5,542 Acres",
       "url": "/incident/8253/",
       "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-16 11:31:12",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "470 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
       "contained": "0"
     },
     {
@@ -155,32 +181,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "0"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters responded to the Wishon Fire yesterday afternoon,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-16 09:52:39",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "350 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "5"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Maps | Photos | Smoke Outlook | ClosuresOn Friday,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-16 09:42:49",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
     },
     {
       "name": "Moose Fire",
