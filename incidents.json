@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 08:34:24",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,088 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
       "name": "Pine Pond Fire",
       "type": "Wildfire",
       "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
@@ -414,19 +427,6 @@
       "size": "437 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 08:23:26",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,070 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
       "contained": "0"
     },
     {
