@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 14:28:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "78,084 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-08-16 14:16:52",
+      "updated": "2022-08-16 14:22:48",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-08-16 14:16:37",
+      "updated": "2022-08-16 14:22:15",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -207,19 +220,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
-      "state": "IDAHO",
-      "updated": "2022-08-16 09:22:56",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "78,084 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Six Rivers Lightning Complex",
