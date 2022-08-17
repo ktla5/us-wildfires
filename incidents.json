@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-17 12:55:24",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-17 12:51:57",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "796 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
@@ -12,19 +38,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "20"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-17 12:04:21",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "796 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "78"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-17 09:29:30",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
     },
     {
       "name": "Wolf Fang Fire",
