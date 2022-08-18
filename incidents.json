@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-17 23:09:36",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "23,159 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "23"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
+      "state": "IDAHO",
+      "updated": "2022-08-17 22:54:44",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "82,874 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-17 22:44:43",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "943 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak and Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-17 22:18:18",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-17 22:07:07",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,836 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "Firefighters are conducting extended attack on the Four Corners...",
       "state": "IDAHO",
-      "updated": "2022-08-17 21:38:44",
+      "updated": "2022-08-17 21:44:11",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "3,500 Acres",
@@ -170,19 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-17 18:08:52",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "796 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
-    },
-    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning in July in the Indian...",
@@ -261,32 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-17 13:39:16",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-17 13:39:05",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,836 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Garceau Fire",
       "type": "Wildfire",
       "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
@@ -324,32 +350,6 @@
       "url": "/incident/8332/",
       "id": "8332",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-17 13:03:38",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "23,159 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "23"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
-      "state": "IDAHO",
-      "updated": "2022-08-17 11:05:36",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "78,084 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Sutton Fire",
