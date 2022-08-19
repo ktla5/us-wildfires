@@ -5,13 +5,39 @@
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-08-19 11:39:07",
+      "updated": "2022-08-19 12:11:21",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "551 Acres",
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "25"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 12:02:53",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "86,102 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-19 11:53:24",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "95"
     },
     {
       "name": "Sugarloaf Fire",
@@ -339,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-19 00:23:29",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "95"
-    },
-    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -376,19 +389,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
-      "state": "IDAHO",
-      "updated": "2022-08-18 22:20:44",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "86,102 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Oak Post-Fire BAER",
