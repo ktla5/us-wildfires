@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-19 11:39:07",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "551 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "25"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "The Sugarloaf Fire was declared 100% contained on August 17,...",
+      "state": "WYOMING",
+      "updated": "2022-08-19 11:33:51",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "100"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 11:22:09",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "325 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "65"
+    },
+    {
+      "name": "Bills Creek ",
+      "type": "Wildfire",
+      "summary": "At approximately 8:30pm on August 17th, Texas A &amp; M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-08-19 11:18:58",
+      "lat": "32.603",
+      "lng": "-98.586",
+      "size": "35 Acres",
+      "url": "/incident/8342/",
+      "id": "8342",
+      "contained": "35"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 11:16:46",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 11:00:13",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "5,560 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -66,32 +144,6 @@
       "contained": "67"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 10:23:36",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 10:22:49",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "5,560 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
@@ -116,19 +168,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Bills Creek ",
-      "type": "Wildfire",
-      "summary": "At approximately 8:30pm on August 17th, Texas A &amp; M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-08-19 09:43:05",
-      "lat": "32.603",
-      "lng": "-98.586",
-      "size": "30 Acres",
-      "url": "/incident/8342/",
-      "id": "8342",
-      "contained": "90"
     },
     {
       "name": "Diamond Watch Fire",
@@ -235,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 09:11:34",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "325 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "65"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -337,19 +363,6 @@
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "20"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-18 23:53:09",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "551 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "25"
     },
     {
       "name": "Cedar Creek Fire",
@@ -558,19 +571,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "100"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 60%Significant moisture was...",
-      "state": "WYOMING",
-      "updated": "2022-08-12 08:42:04",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "60"
     },
     {
       "name": "VANTAGE HIGHWAY",
