@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Wagner Road",
+      "type": "Wildfire",
+      "summary": "   St John, WA - The Wagner Road Fire is located 13 miles west of...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-19 18:51:24",
+      "lat": "47.1",
+      "lng": "-117.805",
+      "size": "4,000 Acres",
+      "url": "/incident/8344/",
+      "id": "8344",
+      "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 18:44:16",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "325 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "65"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-19 18:33:56",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "5,618 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "08AUG22 - As fire behavior on the Clover Fire continues on a downward...",
+      "state": "MONTANA",
+      "updated": "2022-08-19 18:26:35",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,103 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "53"
+    },
+    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -24,19 +76,6 @@
       "size": "572 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Wagner Road",
-      "type": "Wildfire",
-      "summary": "   St John, WA - The Wagner Road Fire is located 13 miles west of...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-19 18:07:39",
-      "lat": "47.1",
-      "lng": "-117.805",
-      "size": "4,000 Acres",
-      "url": "/incident/8344/",
-      "id": "8344",
       "contained": "0"
     },
     {
@@ -103,19 +142,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "67"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-19 16:48:04",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "5,618 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Lake Creek Fire",
@@ -311,19 +337,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "0"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 12:43:27",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "325 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "65"
     },
     {
       "name": "Norton Fire",
@@ -545,19 +558,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "90"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "08AUG22 - As fire behavior on the Clover Fire continues on a downward...",
-      "state": "MONTANA",
-      "updated": "2022-08-15 12:01:54",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,103 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "51"
     },
     {
       "name": "MOHR",
