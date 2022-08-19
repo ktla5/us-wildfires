@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak and Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-19 17:27:31",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-19 16:48:20",
+      "updated": "2022-08-19 16:56:56",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "25,399 Acres",
@@ -466,19 +479,6 @@
       "size": "4,425 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak and Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-19 08:34:41",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
       "contained": "0"
     },
     {
