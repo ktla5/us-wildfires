@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-19 16:09:09",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "5,618 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -24,19 +37,6 @@
       "size": "323 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-19 14:55:45",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "5,618 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
