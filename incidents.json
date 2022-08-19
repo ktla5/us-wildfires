@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-08-19 15:25:47",
+      "updated": "2022-08-19 15:51:11",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "121 Acres",
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "20"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 15:37:37",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "323 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -24,19 +37,6 @@
       "size": "5,618 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 14:51:20",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "323 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
       "contained": "0"
     },
     {
