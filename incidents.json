@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
       "state": "IDAHO",
-      "updated": "2022-08-20 09:34:37",
+      "updated": "2022-08-20 09:50:27",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "5,560 Acres",
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-20 09:48:15",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "325 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "75"
     },
     {
       "name": "Moose Fire",
@@ -51,19 +64,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-20 08:55:22",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "325 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "75"
     },
     {
       "name": "Cedar Creek Fire",
