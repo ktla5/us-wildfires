@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-20 16:22:27",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,832 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "81"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-20 16:19:48",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,163 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Henderson Fire",
+      "type": "Wildfire",
+      "summary": "Jack County requested support for a fire estimated at 100 acres in...",
+      "state": "TEXAS",
+      "updated": "2022-08-20 16:19:34",
+      "lat": "33.114",
+      "lng": "-97.991",
+      "size": "0 Acres",
+      "url": "/incident/8346/",
+      "id": "8346",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-20 16:11:26",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,603 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-20 16:04:20",
+      "lat": "41.819",
+      "lng": "-122.812",
+      "size": "0 Acres",
+      "url": "/incident/8345/",
+      "id": "8345",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "ADVISORY Operations has determined the need to conduct tactical...",
@@ -14,19 +79,6 @@
       "contained": "34"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-20 15:48:39",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,832 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "81"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 860 firefighters and support personnel are working on the Cedar...",
@@ -37,19 +89,6 @@
       "size": "6,528 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-20 15:42:12",
-      "lat": "41.819",
-      "lng": "-122.812",
-      "size": "0 Acres",
-      "url": "/incident/8345/",
-      "id": "8345",
       "contained": "0"
     },
     {
@@ -90,19 +129,6 @@
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "29"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 14:00:34",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,603 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
@@ -194,19 +220,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-20 12:27:56",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,163 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "Bills Creek Fire",
