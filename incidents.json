@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
+      "state": "IDAHO",
+      "updated": "2022-08-20 15:50:01",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "89,344 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-20 15:48:39",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,832 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "81"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 860 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-20 15:47:31",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "6,528 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-20 15:20:52",
+      "updated": "2022-08-20 15:42:12",
       "lat": "41.819",
       "lng": "-122.812",
       "size": "0 Acres",
@@ -141,32 +180,6 @@
       "size": "1,020 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-20 12:40:33",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,832 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "81"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-20 12:37:44",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "6,528 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -376,19 +389,6 @@
       "url": "/incident/8326/",
       "id": "8326",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " ADVISORY Last night the fire continued to progress toward Panther...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 10:21:53",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "89,344 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Wagner Road",
