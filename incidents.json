@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-21 11:35:15",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "96"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-21 10:50:54",
+      "updated": "2022-08-21 11:32:14",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "25,832 Acres",
@@ -14,24 +27,37 @@
       "contained": "81"
     },
     {
-      "name": "Weasel Fire",
+      "name": "Quartz Fire",
       "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
       "state": "MONTANA",
-      "updated": "2022-08-21 10:50:28",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,023 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "20"
+      "updated": "2022-08-21 11:30:48",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,255 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-21 11:28:44",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "35"
     },
     {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "ADVISORY Operations has determined the need to conduct tactical...",
       "state": "IDAHO",
-      "updated": "2022-08-21 10:36:47",
+      "updated": "2022-08-21 10:58:48",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "92,219 Acres",
@@ -40,17 +66,43 @@
       "contained": "34"
     },
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 10:56:31",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,822 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-21 10:27:42",
+      "updated": "2022-08-21 10:54:46",
       "lat": "41.819",
       "lng": "-122.895",
       "size": "60,138 Acres",
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-21 10:52:08",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,023 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "20"
     },
     {
       "name": "Hog Trough Fire",
@@ -118,19 +170,6 @@
       "contained": "98"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-21 09:15:14",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,822 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
-    },
-    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
@@ -154,19 +193,6 @@
       "size": "600 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 08:52:27",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,255 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
       "contained": "0"
     },
     {
@@ -261,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-21 00:58:57",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "96"
-    },
-    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -298,19 +311,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "65"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
-      "state": "MONTANA",
-      "updated": "2022-08-20 22:39:14",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "35"
     },
     {
       "name": "Black Post-Fire BAER",
