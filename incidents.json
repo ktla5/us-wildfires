@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
-      "state": "IDAHO",
-      "updated": "2022-08-21 15:50:34",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "92,219 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 780 firefighters and support personnel are working on the Cedar...",
       "state": "OREGON",
-      "updated": "2022-08-21 15:32:24",
+      "updated": "2022-08-21 16:21:08",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "6,472 Acres",
@@ -27,11 +14,24 @@
       "contained": "0"
     },
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-21 16:18:56",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "614 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "65"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
       "state": "OREGON",
-      "updated": "2022-08-21 14:55:54",
+      "updated": "2022-08-21 16:16:08",
       "lat": "43.363",
       "lng": "-122.052",
       "size": "1,007 Acres",
@@ -40,17 +40,30 @@
       "contained": "96"
     },
     {
-      "name": "Potter Fire",
+      "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-21 14:54:58",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "614 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "65"
+      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 16:09:02",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "92,219 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-21 16:04:04",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "4,425 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -544,19 +557,6 @@
       "size": "5,000 Acres",
       "url": "/incident/8339/",
       "id": "8339",
-      "contained": "0"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-19 08:55:08",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "4,425 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
       "contained": "0"
     },
     {
