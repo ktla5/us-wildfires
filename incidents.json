@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Wagner Road",
+      "type": "Wildfire",
+      "summary": " St John, WA - The Wagner Road Fire is located 12 miles west of St....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-21 09:50:10",
+      "lat": "47.086",
+      "lng": "-117.857",
+      "size": "7,381 Acres",
+      "url": "/incident/8344/",
+      "id": "8344",
+      "contained": "80"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-21 09:48:56",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,832 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "81"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -170,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-21 08:23:47",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,832 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "81"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
@@ -259,19 +272,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Wagner Road",
-      "type": "Wildfire",
-      "summary": " St John, WA - The Wagner Road Fire is located 12 miles west of St....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-20 21:03:23",
-      "lat": "47.086",
-      "lng": "-117.857",
-      "size": "7,381 Acres",
-      "url": "/incident/8344/",
-      "id": "8344",
-      "contained": "80"
     },
     {
       "name": "Black Post-Fire BAER",
