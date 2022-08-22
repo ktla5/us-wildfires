@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": " The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-22 15:36:40",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "75"
+    },
+    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -350,19 +363,6 @@
       "url": "/incident/8339/",
       "id": "8339",
       "contained": "40"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
-      "state": "MONTANA",
-      "updated": "2022-08-22 08:59:43",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "35"
     },
     {
       "name": "Wagner Road",
