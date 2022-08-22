@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 12:51:37",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "27,019 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 12:51:01",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,493 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 12:50:48",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,986 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "4"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
-      "summary": " Summary to",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
       "state": "OREGON",
-      "updated": "2022-08-22 12:25:40",
+      "updated": "2022-08-22 12:49:06",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "360 Acres",
       "url": "/incident/8348/",
       "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-22 12:47:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,012 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-22 12:40:29",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "96"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 12:29:24",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "763 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
       "contained": "0"
     },
     {
@@ -27,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 12:23:57",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,986 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "4"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -53,32 +118,6 @@
       "contained": "1"
     },
     {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 12:19:44",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "763 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-22 12:12:25",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,012 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -89,32 +128,6 @@
       "size": "1,705 Acres",
       "url": "/incident/8258/",
       "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 11:57:07",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "27,019 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 11:25:41",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,493 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
       "contained": "0"
     },
     {
@@ -181,19 +194,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-22 10:56:31",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "96"
     },
     {
       "name": "McKinney Fire",
