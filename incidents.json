@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 18:50:44",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "27,019 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 18:49:14",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,678 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Yeti Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 18:38:37",
+      "lat": "41.818",
+      "lng": "-123.228",
+      "size": "0 Acres",
+      "url": "/incident/8347/",
+      "id": "8347",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 18:37:57",
+      "lat": "41.819",
+      "lng": "-122.812",
+      "size": "0 Acres",
+      "url": "/incident/8345/",
+      "id": "8345",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 18:29:41",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "328 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "Valley Fire",
       "type": "Wildfire",
       "summary": "The Valley Fire started at approximately 11:45 A.M in the vicinity of...",
@@ -25,19 +90,6 @@
       "url": "/incident/8326/",
       "id": "8326",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 18:23:06",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "27,019 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Norton Fire",
@@ -79,32 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Yeti Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 16:41:35",
-      "lat": "41.818",
-      "lng": "-123.228",
-      "size": "0 Acres",
-      "url": "/incident/8347/",
-      "id": "8347",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 16:41:04",
-      "lat": "41.819",
-      "lng": "-122.812",
-      "size": "0 Acres",
-      "url": "/incident/8345/",
-      "id": "8345",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -129,19 +155,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "75"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 15:21:50",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "White River ",
@@ -324,19 +337,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "36"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 10:58:03",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,678 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
