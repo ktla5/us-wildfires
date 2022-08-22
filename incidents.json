@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 09:14:13",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,986 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "4"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": " Summary to",
       "state": "OREGON",
-      "updated": "2022-08-22 08:44:54",
+      "updated": "2022-08-22 09:09:50",
       "lat": "42.641",
       "lng": "-123.628",
-      "size": "360 Acres",
+      "size": "260 Acres",
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-22 08:59:43",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "35"
+    },
+    {
+      "name": "Wagner Road",
+      "type": "Wildfire",
+      "summary": " St John, WA -  This is the final news release for the Wagner Road...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-22 08:59:21",
+      "lat": "47.036",
+      "lng": "-117.885",
+      "size": "7,381 Acres",
+      "url": "/incident/8344/",
+      "id": "8344",
+      "contained": "100"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 08:58:11",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,976 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "81"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "&amp;#183;No new map today as cloudy skies and thunderstorms preventing...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 08:51:26",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "1,824 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "&amp;#183;No map update for today as cloudy skies and thunderstorms...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 08:51:12",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "1,803 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-22 08:46:24",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,017 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
     },
     {
       "name": "Quartz Fire",
@@ -25,19 +116,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 08:26:36",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,976 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "81"
     },
     {
       "name": "Cedar Creek Fire",
@@ -77,32 +155,6 @@
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "0"
-    },
-    {
-      "name": "Wagner Road",
-      "type": "Wildfire",
-      "summary": " St John, WA - The Wagner Road Fire is located 12 miles west of St....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-22 07:34:08",
-      "lat": "47.036",
-      "lng": "-117.885",
-      "size": "7,381 Acres",
-      "url": "/incident/8344/",
-      "id": "8344",
-      "contained": "100"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 07:33:24",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,986 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "4"
     },
     {
       "name": "Potter Fire",
@@ -170,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-21 22:17:02",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "1,905 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -207,45 +246,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "36"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
-      "state": "MONTANA",
-      "updated": "2022-08-21 20:49:41",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "35"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "&amp;#183;No map update for today as cloudy skies and thunderstorms...",
-      "state": "IDAHO",
-      "updated": "2022-08-21 20:43:35",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,007 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "&amp;#183;No new map today as cloudy skies and thunderstorms preventing...",
-      "state": "IDAHO",
-      "updated": "2022-08-21 20:43:26",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "1,750 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
