@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 12:01:30",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,705 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-22 11:33:29",
+      "updated": "2022-08-22 11:57:07",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,019 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": " Summary to",
+      "state": "OREGON",
+      "updated": "2022-08-22 11:54:44",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "360 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
     },
     {
       "name": "Wolf Fang Fire",
@@ -183,19 +209,6 @@
       "contained": "1"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 10:28:06",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,705 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
@@ -246,19 +259,6 @@
       "url": "/incident/8339/",
       "id": "8339",
       "contained": "40"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": " Summary to",
-      "state": "OREGON",
-      "updated": "2022-08-22 09:09:50",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "260 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Sutton Fire",
