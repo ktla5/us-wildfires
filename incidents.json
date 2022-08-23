@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-23 14:44:50",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,310 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "20"
+    },
+    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -480,19 +493,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 13:45:59",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,150 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "20"
     },
     {
       "name": "Indian Ridge",
