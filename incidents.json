@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 15:46:14",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "27,408 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
       "state": "IDAHO",
-      "updated": "2022-08-23 15:15:01",
+      "updated": "2022-08-23 15:45:11",
       "lat": "48.636",
       "lng": "-117.065",
       "size": "813 Acres",
@@ -246,19 +259,6 @@
       "url": "/incident/8354/",
       "id": "8354",
       "contained": "10"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-23 10:51:49",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "27,408 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Dismal Fire",
