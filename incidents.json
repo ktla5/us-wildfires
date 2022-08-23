@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 07:46:03",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,208 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-23 07:45:07",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,718 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-23 07:42:44",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,017 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
@@ -105,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 21:55:05",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,986 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
@@ -129,19 +155,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 21:36:30",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,705 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
@@ -298,19 +311,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "75"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-22 15:06:24",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,017 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Rum Creek Fire",
