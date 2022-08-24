@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-24 08:41:11",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,696 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-24 08:39:59",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "180 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick Fire (lightning-caused) on the Salmon-Challis National...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:36:10",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,737 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:33:03",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,308 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:13:08",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,445 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "38"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-23 23:47:17",
+      "updated": "2022-08-24 08:12:51",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,413 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 07:58:00",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,208 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-24 07:52:28",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "676 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -64,19 +155,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "98"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 22:32:41",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,208 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "White River ",
@@ -209,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 19:56:18",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "95,520 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "38"
-    },
-    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -232,19 +297,6 @@
       "size": "328 Acres",
       "url": "/incident/8330/",
       "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-23 17:04:20",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "265 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
       "contained": "0"
     },
     {
@@ -326,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-23 10:58:01",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,678 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Sullivan Fire",
       "type": "Wildfire",
       "summary": "Sullivan Fire UpdateStart Date: August 22, 2022 Cause: Under...",
@@ -417,32 +456,6 @@
       "contained": "55"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick Fire (lightning-caused) on the Salmon-Challis National...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 09:30:29",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,737 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire (lightning-caused) started on August 1st, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 09:30:22",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,266 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Final Daily Update (pdf)    |     Final Fire Map (pdf)    ...",
@@ -454,19 +467,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "95"
-    },
-    {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-23 08:57:18",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "170 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
