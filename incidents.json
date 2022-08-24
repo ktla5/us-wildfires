@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 14:16:25",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,445 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "38"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 14:15:31",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,308 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-24 14:12:39",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,230 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
@@ -131,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-24 12:34:54",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,230 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
@@ -220,19 +246,6 @@
       "url": "/incident/8350/",
       "id": "8350",
       "contained": "76"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 11:28:56",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,445 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "38"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -375,19 +388,6 @@
       "size": "1,836 Acres",
       "url": "/incident/8284/",
       "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 09:31:09",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,308 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
       "contained": "0"
     },
     {
