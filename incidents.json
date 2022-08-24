@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:57:32",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,308 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-24 08:53:31",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "27,635 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:48:12",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,497 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:46:28",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,737 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
       "state": "MONTANA",
-      "updated": "2022-08-24 08:41:11",
+      "updated": "2022-08-24 08:42:43",
       "lat": "48.854",
       "lng": "-114.025",
       "size": "1,696 Acres",
@@ -27,32 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick Fire (lightning-caused) on the Salmon-Challis National...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:36:10",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,737 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:33:03",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,308 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
@@ -64,19 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "38"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-24 08:12:51",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "27,413 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Four Corners Fire",
@@ -401,19 +414,6 @@
       "size": "1,833 Acres",
       "url": "/incident/8284/",
       "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 10:38:02",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,495 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
       "contained": "0"
     },
     {
