@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-24 09:20:33",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "676 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-24 09:05:03",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "180 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:58:50",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,497 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 08:58:39",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,737 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-08-24 08:57:32",
+      "updated": "2022-08-24 08:58:15",
       "lat": "44.857",
       "lng": "-114.927",
       "size": "1,308 Acres",
@@ -27,32 +79,6 @@
       "contained": "80"
     },
     {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:48:12",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,497 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:46:28",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,737 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
@@ -63,19 +89,6 @@
       "size": "1,696 Acres",
       "url": "/incident/8337/",
       "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-24 08:39:59",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "180 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
       "contained": "0"
     },
     {
@@ -103,19 +116,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "11"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-24 07:52:28",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "676 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Big Swamp",
