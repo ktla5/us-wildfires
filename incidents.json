@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 16:50:06",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,474 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -558,19 +571,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "53"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 11:12:15",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,474 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Wagner Road",
