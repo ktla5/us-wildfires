@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-26 10:27:02",
+      "updated": "2022-08-26 10:51:46",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,113 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 10:29:27",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -63,19 +76,6 @@
       "size": "328 Acres",
       "url": "/incident/8330/",
       "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 10:18:10",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
