@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 14:34:09",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "832 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "44"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
@@ -102,19 +115,6 @@
       "size": "175 Acres",
       "url": "/incident/8351/",
       "id": "8351",
-      "contained": "0"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 13:20:37",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "832 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
       "contained": "0"
     },
     {
