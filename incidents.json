@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 09:24:07",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,751 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-26 09:24:06",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "190 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "East Fire",
+      "type": "Wildfire",
+      "summary": "East Fire:  The East Fire was reported at approximately 1:40pm on...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 09:23:26",
+      "lat": "34.24",
+      "lng": "-117.855",
+      "size": "149 Acres",
+      "url": "/incident/8359/",
+      "id": "8359",
+      "contained": "20"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 09:05:12",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,502 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 08:58:11",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,965 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 08:58:11",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,681 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "41"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
@@ -38,45 +116,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "18"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 08:55:02",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,681 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "41"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 08:53:59",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,965 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 08:53:19",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,502 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
@@ -443,19 +482,6 @@
       "contained": "95"
     },
     {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-25 08:31:03",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "190 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
-      "contained": "0"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
@@ -466,19 +492,6 @@
       "size": "1,308 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 07:39:40",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,738 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
