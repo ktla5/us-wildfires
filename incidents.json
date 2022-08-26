@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Potter Fire",
+      "name": "Sutton Fire",
       "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "summary": " Great progress has been made by firefighters and crews managing the...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 12:49:54",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "95"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
       "state": "OREGON",
-      "updated": "2022-08-26 12:31:47",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "94"
+      "updated": "2022-08-26 12:47:46",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "1,256 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
     },
     {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
       "state": "MONTANA",
-      "updated": "2022-08-26 12:30:32",
+      "updated": "2022-08-26 12:40:28",
       "lat": "45.784",
       "lng": "-114.711",
       "size": "5,965 Acres",
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 12:36:25",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "28,113 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-26 12:34:43",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "94"
     },
     {
       "name": "Cedar Creek Fire",
@@ -38,32 +77,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-26 12:28:32",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "1,256 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 12:25:14",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "28,113 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Crockets Knob Fire",
@@ -519,19 +532,6 @@
       "url": "/incident/8347/",
       "id": "8347",
       "contained": "0"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": " Great progress has been made by firefighters and crews managing the...",
-      "state": "MONTANA",
-      "updated": "2022-08-24 09:51:56",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "95"
     },
     {
       "name": "Bear Gulch Fire",
