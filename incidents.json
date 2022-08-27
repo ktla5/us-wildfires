@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-27 11:47:56",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "10,179 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "18"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
@@ -38,19 +51,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-27 11:21:06",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "10,179 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "18"
     },
     {
       "name": "Big Swamp",
