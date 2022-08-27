@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 21:34:17",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "28,984 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 21:33:31",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "9,201 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "18"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-08-26 20:25:21",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "1,000 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Russell Mountain",
+      "type": "Wildfire",
+      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 20:17:23",
+      "lat": "48.788",
+      "lng": "-116.571",
+      "size": "19 Acres",
+      "url": "/incident/8360/",
+      "id": "8360",
+      "contained": "0"
+    },
+    {
+      "name": "Trout Fire",
+      "type": "Wildfire",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 20:16:32",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "13 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
+      "contained": "0"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 20:12:41",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "780 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Fire crews complete fire line construction on the south and southwest...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 20:10:08",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,103 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "10"
+    },
+    {
+      "name": "Wagner Road",
+      "type": "Wildfire",
+      "summary": " St John, WA -  This is the final news release for the Wagner Road...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-26 18:53:49",
+      "lat": "47.036",
+      "lng": "-117.885",
+      "size": "7,381 Acres",
+      "url": "/incident/8344/",
+      "id": "8344",
+      "contained": "100"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
@@ -12,19 +116,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 18:02:54",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "28,904 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Cannon Fire",
@@ -66,19 +157,6 @@
       "contained": "98"
     },
     {
-      "name": "Russell Mountain",
-      "type": "Wildfire",
-      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 15:24:34",
-      "lat": "48.788",
-      "lng": "-116.571",
-      "size": "19 Acres",
-      "url": "/incident/8360/",
-      "id": "8360",
-      "contained": "0"
-    },
-    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
@@ -92,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 15:22:40",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "773 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
@@ -115,19 +180,6 @@
       "size": "1,045 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-08-26 14:49:42",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "1,000 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
       "contained": "0"
     },
     {
@@ -274,19 +326,6 @@
       "contained": "94"
     },
     {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Fire crews complete fire line construction on the south and southwest...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 12:00:38",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,044 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
@@ -324,19 +363,6 @@
       "url": "/incident/8357/",
       "id": "8357",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 10:19:06",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "9,201 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "18"
     },
     {
       "name": "Dismal Fire",
@@ -467,19 +493,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Trout Fire",
-      "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 17:21:46",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "13 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
-      "contained": "0"
     },
     {
       "name": "Weasel Fire",
@@ -623,19 +636,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "53"
-    },
-    {
-      "name": "Wagner Road",
-      "type": "Wildfire",
-      "summary": " St John, WA -  This is the final news release for the Wagner Road...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-22 08:59:21",
-      "lat": "47.036",
-      "lng": "-117.885",
-      "size": "7,381 Acres",
-      "url": "/incident/8344/",
-      "id": "8344",
-      "contained": "100"
     },
     {
       "name": "Pine Pond Fire",
