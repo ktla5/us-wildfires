@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-28 13:30:09",
+      "updated": "2022-08-28 13:53:07",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "30,775 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 13:34:46",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,821 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
     },
     {
       "name": "White River ",
@@ -207,19 +220,6 @@
       "url": "/incident/8360/",
       "id": "8360",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 10:25:47",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,821 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Quartz Fire",
