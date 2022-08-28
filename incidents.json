@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 15:44:07",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "30,775 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
       "name": "Russell Mountain",
       "type": "Wildfire",
       "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
@@ -38,19 +51,6 @@
       "url": "/incident/8356/",
       "id": "8356",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 15:23:23",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "30,775 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Calf Canyon",
