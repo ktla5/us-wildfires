@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 12:47:12",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,834 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 12:46:39",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,371 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-28 12:21:36",
+      "updated": "2022-08-28 12:44:33",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "30,775 Acres",
@@ -18,13 +44,13 @@
       "type": "Wildfire",
       "summary": "Containment has jumped to 70% today. The #EastFire and the Angeles...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-28 12:20:59",
+      "updated": "2022-08-28 12:41:16",
       "lat": "34.24",
       "lng": "-117.855",
       "size": "150 Acres",
       "url": "/incident/8359/",
       "id": "8359",
-      "contained": "93"
+      "contained": "80"
     },
     {
       "name": "Cedar Creek Fire",
@@ -194,32 +220,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 10:17:06",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,834 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 10:16:57",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,371 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
