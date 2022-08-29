@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-08-29 14:18:22",
+      "updated": "2022-08-29 14:29:09",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "11,752 Acres",
@@ -18,13 +18,13 @@
       "type": "Wildfire",
       "summary": "On Monday, August 29th, Texas A&amp;M Forest Service received a request...",
       "state": "TEXAS",
-      "updated": "2022-08-29 14:09:02",
+      "updated": "2022-08-29 14:20:08",
       "lat": "32.834",
       "lng": "-99.173",
       "size": "150 Acres",
       "url": "/incident/8361/",
       "id": "8361",
-      "contained": "30"
+      "contained": "50"
     },
     {
       "name": "Six Rivers Lightning Complex",
