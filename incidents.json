@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 06:49:53",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "6,063 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 06:46:53",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "816 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
+    },
+    {
+      "name": "Trout Fire",
+      "type": "Wildfire",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 06:46:25",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "21 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
+      "contained": "0"
+    },
+    {
+      "name": "Russell Mountain",
+      "type": "Wildfire",
+      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 06:46:01",
+      "lat": "48.788",
+      "lng": "-116.571",
+      "size": "123 Acres",
+      "url": "/incident/8360/",
+      "id": "8360",
+      "contained": "0"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
@@ -11,19 +63,6 @@
       "size": "1,859 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-08-30 06:34:58",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "6,063 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
@@ -206,32 +245,6 @@
       "size": "10,709 Acres",
       "url": "/incident/8348/",
       "id": "8348",
-      "contained": "0"
-    },
-    {
-      "name": "Russell Mountain",
-      "type": "Wildfire",
-      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
-      "state": "IDAHO",
-      "updated": "2022-08-29 18:48:16",
-      "lat": "48.788",
-      "lng": "-116.571",
-      "size": "66 Acres",
-      "url": "/incident/8360/",
-      "id": "8360",
-      "contained": "0"
-    },
-    {
-      "name": "Trout Fire",
-      "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
-      "state": "IDAHO",
-      "updated": "2022-08-29 18:47:55",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "16 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
       "contained": "0"
     },
     {
@@ -441,19 +454,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "44"
-    },
-    {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 15:24:45",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "793 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
