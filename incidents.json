@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 09:49:55",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-08-31 09:46:04",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "1,859 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-31 09:45:07",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 09:43:02",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "34,362 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "54"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
       "state": "IDAHO",
-      "updated": "2022-08-31 09:13:29",
+      "updated": "2022-08-31 09:34:31",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "99,232 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 09:27:55",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "2,083 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 09:27:45",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,518 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -79,19 +157,6 @@
       "contained": "1"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 07:55:55",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "34,362 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "54"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
@@ -118,19 +183,6 @@
       "contained": "35"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-30 23:40:42",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -155,19 +207,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-08-30 22:11:50",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "1,859 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "0"
     },
     {
       "name": "Russell Mountain",
@@ -261,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-08-30 18:05:40",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Sturgill",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -337,32 +363,6 @@
       "url": "/incident/8361/",
       "id": "8361",
       "contained": "100"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 09:44:49",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,518 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 09:36:21",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "2,083 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "Norton Fire",
