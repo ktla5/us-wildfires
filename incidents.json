@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 14:21:33",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "328 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
       "state": "OREGON",
-      "updated": "2022-08-31 13:55:42",
+      "updated": "2022-08-31 13:56:44",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "12,916 Acres",
@@ -596,19 +609,6 @@
       "size": "1,384 Acres",
       "url": "/incident/8326/",
       "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 17:46:14",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
       "contained": "0"
     },
     {
