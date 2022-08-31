@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 15:49:18",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "3,558 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 15:42:58",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "36,944 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "54"
+    },
+    {
+      "name": "McKinney Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 15:40:00",
+      "lat": "41.819",
+      "lng": "-122.812",
+      "size": "0 Acres",
+      "url": "/incident/8345/",
+      "id": "8345",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-31 15:33:10",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-08-31 15:23:59",
+      "updated": "2022-08-31 15:26:57",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "628 Acres",
@@ -209,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 12:35:51",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "36,944 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "54"
-    },
-    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -274,19 +313,6 @@
       "contained": "100"
     },
     {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 11:25:30",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
@@ -337,19 +363,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-31 09:45:07",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
     },
     {
       "name": "Four Corners Fire",
@@ -557,19 +570,6 @@
       "size": "0 Acres",
       "url": "/incident/8347/",
       "id": "8347",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 20:16:17",
-      "lat": "41.819",
-      "lng": "-122.812",
-      "size": "0 Acres",
-      "url": "/incident/8345/",
-      "id": "8345",
       "contained": "0"
     },
     {
