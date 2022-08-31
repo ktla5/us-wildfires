@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-08-31 13:55:42",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "12,916 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is 113 acres with 35% containment and is burning in...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 13:34:16",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "113 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "35"
+    },
+    {
       "name": "Nebo",
       "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23.  The...",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-08-31 13:29:23",
+      "updated": "2022-08-31 13:30:13",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "800 Acres",
@@ -40,19 +66,6 @@
       "contained": "15"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-08-31 13:25:30",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "12,916 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
       "name": "Patrol Point",
       "type": "Wildfire",
       "summary": "The Patrol Point Fire is moving downhill to the west towards the main...",
@@ -64,19 +77,6 @@
       "url": "/incident/8357/",
       "id": "8357",
       "contained": "0"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is 113 acres with 35% containment and is burning in...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 13:18:10",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "113 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "35"
     },
     {
       "name": "Sturgill",
