@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23.  The...",
+      "state": "OREGON",
+      "updated": "2022-08-31 12:48:18",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "800 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -25,19 +38,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "54"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23.  The...",
-      "state": "OREGON",
-      "updated": "2022-08-31 12:34:46",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "800 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
     },
     {
       "name": "Sturgill",
