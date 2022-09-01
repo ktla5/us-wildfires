@@ -5,12 +5,38 @@
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-09-01 13:54:38",
+      "updated": "2022-09-01 15:26:02",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "4,815 Acres",
       "url": "/incident/8364/",
       "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-01 15:25:41",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,086 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-01 14:59:15",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
       "contained": "0"
     },
     {
@@ -25,19 +51,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-01 12:50:31",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "1,500 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -180,19 +193,6 @@
       "size": "1,701 Acres",
       "url": "/incident/8258/",
       "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-01 10:54:57",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,086 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
