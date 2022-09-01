@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 12:06:09",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,644 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 12:06:01",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "3,558 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-01 12:04:09",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "3,404 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 11:56:07",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "12,817 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "41"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-01 11:52:00",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "14,940 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "1"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
@@ -196,32 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 10:08:10",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "12,817 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "41"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-01 10:00:26",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "3,404 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
@@ -233,32 +272,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 09:46:04",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,644 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 09:45:33",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -298,19 +311,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "96"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-01 09:34:37",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "14,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "1"
     },
     {
       "name": "Blackburn Fire",
