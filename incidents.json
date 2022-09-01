@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-01 13:17:25",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "4,815 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-09-01 13:06:21",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "8,817 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
@@ -12,19 +38,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-09-01 12:45:42",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "8,817 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Rum Creek Fire",
@@ -63,19 +76,6 @@
       "size": "25 Acres",
       "url": "/incident/8371/",
       "id": "8371",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-01 12:26:57",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "4,815 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -1327,19 +1327,6 @@
       "contained": "0"
     },
     {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, near Moors...",
-      "state": "MONTANA",
-      "updated": "2022-07-26 09:46:59",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "98 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "100"
-    },
-    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service was requested to a fire approximately 9...",
@@ -1428,19 +1415,6 @@
       "size": "5,989 Acres",
       "url": "/incident/8210/",
       "id": "8210",
-      "contained": "100"
-    },
-    {
-      "name": "Jellison Fire",
-      "type": "Wildfire",
-      "summary": "The Jellison Fire was reported the evening of July 12. Fire is...",
-      "state": "MONTANA",
-      "updated": "2022-07-18 17:17:14",
-      "lat": "46.696",
-      "lng": "-110.082",
-      "size": "5 Acres",
-      "url": "/incident/8227/",
-      "id": "8227",
       "contained": "100"
     },
     {
