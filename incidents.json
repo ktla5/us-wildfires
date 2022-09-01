@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 18:51:04",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "200 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "0"
+    },
+    {
+      "name": "Katka Fire",
+      "type": "Wildfire",
+      "summary": "The Katka Fire was confirmed on September 1, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 18:49:25",
+      "lat": "48.637",
+      "lng": "-116.167",
+      "size": "35 Acres",
+      "url": "/incident/8373/",
+      "id": "8373",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-01 18:36:53",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,086 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-01 18:36:12",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "4,815 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-01 18:27:09",
+      "updated": "2022-09-01 18:34:20",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "12,817 Acres",
@@ -18,7 +70,7 @@
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
       "state": "MONTANA",
-      "updated": "2022-09-01 18:26:27",
+      "updated": "2022-09-01 18:32:03",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "1,701 Acres",
@@ -196,19 +248,6 @@
       "contained": "44"
     },
     {
-      "name": "Katka Fire",
-      "type": "Wildfire",
-      "summary": "The Katka Fire was confirmed on September 1, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 17:21:24",
-      "lat": "48.637",
-      "lng": "-116.167",
-      "size": "35 Acres",
-      "url": "/incident/8373/",
-      "id": "8373",
-      "contained": "0"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
@@ -298,32 +337,6 @@
       "url": "/incident/8362/",
       "id": "8362",
       "contained": "45"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-01 15:34:45",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "4,815 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-01 15:25:41",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,086 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
     },
     {
       "name": "Double Creek Fire",
@@ -466,19 +479,6 @@
       "size": "6,117 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 09:12:02",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "200 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
       "contained": "0"
     },
     {
