@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-01 12:50:31",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-09-01 12:45:42",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "8,817 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
@@ -37,19 +63,6 @@
       "size": "25 Acres",
       "url": "/incident/8371/",
       "id": "8371",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-01 12:27:10",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "1,500 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
@@ -207,19 +220,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-09-01 10:43:42",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "8,817 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Crockets Knob Fire",
