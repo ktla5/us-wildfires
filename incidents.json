@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
       "state": "OREGON",
-      "updated": "2022-09-01 08:32:43",
+      "updated": "2022-09-01 08:55:31",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "14,940 Acres",
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "1"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 08:43:51",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "12,817 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "41"
     },
     {
       "name": "White River ",
@@ -25,19 +38,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 07:39:23",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "12,817 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "41"
     },
     {
       "name": "Woodtick Fire",
