@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-01 23:30:41",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "4,815 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-01 23:30:19",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,086 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-01 23:29:52",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Route Fire",
+      "type": "Wildfire",
+      "summary": "The Route Fire is 5,208-acres (approx. 330-acres on Forest Service...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 23:17:05",
+      "lat": "34.497",
+      "lng": "-118.616",
+      "size": "5,208 Acres",
+      "url": "/incident/8369/",
+      "id": "8369",
+      "contained": "27"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 22:56:14",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "12,817 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The fire is 1944 acres and 10% complete. The fire saw increased fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 22:33:07",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "0 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "0"
+    },
+    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
       "state": "WASHINGTON",
-      "updated": "2022-09-01 21:37:23",
+      "updated": "2022-09-01 22:30:31",
       "lat": "47.885",
       "lng": "-120.917",
       "size": "3,404 Acres",
@@ -14,17 +92,43 @@
       "contained": "1"
     },
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-01 22:14:28",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "14,940 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "1"
+    },
+    {
       "name": "East Fire",
       "type": "Wildfire",
       "summary": "As of September 1st, the East Fire is 150 acres with 93% containment....",
       "state": "CALIFORNIA",
-      "updated": "2022-09-01 21:34:44",
+      "updated": "2022-09-01 21:45:51",
       "lat": "34.24",
       "lng": "-117.855",
       "size": "150 Acres",
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "93"
+    },
+    {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 21:44:45",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "225 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "3"
     },
     {
       "name": "Bear Gulch Fire",
@@ -102,45 +206,6 @@
       "size": "35 Acres",
       "url": "/incident/8373/",
       "id": "8373",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-01 21:22:02",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "1,500 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-01 21:21:34",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "4,815 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-01 21:21:16",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,086 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
@@ -272,32 +337,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "96"
-    },
-    {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 18:51:04",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "200 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
-      "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 18:34:20",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "12,817 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "41"
     },
     {
       "name": "Hog Trough Fire",
@@ -482,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-01 12:34:33",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "14,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "1"
-    },
-    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
@@ -506,19 +532,6 @@
       "url": "/incident/8333/",
       "id": "8333",
       "contained": "0"
-    },
-    {
-      "name": "Route Fire",
-      "type": "Wildfire",
-      "summary": "The Route Fire is 5,208-acres (approx. 100-acres on Forest Service...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 11:04:08",
-      "lat": "34.497",
-      "lng": "-118.616",
-      "size": "5,200 Acres",
-      "url": "/incident/8369/",
-      "id": "8369",
-      "contained": "12"
     },
     {
       "name": "Cerro Pelado",
