@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-02 15:25:26",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "3,575 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-02 15:25:22",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "96"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire started by lightning on Wednesday August...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-02 15:16:42",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "0 Acres",
+      "url": "/incident/8376/",
+      "id": "8376",
+      "contained": "0"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": " The Sutton fire held at 108 acres and is 95% contained. The...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 15:11:33",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "95"
+    },
+    {
+      "name": "Scotch Fire",
+      "type": "Wildfire",
+      "summary": "The Scotch Fire was confirmed September 1, 2022. It is located in the...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 15:08:30",
+      "lat": "48.789",
+      "lng": "-116.48",
+      "size": "15 Acres",
+      "url": "/incident/8374/",
+      "id": "8374",
+      "contained": "0"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -51,19 +116,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
-    },
-    {
-      "name": "Scotch Fire",
-      "type": "Wildfire",
-      "summary": "The Scotch Fire was confirmed September 1, 2022. It is located in the...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 14:23:20",
-      "lat": "48.789",
-      "lng": "-116.48",
-      "size": "15 Acres",
-      "url": "/incident/8374/",
-      "id": "8374",
-      "contained": "0"
     },
     {
       "name": "Nebo",
@@ -196,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-02 13:15:48",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "3,575 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -285,19 +324,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "64"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire started by lightning on Wednesday August...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-02 10:58:19",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "0 Acres",
-      "url": "/incident/8376/",
-      "id": "8376",
-      "contained": "0"
     },
     {
       "name": "Porphyry Fire",
@@ -402,19 +428,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-09-02 09:59:12",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "96"
     },
     {
       "name": "Indian Ridge",
@@ -831,19 +844,6 @@
       "url": "/incident/8266/",
       "id": "8266",
       "contained": "0"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": " The Sutton fire is currently 108 acres with minimal fire activity...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 13:51:12",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "95"
     },
     {
       "name": "Thor",
