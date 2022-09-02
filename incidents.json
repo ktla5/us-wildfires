@@ -5,13 +5,52 @@
       "type": "Wildfire",
       "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
       "state": "MONTANA",
-      "updated": "2022-09-02 12:39:57",
+      "updated": "2022-09-02 12:51:07",
       "lat": "45.627",
       "lng": "-114.951",
       "size": "109 Acres",
       "url": "/incident/8377/",
       "id": "8377",
       "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-02 12:48:30",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "16,940 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "12"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 12:42:13",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 12:41:35",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
     },
     {
       "name": "Double Creek Fire",
@@ -27,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 12:30:59",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -51,19 +77,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 12:30:42",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Solomon Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8332/",
       "id": "8332",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-02 11:55:00",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "16,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "12"
     },
     {
       "name": "Sturgill",
