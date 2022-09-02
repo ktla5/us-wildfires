@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The Patrol Point Fire is established in the base of the...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 10:51:38",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "1,378 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 10:51:32",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "101,269 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "No Infrared is available from last night.  An aerial recon...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 10:51:11",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "2,005 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 10:49:36",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "39,721 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "64"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is currently 113 acres in size with 85% containment....",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 10:35:54",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "113 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "85"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 10:34:44",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-02 10:28:31",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "3,575 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "The fire has seen no western or southern growth in size over the past...",
@@ -27,19 +118,6 @@
       "contained": "100"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-02 10:20:26",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "3,575 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "East Fire",
       "type": "Wildfire",
       "summary": "The East Fire is currently 150 acres with 93% containment. Due to the...",
@@ -51,19 +129,6 @@
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "93"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is currently 113 acres in size with 85% containment....",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-02 10:16:23",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "113 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "85"
     },
     {
       "name": "Hog Trough Fire",
@@ -235,19 +300,6 @@
       "contained": "16"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 09:34:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "101,269 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -391,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 21:27:44",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "39,721 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "64"
-    },
-    {
       "name": "Scotch Fire",
       "type": "Wildfire",
       "summary": "The Scotch Fire was confirmed September 1, 2022. It is located in the...",
@@ -495,32 +534,6 @@
       "contained": "99"
     },
     {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "No Infrared is available from last night, but one is expected for...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 18:16:09",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "1,876 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The Patrol Point Fire continues to move downhill through...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 18:13:46",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "735 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
       "name": "Ursus Fire",
       "type": "Wildfire",
       "summary": "The Ursus Fire was detected on 8/31/2022. It is burning on the south...",
@@ -610,19 +623,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-01 10:25:20",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "Valley Fire",
