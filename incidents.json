@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-03 16:37:25",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,136 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "10"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
       "state": "OREGON",
-      "updated": "2022-09-03 16:36:08",
+      "updated": "2022-09-03 16:49:56",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "18,385 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
       "state": "WASHINGTON",
-      "updated": "2022-09-03 16:30:48",
+      "updated": "2022-09-03 16:47:21",
       "lat": "48.819",
       "lng": "-117.168",
       "size": "329 Acres",
       "url": "/incident/8343/",
       "id": "8343",
       "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-03 16:39:40",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,136 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "10"
     },
     {
       "name": "Windigo Fire",
