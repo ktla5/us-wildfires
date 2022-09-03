@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-03 18:21:36",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "3,843 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 18:19:01",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,913 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 18:18:47",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "5,087 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:01:32",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:01:22",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "2 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:00:41",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "358 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
@@ -219,19 +297,6 @@
       "size": "1,287 Acres",
       "url": "/incident/8365/",
       "id": "8365",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-03 13:08:14",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "3,843 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
@@ -469,19 +534,6 @@
       "contained": "0"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-03 09:04:41",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,926 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
@@ -492,19 +544,6 @@
       "size": "6,360 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-03 09:03:18",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "5,085 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -597,45 +636,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:07:23",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:02:42",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:01:28",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "2 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
