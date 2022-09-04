@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:34:27",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-04 11:31:18",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "4,285 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-04 10:49:12",
+      "updated": "2022-09-04 11:30:15",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "41,178 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "64"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:28:22",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "18,966 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "27"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:27:37",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "3,864 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:26:56",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,839 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "25"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "No Infrared imagery available from last night.  Yesterday’s wind...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:26:14",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "2,136 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire is 3094 acres and 10% complete. Fire behavior is...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:05:51",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "0 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:03:34",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,715 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
     },
     {
       "name": "Solomon Fire",
@@ -92,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-04 10:26:31",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "4,285 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": "On Thursday, September 1, 2022, ground, and air resources responded...",
@@ -116,19 +207,6 @@
       "url": "/incident/8379/",
       "id": "8379",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-04 10:19:25",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,715 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Thor",
@@ -300,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-04 09:44:31",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
-    },
-    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire started by lightning on Wednesday August...",
@@ -350,19 +415,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "34"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-04 08:05:44",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "18,768 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "27"
     },
     {
       "name": "East Fire",
@@ -547,19 +599,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire is 3094 acres and 10% complete. Fire behavior is...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 15:42:34",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "0 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "0"
-    },
-    {
       "name": "McBride Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
@@ -570,19 +609,6 @@
       "size": "0 Acres",
       "url": "/incident/8080/",
       "id": "8080",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 12:24:50",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "2,136 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
       "contained": "0"
     },
     {
@@ -597,32 +623,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "98"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 11:55:09",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "2,678 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 11:21:41",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,831 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "15"
     },
     {
       "name": "Hog Trough Fire",
