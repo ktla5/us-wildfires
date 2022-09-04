@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-09-04 15:49:27",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 15:36:57",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "9,421 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": " The Boulder Mountain Fire started by lightning on Wednesday August...",
       "state": "WASHINGTON",
-      "updated": "2022-09-04 15:25:32",
+      "updated": "2022-09-04 15:27:52",
       "lat": "48.468",
       "lng": "-117.493",
       "size": "1,400 Acres",
@@ -453,19 +479,6 @@
       "size": "52 Acres",
       "url": "/incident/8373/",
       "id": "8373",
-      "contained": "0"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:14:34",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "9,421 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
       "contained": "0"
     },
     {
@@ -1194,19 +1207,6 @@
       "size": "0 Acres",
       "url": "/incident/8118/",
       "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-08-10 15:03:22",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
       "contained": "0"
     },
     {
