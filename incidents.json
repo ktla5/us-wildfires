@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": " The Boulder Mountain Fire started by lightning on Wednesday August...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-04 15:25:32",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,400 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
