@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:59:19",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,490 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:58:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "103,922 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:58:31",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "37,862 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:51:57",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "629 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "96"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:50:55",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:49:47",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "18,966 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "27"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:46:21",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,839 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "25"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-04 11:44:43",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,715 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "Yesterday’s Red Flag Warning event was less significant than...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:41:36",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "3,864 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -40,45 +157,6 @@
       "contained": "64"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:28:22",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "18,966 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "27"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 11:27:37",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "3,864 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 11:26:56",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,839 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "25"
-    },
-    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": "No Infrared imagery available from last night.  Yesterday’s wind...",
@@ -105,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:03:34",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,715 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
@@ -142,19 +207,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "15"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:41:36",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "102,103 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Twist Creek ",
@@ -313,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-09-04 09:56:16",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
-    },
-    {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
       "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
@@ -391,32 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-09-04 09:33:09",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "629 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "96"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 09:25:01",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,490 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "34"
-    },
-    {
       "name": "East Fire",
       "type": "Wildfire",
       "summary": "The East Fire is currently 150 acres with 97% containment. Fire crews...",
@@ -441,19 +454,6 @@
       "url": "/incident/8362/",
       "id": "8362",
       "contained": "95"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-03 23:31:53",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "23,650 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
     },
     {
       "name": "Goat Mountain 2 Fire",
