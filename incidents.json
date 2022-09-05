@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 14:20:13",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "4,745 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
       "state": "MONTANA",
-      "updated": "2022-09-05 13:47:49",
+      "updated": "2022-09-05 14:19:37",
       "lat": "48.087",
       "lng": "-115.826",
       "size": "608 Acres",
@@ -583,19 +596,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 13:44:20",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "4,400 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
       "contained": "0"
     },
     {
