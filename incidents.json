@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-04 23:56:41",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "12,121 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -427,19 +440,6 @@
       "size": "1,568 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-04 14:21:40",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "8,600 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
