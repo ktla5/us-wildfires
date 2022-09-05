@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-05 15:50:13",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "7,277 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 15:48:31",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-05 15:45:32",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-05 15:44:40",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 15:42:15",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,568 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 15:42:08",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "6,398 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 15:41:59",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "2,546 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-05 15:35:38",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "12,121 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
       "state": "OREGON",
-      "updated": "2022-09-05 15:26:02",
+      "updated": "2022-09-05 15:32:35",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "43,668 Acres",
@@ -51,19 +155,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "73"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-05 14:49:01",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "Four Corners Fire",
@@ -141,19 +232,6 @@
       "size": "10,780 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-05 13:21:04",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "12,121 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -352,19 +430,6 @@
       "contained": "25"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-05 10:49:54",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "7,277 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
@@ -415,45 +480,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "20"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:16:17",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "2,546 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:16:09",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "6,398 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:15:56",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,568 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -792,32 +818,6 @@
       "url": "/incident/7852/",
       "id": "7852",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 17:46:43",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 17:41:23",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Weasel Fire",
