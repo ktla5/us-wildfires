@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "North Camas Fire",
+      "type": "Wildfire",
+      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 14:50:01",
+      "lat": "48.726",
+      "lng": "-113.858",
+      "size": "8 Acres",
+      "url": "/incident/8387/",
+      "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 14:49:01",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-05 14:40:29",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "43,668 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -219,19 +258,6 @@
       "size": "0 Acres",
       "url": "/incident/8384/",
       "id": "8384",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-05 11:44:27",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "43,668 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
@@ -700,19 +726,6 @@
       "size": "52 Acres",
       "url": "/incident/8373/",
       "id": "8373",
-      "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-04 10:11:51",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
       "contained": "0"
     },
     {
