@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 00:31:52",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "200 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
@@ -25,19 +38,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 this afternoon by a Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-05 23:33:31",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "200 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
     },
     {
       "name": "Boulder Mountain Fire",
