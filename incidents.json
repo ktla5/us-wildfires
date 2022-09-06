@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Four lightning-caused fires are active across North Cascades National...",
       "state": "WASHINGTON",
-      "updated": "2022-09-06 14:34:56",
+      "updated": "2022-09-06 14:51:31",
       "lat": "48.916",
       "lng": "-121.413",
       "size": "3,700 Acres",
@@ -18,12 +18,25 @@
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-06 14:31:15",
+      "updated": "2022-09-06 14:50:31",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "7,277 Acres",
       "url": "/incident/8363/",
       "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 14:47:21",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "450 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
       "contained": "0"
     },
     {
@@ -77,19 +90,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "34"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 14:06:08",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "450 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
     },
     {
       "name": "Trail Ridge Fire",
