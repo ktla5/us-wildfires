@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 17:49:29",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,645 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "45"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-06 17:48:15",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "1,824 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Cedar Creek Fire Daily Operations Video: ...",
       "state": "OREGON",
-      "updated": "2022-09-06 17:17:42",
+      "updated": "2022-09-06 17:37:59",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "18,143 Acres",
@@ -64,19 +90,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 16:16:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,645 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "45"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -311,19 +324,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-06 11:58:42",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "1,580 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
     },
     {
       "name": "Margaret Fire",
