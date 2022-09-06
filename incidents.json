@@ -1,16 +1,55 @@
 {
   "markers": [
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 08:45:43",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "14,800 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "4"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-06 07:10:16",
+      "updated": "2022-09-06 08:37:35",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,645 Acres",
       "url": "/incident/8331/",
       "id": "8331",
+      "contained": "34"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 08:30:15",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "4,540 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-06 08:22:48",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "20,029 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
       "contained": "34"
     },
     {
@@ -38,19 +77,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-05 23:50:30",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "19,945 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "34"
     },
     {
       "name": "Cedar Creek Fire",
@@ -129,19 +155,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-05 22:29:43",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "4,407 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Sturgill Fire",
@@ -599,19 +612,6 @@
       "contained": "25"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire is 5450 acres and 5% contained. Fire behavior...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:41:29",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "6,010 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "4"
-    },
-    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -976,19 +976,6 @@
       "contained": "53"
     },
     {
-      "name": "Mudpass Fire",
-      "type": "Wildfire",
-      "summary": "On Monday, August 29th, Texas A&amp;M Forest Service received a request...",
-      "state": "TEXAS",
-      "updated": "2022-08-30 10:03:07",
-      "lat": "32.834",
-      "lng": "-99.173",
-      "size": "294 Acres",
-      "url": "/incident/8361/",
-      "id": "8361",
-      "contained": "100"
-    },
-    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Final Daily Update (pdf)    |     Final Fire Map (pdf)    ...",
@@ -1130,19 +1117,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Henderson Fire",
-      "type": "Wildfire",
-      "summary": "Jack County requested support for a fire estimated at 100 acres in...",
-      "state": "TEXAS",
-      "updated": "2022-08-20 19:56:24",
-      "lat": "33.114",
-      "lng": "-97.991",
-      "size": "110 Acres",
-      "url": "/incident/8346/",
-      "id": "8346",
-      "contained": "100"
     },
     {
       "name": "Elmo Fire",
@@ -1338,19 +1312,6 @@
       "url": "/incident/8315/",
       "id": "8315",
       "contained": "0"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 12:55:32",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "235 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "100"
     },
     {
       "name": "Pine Peak Fire",
