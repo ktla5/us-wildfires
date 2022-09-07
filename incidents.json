@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "White River ",
+      "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 16:18:08",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "4,540 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
+      "summary": "The Mosquito Fire is burning north of Oxbow Reservoir in brush and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-07 16:51:23",
+      "lat": "39.01",
+      "lng": "-120.719",
+      "size": "1,203 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-07 16:51:18",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "20,029 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "42"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-07 16:50:26",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "18,143 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "George Lake Fire",
+      "type": "Wildfire",
+      "summary": "The George Lake Fire was detected on September 6th, 2022. It is...",
+      "state": "MONTANA",
+      "updated": "2022-09-07 16:49:25",
+      "lat": "47.378",
+      "lng": "-113.48",
+      "size": "1 Acres",
+      "url": "/incident/8399/",
+      "id": "8399",
+      "contained": "0"
     },
     {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "A community meeting will be held on Wednesday, September 7 at 6 p.m....",
       "state": "IDAHO",
-      "updated": "2022-09-07 16:16:44",
+      "updated": "2022-09-07 16:48:52",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "28,874 Acres",
@@ -27,16 +66,81 @@
       "contained": "2"
     },
     {
-      "name": "Mosquito Fire",
+      "name": "Dean Creek Fire",
       "type": "Wildfire",
-      "summary": "The Mosquito Fire is burning north of Oxbow Reservoir in brush and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-07 16:16:16",
-      "lat": "39.01",
-      "lng": "-120.719",
-      "size": "1,203 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-07 16:48:50",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "483 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
+      "state": "MONTANA",
+      "updated": "2022-09-07 16:48:38",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "1,066 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 16:43:53",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "5,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-07 16:43:35",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "1,824 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 16:35:55",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "4,540 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Suiattle River Fire",
+      "type": "Wildfire",
+      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 16:28:12",
+      "lat": "48.311",
+      "lng": "-121.392",
+      "size": "0 Acres",
+      "url": "/incident/8396/",
+      "id": "8396",
       "contained": "0"
     },
     {
@@ -51,19 +155,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-07 16:11:57",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "20,029 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "42"
     },
     {
       "name": "Four Corners Fire",
@@ -183,19 +274,6 @@
       "contained": "44"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 14:43:45",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "5,197 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
@@ -300,32 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-07 12:40:43",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "18,143 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
-      "state": "MONTANA",
-      "updated": "2022-09-07 12:29:34",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "1,066 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -391,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-07 11:27:32",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "1,824 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
-    },
-    {
       "name": "Aspen",
       "type": "Wildfire",
       "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
@@ -454,19 +493,6 @@
       "url": "/incident/8391/",
       "id": "8391",
       "contained": "15"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-07 11:08:31",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "483 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "Margaret Fire",
@@ -635,19 +661,6 @@
       "size": "619 Acres",
       "url": "/incident/8379/",
       "id": "8379",
-      "contained": "0"
-    },
-    {
-      "name": "Suiattle River Fire",
-      "type": "Wildfire",
-      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-06 19:03:03",
-      "lat": "48.311",
-      "lng": "-121.392",
-      "size": "0 Acres",
-      "url": "/incident/8396/",
-      "id": "8396",
       "contained": "0"
     },
     {
