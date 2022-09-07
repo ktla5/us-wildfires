@@ -1,29 +1,55 @@
 {
   "markers": [
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 14:35:28",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,289 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
-    },
-    {
       "name": "North Camas Fire",
       "type": "Wildfire",
       "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
       "state": "MONTANA",
-      "updated": "2022-09-07 14:32:33",
+      "updated": "2022-09-07 14:47:50",
       "lat": "48.726",
       "lng": "-113.858",
       "size": "20 Acres",
       "url": "/incident/8387/",
       "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 14:44:02",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "107,523 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 14:43:45",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "5,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 14:42:03",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,289 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
       "contained": "0"
     },
     {
@@ -155,19 +181,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "42"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 13:26:10",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "5,197 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "Mosquito Fire",
@@ -480,19 +493,6 @@
       "url": "/incident/8383/",
       "id": "8383",
       "contained": "60"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 10:39:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "107,523 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Crockets Knob Fire",
