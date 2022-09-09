@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 15:52:35",
+      "lat": "46.643",
+      "lng": "-121.523",
+      "size": "150 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-09 15:52:31",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "11,688 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 15:51:57",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 15:50:55",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "18,715 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 15:49:08",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "137,179 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "The Tenmile and the Josephine fires have burned together and are...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 15:44:57",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "759 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 15:35:03",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,589 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
       "name": "Barnes ",
       "type": "Wildfire",
       "summary": "The Barnes Fire continued to be active this afternoon with fire...",
@@ -11,19 +102,6 @@
       "size": "4,043 Acres",
       "url": "/incident/8403/",
       "id": "8403",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 15:28:49",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,589 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -50,19 +128,6 @@
       "size": "537 Acres",
       "url": "/incident/8399/",
       "id": "8399",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-09 15:21:02",
-      "lat": "46.643",
-      "lng": "-121.523",
-      "size": "150 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
@@ -103,19 +168,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 15:05:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
     },
     {
       "name": "Jones Creek",
@@ -168,19 +220,6 @@
       "url": "/incident/8377/",
       "id": "8377",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-09 14:27:44",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "137,179 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Rum Creek Fire",
@@ -430,19 +469,6 @@
       "contained": "4"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-09 11:50:22",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,688 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Dean Creek Fire",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -573,19 +599,6 @@
       "contained": "100"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-09 10:57:00",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "18,715 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -609,19 +622,6 @@
       "size": "17,376 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "The Tenmile and the Josephine fires have burned together and are...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 10:45:16",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "759 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
       "contained": "0"
     },
     {
