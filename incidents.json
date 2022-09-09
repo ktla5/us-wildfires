@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 08:52:25",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,758 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "4"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 08:50:25",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-09 08:40:48",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "33,099 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 08:40:30",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "125,059 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "33"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 08:39:16",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "645 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "15"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 08:33:54",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "17,376 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-09 08:07:32",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "46"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Current Acres:27,319     Containment: 5%     Personnel...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 08:06:21",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "27,319 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "5"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 08:00:59",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,061 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
@@ -12,19 +129,6 @@
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Current Acres:23,919     Containment: 5%     Personnel...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 07:56:09",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "27,319 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "5"
     },
     {
       "name": "Mill Lake Fire",
@@ -51,19 +155,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 07:15:22",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
     },
     {
       "name": "Radford",
@@ -157,19 +248,6 @@
       "contained": "50"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-08 23:19:26",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,227 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "46"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -235,19 +313,6 @@
       "contained": "100"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 22:32:41",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "15,640 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
@@ -272,19 +337,6 @@
       "url": "/incident/8405/",
       "id": "8405",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-08 22:20:45",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "31,486 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
     },
     {
       "name": "Hermits Peak Fire",
@@ -365,19 +417,6 @@
       "contained": "16"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-08 21:57:27",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,328 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "6"
-    },
-    {
       "name": "Sawtell Peak",
       "type": "Wildfire",
       "summary": "This will be the final report for the Sawtell Peak Fire....",
@@ -389,32 +428,6 @@
       "url": "/incident/8383/",
       "id": "8383",
       "contained": "100"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 21:13:12",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "122,612 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "35"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-08 19:54:29",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "636 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "15"
     },
     {
       "name": "Williams Creek Fire",
@@ -688,19 +701,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-08 14:23:12",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,061 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
-      "contained": "0"
     },
     {
       "name": "Trail Ridge Fire",
