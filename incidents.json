@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 16:50:23",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "35,601 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 10, 2022 (this section lasted updated 10:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-10 16:49:26",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "33,754 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-10 16:46:54",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "1,587 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 16:44:07",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,712 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "81"
+    },
+    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-10 16:23:47",
+      "updated": "2022-09-10 16:32:42",
       "lat": "46.312",
       "lng": "-114.411",
       "size": "1,589 Acres",
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 16:25:24",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 16:24:43",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
     },
     {
       "name": "Moose Fire",
@@ -25,19 +103,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 10, 2022 (this section lasted updated 10:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 15:41:27",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "33,754 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
@@ -170,45 +235,6 @@
       "contained": "12"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-10 15:02:32",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-10 15:01:49",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 14:43:01",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "35,601 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Van Meter Fire",
       "type": "Wildfire",
       "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
@@ -235,19 +261,6 @@
       "contained": "55"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-10 13:43:23",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "1,587 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
       "name": "SR Lightning Complex BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -272,19 +285,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "59"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 13:17:01",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,712 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "81"
     },
     {
       "name": "Bull Gin Complex",
