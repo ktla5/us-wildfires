@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 10, 2022 (this section last updated 7:00 p.m.)The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 00:56:13",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "37,326 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-11 00:54:27",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "11,882 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 00:53:31",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "149,944 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 00:27:05",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "9,814 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
@@ -11,19 +63,6 @@
       "size": "5,339 Acres",
       "url": "/incident/8394/",
       "id": "8394",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-11 00:26:15",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,882 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
@@ -38,19 +77,6 @@
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 00:19:13",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "147,582 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Bolt Creek Fire",
@@ -76,19 +102,6 @@
       "size": "74,420 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 00:05:05",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "9,814 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
       "contained": "0"
     },
     {
@@ -285,19 +298,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "65"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 10, 2022 (this section last updated 7:00 p.m.)The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 21:37:21",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "37,326 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "0"
     },
     {
       "name": "Bear Gulch Fire",
