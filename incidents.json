@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 15:50:19",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "5,339 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Since September 5, 2022, Yosemite Fire and Aviation and partners have...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 15:42:05",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:36:41",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "69"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -12,19 +51,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-11 15:23:39",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "69"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Since September 5, 2022, Yosemite Fire and Aviation and partners have...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 15:15:03",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
     },
     {
       "name": "Washakie Park",
@@ -232,19 +245,6 @@
       "size": "2,842 Acres",
       "url": "/incident/8415/",
       "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 13:37:58",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "5,339 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
