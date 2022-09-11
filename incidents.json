@@ -1,14 +1,105 @@
 {
   "markers": [
     {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 08:37:15",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "667 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "30"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 08:36:16",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,076 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "10"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 08:31:24",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "41,443 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 08:31:02",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "126,252 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 08:30:00",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "12,956 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Seven Bays",
+      "type": "Wildfire",
+      "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 08:20:03",
+      "lat": "47.828",
+      "lng": "-118.323",
+      "size": "1,232 Acres",
+      "url": "/incident/8391/",
+      "id": "8391",
+      "contained": "86"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 08:16:24",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "36,717 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-11 07:48:24",
+      "updated": "2022-09-11 08:01:26",
       "lat": "43.726",
       "lng": "-122.167",
-      "size": "74,420 Acres",
+      "size": "85,926 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
@@ -25,45 +116,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "88"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 07:31:02",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "126,252 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 07:12:02",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "35,699 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 10, 2022 (this section last updated 7:00 p.m.)The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 00:56:13",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "37,326 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "0"
     },
     {
       "name": "Nebo Fire",
@@ -261,19 +313,6 @@
       "contained": "90"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 22:40:08",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "12,447 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
@@ -352,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-10 21:13:54",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,900 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "10"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -402,19 +428,6 @@
       "url": "/incident/8416/",
       "id": "8416",
       "contained": "0"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 19:59:16",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "660 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "30"
     },
     {
       "name": "Patrol Point",
@@ -701,19 +714,6 @@
       "url": "/incident/8393/",
       "id": "8393",
       "contained": "0"
-    },
-    {
-      "name": "Seven Bays",
-      "type": "Wildfire",
-      "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-10 10:06:13",
-      "lat": "47.828",
-      "lng": "-118.323",
-      "size": "1,232 Acres",
-      "url": "/incident/8391/",
-      "id": "8391",
-      "contained": "65"
     },
     {
       "name": "Windigo Fire",
