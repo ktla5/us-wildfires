@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "Sunrise Fire",
+      "name": "Sturgill Fire",
       "type": "Wildfire",
-      "summary": "On 11SEP22, at 1352, Dillon Interagency Dispatch received a...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 12:33:59",
-      "lat": "45.134",
-      "lng": "-111.785",
-      "size": "100 Acres",
-      "url": "/incident/8422/",
-      "id": "8422",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-12 12:53:41",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,774 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
       "contained": "0"
+    },
+    {
+      "name": "Suiattle River Fire",
+      "type": "Wildfire",
+      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 12:53:19",
+      "lat": "48.311",
+      "lng": "-121.392",
+      "size": "66 Acres",
+      "url": "/incident/8396/",
+      "id": "8396",
+      "contained": "0"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 12:51:51",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,061 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-12 12:49:05",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,365 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-12 12:44:06",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "155,297 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
     },
     {
       "name": "NW Pasayten Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
       "state": "WASHINGTON",
-      "updated": "2022-09-12 12:33:06",
+      "updated": "2022-09-12 12:38:39",
       "lat": "48.913",
       "lng": "-120.818",
       "size": "16,181 Acres",
@@ -27,11 +79,37 @@
       "contained": "0"
     },
     {
+      "name": "Sunrise Fire",
+      "type": "Wildfire",
+      "summary": "On 11SEP22, at 1352, Dillon Interagency Dispatch received a...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 12:38:26",
+      "lat": "45.134",
+      "lng": "-111.785",
+      "size": "100 Acres",
+      "url": "/incident/8422/",
+      "id": "8422",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 12:38:15",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "53"
+    },
+    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-12 12:32:44",
+      "updated": "2022-09-12 12:35:56",
       "lat": "46.312",
       "lng": "-114.411",
       "size": "1,608 Acres",
@@ -196,19 +274,6 @@
       "contained": "75"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-12 11:01:26",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,365 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
@@ -246,19 +311,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "21"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-12 10:49:09",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "155,297 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Patrol Point",
@@ -323,19 +375,6 @@
       "size": "1,713 Acres",
       "url": "/incident/8401/",
       "id": "8401",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-12 10:37:23",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,774 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -495,19 +534,6 @@
       "contained": "96"
     },
     {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 09:46:28",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "53"
-    },
-    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -610,19 +636,6 @@
       "url": "/incident/8391/",
       "id": "8391",
       "contained": "100"
-    },
-    {
-      "name": "Suiattle River Fire",
-      "type": "Wildfire",
-      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 21:41:58",
-      "lat": "48.311",
-      "lng": "-121.392",
-      "size": "66 Acres",
-      "url": "/incident/8396/",
-      "id": "8396",
-      "contained": "0"
     },
     {
       "name": "Jones Creek",
@@ -1013,19 +1026,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "99"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 14:38:20",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,061 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
-      "contained": "0"
     },
     {
       "name": "Blackburn Fire",
