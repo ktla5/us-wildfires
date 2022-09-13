@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-13 13:32:48",
+      "updated": "2022-09-13 13:52:27",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,612 Acres",
@@ -18,13 +18,26 @@
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located one and a half miles north of...",
       "state": "WASHINGTON",
-      "updated": "2022-09-13 13:31:09",
+      "updated": "2022-09-13 13:39:39",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "7,660 Acres",
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "2"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-13 13:37:29",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,548 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Rainbow",
@@ -323,19 +336,6 @@
       "size": "71 Acres",
       "url": "/incident/8387/",
       "id": "8387",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-13 11:47:37",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,548 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
