@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 15:51:47",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 15:38:04",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "49,761 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "18"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-13 15:35:14",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,642 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "60"
+    },
+    {
       "name": "Boulder Lake",
       "type": "Wildfire",
       "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
       "state": "MONTANA",
-      "updated": "2022-09-13 15:27:42",
+      "updated": "2022-09-13 15:31:55",
       "lat": "47.071",
       "lng": "-113.82",
       "size": "1,800 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-13 15:23:02",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,642 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "60"
     },
     {
       "name": "Kalama Fire",
@@ -92,19 +118,6 @@
       "contained": "16"
     },
     {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 15:05:52",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
-    },
-    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -116,19 +129,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "13"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 14:45:04",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "49,761 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "18"
     },
     {
       "name": "Cedar Creek Fire",
@@ -1650,19 +1650,6 @@
       "url": "/incident/8201/",
       "id": "8201",
       "contained": "0"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to a fire approximately 9...",
-      "state": "TEXAS",
-      "updated": "2022-07-25 20:13:52",
-      "lat": "30.856",
-      "lng": "-95.553",
-      "size": "1,896 Acres",
-      "url": "/incident/8250/",
-      "id": "8250",
-      "contained": "100"
     },
     {
       "name": "Stayman",
