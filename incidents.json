@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 18:55:19",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
@@ -12,19 +25,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 18:19:26",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
     },
     {
       "name": "Lemonade Fire",
