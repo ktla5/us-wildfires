@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Cedar Creek Fire",
+      "name": "Bolt Creek Fire",
       "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-13 14:37:38",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,548 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 14:48:34",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
     },
     {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-13 14:36:11",
+      "updated": "2022-09-13 14:47:44",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,612 Acres",
@@ -31,7 +31,7 @@
       "type": "Wildfire",
       "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-13 14:33:46",
+      "updated": "2022-09-13 14:45:04",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "49,761 Acres",
@@ -40,17 +40,30 @@
       "contained": "18"
     },
     {
-      "name": "Bolt Creek Fire",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-13 14:42:14",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,548 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
       "state": "WASHINGTON",
-      "updated": "2022-09-13 14:32:59",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
+      "updated": "2022-09-13 14:42:12",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
     },
     {
       "name": "Bull Gin Complex",
@@ -103,19 +116,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 14:10:17",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
     },
     {
       "name": "Rainbow",
