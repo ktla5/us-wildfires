@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-14 13:57:57",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "58,544 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 13:41:17",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "1,937 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -365,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 11:35:33",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "58,544 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
-    },
-    {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
@@ -518,19 +531,6 @@
       "size": "20,742 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 10:34:21",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "1,937 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
       "contained": "0"
     },
     {
