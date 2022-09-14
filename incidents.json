@@ -5,13 +5,52 @@
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-14 17:51:49",
+      "updated": "2022-09-14 18:27:23",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "157,088 Acres",
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "22"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "10SEPT22-Fire personnel took advantage of favorable weather...",
+      "state": "MONTANA",
+      "updated": "2022-09-14 18:26:31",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,225 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "70"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " COMMUNITY MEETING: Join us in person or virtually for a community...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 18:12:37",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,077 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "47"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-14 18:03:55",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
     },
     {
       "name": "Goat Rocks Fire",
@@ -51,19 +90,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "95"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-14 15:31:32",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Chilliwack Complex",
@@ -625,19 +651,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Join us in person or virtually for a community...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 09:27:44",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,077 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "47"
-    },
-    {
       "name": "Sunrise Fire",
       "type": "Wildfire",
       "summary": "CURRENT STATUS The Sunrise Fire is burning on the Madison District...",
@@ -935,19 +948,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "10SEPT22-Fire personnel took advantage of favorable weather...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 13:23:35",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,225 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "70"
     },
     {
       "name": "Seven Bays",
