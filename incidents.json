@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-14 18:55:59",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,036 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 18:55:39",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 18:55:01",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,036 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "49"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The PATROL POINT Fire is at 16,561 acres and is seeing most of its...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 18:54:26",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "16,561 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-14 18:44:02",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "667 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "90"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 18:32:29",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,731 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "19"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -66,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 17:02:33",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,731 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "19"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Today will be the last update on the Six Rivers Lightning Complex...",
@@ -129,19 +194,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "20"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 15:09:23",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
     },
     {
       "name": "Washakie Park",
@@ -313,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-14 12:11:23",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,036 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -375,19 +414,6 @@
       "size": "66 Acres",
       "url": "/incident/8396/",
       "id": "8396",
-      "contained": "0"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The PATROL POINT Fire is at 16,561 acres and is seeing most of its...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 12:07:12",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "16,561 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
       "contained": "0"
     },
     {
@@ -727,19 +753,6 @@
       "url": "/incident/8413/",
       "id": "8413",
       "contained": "60"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 21:23:27",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "667 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "90"
     },
     {
       "name": "George Lake Fire",
@@ -1091,19 +1104,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "40"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 16:49:25",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "957 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "49"
     },
     {
       "name": "Bear Trap Fire",
