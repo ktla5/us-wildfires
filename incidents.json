@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "Wednesday, September 14, 2022 (this section last updated 7:30...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-14 22:04:09",
+      "updated": "2022-09-14 23:26:34",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "63,776 Acres",
@@ -14,17 +14,69 @@
       "contained": "20"
     },
     {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 22:58:09",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "15,773 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 22:27:54",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-14 22:23:55",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
       "name": "NW Pasayten Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
       "state": "WASHINGTON",
-      "updated": "2022-09-14 22:01:10",
+      "updated": "2022-09-14 22:11:47",
       "lat": "48.913",
       "lng": "-120.818",
       "size": "16,573 Acres",
       "url": "/incident/8397/",
       "id": "8397",
       "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 22:07:59",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
     },
     {
       "name": "Cedar Creek Fire",
@@ -287,19 +339,6 @@
       "contained": "49"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 18:59:48",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
@@ -337,19 +376,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "95"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 15:14:40",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
     },
     {
       "name": "Washakie Park",
@@ -415,19 +441,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-14 14:15:55",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "81"
     },
     {
       "name": "Van Meter Fire",
@@ -544,19 +557,6 @@
       "size": "54 Acres",
       "url": "/incident/8411/",
       "id": "8411",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 11:24:26",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "15,773 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
       "contained": "0"
     },
     {
