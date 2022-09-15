@@ -1,37 +1,11 @@
 {
   "markers": [
     {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "Travel Alert – Washington State Route 20 Closed in Both...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-15 14:22:36",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-15 14:22:11",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,596 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "Thursday, September 15, 2022 (this section last updated 7:30 AM)Fire...",
+      "summary": "Thursday, September 15, 2022 (this section last updated 12:30 PM)Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-15 14:21:43",
+      "updated": "2022-09-15 14:50:18",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "64,159 Acres",
@@ -40,11 +14,63 @@
       "contained": "20"
     },
     {
+      "name": "Washakie Park",
+      "type": "Wildfire",
+      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
+      "state": "WYOMING",
+      "updated": "2022-09-15 14:50:16",
+      "lat": "42.989",
+      "lng": "-109.138",
+      "size": "2,464 Acres",
+      "url": "/incident/8418/",
+      "id": "8418",
+      "contained": "70"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "Travel Alert – Washington State Route 20 Closed in Both...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 14:47:25",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "No Grass Creek Fire",
+      "type": "Wildfire",
+      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
+      "state": "MONTANA",
+      "updated": "2022-09-15 14:42:06",
+      "lat": "46.373",
+      "lng": "-112.473",
+      "size": "1,145 Acres",
+      "url": "/incident/8421/",
+      "id": "8421",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-15 14:39:51",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,596 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
       "state": "MONTANA",
-      "updated": "2022-09-15 14:18:33",
+      "updated": "2022-09-15 14:29:42",
       "lat": "48.087",
       "lng": "-115.826",
       "size": "3,673 Acres",
@@ -57,7 +83,7 @@
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
       "state": "WASHINGTON",
-      "updated": "2022-09-15 14:18:05",
+      "updated": "2022-09-15 14:28:02",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "9,440 Acres",
@@ -651,19 +677,6 @@
       "contained": "95"
     },
     {
-      "name": "Washakie Park",
-      "type": "Wildfire",
-      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
-      "state": "WYOMING",
-      "updated": "2022-09-14 14:35:11",
-      "lat": "42.989",
-      "lng": "-109.138",
-      "size": "2,515 Acres",
-      "url": "/incident/8418/",
-      "id": "8418",
-      "contained": "40"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -753,19 +766,6 @@
       "url": "/incident/8371/",
       "id": "8371",
       "contained": "80"
-    },
-    {
-      "name": "No Grass Creek Fire",
-      "type": "Wildfire",
-      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
-      "state": "MONTANA",
-      "updated": "2022-09-14 10:49:14",
-      "lat": "46.373",
-      "lng": "-112.473",
-      "size": "1,003 Acres",
-      "url": "/incident/8421/",
-      "id": "8421",
-      "contained": "0"
     },
     {
       "name": "Sunrise Fire",
