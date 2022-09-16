@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-16 14:25:22",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "93,427 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Six Rivers Lightning ComplexFire Information Line: (707)...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-16 14:25:16",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,560 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "97"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-16 14:20:31",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "535 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 14:18:42",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,003 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-16 14:16:52",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,036 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-16 14:10:20",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
+      "name": "Boulder Lake",
+      "type": "Wildfire",
+      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 14:09:30",
+      "lat": "47.071",
+      "lng": "-113.82",
+      "size": "1,831 Acres",
+      "url": "/incident/8395/",
+      "id": "8395",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 14:06:12",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Friday, September 16, 2022 (this section last updated 11:30...",
@@ -12,45 +116,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "20"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-16 13:58:47",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 13:58:02",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,003 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 13:57:44",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,427 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Double Creek Fire",
@@ -66,32 +131,6 @@
       "contained": "27"
     },
     {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 13:52:40",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Lake",
-      "type": "Wildfire",
-      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 13:46:38",
-      "lat": "47.071",
-      "lng": "-113.82",
-      "size": "1,831 Acres",
-      "url": "/incident/8395/",
-      "id": "8395",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
@@ -103,19 +142,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " The new team would like to continue updates so they will continue a...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-16 13:43:02",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,560 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "97"
     },
     {
       "name": "North Camas Fire",
@@ -544,32 +570,6 @@
       "size": "16,084 Acres",
       "url": "/incident/8372/",
       "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-16 10:28:23",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,036 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-16 10:27:29",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "535 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
       "contained": "0"
     },
     {
