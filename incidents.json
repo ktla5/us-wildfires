@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "No Grass Creek Fire",
+      "type": "Wildfire",
+      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 12:53:58",
+      "lat": "46.373",
+      "lng": "-112.473",
+      "size": "1,145 Acres",
+      "url": "/incident/8421/",
+      "id": "8421",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 12:45:27",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " The new team would like to continue updates so they will continue a...",
@@ -25,19 +51,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "20"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 12:40:54",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -610,19 +623,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "No Grass Creek Fire",
-      "type": "Wildfire",
-      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 22:03:09",
-      "lat": "46.373",
-      "lng": "-112.473",
-      "size": "1,145 Acres",
-      "url": "/incident/8421/",
-      "id": "8421",
-      "contained": "0"
     },
     {
       "name": "Lemonade Fire",
