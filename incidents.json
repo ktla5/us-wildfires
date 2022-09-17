@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 14:20:47",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "71,292 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "21"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "At this time during the fire, personnel and heavy equipment are in...",
@@ -12,19 +25,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "83"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 13:39:53",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "71,292 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
     },
     {
       "name": "Yosemite September Lightning",
