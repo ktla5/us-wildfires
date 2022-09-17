@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "At this time during the fire, personnel and heavy equipment are in...",
+      "state": "OREGON",
+      "updated": "2022-09-17 13:33:27",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Yosemite September Lightning (updated Friday, September 16, 2022)...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 13:31:45",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 13:26:46",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "71,292 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "21"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-17 13:18:24",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "110,361 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-17 13:01:57",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-17 12:58:41",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "224 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Bear Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Gulch Fire was lightning caused and detected on August 18th,...",
+      "state": "IDAHO",
+      "updated": "2022-09-17 12:55:39",
+      "lat": "47.624",
+      "lng": "-115.714",
+      "size": "144 Acres",
+      "url": "/incident/8349/",
+      "id": "8349",
+      "contained": "0"
+    },
+    {
       "name": "Blackburn Fire",
       "type": "Wildfire",
       "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
@@ -12,19 +103,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "10"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "At this time during the fire, personnel and heavy equipment are in...",
-      "state": "OREGON",
-      "updated": "2022-09-17 12:50:39",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
     },
     {
       "name": "Columbus Fire",
@@ -50,19 +128,6 @@
       "size": "1,294 Acres",
       "url": "/incident/8393/",
       "id": "8393",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-17 12:45:12",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -103,19 +168,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "74"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 12:17:01",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "71,292 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
     },
     {
       "name": "Nebo Fire",
@@ -196,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-17 11:43:48",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "224 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
@@ -220,19 +259,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-17 11:36:08",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "110,361 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Ross Fork",
@@ -716,19 +742,6 @@
       "contained": "0"
     },
     {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite September Lightning (updated Friday, September 16, 2022)...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-16 09:52:37",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
-    },
-    {
       "name": "Rodgers Fire",
       "type": "Wildfire",
       "summary": "Rodgers Fire update, September 16, 2022, 7:30am &amp;#183;Further updated...",
@@ -960,19 +973,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Bear Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Gulch Fire was lightning caused and detected on August 18th,...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 20:59:57",
-      "lat": "47.624",
-      "lng": "-115.714",
-      "size": "144 Acres",
-      "url": "/incident/8349/",
-      "id": "8349",
       "contained": "0"
     },
     {
