@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-17 12:05:34",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,185 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "27"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 12:05:30",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "71,292 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "21"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-17 12:04:49",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,036 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
+      "state": "IDAHO",
+      "updated": "2022-09-17 12:04:41",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-17 12:03:27",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "535 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in remote, steep...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-17 11:49:39",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "17,998 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-17 11:43:48",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "224 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-17 11:40:10",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,305 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "74"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
@@ -12,19 +116,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-17 11:36:18",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "17,998 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -53,32 +144,6 @@
       "contained": "41"
     },
     {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-17 11:29:49",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "208 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 11:29:38",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "71,292 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
-    },
-    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning-caused fires burning in remote, steep...",
@@ -105,19 +170,6 @@
       "contained": "42"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-17 11:08:27",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "535 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
@@ -142,32 +194,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-17 10:50:43",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,036 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-17 10:46:57",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,185 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "27"
     },
     {
       "name": "Nebo Fire",
@@ -285,32 +311,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 09:39:37",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-17 09:35:00",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,305 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "74"
     },
     {
       "name": "Moose Fire",
