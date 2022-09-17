@@ -5,13 +5,26 @@
       "type": "Wildfire",
       "summary": "At this time during the fire, personnel and heavy equipment are in...",
       "state": "OREGON",
-      "updated": "2022-09-17 13:33:27",
+      "updated": "2022-09-17 13:41:13",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "21,347 Acres",
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "83"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 13:39:53",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "71,292 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "21"
     },
     {
       "name": "Yosemite September Lightning",
@@ -25,19 +38,6 @@
       "url": "/incident/8419/",
       "id": "8419",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 13:26:46",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "71,292 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
     },
     {
       "name": "Cedar Creek Fire",
