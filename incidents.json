@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday crews on the Owl fire identified minimal heat or...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 18:52:49",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "53"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Sunday, September 18, 2022 (this section last updated 3:00 PM)Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-18 18:27:23",
+      "updated": "2022-09-18 18:50:41",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "74,748 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "34"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Firefighting crews along Stormy Peak Road will be working both...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 18:46:55",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,092 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "51"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 18:37:22",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,795 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "44"
+    },
+    {
+      "name": "Sunrise Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT STATUS The Sunrise Fire reached 100% containment 18...",
+      "state": "MONTANA",
+      "updated": "2022-09-18 18:34:14",
+      "lat": "45.134",
+      "lng": "-111.785",
+      "size": "174 Acres",
+      "url": "/incident/8422/",
+      "id": "8422",
+      "contained": "100"
     },
     {
       "name": "Four Corners Fire",
@@ -38,19 +90,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "71"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 17:29:26",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,792 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
     },
     {
       "name": "Mill Lake Fire",
@@ -352,19 +391,6 @@
       "contained": "74"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Firefighting crews along Stormy Peak Road will be working both...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 10:34:52",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,092 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "51"
-    },
-    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -376,19 +402,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday crews on the Owl fire identified minimal heat or...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 09:42:31",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "53"
     },
     {
       "name": "Yosemite September Lightning",
@@ -818,19 +831,6 @@
       "url": "/incident/8413/",
       "id": "8413",
       "contained": "80"
-    },
-    {
-      "name": "Sunrise Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT STATUS The Sunrise Fire is burning on the Madison District...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 16:11:30",
-      "lat": "45.134",
-      "lng": "-111.785",
-      "size": "174 Acres",
-      "url": "/incident/8422/",
-      "id": "8422",
-      "contained": "50"
     },
     {
       "name": "Washakie Park",
