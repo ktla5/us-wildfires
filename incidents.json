@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "At this time during the fire, personnel and heavy equipment are in...",
+      "state": "OREGON",
+      "updated": "2022-09-18 13:49:00",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
       "name": "Rainbow",
       "type": "Wildfire",
       "summary": "The Rainbow Fire is located at the top of Brundage Mountain in the...",
@@ -363,19 +376,6 @@
       "url": "/incident/8416/",
       "id": "8416",
       "contained": "53"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "At this time during the fire, personnel and heavy equipment are in...",
-      "state": "OREGON",
-      "updated": "2022-09-18 09:06:07",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
     },
     {
       "name": "Four Corners Fire",
