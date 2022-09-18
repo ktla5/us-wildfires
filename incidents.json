@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Six Rivers Lightning ComplexSeptember 18, 2022 UPDATE The Six Rivers...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-18 10:55:06",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,591 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "97"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in remote, steep...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-18 10:54:52",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "7,388 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-18 10:28:41",
+      "updated": "2022-09-18 10:49:27",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "112,287 Acres",
@@ -14,24 +40,24 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
+      "name": "Bull Gin Complex",
       "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 10:25:56",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,792 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
+      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
+      "state": "MONTANA",
+      "updated": "2022-09-18 10:40:52",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "3,824 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
     },
     {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
       "state": "WASHINGTON",
-      "updated": "2022-09-18 10:25:40",
+      "updated": "2022-09-18 10:37:09",
       "lat": "48.468",
       "lng": "-117.493",
       "size": "2,305 Acres",
@@ -40,17 +66,30 @@
       "contained": "74"
     },
     {
-      "name": "Six Rivers Lightning Complex",
+      "name": "Ross Fork",
       "type": "Wildfire",
-      "summary": "Six Rivers Lightning ComplexSeptember 17, 2022 UPDATEThe Six Rivers...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-18 10:25:14",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,591 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "97"
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 10:35:51",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,792 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "44"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Firefighting crews along Stormy Peak Road will be working both...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 10:34:52",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,092 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "51"
     },
     {
       "name": "Trail Ridge Fire",
@@ -79,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
-      "state": "MONTANA",
-      "updated": "2022-09-18 10:20:43",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "3,824 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Sunday, September 18, 2022 (this section last updated 7:30 AM)Fire...",
@@ -103,19 +129,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "34"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Firefighting crews along Stormy Peak Road will be working both...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 09:44:34",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,092 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "51"
     },
     {
       "name": "Owl Fire",
@@ -336,19 +349,6 @@
       "size": "1,294 Acres",
       "url": "/incident/8393/",
       "id": "8393",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in remote, steep...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-17 11:17:57",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "7,388 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
