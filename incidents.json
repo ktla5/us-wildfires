@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 07:48:07",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,727 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 07:45:04",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,086 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "50"
+    },
+    {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 07:44:00",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "0"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -170,32 +209,6 @@
       "contained": "47"
     },
     {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 20:59:44",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 19:22:42",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,086 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "50"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Six Rivers Lightning ComplexSeptember 17, 2022 UPDATEThe Six Rivers...",
@@ -233,19 +246,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "83"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 18:01:18",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,727 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Mill Lake Fire",
