@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 09:23:12",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,092 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "51"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 18, 2022 (this section last updated 7:30 AM)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-18 09:23:03",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "74,748 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "34"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 09:22:21",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,792 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "44"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "At this time during the fire, personnel and heavy equipment are in...",
+      "state": "OREGON",
+      "updated": "2022-09-18 09:06:07",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-18 08:56:37",
+      "updated": "2022-09-18 08:59:10",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,727 Acres",
@@ -25,19 +77,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "74"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 9:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-18 08:33:42",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "73,381 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
     },
     {
       "name": "Cedar Creek Fire",
@@ -66,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 08:10:53",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,092 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "51"
-    },
-    {
       "name": "Owl Fire",
       "type": "Wildfire",
       "summary": " COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
@@ -90,19 +116,6 @@
       "url": "/incident/8416/",
       "id": "8416",
       "contained": "53"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-18 06:20:47",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,795 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
     },
     {
       "name": "Sturgill Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "At this time during the fire, personnel and heavy equipment are in...",
-      "state": "OREGON",
-      "updated": "2022-09-17 18:35:00",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
     },
     {
       "name": "Mill Lake Fire",
