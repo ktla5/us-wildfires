@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Southwest District BLM Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
+      "state": "COLORADO",
+      "updated": "2022-09-19 00:15:48",
+      "lat": "37.903",
+      "lng": "-108.826",
+      "size": "0 Acres",
+      "url": "/incident/7852/",
+      "id": "7852",
+      "contained": "0"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -1194,19 +1207,6 @@
       "size": "0 Acres",
       "url": "/incident/7688/",
       "id": "7688",
-      "contained": "0"
-    },
-    {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2022-09-02 17:54:42",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
       "contained": "0"
     },
     {
