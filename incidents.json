@@ -1,16 +1,68 @@
 {
   "markers": [
     {
-      "name": "Hog Trough Fire",
+      "name": "Summit Fire",
       "type": "Wildfire",
-      "summary": "September 3, 2022 is the last working day for the Western Montana All...",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-19 10:55:59",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "1,125 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "50"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-19 10:51:56",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,322 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 19, 2022 (this section last updated 7:00...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-19 10:51:55",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-19 10:40:25",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,795 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "44"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-19 10:29:57",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
+      "updated": "2022-09-19 10:40:08",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "908 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
       "contained": "0"
     },
     {
@@ -18,12 +70,25 @@
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-19 10:29:34",
+      "updated": "2022-09-19 10:31:22",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "3,338 Acres",
       "url": "/incident/8415/",
       "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "September 3, 2022 is the last working day for the Western Montana All...",
+      "state": "MONTANA",
+      "updated": "2022-09-19 10:30:22",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
       "contained": "0"
     },
     {
@@ -38,19 +103,6 @@
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 19, 2022 (this section last updated 7:00...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 10:26:59",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Nebo Fire",
@@ -118,19 +170,6 @@
       "contained": "27"
     },
     {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 10:22:45",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "908 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "At this time during the fire, personnel and heavy equipment are in...",
@@ -181,19 +220,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "74"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 09:42:41",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,795 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
     },
     {
       "name": "Tenmile ",
@@ -363,19 +389,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-19 08:03:14",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "112,287 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
@@ -779,19 +792,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "94"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-16 11:05:15",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "673 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "10"
     },
     {
       "name": "Indian Ridge",
