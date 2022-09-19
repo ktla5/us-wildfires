@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Rum Creek Fire",
+      "name": "Mill Lake Fire",
       "type": "Wildfire",
-      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-19 13:56:35",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "908 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-19 13:39:45",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
+      "updated": "2022-09-19 13:55:04",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,322 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
     },
     {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Monday, September 19, 2022 (this section last updated 9:00...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-19 13:39:01",
+      "updated": "2022-09-19 13:54:09",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,290 Acres",
@@ -27,17 +40,17 @@
       "contained": "39"
     },
     {
-      "name": "Mill Lake Fire",
+      "name": "Rum Creek Fire",
       "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 13:38:37",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "908 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
+      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
+      "state": "OREGON",
+      "updated": "2022-09-19 13:42:36",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
     },
     {
       "name": "Indian Ridge",
@@ -222,19 +235,6 @@
       "contained": "100"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-19 11:53:14",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,322 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " COMMUNITY MEETING: Join us for an in-person meeting TONIGHT at 6:00...",
@@ -376,19 +376,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "44"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "September 3, 2022 is the last working day for the Western Montana All...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 10:30:22",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Goat Mountain 2 Fire",
