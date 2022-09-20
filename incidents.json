@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 09:55:50",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,384 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:55:50",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,597 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-20 09:36:02",
+      "updated": "2022-09-20 09:54:19",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,290 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "39"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:54:12",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 09:44:21",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,095 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "90"
     },
     {
       "name": "Margaret Fire",
@@ -38,32 +90,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "48"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-20 09:27:43",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,095 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "90"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-20 09:10:56",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,597 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
     },
     {
       "name": "Sturgill Fire",
@@ -170,19 +196,6 @@
       "contained": "96"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 08:31:02",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
-    },
-    {
       "name": "Tenmile ",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
@@ -258,19 +271,6 @@
       "size": "536 Acres",
       "url": "/incident/8380/",
       "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-19 22:36:54",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,338 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
