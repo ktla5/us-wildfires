@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 15:29:31",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "100"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "The Washburn Fire is 100% contained. Some interior smokes may be...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 15:29:15",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,886 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "100"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-20 13:47:12",
+      "updated": "2022-09-20 15:28:46",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,290 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "39"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Rodgers Fire update, September 16, 2022, 7:30am &amp;#183;Further updated...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 15:27:16",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,790 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Red Fire Update September 16, 2022, 7:30am&amp;#183;Further updates will...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 15:24:48",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "8,364 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": " FINAL UPDATENW Pasayten Complex Fires Final UpdateSept. 20,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 15:07:27",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "17,998 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 15:05:42",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-20 14:53:08",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "16,084 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "75"
     },
     {
       "name": "Summit Fire",
@@ -25,19 +116,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "60"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 13:20:11",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Trail Ridge Fire",
@@ -456,19 +534,6 @@
       "contained": "100"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 15:59:26",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "16,084 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "75"
-    },
-    {
       "name": "Payette Prescribed Fire - Fall 2022",
       "type": "Prescribed Fire",
       "summary": "The Payette National Forest will be conducting multiple prescribed...",
@@ -532,45 +597,6 @@
       "url": "/incident/8421/",
       "id": "8421",
       "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Red Fire Update September 16, 2022, 7:30am&amp;#183;Further updates will...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 12:09:28",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "8,364 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Rodgers Fire update, September 16, 2022, 7:30am &amp;#183;Further updated...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 12:02:58",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,790 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "The Washburn Fire is 100% contained. Some interior smokes may be...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 11:55:04",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,886 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "100"
     },
     {
       "name": "Fairview",
@@ -727,19 +753,6 @@
       "url": "/incident/8422/",
       "id": "8422",
       "contained": "100"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "Fire activity on the NW Pasayten Complex fires has significantly...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-18 13:17:56",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "17,998 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
     },
     {
       "name": "Chilliwack Complex",
@@ -1000,19 +1013,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "87"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 12:44:23",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "100"
     },
     {
       "name": "White River (&amp; Irving Peak)",
