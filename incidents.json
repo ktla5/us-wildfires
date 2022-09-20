@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 00:28:06",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
+      "contained": "0"
+    },
+    {
+      "name": "Radford Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 00:20:06",
+      "lat": "34.194",
+      "lng": "-116.882",
+      "size": "0 Acres",
+      "url": "/incident/8425/",
+      "id": "8425",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Monday, September 19, 2022 (this section last updated 7:30 PM)Flash...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-19 23:48:43",
+      "updated": "2022-09-19 23:58:05",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,290 Acres",
