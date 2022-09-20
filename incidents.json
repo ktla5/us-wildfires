@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "   Today, September 20, 2022, Great Basin Team 4, along with the...",
+      "state": "IDAHO",
+      "updated": "2022-09-20 10:54:20",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,021 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 10:54:11",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "238 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 10:53:15",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "Today:  Northern Rockies Team 2 assumed command of the Bull Gin...",
+      "state": "MONTANA",
+      "updated": "2022-09-20 10:51:20",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "3,882 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 10:47:58",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 10:46:56",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,095 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "90"
+    },
+    {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " With continuing warmer weather, drying of light fuels, and...",
+      "state": "IDAHO",
+      "updated": "2022-09-20 10:38:05",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "53"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
       "state": "IDAHO",
-      "updated": "2022-09-20 10:31:29",
+      "updated": "2022-09-20 10:37:44",
       "lat": "48.783",
       "lng": "-116.467",
       "size": "20,908 Acres",
@@ -16,28 +107,15 @@
     {
       "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Join us for an in-person meeting TONIGHT at 6:00...",
+      "summary": " With continuing warmer weather, drying of light fuels, and...",
       "state": "IDAHO",
-      "updated": "2022-09-20 10:30:20",
+      "updated": "2022-09-20 10:37:15",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "130,093 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "51"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-20 10:30:09",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,021 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
     },
     {
       "name": "Trail Ridge Fire",
@@ -51,19 +129,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "48"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "Today:  Northern Rockies Team 2 assumed command of the Bull Gin...",
-      "state": "MONTANA",
-      "updated": "2022-09-20 10:28:03",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "3,882 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
     },
     {
       "name": "Nebo Fire",
@@ -118,19 +183,6 @@
       "contained": "38"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-20 10:10:42",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,095 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "90"
-    },
-    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -157,19 +209,6 @@
       "contained": "74"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 10:06:26",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
@@ -194,19 +233,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 09:54:12",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Margaret Fire",
@@ -298,19 +324,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, firefighters hiked into the Owl Fire to assess the fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-20 07:38:34",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "53"
     },
     {
       "name": "Fairview Post-Fire BAER",
@@ -415,19 +428,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-19 15:48:51",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "215 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Payette Prescribed Fire - Fall 2022",
