@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
+      "state": "OREGON",
+      "updated": "2022-09-20 15:52:27",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "83"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 15:47:19",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 15:31:52",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
       "name": "Aspen Fire",
       "type": "Wildfire",
       "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
@@ -25,19 +64,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "100"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 15:28:46",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Rodgers Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8397/",
       "id": "8397",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 15:05:42",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Williams Creek Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8425/",
       "id": "8425",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
-      "state": "OREGON",
-      "updated": "2022-09-20 12:37:17",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "83"
     },
     {
       "name": "Goat Rocks Fire",
