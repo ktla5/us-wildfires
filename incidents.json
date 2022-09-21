@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-21 10:56:15",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,296 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "47"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": " 9 AM, September 21, 2022  Estimated size: 10,193 acres Completed:...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-21 10:46:51",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,193 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "95"
+    },
+    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
       "state": "MONTANA",
-      "updated": "2022-09-21 10:30:28",
+      "updated": "2022-09-21 10:42:08",
       "lat": "45.78",
       "lng": "-113.867",
       "size": "17,157 Acres",
@@ -53,19 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-21 10:27:25",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,296 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "47"
-    },
-    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
@@ -90,19 +103,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "49"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-21 10:22:42",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,193 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "95"
     },
     {
       "name": "Bull Gin Complex",
