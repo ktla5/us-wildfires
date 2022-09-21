@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-21 12:26:11",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,489 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Wednesday, September 21, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-21 12:11:51",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "49"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": " 9 AM, September 21, 2022  Estimated size: 10,193 acres Completed:...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-21 11:54:24",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,193 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "95"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "Today:  Today, a combination of firefighting efforts and the weather...",
       "state": "MONTANA",
-      "updated": "2022-09-21 11:46:24",
+      "updated": "2022-09-21 11:49:54",
       "lat": "48.087",
       "lng": "-115.826",
       "size": "3,882 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "14"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " 9 AM, September 21, 2022  Estimated size: 10,193 acres Completed:...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-21 11:38:39",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,193 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "95"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "100"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-21 11:17:21",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,489 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Wednesday, September 21, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-21 10:23:52",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "49"
     },
     {
       "name": "Kootenai River Complex ",
