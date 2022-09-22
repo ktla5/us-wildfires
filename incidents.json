@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 16:25:42",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,519 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "96"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Yosemite September Lightning Since September 5, Yosemite Fire and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 16:21:03",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-22 16:16:59",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "14"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-22 16:06:14",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,192 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 16:00:30",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,539 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-22 15:56:15",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,600 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
@@ -14,19 +92,6 @@
       "contained": "60"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-22 14:27:34",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,192 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -37,19 +102,6 @@
       "size": "536 Acres",
       "url": "/incident/8380/",
       "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-22 14:27:11",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,600 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
@@ -118,19 +170,6 @@
       "contained": "55"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-22 13:19:59",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "14"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Crews continue to focus on suppressions repair work along dozer and...",
@@ -181,32 +220,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-22 11:41:04",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,539 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 11:18:19",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,519 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "96"
     },
     {
       "name": "Horse Fire ",
@@ -818,19 +831,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite September Lightning (updated Friday, September 16, 2022)...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 13:31:45",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
