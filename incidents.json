@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 13:34:52",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "8,252 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
-    },
-    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-22 13:34:21",
+      "updated": "2022-09-22 13:44:19",
       "lat": "46.312",
       "lng": "-114.411",
       "size": "915 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-22 13:32:20",
+      "updated": "2022-09-22 13:35:04",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "3,605 Acres",
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 13:34:52",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "8,252 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
     },
     {
       "name": "Diamond Watch Fire",
