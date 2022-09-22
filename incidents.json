@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 16:50:53",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,539 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 16:44:43",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,177 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "55"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "WASHINGTON",
-      "updated": "2022-09-22 16:25:42",
+      "updated": "2022-09-22 16:35:59",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "10,519 Acres",
@@ -51,19 +77,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-22 16:00:30",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,539 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
     },
     {
       "name": "Nebo Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
-      "state": "IDAHO",
-      "updated": "2022-09-22 13:25:30",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "1,177 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "55"
     },
     {
       "name": "Rum Creek Fire",
