@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-23 12:24:01",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,781 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
-    },
-    {
       "name": "Columbus Fire",
       "type": "Wildfire",
       "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
       "state": "IDAHO",
-      "updated": "2022-09-23 12:18:12",
+      "updated": "2022-09-23 12:53:44",
       "lat": "47.689",
       "lng": "-115.756",
       "size": "2,298 Acres",
       "url": "/incident/8368/",
       "id": "8368",
       "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-23 12:52:45",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "16,084 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "75"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
+      "state": "OREGON",
+      "updated": "2022-09-23 12:45:21",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "90"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-23 12:44:42",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,781 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
     },
     {
       "name": "Bull Gin Complex",
@@ -339,19 +365,6 @@
       "contained": "96"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Crews continue to focus on suppressions repair work along dozer and...",
-      "state": "OREGON",
-      "updated": "2022-09-22 22:10:26",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "90"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -558,19 +571,6 @@
       "url": "/incident/8397/",
       "id": "8397",
       "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-20 14:53:08",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "16,084 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "75"
     },
     {
       "name": "Barnes Fire",
