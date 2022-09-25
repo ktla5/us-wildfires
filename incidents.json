@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-25 09:38:31",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "21,574 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-25 09:33:28",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "Today: Firefighters have increased completion from 32% to 36%. Fire...",
       "state": "MONTANA",
-      "updated": "2022-09-25 09:25:23",
+      "updated": "2022-09-25 09:32:53",
       "lat": "48.087",
       "lng": "-115.826",
       "size": "4,259 Acres",
@@ -207,32 +233,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "64"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-24 20:21:01",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "21,574 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-24 19:28:34",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Goat Rocks Fire",
