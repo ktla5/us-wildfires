@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-25 18:29:08",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,104 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "20"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
@@ -38,19 +51,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-25 13:04:04",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,104 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "20"
     },
     {
       "name": "Mosquito Fire",
@@ -1676,19 +1676,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "70"
-    },
-    {
-      "name": "Raspberry Fire",
-      "type": "Wildfire",
-      "summary": "The Raspberry Fire that was reported on June 14, 2022, at 11:51 AM in...",
-      "state": "ARIZONA",
-      "updated": "2022-06-27 18:20:46",
-      "lat": "31.821",
-      "lng": "-109.295",
-      "size": "413 Acres",
-      "url": "/incident/8162/",
-      "id": "8162",
-      "contained": "100"
     }
   ]
 }
