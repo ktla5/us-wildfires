@@ -1,16 +1,42 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 10:57:15",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,675 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
       "name": "Radford Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-26 10:31:31",
+      "updated": "2022-09-26 10:42:41",
       "lat": "34.194",
       "lng": "-116.882",
       "size": "0 Acres",
       "url": "/incident/8425/",
       "id": "8425",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-26 10:39:18",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
       "contained": "0"
     },
     {
@@ -207,19 +233,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "64"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-25 17:49:21",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,675 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
@@ -441,19 +454,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "90"
-    },
-    {
-      "name": "Fairview Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-23 17:49:19",
-      "lat": "33.681",
-      "lng": "-116.841",
-      "size": "0 Acres",
-      "url": "/incident/8426/",
-      "id": "8426",
-      "contained": "0"
     },
     {
       "name": "Trail Ridge Fire",
