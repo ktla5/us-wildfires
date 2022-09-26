@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 12:35:44",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "326 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
+      "state": "IDAHO",
+      "updated": "2022-09-26 12:19:00",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,177 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "55"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "The fire has transitioned to a Type 4 local incident management...",
+      "state": "IDAHO",
+      "updated": "2022-09-26 12:18:22",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,028 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "55"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-26 12:10:54",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,781 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "85"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire Update...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 11:58:48",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "11,277 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "7"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
@@ -53,45 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " Bolt Creek Fire Update...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 11:35:35",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "11,277 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "7"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-26 11:35:29",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,781 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "85"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 11:35:22",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "326 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
-    },
-    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -116,19 +142,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "20"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-09-26 11:13:45",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,028 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "55"
     },
     {
       "name": "Bull Gin Complex",
@@ -571,19 +584,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "75"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
-      "state": "IDAHO",
-      "updated": "2022-09-22 16:44:43",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "1,177 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "55"
     },
     {
       "name": "Yosemite September Lightning",
