@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-26 12:56:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,422 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "20"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 12:56:27",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,675 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Lake",
+      "type": "Wildfire",
+      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-26 12:55:42",
+      "lat": "47.071",
+      "lng": "-113.82",
+      "size": "1,831 Acres",
+      "url": "/incident/8395/",
+      "id": "8395",
+      "contained": "0"
+    },
+    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
@@ -66,19 +105,6 @@
       "contained": "7"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 11:44:52",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,675 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -129,19 +155,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-26 11:31:20",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,422 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "20"
     },
     {
       "name": "Bull Gin Complex",
@@ -700,19 +713,6 @@
       "size": "0 Acres",
       "url": "/incident/7852/",
       "id": "7852",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Lake",
-      "type": "Wildfire",
-      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 17:25:16",
-      "lat": "47.071",
-      "lng": "-113.82",
-      "size": "1,831 Acres",
-      "url": "/incident/8395/",
-      "id": "8395",
       "contained": "0"
     },
     {
