@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "Today: Firefighters continue mopping up, suppression repair, and...",
+      "state": "MONTANA",
+      "updated": "2022-09-26 09:40:32",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "4,266 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "36"
+    },
+    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
@@ -12,19 +25,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "99"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "Today: Firefighters continue mopping up, suppression repair, and...",
-      "state": "MONTANA",
-      "updated": "2022-09-26 09:38:26",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "4,266 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "36"
     },
     {
       "name": "Cedar Creek Fire",
