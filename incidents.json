@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-27 12:42:43",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,732 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": " FINAL UPDATENW Pasayten Complex Fires Final UpdateSept. 20,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-27 11:58:37",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "17,998 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-27 11:51:04",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "16,084 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "75"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -14,19 +53,6 @@
       "contained": "20"
     },
     {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": " FINAL UPDATENW Pasayten Complex Fires Final UpdateSept. 20,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-27 11:49:15",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "17,998 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": " Bolt Creek Fire Update           ...",
@@ -38,19 +64,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "7"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-27 11:06:15",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,732 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Owl Fire",
@@ -623,19 +636,6 @@
       "url": "/incident/8368/",
       "id": "8368",
       "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-23 12:52:45",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "16,084 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "75"
     },
     {
       "name": "Twist Creek ",
