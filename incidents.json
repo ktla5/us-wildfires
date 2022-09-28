@@ -1,29 +1,29 @@
 {
   "markers": [
     {
-      "name": "Fairview Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-28 14:37:51",
-      "lat": "33.681",
-      "lng": "-116.841",
-      "size": "0 Acres",
-      "url": "/incident/8426/",
-      "id": "8426",
-      "contained": "0"
-    },
-    {
       "name": "Radford Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-28 14:34:39",
+      "updated": "2022-09-28 14:51:13",
       "lat": "34.194",
       "lng": "-116.882",
       "size": "0 Acres",
       "url": "/incident/8425/",
       "id": "8425",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-28 14:46:22",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
       "contained": "0"
     },
     {
