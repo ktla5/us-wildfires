@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-28 14:37:51",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
+      "contained": "0"
+    },
+    {
+      "name": "Radford Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-28 14:34:39",
+      "lat": "34.194",
+      "lng": "-116.882",
+      "size": "0 Acres",
+      "url": "/incident/8425/",
+      "id": "8425",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-28 14:09:27",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "432 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -103,19 +142,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "89"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-28 11:13:29",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "355 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Owl Fire",
@@ -415,32 +441,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "55"
-    },
-    {
-      "name": "Radford Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-26 10:42:41",
-      "lat": "34.194",
-      "lng": "-116.882",
-      "size": "0 Acres",
-      "url": "/incident/8425/",
-      "id": "8425",
-      "contained": "0"
-    },
-    {
-      "name": "Fairview Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-26 10:39:18",
-      "lat": "33.681",
-      "lng": "-116.841",
-      "size": "0 Acres",
-      "url": "/incident/8426/",
-      "id": "8426",
-      "contained": "0"
     },
     {
       "name": "Rodgers Fire",
