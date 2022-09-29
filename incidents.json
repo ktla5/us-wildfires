@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Williams Creek Fire",
+      "name": "Tenmile ",
       "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "summary": "The fire has transitioned to a Type 4 local incident management...",
       "state": "IDAHO",
-      "updated": "2022-09-29 13:08:16",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "16,084 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "75"
+      "updated": "2022-09-29 13:50:23",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,157 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "55"
     },
     {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-29 13:06:26",
+      "updated": "2022-09-29 13:20:43",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "4,029 Acres",
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-29 13:13:23",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "115,428 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "25"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-29 13:09:45",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "16,084 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "75"
     },
     {
       "name": "Mosquito Post-Fire BAER",
@@ -38,32 +64,6 @@
       "url": "/incident/8430/",
       "id": "8430",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-29 12:31:37",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "115,428 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "25"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-09-29 12:21:39",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,157 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "55"
     },
     {
       "name": "Four Corners Fire",
