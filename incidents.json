@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-29 12:31:37",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "115,428 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "25"
+    },
+    {
+      "name": "Mosquito Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-29 12:25:26",
+      "lat": "39.006",
+      "lng": "-120.678",
+      "size": "0 Acres",
+      "url": "/incident/8430/",
+      "id": "8430",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "The fire has transitioned to a Type 4 local incident management...",
+      "state": "IDAHO",
+      "updated": "2022-09-29 12:21:39",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,157 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "55"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "On Tuesday, September 27, 2022, Nevada Team 2 transitioned command of...",
+      "state": "IDAHO",
+      "updated": "2022-09-29 12:11:21",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -27,19 +79,6 @@
       "contained": "13"
     },
     {
-      "name": "Mosquito Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-29 11:46:15",
-      "lat": "39.006",
-      "lng": "-120.678",
-      "size": "0 Acres",
-      "url": "/incident/8430/",
-      "id": "8430",
-      "contained": "0"
-    },
-    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " A Burned Area Emergency Response (BAER) team started work this week...",
@@ -64,19 +103,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-29 11:08:14",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "115,428 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "25"
     },
     {
       "name": "Mosquito Fire",
@@ -402,32 +428,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "36"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "On Tuesday, September 27, 2022, Nevada Team 2 transitioned command of...",
-      "state": "IDAHO",
-      "updated": "2022-09-28 10:18:19",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-09-28 10:08:16",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,028 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "55"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
