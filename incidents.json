@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-29 10:58:26",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "115,428 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "25"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 2 assumed command of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-29 10:32:39",
+      "updated": "2022-09-29 10:34:55",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,775 Acres",
@@ -38,19 +51,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "89"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-29 10:25:21",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "115,428 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "25"
     },
     {
       "name": "Six Rivers Lightning Complex",
