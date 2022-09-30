@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-30 13:58:16",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,103 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
@@ -272,19 +285,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-30 10:28:03",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,103 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
     },
     {
       "name": "Lazy Fire",
