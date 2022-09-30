@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-30 11:50:22",
+      "updated": "2022-09-30 12:27:14",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "4,029 Acres",
@@ -14,11 +14,37 @@
       "contained": "0"
     },
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-30 12:18:36",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,546 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "27"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "Daily written updates for the Four Corners Fire are no longer being...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 12:11:50",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
       "state": "WASHINGTON",
-      "updated": "2022-09-30 11:50:08",
+      "updated": "2022-09-30 12:09:35",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "0 Acres",
@@ -31,13 +57,26 @@
       "type": "Wildfire",
       "summary": "The fire has transitioned to a Type 4 local incident management...",
       "state": "IDAHO",
-      "updated": "2022-09-30 11:50:04",
+      "updated": "2022-09-30 12:07:27",
       "lat": "45.319",
       "lng": "-115.872",
       "size": "2,157 Acres",
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "55"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire Update September 30, 2022 Incident Commander: Kent...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 12:01:21",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,070 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "28"
     },
     {
       "name": "Radford",
@@ -64,19 +103,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " Bolt Creek Fire Update September 29, 2022   Incident Commander:...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 11:23:45",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,070 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "28"
     },
     {
       "name": "Bull Gin Complex",
@@ -142,19 +168,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-30 11:05:30",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,546 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "27"
     },
     {
       "name": "Woodtick Fire",
@@ -376,19 +389,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "On Tuesday, September 27, 2022, Nevada Team 2 transitioned command of...",
-      "state": "IDAHO",
-      "updated": "2022-09-29 12:11:21",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Ross Fork",
