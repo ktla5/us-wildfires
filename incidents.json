@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
+      "state": "IDAHO",
+      "updated": "2022-10-01 09:24:54",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-01 08:57:23",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-01 08:53:14",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,569 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -12,19 +51,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "89"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
-      "state": "IDAHO",
-      "updated": "2022-10-01 08:44:54",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
     },
     {
       "name": "Kootenai River Complex ",
@@ -118,19 +144,6 @@
       "contained": "5"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-30 20:57:46",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
-    },
-    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
@@ -220,19 +233,6 @@
       "url": "/incident/8430/",
       "id": "8430",
       "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-30 13:58:16",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,103 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
     },
     {
       "name": "Nebo Fire",
