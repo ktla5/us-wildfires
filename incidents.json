@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
+      "state": "IDAHO",
+      "updated": "2022-10-02 18:27:13",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
       "state": "IDAHO",
-      "updated": "2022-10-02 17:41:06",
+      "updated": "2022-10-02 17:57:55",
       "lat": "48.783",
       "lng": "-116.467",
       "size": "22,559 Acres",
@@ -194,19 +207,6 @@
       "url": "/incident/8429/",
       "id": "8429",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
-      "state": "IDAHO",
-      "updated": "2022-10-02 09:12:55",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
     },
     {
       "name": "Bull Gin Complex",
