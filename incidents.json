@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
+      "state": "IDAHO",
+      "updated": "2022-10-03 08:58:24",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-03 08:30:13",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -118,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
-      "state": "IDAHO",
-      "updated": "2022-10-02 20:21:49",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -168,19 +181,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-02 10:51:07",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
     },
     {
       "name": "Lazy Fire",
