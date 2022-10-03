@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-02 22:43:02",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,694 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "27"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-02 21:29:47",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,486 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-10-02 21:17:16",
+      "updated": "2022-10-02 21:23:12",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "21,625 Acres",
@@ -92,19 +118,6 @@
       "contained": "75"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-02 19:28:31",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,694 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "27"
-    },
-    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -142,19 +155,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "98"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-02 13:39:26",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,142 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "28"
     },
     {
       "name": "Kalama Fire",
