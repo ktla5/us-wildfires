@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-06 12:58:53",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,608 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "94"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-06 12:56:41",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,678 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "80"
+    },
+    {
+      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-06 12:48:57",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "0 Acres",
+      "url": "/incident/8429/",
+      "id": "8429",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-10-06 12:48:00",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-06 12:41:13",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,426 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -51,19 +116,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-06 11:16:49",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,426 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Mosquito Fire",
@@ -183,19 +235,6 @@
       "contained": "100"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-10-06 08:45:01",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,678 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "80"
-    },
-    {
       "name": "Bovee",
       "type": "Wildfire",
       "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
@@ -298,19 +337,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-05 10:03:02",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,608 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "94"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -532,32 +558,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "44"
-    },
-    {
-      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-02 09:23:30",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "0 Acres",
-      "url": "/incident/8429/",
-      "id": "8429",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-30 18:01:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Blackburn Fire",
