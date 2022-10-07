@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Horse Fire ",
+      "type": "Wildfire",
+      "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
+      "state": "IDAHO",
+      "updated": "2022-10-07 07:59:44",
+      "lat": "45.425",
+      "lng": "-114.76",
+      "size": "397 Acres",
+      "url": "/incident/8423/",
+      "id": "8423",
+      "contained": "0"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -402,19 +415,6 @@
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "21"
-    },
-    {
-      "name": "Horse Fire ",
-      "type": "Wildfire",
-      "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
-      "state": "IDAHO",
-      "updated": "2022-10-06 09:03:43",
-      "lat": "45.425",
-      "lng": "-114.76",
-      "size": "397 Acres",
-      "url": "/incident/8423/",
-      "id": "8423",
-      "contained": "0"
     },
     {
       "name": "Owl Fire",
