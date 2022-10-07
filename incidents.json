@@ -1,19 +1,6 @@
 {
   "markers": [
     {
-      "name": "Blue Ridge Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2022-10-07 13:39:13",
-      "lat": "40.034",
-      "lng": "-106.053",
-      "size": "0 Acres",
-      "url": "/incident/8439/",
-      "id": "8439",
-      "contained": "0"
-    },
-    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
