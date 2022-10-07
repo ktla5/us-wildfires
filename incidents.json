@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
+      "state": "OREGON",
+      "updated": "2022-10-06 18:54:31",
+      "lat": "43.724",
+      "lng": "-122.295",
+      "size": "0 Acres",
+      "url": "/incident/8434/",
+      "id": "8434",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-06 18:36:00",
+      "updated": "2022-10-06 18:38:38",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "120,983 Acres",
@@ -415,19 +428,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
-      "state": "OREGON",
-      "updated": "2022-10-05 20:19:36",
-      "lat": "43.724",
-      "lng": "-122.295",
-      "size": "0 Acres",
-      "url": "/incident/8434/",
-      "id": "8434",
-      "contained": "0"
     },
     {
       "name": "Lazy Fire",
