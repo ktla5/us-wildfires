@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Bovee",
+      "type": "Wildfire",
+      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
+      "state": "NEBRASKA",
+      "updated": "2022-10-07 11:49:46",
+      "lat": "41.869",
+      "lng": "-100.31",
+      "size": "18,930 Acres",
+      "url": "/incident/8437/",
+      "id": "8437",
+      "contained": "97"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-07 11:46:17",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": "Friday, September 30, 2022, the Radford fire was declared 100%...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-07 11:29:45",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "100"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-07 11:12:16",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,927 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -79,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Bovee",
-      "type": "Wildfire",
-      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
-      "state": "NEBRASKA",
-      "updated": "2022-10-07 09:02:18",
-      "lat": "41.869",
-      "lng": "-100.31",
-      "size": "18,930 Acres",
-      "url": "/incident/8437/",
-      "id": "8437",
-      "contained": "97"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
@@ -103,19 +142,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-07 08:28:03",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,927 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
     },
     {
       "name": "Horse Fire ",
@@ -207,19 +233,6 @@
       "url": "/incident/8434/",
       "id": "8434",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-06 19:49:20",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Kalama Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/8438/",
       "id": "8438",
       "contained": "0"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": "CURRENT CONDITIONS:  Smoke may be visible in/around the Big Bear...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-06 14:26:30",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "98"
     },
     {
       "name": "Columbus Fire",
