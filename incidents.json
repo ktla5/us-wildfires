@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-07 22:58:50",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "121,249 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 2 assumed command of...",
@@ -12,19 +25,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "95"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-07 22:40:58",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "121,249 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "Windigo Fire",
