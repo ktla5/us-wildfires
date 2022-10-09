@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-09 09:25:44",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,123 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-09 08:57:26",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,801 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -12,19 +38,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "38"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-08 20:35:00",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,123 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Mosquito Fire",
@@ -115,19 +128,6 @@
       "size": "338 Acres",
       "url": "/incident/8436/",
       "id": "8436",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-08 11:14:27",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,654 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
