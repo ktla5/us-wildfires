@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-11 11:44:27",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "23,131 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-10-11 11:41:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-11 11:28:15",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,210 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 11:13:43",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "461 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
       "name": "Horse Fire ",
       "type": "Wildfire",
       "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
@@ -131,19 +183,6 @@
       "contained": "95"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-10 22:04:11",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,210 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
-    },
-    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": " On August 9, the Goat Rocks Fire was started by a lightning strike...",
@@ -155,19 +194,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "1"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-10 20:15:52",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "23,131 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
     },
     {
       "name": "Bolt Creek Fire",
@@ -220,19 +246,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "65"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-09 12:15:12",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "454 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "White River (&amp; Irving Peak)",
@@ -532,19 +545,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "80"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-10-06 12:48:00",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Calf Canyon",
