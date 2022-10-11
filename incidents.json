@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire is located southeast of Kalama Horse Camp...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 13:36:15",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "461 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-10-11 13:25:24",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -12,19 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 12:48:35",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "461 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Bolt Creek Fire",
@@ -545,19 +558,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "80"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-10-06 12:23:49",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Double Creek Fire",
