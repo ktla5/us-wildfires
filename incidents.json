@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-10-11 12:55:59",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 12:48:35",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "461 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The weather system yesterday pushed down over the fire area,...",
@@ -40,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-10-11 11:41:16",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -64,19 +77,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "38"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 11:13:43",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "461 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Horse Fire ",
