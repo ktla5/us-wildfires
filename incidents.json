@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 18:28:50",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "0 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "0"
+    },
+    {
       "name": "October Lightning Fires",
       "type": "Wildfire",
       "summary": " Sequoia and Kings Canyon National Park have discovered three...",
       "state": "CALIFORNIA",
-      "updated": "2022-10-11 17:51:15",
+      "updated": "2022-10-11 18:25:47",
       "lat": "36.675",
       "lng": "-118.785",
       "size": "0 Acres",
       "url": "/incident/8442/",
       "id": "8442",
       "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 18:18:41",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,040 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 18:03:41",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "14,101 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
     },
     {
       "name": "Suiattle River Fire",
@@ -155,19 +194,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 12:32:11",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,040 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "1"
     },
     {
       "name": "Kootenai River Complex ",
@@ -363,19 +389,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "65"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-08 13:33:39",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "13,208 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Cedar Creek BAER",
