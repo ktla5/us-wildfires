@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-11 22:00:38",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-11 21:54:58",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,463 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 20:53:40",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,040 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-11 20:37:15",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,130 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 19:16:09",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "250 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "10"
+    },
+    {
       "name": "October Lightning Fires",
       "type": "Wildfire",
       "summary": " Sequoia and Kings Canyon National Park have discovered three...",
@@ -12,19 +77,6 @@
       "url": "/incident/8442/",
       "id": "8442",
       "contained": "0"
-    },
-    {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 18:56:11",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "250 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
-      "contained": "10"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
@@ -51,19 +103,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 18:18:41",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,040 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "1"
     },
     {
       "name": "White River (&amp; Irving Peak)",
@@ -235,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-11 11:28:15",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,210 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
-    },
-    {
       "name": "Horse Fire ",
       "type": "Wildfire",
       "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
@@ -350,32 +376,6 @@
       "url": "/incident/8439/",
       "id": "8439",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-11 08:47:25",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,130 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-10 22:31:14",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Mosquito Post-Fire BAER",
