@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-12 09:52:21",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "23,666 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-12 09:45:57",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "Beaverhead-Deerlodge &amp; Bitterroot National Forests INCIDENT...",
+      "state": "MONTANA",
+      "updated": "2022-10-12 09:32:32",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "17,539 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "65"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -12,19 +51,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "38"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-11 22:00:38",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Goat Rocks Fire",
@@ -261,19 +287,6 @@
       "contained": "36"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-11 11:44:27",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "23,131 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Horse Fire ",
       "type": "Wildfire",
       "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
@@ -402,19 +415,6 @@
       "url": "/incident/8370/",
       "id": "8370",
       "contained": "0"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT STATUS The Trail Ridge Fire is burning on the Wisdom...",
-      "state": "MONTANA",
-      "updated": "2022-10-09 16:13:32",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "17,539 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "65"
     },
     {
       "name": "Cedar Creek BAER",
