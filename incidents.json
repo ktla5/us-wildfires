@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-13 09:03:27",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,130 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Today: Firefighters continue prioritizing structure protection....",
@@ -51,19 +64,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "65"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-12 19:38:33",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,130 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Nakia Creek Fire",
