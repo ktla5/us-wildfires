@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
+      "state": "IDAHO",
+      "updated": "2022-10-13 14:08:17",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,284 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "67"
+    },
+    {
       "name": "October Lightning Fires",
       "type": "Wildfire",
       "summary": " Sequoia and Kings Canyon National Park have discovered three...",
       "state": "CALIFORNIA",
-      "updated": "2022-10-13 13:37:19",
+      "updated": "2022-10-13 13:46:28",
       "lat": "36.675",
       "lng": "-118.785",
       "size": "1 Acres",
@@ -142,19 +155,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "50"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
-      "state": "IDAHO",
-      "updated": "2022-10-12 20:01:16",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "1,284 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "65"
     },
     {
       "name": "Bolt Creek Fire",
@@ -441,19 +441,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Fall 2022 Prescribed Burning",
-      "type": "Prescribed Fire",
-      "summary": "  Prescribed Burning Planned at Rocky Mountain Arsenal National...",
-      "state": "COLORADO",
-      "updated": "2022-10-11 09:47:10",
-      "lat": "39.84",
-      "lng": "-104.836",
-      "size": "0 Acres",
-      "url": "/incident/8438/",
-      "id": "8438",
-      "contained": "0"
     },
     {
       "name": "Blue Ridge Prescribed Burn",
