@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-13 22:06:01",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Fire activity remains light. The fire is backing and flanking...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-13 21:36:28",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,098 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
@@ -12,19 +38,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Firefighters continue prioritizing structure protection....",
-      "state": "WASHINGTON",
-      "updated": "2022-10-13 18:07:47",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,098 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -155,19 +168,6 @@
       "url": "/incident/7852/",
       "id": "7852",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-13 10:26:36",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Woodtick Fire",
