@@ -1,17 +1,30 @@
 {
   "markers": [
     {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "The Murphy Lake Fire began from a lightning strike on August 18 and...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-15 14:27:09",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "88 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
-      "summary": "US 2 is now open to traffic: Crews have finished up hazardous tree...",
+      "summary": "Evacuation Guidance:  The Red Flag Warning has prompted a Level 1...",
       "state": "WASHINGTON",
-      "updated": "2022-10-15 13:58:27",
+      "updated": "2022-10-15 14:18:28",
       "lat": "47.728",
       "lng": "-121.346",
-      "size": "13,278 Acres",
+      "size": "13,958 Acres",
       "url": "/incident/8417/",
       "id": "8417",
-      "contained": "36"
+      "contained": "41"
     },
     {
       "name": "Goat Rocks Fire",
@@ -115,19 +128,6 @@
       "size": "23,970 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "The Murphy Lake Fire began from a lightning strike on August 18 and...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-14 22:54:52",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "88 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
       "contained": "0"
     },
     {
