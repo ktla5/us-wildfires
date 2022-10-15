@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "The Murphy Lake Fire began from a lightning strike on August 18 and...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-14 22:54:52",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "88 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "US 2 is now open to traffic: Crews have finished up hazardous tree...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-14 22:49:56",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "13,278 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-14 21:45:51",
+      "updated": "2022-10-14 22:25:08",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "123,498 Acres",
@@ -53,19 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "The Murphy Lake Fire began from a lightning strike on August 18 and...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-14 20:29:47",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "88 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -90,19 +103,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "10"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "US 2: All lanes of US 2 have closed as of 9 p.m. last night between...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-14 14:59:38",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "13,278 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
     },
     {
       "name": "Trail Ridge Fire",
