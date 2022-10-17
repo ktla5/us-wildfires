@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters successfully continued progress on containing the Bolt...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-17 14:54:49",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,208 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "41"
+    },
+    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire is located southeast of Kalama Horse Camp...",
@@ -155,19 +168,6 @@
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters successfully continued progress on containing the Bolt...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-17 08:31:17",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "14,208 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "41"
     },
     {
       "name": "Woodtick Fire",
