@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-17 23:43:14",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "1,565 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "5"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-17 23:43:10",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,225 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "0"
+    },
+    {
+      "name": "Suiattle River Fire",
+      "type": "Wildfire",
+      "summary": "Updates for the Suiattle Fire will be located on the Loch Katrine...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-17 23:37:05",
+      "lat": "48.311",
+      "lng": "-121.392",
+      "size": "2,288 Acres",
+      "url": "/incident/8396/",
+      "id": "8396",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-17 23:07:55",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,765 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
+    },
+    {
       "name": "8 Road Fire",
       "type": "Wildfire",
       "summary": " The 8 Road Fire was reported on October 15, 2022 at about 4 p.m....",
@@ -12,19 +64,6 @@
       "url": "/incident/8448/",
       "id": "8448",
       "contained": "0"
-    },
-    {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-17 21:27:12",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "1,565 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
-      "contained": "5"
     },
     {
       "name": "Mosquito Fire",
@@ -51,19 +90,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "50"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-17 19:16:42",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "0 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "0"
     },
     {
       "name": "Woodtick Fire",
@@ -233,19 +259,6 @@
       "url": "/incident/8445/",
       "id": "8445",
       "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-17 12:49:55",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,765 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
     },
     {
       "name": "Trail Ridge Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Suiattle River Fire",
-      "type": "Wildfire",
-      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 17:19:34",
-      "lat": "48.311",
-      "lng": "-121.392",
-      "size": "80 Acres",
-      "url": "/incident/8396/",
-      "id": "8396",
-      "contained": "0"
     },
     {
       "name": "Double Creek Fire",
