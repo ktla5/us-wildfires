@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 14:37:41",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "14,412 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
       "name": "8 Road Fire",
       "type": "Wildfire",
       "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
@@ -389,19 +402,6 @@
       "url": "/incident/8446/",
       "id": "8446",
       "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-14 19:16:23",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "14,412 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Diamond Watch Fire",
