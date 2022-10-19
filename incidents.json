@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 371 (IR) Cause:  LightningTotal Personnel:  0...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 21:50:41",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "371 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-18 21:24:37",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "125,856 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
       "state": "WASHINGTON",
-      "updated": "2022-10-18 18:16:06",
+      "updated": "2022-10-18 19:49:10",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "5,892 Acres",
@@ -64,19 +90,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-18 13:58:20",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "125,638 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Loch Katrine Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "78"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 371 (IR) Cause:  LightningTotal Personnel:  0...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 11:29:03",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "371 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Bolt Creek Fire",
