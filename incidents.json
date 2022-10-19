@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 00:12:04",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,225 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "0"
+    },
+    {
       "name": "8 Road Fire",
       "type": "Wildfire",
       "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
@@ -103,19 +116,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 13:30:09",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,225 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
