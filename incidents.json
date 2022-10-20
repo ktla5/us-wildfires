@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 12:27:54",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,225 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-20 12:12:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,222 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
@@ -12,19 +38,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "43"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-20 11:51:23",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,222 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Nakia Creek Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "37"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 13:08:32",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,225 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "0"
     },
     {
       "name": "Four Corners Fire",
