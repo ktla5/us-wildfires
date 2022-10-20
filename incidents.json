@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-20 09:58:38",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,222 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "                INCIDENT COMMANDER: Cache Gibbons October 20,...",
@@ -128,19 +141,6 @@
       "size": "158 Acres",
       "url": "/incident/8448/",
       "id": "8448",
-      "contained": "50"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-19 22:15:51",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,222 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "50"
     },
     {
