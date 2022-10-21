@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 444 Based on Overnight IR flightCause: ...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-21 08:00:38",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "444 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "The Loch Katrine Fire is estimated at 1,918 acres, burning...",
@@ -129,19 +142,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "43"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 444 Based on Overnight IR flightCause: ...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 11:35:09",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "444 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
