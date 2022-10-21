@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 18:58:32",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,918 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "2"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
@@ -77,19 +90,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "4"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 13:44:35",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,918 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "2"
     },
     {
       "name": "Bolt Creek Fire",
