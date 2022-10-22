@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Siouxon and Sunset Fires",
+      "type": "Wildfire",
+      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-22 00:23:23",
+      "lat": "45.944",
+      "lng": "-122.089",
+      "size": "2,359 Acres",
+      "url": "/incident/8436/",
+      "id": "8436",
+      "contained": "0"
+    },
+    {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-21 23:57:21",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "1,918 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "43"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-21 21:44:44",
+      "updated": "2022-10-21 23:37:42",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "127,283 Acres",
@@ -222,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-21 10:02:59",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "1,918 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
-      "contained": "30"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
@@ -259,19 +272,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "50"
-    },
-    {
-      "name": "Siouxon Fire",
-      "type": "Wildfire",
-      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 15:53:50",
-      "lat": "45.944",
-      "lng": "-122.089",
-      "size": "2,359 Acres",
-      "url": "/incident/8436/",
-      "id": "8436",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
