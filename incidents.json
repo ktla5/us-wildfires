@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-23 12:28:01",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Sunday morning, Rocky Mountain Incident Management Team Three assumed...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-23 11:48:20",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "6,196 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "9"
+    },
+    {
+      "name": "8 Road Fire",
+      "type": "Wildfire",
+      "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-23 11:46:49",
+      "lat": "46.806",
+      "lng": "-122.145",
+      "size": "158 Acres",
+      "url": "/incident/8448/",
+      "id": "8448",
+      "contained": "50"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
@@ -25,32 +64,6 @@
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-23 11:34:36",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Weather: Wind gusts up to 30 mph hit the Goat Rocks Fire area as a...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-23 11:32:06",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "6,196 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "9"
     },
     {
       "name": "Mosquito Fire",
@@ -272,19 +285,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "8 Road Fire",
-      "type": "Wildfire",
-      "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-21 13:09:13",
-      "lat": "46.806",
-      "lng": "-122.145",
-      "size": "158 Acres",
-      "url": "/incident/8448/",
-      "id": "8448",
-      "contained": "50"
     },
     {
       "name": "Kootenai River Complex ",
