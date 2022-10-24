@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-10-24 11:01:20",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,834 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "50"
+    },
+    {
       "name": "Siouxon and Sunset Fires",
       "type": "Wildfire",
       "summary": "Siouxon and Sunset Fires Update - Sunday October 23, 2022 – 10:00...",
@@ -116,19 +129,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "43"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-10-22 10:17:09",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,834 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "50"
     },
     {
       "name": "Norton Fire",
@@ -1572,19 +1572,6 @@
       "url": "/incident/8244/",
       "id": "8244",
       "contained": "80"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 19, 2022, is the last day this Inciweb page will be...",
-      "state": "ALASKA",
-      "updated": "2022-07-26 10:52:47",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "60,861 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
     }
   ]
 }
